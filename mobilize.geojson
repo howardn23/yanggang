@@ -1,34 +1,27 @@
-{"type": "FeatureCollection", 
+{
+ "type": "FeatureCollection", 
  "features": [
-    {"type": "Feature", 
-    "properties": {
-        "Title": "Denton Yang Gang Hang", 
-        "Type": "MEETING", 
-        "Time": "Mon, Nov 25, 7:00PM-8:30PM CST", 
-        "Venue": "", 
-        "Address": "106 N Locust St\nDenton, TX 76201", 
-        "Sign Up": "https://www.mobilize.us/yang2020/event/138765/"
-        }, 
+   {
+    "type": "Feature", 
     "geometry": {
-        "type": "Point", 
-        "coordinates": [33.2148764, -97.132281]
-        }
-    },
-   {"type": "Feature", 
-    "properties": {
-          "Title": "Corvallis Tabling at Saturday Farmers Market", 
-          "Type": "COMMUNITY", 
-          "Time": "Sat, Nov 23, 5:30AM-1:00PM PST", 
-          "Venue": "", 
-          "Address": "Northwest 1st Street & Northwest Monroe Avenue\nCorvallis, OR 97333", 
-          "Sign Up": "https://www.mobilize.us/yang2020/event/140288/"
-           }, 
-     "geometry": {
-          "type": "Point", 
-          "coordinates": [44.5638165, -123.2587597]
-          }
-     } 
- ]
+      "type": "Point", 
+      "coordinates": [
+         33.2148764, 
+         -97.132281
+      ]
+    }
+  },
+  {
+   "type": "Feature", 
+   "geometry": {
+     "type": "Point", 
+     "coordinates": [
+        44.5638165, 
+        -123.2587597
+     ]
+   }
+ }
+]
 }
    
    
