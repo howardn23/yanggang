@@ -1,6 +1,6 @@
 # yanggang
 
-Shorter URL: <a href="bit.ly/yanggangmap">bit.ly/yanggangmap</a>
+Shorter URL: <a href="https://github.com/howardn23/yanggang/blob/master/yanggang.geojson">bit.ly/yanggangmap</a>
 
 
 
