@@ -1,8 +1,7 @@
 # yanggang
 
-Shorter URL: 
+Shorter URL: <a href="bit.ly/yanggangmap">bit.ly/yanggangmap</a>
 
-[bit.ly/yanggangmap]{bit.ly/yanggangmap}
 
 
 To embed the map to your webpage:
