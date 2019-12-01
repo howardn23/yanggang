@@ -6604,15 +6604,37 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Reno Sunday Canvass",
+                "Type": "CANVASS",
+                "Time": "Sun, Dec 8, 11:00AM-5:00PM PST",
+                "Venue": "Reno Yang HQ",
+                "Address": "1885 S Arlington Ave #201<br>Reno, NV 89509",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166420/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.817958,
+                    39.5062125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Priority": "HIGH",
                 "Title": "Reno Saturday Canvass",
                 "Type": "CANVASS",
                 "Time": "Sat, Dec 7, 11:00AM-5:00PM PST",
                 "Venue": "Reno Yang HQ",
                 "Address": "1885 S Arlington Ave #201<br>Reno, NV 89509",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166419/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
+                "marker-color": "#DA3248",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
             },
             "geometry": {
                 "type": "Point",
@@ -7231,27 +7253,6 @@
                 "coordinates": [
                     -89.3857057,
                     43.0739558
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Cerritos, CA - Pledge for Humanity - Yangsgiving Clean Up!",
-                "Type": "COMMUNITY",
-                "Time": "Sun, Dec 1, 10:00AM-1:00PM PST",
-                "Venue": "Gahr High School",
-                "Address": "11111 Artesia Blvd<br>Cerritos, CA 90703",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166246/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.0942995,
-                    33.8735578
                 ]
             }
         },
@@ -8161,27 +8162,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "San Diego, CA - Crowd Yanging Event at Leucadia Farmers Market",
-                "Type": "COMMUNITY",
-                "Time": "Sun, Dec 1, 10:00AM-2:00PM PST",
-                "Venue": "Encinitas Farmers Market",
-                "Address": "185 Union St<br>Encinitas, CA 92024",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/165498/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.2971635,
-                    33.057701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Washington, D.C. -#HumanityFirst Event  \"Taste For Toys\"",
                 "Type": "COMMUNITY",
                 "Time": "Thu, Dec 5, 6:00PM-9:00PM EST",
@@ -8408,27 +8388,6 @@
                 "coordinates": [
                     -71.1193264,
                     42.3745722
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Aiken, SC - Yang 2020 Canvass/Phone Banking",
-                "Type": "CANVASS",
-                "Time": "Sun, Dec 1, 1:00PM-4:00PM EST",
-                "Venue": "Aiken Democratic Party HQ",
-                "Address": "410 Richland Ave W<br>Aiken, SC 29801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/165315/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.7241475,
-                    33.5626311
                 ]
             }
         },
@@ -9066,27 +9025,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Carmel IN - Signature Gathering",
-                "Type": "SIGNATURE_GATHERING",
-                "Time": "Sun, Dec 1, 1:00PM-3:00PM EST",
-                "Venue": "Java House Coffee Bar",
-                "Address": "14390 Clay Terrace Blvd Ste 160<br>Carmel, IN 46032",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/163897/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.1303879,
-                    39.9965372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "MODESTO/STOCKTON YANG GANG - TEXTBANKING PARTY",
                 "Type": "TEXT_BANK",
                 "Time": "Sun, Dec 1, 11:00AM-4:00PM PST",
@@ -9102,27 +9040,6 @@
                 "coordinates": [
                     -120.9572685,
                     37.6705674
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "\u2744 South Bend\ud83d\udc8e IN \u2615 \u2601 Howard Park \u26f8\u2728 YANG HANG \ud83d\udcdc\ud83d\udd8a\u23f0",
-                "Type": "SIGNATURE_GATHERING",
-                "Time": "Sun, Dec 1, 1:00PM-3:00PM EST",
-                "Venue": "Howard Park Ice Rink",
-                "Address": "219 S St Louis Blvd<br>South Bend, IN 46617",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/163875/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.2415676,
-                    41.6748473
                 ]
             }
         },
@@ -9780,27 +9697,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Baltimore Overpass sign holding PARTY!",
-                "Type": "COMMUNITY",
-                "Time": "Sun, Dec 1, 2:00PM-4:00PM EST",
-                "Venue": "Druid Hill Park Swimming Pool",
-                "Address": "800 Wyman Park Dr<br>Baltimore, MD 21211",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/160972/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.6337302,
-                    39.3211597
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Kelso, WA - Yang Gang Hang and Formation",
                 "Type": "MEETING",
                 "Time": "Sat, Dec 7, 5:00PM-6:00PM PST",
@@ -9950,7 +9846,7 @@
             "properties": {
                 "Title": "West Lafayette, IN - Weekly Coffee Social Yang Gang Hang",
                 "Type": "MEETING",
-                "Time": "Sun, Dec 1, 1:00PM-2:00PM EST",
+                "Time": "Sun, Dec 8, 1:00PM-2:00PM EST",
                 "Venue": "Starbucks",
                 "Address": "1196 3rd Street<br>West Lafayette, IN 47907",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/159677/\">Mobilize US</a>",
@@ -10454,7 +10350,7 @@
             "properties": {
                 "Title": "Greenville Phonebank",
                 "Type": "PHONE_BANK",
-                "Time": "Sun, Dec 1, 1:00PM-4:00PM EST",
+                "Time": "Sun, Dec 1, 4:00PM-7:00PM EST",
                 "Venue": "Andrew Yang 2020 Greenville Office",
                 "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
@@ -10475,7 +10371,7 @@
             "properties": {
                 "Title": "Greenville Canvass",
                 "Type": "CANVASS",
-                "Time": "Sun, Dec 1, 1:00PM-4:00PM EST",
+                "Time": "Sun, Dec 1, 4:00PM-7:00PM EST",
                 "Venue": "Andrew Yang 2020 Greenville Office",
                 "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
