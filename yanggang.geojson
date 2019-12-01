@@ -186,7 +186,7 @@
                 "Email": "Ellensburg.Yang.Gang@gmail.com",
                 "Regional": "washington.yang.gang@gmail.com",
                 "Twitter": "",
-                "Facebook": "<a href=\"https://m.facebook.com/groups/486648432101067/\">Facebook Page</a>",
+                "Facebook": "<a href=\"https://www.facebook.com/groups/486648432101067/\">Facebook Page</a>",
                 "marker-color": "#133467",
                 "marker-symbol": "building",
                 "marker-size": "small"
@@ -1000,7 +1000,7 @@
                 "Email": "araceli.cortina@yahoo.com",
                 "Regional": "",
                 "Twitter": "",
-                "Facebook": "<a href=\"https://m.facebook.com/groups/552482721921805/\">Facebook Page</a>",
+                "Facebook": "<a href=\"https://www.facebook.com/groups/552482721921805/\">Facebook Page</a>",
                 "marker-color": "#133467",
                 "marker-symbol": "building",
                 "marker-size": "small"
@@ -2276,7 +2276,7 @@
                 "Email": "",
                 "Regional": "NC.Yang.Gang@gmail.com\u00a0",
                 "Twitter": "",
-                "Facebook": "<a href=\"http://www.facebook.com/groups/greensboroyang2020/\">Facebook Page</a>",
+                "Facebook": "<a href=\"https://www.facebook.com/groups/greensboroyang2020/\">Facebook Page</a>",
                 "marker-color": "#133467",
                 "marker-symbol": "building",
                 "marker-size": "small"
@@ -5378,7 +5378,7 @@
                 "Email": "",
                 "Regional": "colorado.yang.gang@gmail.com",
                 "Twitter": "",
-                "Facebook": "<a href=\"https://m.facebook.com/groups/355459871718177/\">Facebook Page</a>",
+                "Facebook": "<a href=\"https://www.facebook.com/groups/355459871718177/\">Facebook Page</a>",
                 "marker-color": "#133467",
                 "marker-symbol": "building",
                 "marker-size": "small"
@@ -5400,7 +5400,7 @@
                 "Email": "Freedomdividendme@gmail.com",
                 "Regional": "colorado.yang.gang@gmail.com",
                 "Twitter": "",
-                "Facebook": "<a href=\"Https://Facebook.com/groups/619653471885242/\">Facebook Page</a>",
+                "Facebook": "<a href=\"https://www.facebook.com/groups/619653471885242/\">Facebook Page</a>",
                 "marker-color": "#133467",
                 "marker-symbol": "building",
                 "marker-size": "small"
@@ -6582,6 +6582,27 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Houston, TX Yang Gang Food Bank Volunteer Community Event",
+                "Type": "COMMUNITY",
+                "Time": "Sat, Dec 21, 1:00PM-4:00PM CST",
+                "Venue": "Houston Food Bank",
+                "Address": "535 Portwall St<br>Houston, TX 77029",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166337/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2747503,
+                    29.7810067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Houston, TX Memorial Park Tabling Event",
                 "Type": "COMMUNITY",
                 "Time": "Sat, Dec 14, 11:00AM-1:00PM CST",
@@ -6687,15 +6708,16 @@
         {
             "type": "Feature",
             "properties": {
+                "Priority": "HIGH",
                 "Title": "Las Vegas Sunday Canvass",
                 "Type": "CANVASS",
                 "Time": "Sun, Dec 8, 12:00PM-3:00PM PST",
                 "Venue": "Las Vegas Yang HQ",
                 "Address": "4276 Spring Mountain Rd<br>suite 203<br>Las Vegas, NV 89102",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166301/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
+                "marker-color": "#DA3248",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
             },
             "geometry": {
                 "type": "Point",
@@ -6708,15 +6730,16 @@
         {
             "type": "Feature",
             "properties": {
+                "Priority": "HIGH",
                 "Title": "Las Vegas Saturday Canvassing",
                 "Type": "CANVASS",
                 "Time": "Sat, Dec 7, 10:00AM-1:00PM PST",
                 "Venue": "Las Vegas Yang HQ",
                 "Address": "4276 Spring Mountain Rd<br>Suite 203<br>Las Vegas, NV 89102",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166287/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
+                "marker-color": "#DA3248",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
             },
             "geometry": {
                 "type": "Point",
@@ -6729,15 +6752,16 @@
         {
             "type": "Feature",
             "properties": {
+                "Priority": "HIGH",
                 "Title": "Pre-Hang Canvass",
                 "Type": "CANVASS",
                 "Time": "Wed, Dec 4, 1:00PM-4:00PM PST",
                 "Venue": "Las Vegas Yang HQQ",
                 "Address": "4276 Spring Mountain Rd<br>Suite 203<br>Las Vegas, NV 89102",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166285/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
+                "marker-color": "#DA3248",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
             },
             "geometry": {
                 "type": "Point",
