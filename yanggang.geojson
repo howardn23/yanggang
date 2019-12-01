@@ -6604,6 +6604,48 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Reno Saturday Phone Bank",
+                "Type": "PHONE_BANK",
+                "Time": "Sat, Dec 7, 12:00PM-7:00PM PST",
+                "Venue": "Reno Yang HQ",
+                "Address": "1885 S Arlington Ave #201<br>Reno, NV 89509",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166425/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.817958,
+                    39.5062125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "GERMANTOWN, MD - SIGNATURE GATHERING TRAINING",
+                "Type": "MEETING",
+                "Time": "Wed, Dec 4, 6:30PM-8:30PM EST",
+                "Venue": "Germantown Library",
+                "Address": "19840 Century Blvd<br>Floor 2, Room 2<br>Germantown, MD 20874",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166423/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2661077,
+                    39.1819695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Reno Sunday Canvass",
                 "Type": "CANVASS",
                 "Time": "Sun, Dec 8, 11:00AM-5:00PM PST",
