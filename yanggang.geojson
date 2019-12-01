@@ -6604,6 +6604,48 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Reno Friday Canvass",
+                "Type": "CANVASS",
+                "Time": "Fri, Dec 6, 2:00PM-5:00PM PST",
+                "Venue": "Reno Yang HQ",
+                "Address": "1885 S Arlington Ave 201, #201<br>Reno, NV 89509",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166414/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.817958,
+                    39.5062125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Seattle, WA  #PledgeForHumanity Cleanup w/ Facing Homelessness",
+                "Type": "COMMUNITY",
+                "Time": "Sun, Dec 1, 10:30AM-12:30PM PST",
+                "Venue": "Corner of James and I-5 Homeless Camp",
+                "Address": "701 James St<br>Seattle, WA 98104",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166409/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3269634,
+                    47.6046296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Long Beach, CA - Bixby Park Farmers Market - Tabling Event",
                 "Type": "COMMUNITY",
                 "Time": "Sat, Dec 7, 9:00AM-2:00PM PST",
