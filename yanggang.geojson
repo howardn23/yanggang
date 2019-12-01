@@ -6648,6 +6648,48 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Debate Watch Party - Nashua NH",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Nashua Field Office - Yang2020",
+                "Address": "115 Main St<br>Suite 301<br>Nashua, NH 03060",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166512/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4662371,
+                    42.7620077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Debate Watch Party - Manchester NH",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Manchester Field Office - Yang2020",
+                "Address": "489 Amory St<br>Manchester, NH 03102",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166501/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4854541,
+                    42.9935691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Manchester Canvass",
                 "Type": "CANVASS",
                 "Time": "Sat, Dec 7, 8:30AM-11:00AM EST",
@@ -6684,6 +6726,27 @@
                 "coordinates": [
                     -71.4662371,
                     42.7620077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Portland, Oregon - PCC Tabling",
+                "Type": "COMMUNITY",
+                "Time": "Thu, Dec 5, 9:00AM-4:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Portland, OR 97219",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166481/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.698526,
+                    45.454231
                 ]
             }
         },
