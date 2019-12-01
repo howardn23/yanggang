@@ -6604,6 +6604,27 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Houston, TX Memorial Park Tabling Event",
+                "Type": "COMMUNITY",
+                "Time": "Sat, Dec 14, 11:00AM-1:00PM CST",
+                "Venue": "Memorial Park Running Trails Center",
+                "Address": "7575 N Picnic Ln<br>Houston, TX 77007",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166329/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4477855,
+                    29.767053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Houston, TX Memorial City Mall Crawl Community Event",
                 "Type": "COMMUNITY",
                 "Time": "Fri, Dec 13, 10:00AM-12:00PM CST",
@@ -8345,28 +8366,6 @@
                 "coordinates": [
                     -86.3920931,
                     35.8456009
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Priority": "HIGH",
-                "Title": "Dallas, Texas- Grassroots Fundraiser",
-                "Type": "COMMUNITY",
-                "Time": "Fri, Dec 6, 5:00PM-7:00PM CST",
-                "Venue": "Gilley's Dallas",
-                "Address": "1135 S Lamar St<br>South Side Ballroom<br>Dallas, TX 75215",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/164870/\">Mobilize US</a>",
-                "marker-color": "#DA3248",
-                "marker-symbol": "rocket",
-                "marker-size": "large"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.797987,
-                    32.768777
                 ]
             }
         },
