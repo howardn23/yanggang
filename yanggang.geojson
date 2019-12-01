@@ -8373,6 +8373,28 @@
         {
             "type": "Feature",
             "properties": {
+                "Priority": "HIGH",
+                "Title": "Dallas, Texas- Grassroots Fundraiser",
+                "Type": "COMMUNITY",
+                "Time": "Fri, Dec 6, 5:00PM-7:00PM CST",
+                "Venue": "Gilley's Dallas",
+                "Address": "1135 S Lamar St<br>South Side Ballroom<br>Dallas, TX 75215",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/164870/\">Mobilize US</a>",
+                "marker-color": "#DA3248",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797987,
+                    32.768777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Jacksonville, FL -  'Let's Be Seen' Yang Gang Community Picnic",
                 "Type": "COMMUNITY",
                 "Time": "Sat, Dec 14, 12:00PM-4:00PM EST",
@@ -8388,27 +8410,6 @@
                 "coordinates": [
                     -81.6809028,
                     30.3170826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Stonestown Farmers Market - Tabling Event",
-                "Type": "COMMUNITY",
-                "Time": "Sun, Dec 1, 9:00AM-1:00PM PST",
-                "Venue": "Stonestown Farmers Market",
-                "Address": "501 Buckingham Way<br>San Francisco, CA 94132",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/164590/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.4790533,
-                    37.7297335
                 ]
             }
         },
