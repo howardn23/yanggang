@@ -6532,30 +6532,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Burlington Yang Gang",
-                "Primary_Contact_Name": "Macrina Newhouse",
-                "Location": "Burlington, Vermont",
-                "Primary_Contact_Email": "",
-                "Regional_Organizer_Email": "Vermont.Yang.Gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/VermontYangGang",
-                "Twitter": "https://twitter.com/vermonters4yang",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "yang2020newengland.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -73.2966881986162",
-                    "44.49256899875034"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Yang_Gang_Name": "Northern New England / Montpelier",
                 "Primary_Contact_Name": "Michael Lazorchak",
                 "Location": "Northern New England / Montpelier, Vermont",
@@ -7198,6 +7174,30 @@
                 "coordinates": [
                     " -88.78786780000001",
                     "43.78443970000001"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Burlington Yang Gang",
+                "Primary_Contact_Name": "Macrina Newhouse",
+                "Location": "Burlington, Vermont",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "Vermont.Yang.Gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/VermontYangGang",
+                "Twitter": "https://twitter.com/vermonters4yang",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "yang2020newengland.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -73.2966881986162",
+                    "44.49256899875034"
                 ]
             }
         }
