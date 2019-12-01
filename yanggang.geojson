@@ -8519,6 +8519,27 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Baltimore, MD - Signature Gathering & Caroling at Christmas Village",
+                "Type": "SIGNATURE_GATHERING",
+                "Time": "Sat, Dec 7, 4:30PM-6:30PM EST",
+                "Venue": "",
+                "Address": "501 Light St<br>Baltimore, MD 21230",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/165185/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.612095,
+                    39.282734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Bowie, MD - #PledgeForHumanity",
                 "Type": "COMMUNITY",
                 "Time": "Sun, Dec 1, 3:00PM-4:00PM EST",
@@ -9753,27 +9774,6 @@
                 "coordinates": [
                     -75.53076,
                     40.138464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Brooklyn Yang Gang hosts *Yangsgiving*",
-                "Type": "COMMUNITY",
-                "Time": "Sun, Dec 1, 12:00PM-3:00PM EST",
-                "Venue": "",
-                "Address": "211 McGuinness Blvd<br>Brooklyn, NY 11222",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/160688/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.951118,
-                    40.7292903
                 ]
             }
         },
