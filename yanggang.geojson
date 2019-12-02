@@ -6669,6 +6669,27 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Knoxville, TN - Crowd-Yanging Event",
+                "Type": "COMMUNITY",
+                "Time": "Fri, Dec 6, 7:00AM-8:00AM EST",
+                "Venue": "Charles Krutch Park",
+                "Address": "504 Market St<br>Knoxville, TN 37902",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166579/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9185727,
+                    35.964356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Houston, TX -- Montrose Teahouse Hang",
                 "Type": "MEETING",
                 "Time": "Wed, Dec 4, 6:00PM-7:30PM CST",
