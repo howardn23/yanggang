@@ -260,8 +260,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -111.877843396684",
-                    "33.39542125440913"
+                    " -111.832545",
+                    "33.412382"
                 ]
             }
         },
@@ -356,8 +356,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -111.99814119342425",
-                    "33.391902728456664"
+                    " -111.945263",
+                    "33.426885"
                 ]
             }
         },
@@ -365,9 +365,9 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "Tucson",
-                "Primary_Contact_Name": "Jim Soward",
+                "Primary_Contact_Name": "Annette Anderson",
                 "Location": "Tucson, Arizona",
-                "Primary_Contact_Email": "jsowar@gmail.com",
+                "Primary_Contact_Email": "yanggangforlife@gmail.com",
                 "Regional_Organizer_Email": "azyanggang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/304648126888910/",
                 "Twitter": "",
@@ -476,8 +476,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -94.23333550000001",
-                    "36.0148605"
+                    " -93.825121",
+                    "35.960444"
                 ]
             }
         },
@@ -489,7 +489,7 @@
                 "Location": "Antelope Valley, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/av.yang.gang/",
+                "Facebook_Group": "https://www.facebook.com/groups/AntelopeValleyYangGang",
                 "Twitter": "",
                 "Instagram": "",
                 "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
@@ -550,6 +550,30 @@
                 "coordinates": [
                     " -122.27304199999998",
                     "37.871522599999984"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Boyle Heights/East LA",
+                "Primary_Contact_Name": "Fahd Sevilla",
+                "Location": "Boyle Heights, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/EastLAYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.178317",
+                    "34.040638"
                 ]
             }
         },
@@ -628,12 +652,12 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Highland Park/Eagle Rock",
-                "Primary_Contact_Name": "Zak Stoltz",
-                "Location": "Highland Park/Eagle Rock, California",
+                "Yang_Gang_Name": "DTLA",
+                "Primary_Contact_Name": "Loren Tripp",
+                "Location": "Los Angeles, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/NELAyanggang/",
+                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
                 "Twitter": "",
                 "Instagram": "",
                 "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
@@ -644,8 +668,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -118.20521379999997",
-                    "34.12102690000001"
+                    " -118.2436849",
+                    "34.05223420000002"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "East Bay",
+                "Primary_Contact_Name": "Christina Woo",
+                "Location": "East Bay, California",
+                "Primary_Contact_Email": "letsdothis9876543@gmail.com",
+                "Regional_Organizer_Email": "yanggangeastbay@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/EastBayYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -123.54149079038609",
+                    "37.87388356475237"
                 ]
             }
         },
@@ -670,6 +718,30 @@
                 "coordinates": [
                     " -119.78712469999999",
                     "36.7377981"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Highland Park/Eagle Rock",
+                "Primary_Contact_Name": "Zak Stoltz",
+                "Location": "Highland Park/Eagle Rock, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/NELAyanggang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.20521379999997",
+                    "34.12102690000001"
                 ]
             }
         },
@@ -716,80 +788,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -117.295565",
-                    "34.063288"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Long Beach",
-                "Primary_Contact_Name": "Steve Kim",
-                "Location": "Long Beach, California",
-                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/longbeachyg/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -118.19373949999999",
-                    "33.770050399999995"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "South Bay LA",
-                "Primary_Contact_Name": "Sunny Zhou",
-                "Location": "Torrance, California",
-                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -118.340295",
-                    "33.835345"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Los Angeles",
-                "Primary_Contact_Name": "Lee-kai Wang",
-                "Location": "Los Angeles, California",
-                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/LAYangGang/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -118.348015",
-                    "34.051825"
+                    " -117.383075",
+                    "34.055750"
                 ]
             }
         },
@@ -820,12 +820,12 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "DTLA",
-                "Primary_Contact_Name": "Loren Tripp",
-                "Location": "Los Angeles, California",
+                "Yang_Gang_Name": "Long Beach",
+                "Primary_Contact_Name": "Steve Kim",
+                "Location": "Long Beach, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
+                "Facebook_Group": "https://www.facebook.com/groups/longbeachyg/",
                 "Twitter": "",
                 "Instagram": "",
                 "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
@@ -836,8 +836,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -118.2436849",
-                    "34.05223420000002"
+                    " -118.19373949999999",
+                    "33.770050399999995"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Los Angeles",
+                "Primary_Contact_Name": "Lee-kai Wang",
+                "Location": "Los Angeles, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/LAYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.348015",
+                    "34.051825"
                 ]
             }
         },
@@ -916,6 +940,30 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Napa/Solano County #YangGang",
+                "Primary_Contact_Name": "David Lew",
+                "Location": "Napa, California",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "",
+                "Facebook_Group": "https://www.facebook.com/groups/407290423266830/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -122.35999845144602",
+                    "38.28594173042881"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Nevada County",
                 "Primary_Contact_Name": "Neil Horning",
                 "Location": "Nevada City, California",
@@ -965,12 +1013,12 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "Oakland",
-                "Primary_Contact_Name": "Anya Petrova",
+                "Primary_Contact_Name": "Cece Aiello",
                 "Location": "Oakland, California",
-                "Primary_Contact_Email": "east.bay.yanggang@gmail.com",
+                "Primary_Contact_Email": "oaklandforyang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/310938572794537/",
-                "Twitter": "",
+                "Facebook_Group": "https://www.facebook.com/groups/OaklandYG/",
+                "Twitter": "https://twitter.com/OaklandYangGang",
                 "Instagram": "",
                 "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
                 "marker-color": "#133467",
@@ -1006,6 +1054,30 @@
                 "coordinates": [
                     " -117.83114280000001",
                     "33.717470799999994"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Pomona/Diamond Bar/Chino/Covina",
+                "Primary_Contact_Name": "Linda Ho",
+                "Location": "Diamond Bar, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/PomonaDiamondBarYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -117.763235",
+                    "34.044619"
                 ]
             }
         },
@@ -1132,126 +1204,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Silver Lake/Echo Park",
-                "Primary_Contact_Name": "Kristine Chong",
-                "Location": "Silver Lake, California",
-                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/SilverLakeYangGang/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -118.28493485303936",
-                    "34.09322740804979"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Pomona/Diamond Bar/Chino/Covina",
-                "Primary_Contact_Name": "Linda Ho",
-                "Location": "Diamond Bar, California",
-                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/PomonaDiamondBarYangGang/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -117.763235",
-                    "34.044619"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Boyle Heights/East LA",
-                "Primary_Contact_Name": "Fahd Sevilla",
-                "Location": "Boyle Heights, California",
-                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/EastLAYangGang/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -118.178317",
-                    "34.040638"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "South LA",
-                "Primary_Contact_Name": "Ashley Ludgood",
-                "Location": "Inglewood, California",
-                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -118.38113994228151",
-                    "33.9540685918348"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "West Hollywood",
-                "Primary_Contact_Name": "Stu Arbury",
-                "Location": "West Hollywood, California",
-                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -118.384890",
-                    "34.084457"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Yang_Gang_Name": "San Luis Obispo",
                 "Primary_Contact_Name": "Fernando Chavez",
                 "Location": "San Luis Obispo, California",
@@ -1270,6 +1222,54 @@
                 "coordinates": [
                     " -120.6596156",
                     "35.2827524"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "San Mateo / Peninsula",
+                "Primary_Contact_Name": "Christina Woo",
+                "Location": "San Mateo, California",
+                "Primary_Contact_Email": "letsdothis9876543@gmail.com",
+                "Regional_Organizer_Email": "yanggangsanmateo@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SanMateoYangGang/",
+                "Twitter": "https://twitter.com/yang_mateo",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -122.35064951659378",
+                    "37.55653077859001"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "San Pablo / El Cerrito / Emeryville",
+                "Primary_Contact_Name": "Christina Woo",
+                "Location": "San Pablo, California",
+                "Primary_Contact_Email": "letsdothis9876543@gmail.com",
+                "Regional_Organizer_Email": "letsdothis9876543@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SanPabloYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -122.35599104614458",
+                    "37.96517120239719"
                 ]
             }
         },
@@ -1420,6 +1420,30 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Silver Lake/Echo Park",
+                "Primary_Contact_Name": "Kristine Chong",
+                "Location": "Silver Lake, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SilverLakeYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.28493485303936",
+                    "34.09322740804979"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Sonoma County",
                 "Primary_Contact_Name": "Addison Rex",
                 "Location": "Sonoma County, California",
@@ -1462,6 +1486,54 @@
                 "coordinates": [
                     " -121.83995929999998",
                     "37.24884780000003"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "South Bay LA",
+                "Primary_Contact_Name": "Sunny Zhou",
+                "Location": "Torrance, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.340295",
+                    "33.835345"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "South LA",
+                "Primary_Contact_Name": "Ashley Ludgood",
+                "Location": "Inglewood, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.330812",
+                    "33.974588"
                 ]
             }
         },
@@ -1556,8 +1628,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -119.10409367051477",
-                    "34.222028542260816"
+                    " -119.033227",
+                    "34.216888"
                 ]
             }
         },
@@ -1582,6 +1654,30 @@
                 "coordinates": [
                     " -117.24253550000003",
                     "33.20003679999999"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "West Hollywood",
+                "Primary_Contact_Name": "Stu Arbury",
+                "Location": "West Hollywood, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.384890",
+                    "34.084457"
                 ]
             }
         },
@@ -2708,8 +2804,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -121.28106109999999",
-                    "38.707124699999994"
+                    " -85.921673",
+                    "39.226441"
                 ]
             }
         },
@@ -2836,6 +2932,30 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Burlington",
+                "Primary_Contact_Name": "Burlington Yang Gang",
+                "Location": "Burlington, Iowa",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "Iowa.Yang.Gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/2530646593838445/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -91.19928892205573",
+                    "40.805622674325235"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Cedar Rapids",
                 "Primary_Contact_Name": "Derek Cooney",
                 "Location": "Cedar Rapids, Iowa",
@@ -2860,13 +2980,37 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Council Bluffs",
+                "Primary_Contact_Name": "Council Bluffs Yang Gang",
+                "Location": "Council Bluffs, Iowa",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "Iowa.Yang.Gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/2034426350000746/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -95.91672080819227",
+                    "41.232695730136214"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Des Moines",
                 "Primary_Contact_Name": "Pheng Yang",
                 "Location": "Des Moines, Iowa",
                 "Primary_Contact_Email": "Phengy1@gmail.com",
                 "Regional_Organizer_Email": "Iowa.Yang.Gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/2015245508524175/",
-                "Twitter": "",
+                "Twitter": "https://twitter.com/DSMYangGang",
                 "Instagram": "",
                 "Regional_Slack_Workspace": "",
                 "marker-color": "#133467",
@@ -2938,7 +3082,7 @@
                 "Primary_Contact_Email": "krkopf@gmail.com",
                 "Regional_Organizer_Email": "Iowa.Yang.Gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/441899463243382/",
-                "Twitter": "",
+                "Twitter": "https://twitter.com/ICYangGang",
                 "Instagram": "",
                 "Regional_Slack_Workspace": "",
                 "marker-color": "#133467",
@@ -3068,8 +3212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -96.40494079999996",
-                    "42.49634160000002"
+                    " -96.466137",
+                    "43.068266"
                 ]
             }
         },
@@ -3221,30 +3365,6 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "Lafayette",
-                "Primary_Contact_Name": "Katy Dupre",
-                "Location": "Lafayette, Louisiana",
-                "Primary_Contact_Email": "",
-                "Regional_Organizer_Email": "louisiana.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/LouisianaYangGang",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -92.01984270000003",
-                    "30.2240897"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Lafayette",
                 "Primary_Contact_Name": "Haley Johnson",
                 "Location": "Lafayette, Louisiana",
                 "Primary_Contact_Email": "",
@@ -3262,6 +3382,30 @@
                 "coordinates": [
                     " -92.10860922659084",
                     "30.21197638415336"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Louisiana",
+                "Primary_Contact_Name": "Katy Dupre",
+                "Location": "Lafayette, Louisiana",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "louisiana.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/LouisianaYangGang",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -92.01984270000003",
+                    "30.2240897"
                 ]
             }
         },
@@ -3356,8 +3500,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -112.3576567",
-                    "33.43533939999997"
+                    " -122.4357682",
+                    "37.7766039"
                 ]
             }
         },
@@ -4054,6 +4198,30 @@
                 "coordinates": [
                     " -111.3007715",
                     "47.505284900000035"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Missoula",
+                "Primary_Contact_Name": "Daniel Barthelmeh ",
+                "Location": "Missoula, Montana",
+                "Primary_Contact_Email": "dcbarthelmeh@gmail.com ",
+                "Regional_Organizer_Email": "yanggangmt@gmail.com ",
+                "Facebook_Group": "https://www.facebook.com/groups/569850620212451/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -114.15825018282739",
+                    "46.87623606076037"
                 ]
             }
         },
@@ -5384,7 +5552,7 @@
                 "Primary_Contact_Name": "Zain Bali",
                 "Location": "Ohio State University, Ohio",
                 "Primary_Contact_Email": "",
-                "Regional_Organizer_Email": "",
+                "Regional_Organizer_Email": "ohio.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/706873989767181/",
                 "Twitter": "",
                 "Instagram": "",
@@ -5564,8 +5732,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -97.50958029999998",
-                    "35.4121054"
+                    " -95.735704",
+                    "34.812155"
                 ]
             }
         },
@@ -5588,8 +5756,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -97.09287699999999",
-                    "35.00775189999998"
+                    " -98.548204",
+                    "35.154205"
                 ]
             }
         },
@@ -7148,8 +7316,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -122.41448689999999",
-                    "47.211198300000014"
+                    " -122.216642",
+                    "47.631853"
                 ]
             }
         },
@@ -7588,24 +7756,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Missoula",
-                "Primary_Contact_Name": "Daniel Barthelmeh ",
-                "Location": "Missoula, Montana",
-                "Primary_Contact_Email": "dcbarthelmeh@gmail.com ",
-                "Regional_Organizer_Email": "yanggangmt@gmail.com ",
-                "Facebook_Group": "https://www.facebook.com/groups/569850620212451/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
+                "Title": "Dover Pizza & Politics",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 7, 6:00PM-8:00PM EST",
+                "Venue": "La Festa Brick & Brew",
+                "Address": "300 Central Ave<br>Dover, NH 03820",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166781/\">Mobilize US</a>",
+                "Description": "Come hang with the Yang Gang, and Yang Curious and chat politics and the primaries over Pizza and Pints. All are welcome, just drop by at 6pm or after!",
+                "TimeStart": 1575759600,
+                "TimeEnd": 1575766800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -114.15825018282739",
-                    "46.87623606076037"
+                    -70.8748151,
+                    43.1941592
                 ]
             }
         },
@@ -8016,6 +8185,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Durham Canvass!",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 7, 9:00AM-12:00PM EST",
+                "Venue": "The Works Caf\u00e9",
+                "Address": "5 Mill Rd<br>Durham, NH 03824",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/156521/\">Mobilize US</a>",
+                "Description": "Join us for canvassing for Yang in Durham!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign.<br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at The Works Cafe (5 Mill Rd), Durham. We'll have some coffee, and then we can all get a celebratory bite or beverage afterwards. Canvassing is fun and easier than you'd think.",
+                "TimeStart": 1575727200,
+                "TimeEnd": 1575738000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9259796,
+                    43.1335816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Dover Canvass!",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -8066,6 +8260,456 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Arlington, VA Yang and Hang Trivia Night",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 5, 6:00PM-8:30PM EST",
+                "Venue": "Bar Bao",
+                "Address": "3100 Clarendon Blvd<br>Arlington, VA 22201",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166798/\">Mobilize US</a>",
+                "Description": "Make America (and Arlington) Think Harder and test your wits by joining the NOVA Yang Gang at Trivia at Bar Bao in Clarendon! <br><br>Trivia starts at 7:00 P.M., but we'll be planning to mix and mingle at  around 6:00 P.M. and hopefully Yang some of the bar goers.",
+                "TimeStart": 1575586800,
+                "TimeEnd": 1575595800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0959712,
+                    38.8861986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "San Mateo, CA - Tabling at San Mateo Farmers' Market",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 7, 9:00AM-1:00PM PST",
+                "Venue": "College of San Mateo Campus",
+                "Address": "1700 W Hillsdale Blvd<br>San Mateo, CA 94402",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166796/\">Mobilize US</a>",
+                "Description": "Let's bring even more Yang Gang to the market this Saturday, December 7.    We stood out this past Saturday - we were the only candidate table at the event and it was raining, windy and cold...   Apparently, Pete's and Bernie's volunteers decided to take Thanksgiving weekend off.<br><br>We took full advantage of being the only ones showing up.  Deeper conversations with shoppers and plenty of recognition and curiosity regarding Yang Gang dedication.    As we all know,  we're doing this because Andrew is the candidate who truly deserves  our full commitment.",
+                "TimeStart": 1575738000,
+                "TimeEnd": 1575752400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3352856,
+                    37.5354361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Houston, TX - Text Banking Party",
+                "Type": "TEXT_BANK",
+                "Host": "Volunteer",
+                "Time": "Mon, Dec 9, 6:30PM-8:30PM CST",
+                "Venue": "The Teahouse Tapioca & Tea",
+                "Address": "5315 Farm to Market 1960 Rd W<br>Houston, TX 77069",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166790/\">Mobilize US</a>",
+                "Description": "Thanks for signing up to attend this Text Banking Event!  Texting has proven to be one of the most effective ways to reach out and identify voters all around the country and initiate humanity first conversations about Andrew Yang\u2019s platform. Let\u2019s meet at The Teahouse Tapioca & Tea. <br>Below is what we plan to do:<br>- Immediately send Voter Identification texts to thousands of potential voters<br>- Get trained to text if you haven\u2019t already gone through the training process. <br>- If you can, follow this step-by-step guide to get trained prior to the event: http://bit.ly/35Qhi9Q",
+                "TimeStart": 1575937800,
+                "TimeEnd": 1575945000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5103603,
+                    29.980126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Houston, TX - Text Banking Party",
+                "Type": "TEXT_BANK",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 3, 6:30PM-8:30PM CST",
+                "Venue": "Thu Thu Sandwich",
+                "Address": "10502 Grant Rd B200<br>Houston, TX 77070",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166787/\">Mobilize US</a>",
+                "Description": "Thanks for signing up to attend this Text Banking Event!  <br>Texting has proven to be one of the most effective ways to reach out and identify voters all around the country and initiate humanity first conversations about Andrew Yang\u2019s platform. Let\u2019s meet at Thu Thu Sandwich. <br>Below is what we plan to do:<br>~ Immediately send Voter Identification texts to thousands of potential voters<br>~ Get trained to text if you haven\u2019t already gone through the training process. <br>~ If you can, follow this step-by-step guide to get trained prior to the event: http://bit.ly/35Qhi9Q",
+                "TimeStart": 1575419400,
+                "TimeEnd": 1575426600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5769069,
+                    29.9677943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Dover Pizza & Politics",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 7, 6:00PM-8:00PM EST",
+                "Venue": "La Festa Brick & Brew",
+                "Address": "300 Central Ave<br>Dover, NH 03820",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166781/\">Mobilize US</a>",
+                "Description": "Come hang with the Yang Gang, and Yang Curious and chat politics and the primaries over Pizza and Pints. All are welcome, just drop by at 6pm or after!",
+                "TimeStart": 1575759600,
+                "TimeEnd": 1575766800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8748151,
+                    43.1941592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "San Antonio, Crowd Yanging at Woodlawn Park",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Mon, Dec 2, 5:00PM-7:00PM CST",
+                "Venue": "",
+                "Address": "1103 Cincinnati Ave<br>San Antonio, TX 78201",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166777/\">Mobilize US</a>",
+                "Description": "Come out with us and table with us at the park or sign walk!  It's at one of the most scenic parks in San Antonio, Woodlawn Lake Park!",
+                "TimeStart": 1575327600,
+                "TimeEnd": 1575334800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.52829,
+                    29.4502072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Savannah Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 7, 2:00PM-4:00PM EST",
+                "Venue": "City Market",
+                "Address": "219 W Bryan St<br>Savannah, GA 31401",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166766/\">Mobilize US</a>",
+                "Description": "Let's get a Savannah Yang Gang going! We will meet in City Market to get to know each other, get organized, and do a little canvassing.",
+                "TimeStart": 1575745200,
+                "TimeEnd": 1575752400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0945437,
+                    32.0809171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Arlington, VA - Humanity First Cookie Decorating Event",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 10, 6:00PM-10:00PM EST",
+                "Venue": "The Citizen Apartments",
+                "Address": "3000 S Randolph St<br>Arlington, VA 22206",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166749/\">Mobilize US</a>",
+                "Description": "Merry Yangmas! Come on out to a Yang and Hang/Humanity First event to meet other Yang Gang members, learn more about what Andrew Yang is all about, show off your ugly sweater if you have it, and decorate Yang Cookies to hand out to retail workers this holiday season! We all know how hard this time of year is for people in the service industry, so let\u2019s hand out some sweet treats to make the day a little easier! <br><br>We will be meeting in Arlington (Shirlington neighborhood) there are 2 free parking garages across the road and next to the building! As well as a large bus stop!",
+                "TimeStart": 1576018800,
+                "TimeEnd": 1576033200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0892674,
+                    38.8397422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Knoxville, TN - Community Canvass - 4th and Gill Neighborhood",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 8, 3:00PM-5:00PM EST",
+                "Venue": "K Brew",
+                "Address": "1138 N Broadway<br>Knoxville, TN 37917",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166738/\">Mobilize US</a>",
+                "Description": "The most important thing we can do is knock on doors in our community to build Andrew Yang's name recognition and show that there is in real life (IRL) support for his campaign. <br><br>We will be canvassing the 4th and Gill neighborhood of Knoxville, knocking on Yang-friendly, campaign-supplied doors.  This is not about convincing people to vote for Yang or knowing all his policies--it's strictly about building name recognition.  Anyone can do it!<br><br>Register, download the MiniVAN app from your app store, and meet us at K-Brew Coffee on N. Broadway at 3PM and we will use the app to guide us as we canvass in pairs.  Wear your Yang merch if you have it!",
+                "TimeStart": 1575835200,
+                "TimeEnd": 1575842400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9221315,
+                    35.983715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Weekly Yang Gang Volunteer Livestream (for CA calendar)",
+                "Type": "MEETING",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 3, 6:30PM-7:30PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Sacramento, CA 95814",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166735/\">Mobilize US</a>",
+                "Description": "This is a virtual Zoom call.<br><br>A campaign update for all Yang Gang volunteers, run by campaign HQ.",
+                "TimeStart": 1575426600,
+                "TimeEnd": 1575430200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.49558999999999,
+                    38.580568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "NorCal Zoom Conference",
+                "Type": "MEETING",
+                "Host": "Campaign",
+                "Time": "Mon, Dec 2, 7:00PM-8:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>San Francisco, CA 94114",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166734/\">Mobilize US</a>",
+                "Description": "Description: California Yang Gang will be holding a Zoom Conference with Regional Organizer Arun Kumar weekly on Monday evenings.<br><br>The goal of the meeting:<br><br>1. Help everyone get on the same page  & share plans & news<br>2. Establish regular communication for California Yang volunteers and give everyone especially remote members a clear way to stay in touch<br>3. Guide new members on how to participate<br>4. Guide new groups on what to do and how to grow<br>5. Address concerns & new info<br><br>RSVP for Zoom link.",
+                "TimeStart": 1575342000,
+                "TimeEnd": 1575345600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43540800000001,
+                    37.758059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Las Vegas, NV - Salute to Veterans",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 3, 6:00PM-8:00PM PST",
+                "Venue": "North Las Vegas Police Officers Association",
+                "Address": "3425 W Craig Rd<br>North Las Vegas, NV 89032",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166730/\">Mobilize US</a>",
+                "Description": "Come honor veterans by listening to their stories.  Speakers include Veteran and Pearl Harbor survivor Edward E. Hall speak. Salute to Veterans is hosted by the North Las Vegas Democratic Club.  The event is 6-8pm, and refreshments are provided.",
+                "TimeStart": 1575424800,
+                "TimeEnd": 1575432000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.186029,
+                    36.238492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "SF Yang Gang Hang",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Wed, Dec 4, 7:00PM-8:00PM PST",
+                "Venue": "Manny\u2019s",
+                "Address": "3092 16th St<br>San Francisco, CA 94103",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166729/\">Mobilize US</a>",
+                "Description": "New members encouraged!<br><br>We meet every Wednesday to organize action to increase Yang's name recognition, grow support, and support other campaign initiatives.<br><br>Want to get more involved with your local Yang Gang? Get started at https://bit.ly/sfyanggang",
+                "TimeStart": 1575514800,
+                "TimeEnd": 1575518400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4216824,
+                    37.7650846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Ann Arbor, MI - Dinner Meetup - Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Fri, Dec 6, 6:00PM-7:00PM EST",
+                "Venue": "Buffalo Wild Wings",
+                "Address": "205 S State St<br>Ann Arbor, MI 48104",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166682/\">Mobilize US</a>",
+                "Description": "Ann Arbor Yang Gang will be meeting to eat dinner at BDubs on Friday Dec 6 at 6 PM! Come and meet other yang gang :)",
+                "TimeStart": 1575673200,
+                "TimeEnd": 1575676800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7405406,
+                    42.2800508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Gaithersburg, MD - Signature Gathering for Andrew Yang!",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 7, 11:00AM-2:00PM EST",
+                "Venue": "CCTECRO",
+                "Address": "901 Wind River Ln<br>Gaithersburg, MD 20878",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166681/\">Mobilize US</a>",
+                "Description": "In order to get Andrew Yang on the primary ballot in MD we need to collect 600 signatures from each of MD's 8 congressional districts!<br><br>The Montgomery County Yang Gang will be gathering signatures at a \"Night Market Booth\" event hosted by Millennial Global Youth at CC TECRO. We will be attending the event with Yang gear and collecting signatures among the attendees at the event. It should also be a really fun event to attend, with good food!<br><br>Be sure to wear comfortable shoes, and bring water and snacks. Bring a clipboard and pen if you could. <br><br>You can find additional information about our signature gathering requirements here: https://docs.google.com/document/d/1vU5-jnpwctdHc99p0F_ULT0A5g0JceiShSyW10bRTac/edit",
+                "TimeStart": 1575734400,
+                "TimeEnd": 1575745200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2291091,
+                    39.1303568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Council Bluffs, IA - MATH Class",
+                "Type": "TRAINING",
+                "Host": "Campaign",
+                "Time": "Wed, Dec 4, 6:00PM-9:00PM CST",
+                "Venue": "Council Bluffs Yang2020 Office",
+                "Address": "118 W Broadway<br>Council Bluffs, IA 51503",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166680/\">Mobilize US</a>",
+                "Description": "Yang Gang! Now look, we're going to be dealing with some real serious stuff Wednesday. If you haven't heard of it - it's called MATH. There are TWO MONTHS until the caucus. We're entering the final stretch here in Iowa so it\u2019s time to get serious. <br><br>We'll be holding a Yang Gang meeting with your local Council Bluffs organizers to go over what our next two months will look like and how you can help get Andrew Yang to the White House.  Our MATH Class will take place on Wednesday,  December 4th at 6:00-7:00 pm at our beautiful Council Bluffs office-- right next door to Barley\u2019s - located in the 100Block at 118 W. Broadway!<br><br>We will get to know each other, review our calendar, hear input from the Yang Gang, and share some announcements! We'll provide refreshments and after the meeting, we phonebank. If you are unable to attend but would like a recap of the meeting, email roger@yang2020.com. <br><br>Join The Yang Gang and help us share our vision for an America that will put Humanity First!",
+                "TimeStart": 1575504000,
+                "TimeEnd": 1575514800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8445843,
+                    41.263154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Riverhead, NY - Yang Gang Hang & Textbanking at the Tanger Outlets",
+                "Type": "TEXT_BANK",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 15, 11:00AM-2:00PM EST",
+                "Venue": "Tanger Outlets Riverhead",
+                "Address": "1770 W Main St<br>Riverhead, NY 11901",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166640/\">Mobilize US</a>",
+                "Description": "Text banking is an easy and fun way to help the campaign. It can be done anywhere and with small blocks of time. <br><br>Text banking guide at https://bit.ly/35Qhi9Q <br><br>Please do as much as you can in advance of our meeting. Whatever you can't do, we'll do together!",
+                "TimeStart": 1576425600,
+                "TimeEnd": 1576436400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.7175291,
+                    40.921448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Bolingbrook, IL - Pizza, Ugly Sweaters and Petitions",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 10, 6:30PM-8:30PM CST",
+                "Venue": "Home Run Inn Pizza",
+                "Address": "1280 W Boughton Rd<br>Bolingbrook, IL 60440",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166638/\">Mobilize US</a>",
+                "Description": "Have an ugly Christmas sweater? Wear it to the Yang Gang Pizza, Ugly Sweaters and Petitions Hang. Bring your families, kids, munchkins and everyone you know for some ugly sweater cheer and also sign petitions to get Andrew and his delegates on the Illinois ballot.",
+                "TimeStart": 1576024200,
+                "TimeEnd": 1576031400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1251487,
+                    41.7033741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Helotes, TX - Canvassing Event",
                 "Type": "CANVASS",
                 "Host": "Volunteer",
@@ -8085,6 +8729,31 @@
                 "coordinates": [
                     -98.679635,
                     29.5603006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "San Antonio, TX - #HumanityFirst Event",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Fri, Jan 3, 3:30PM-4:30PM CST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>San Antonio, TX 78216",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166597/\">Mobilize US</a>",
+                "Description": "The San Antonio Yang Gang will be collecting new or gently used books to donate to SA Reads.  If you would like to learn more about this wonderful organization, please check out this website: http://www.literacysanantonio.com.<br><br>There will be a small crate starting Dec 2nd in front of 1700 Jackson Keller Road,  Apartment 5612. The crate will be emptied each night. Please simply drop off any books you would like donate that are child or young adult appropriate, ages 3-16.  <br><br>Let's meet at 3:30pm on January 3rd to drop the books off at SA Reads and to take a photo that shows all of Yang Gang San Antonio support. <br><br>If you have any questions or concerns I am reachable by text. <br>Thank you for your service and all that you do. <br>Neva Taylor (713)503-6031",
+                "TimeStart": 1578087000,
+                "TimeEnd": 1578090600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.487882,
+                    29.537264
                 ]
             }
         },
@@ -9724,31 +10393,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Chicago, IL  -  Signature Collection (UIC Campus) / Andrew Yang Rally Promotion",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Mon, Dec 2, 10:00AM-2:00PM CST",
-                "Venue": "UIC Student Center East",
-                "Address": "750 S Halsted St<br>Chicago, IL 60607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/165965/\">Mobilize US</a>",
-                "Description": "UIC Student Center East<br>750 S Halsted St<br>Chicago, IL 60607<br><br>Monday, December 2nd 10:00AM to 2:00PM<br><br>Hello Chicago Yang Gang! We will have a table at UIC Student Center East to collect signatures, give out free Yang stickers and Yang buttons and pass out flyers to promote the Andrew Yang Rally at the Dorin Forum -University of Illinois Chicago scheduled for December 5th. Swing by to help out! Come and go as you please.<br><br>The easiest way to get there is to take the blue line and get off at the UIC stop. There is also a parking lot across the street.",
-                "TimeStart": 1575302400,
-                "TimeEnd": 1575316800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.6479002,
-                    41.8719047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Castle Rock YG - Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Campaign",
@@ -10930,8 +11574,8 @@
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
                 "Time": "Sat, Dec 7, 2:30PM-5:30PM EST",
-                "Venue": "Carroll Creek Park at Market St",
-                "Address": "51 S Market St<br>Frederick, MD 21701",
+                "Venue": "",
+                "Address": "2 E Patrick St<br>Frederick, MD 21701",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/163211/\">Mobilize US</a>",
                 "Description": "In order to get Andrew Yang on the primary ballot in MD we need to collect 600 signatures per district. The Frederick Yang Gang will be hosting a signature gathering and community event in Downtown Frederick on 12/7 from 2p - 5:30p.<br><br>We need your help! If you would like to help collect signatures that is FANTASTIC. If you don\u2019t feel comfortable collecting but would like to sign your name, that is AMAZING too!<br><br>If you are coming to collect signatures be sure to wear comfortable shoes, bring water and snacks. If you have a clipboard and pen, that is a bonus too!<br><br>You can find additional information about our signature gathering requirements here: http://bit.ly/MDQuick<br><br>Note: If you would like to start collecting signatures prior to the event, check out the signature guide! No need to wait for an event to get started. Farmer's markets, BMVs, movie theaters, libraries, concerts are all good options. #SecureTheBag #HumanityFirst",
                 "TimeStart": 1575747000,
@@ -10943,8 +11587,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.4112578,
-                    39.4129116
+                    -77.4108016,
+                    39.4139539
                 ]
             }
         },
@@ -11926,6 +12570,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Durham Canvass!",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 7, 9:00AM-12:00PM EST",
+                "Venue": "The Works Caf\u00e9",
+                "Address": "5 Mill Rd<br>Durham, NH 03824",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/156521/\">Mobilize US</a>",
+                "Description": "Join us for canvassing for Yang in Durham!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign.<br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at The Works Cafe (5 Mill Rd), Durham. We'll have some coffee, and then we can all get a celebratory bite or beverage afterwards. Canvassing is fun and easier than you'd think.",
+                "TimeStart": 1575727200,
+                "TimeEnd": 1575738000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9259796,
+                    43.1335816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Oklahoma Online Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -12179,13 +12848,13 @@
                 "Title": "Greenville Phonebank",
                 "Type": "PHONE_BANK",
                 "Host": "Campaign",
-                "Time": "Mon, Dec 2, 10:00AM-1:00PM EST",
+                "Time": "Mon, Dec 2, 1:00PM-4:00PM EST",
                 "Venue": "Andrew Yang 2020 Greenville Office",
                 "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
                 "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
-                "TimeStart": 1575298800,
-                "TimeEnd": 1575309600,
+                "TimeStart": 1575309600,
+                "TimeEnd": 1575320400,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "c",
                 "marker-size": "small"
@@ -12204,13 +12873,13 @@
                 "Title": "Greenville Canvass",
                 "Type": "CANVASS",
                 "Host": "Campaign",
-                "Time": "Mon, Dec 2, 10:00AM-1:00PM EST",
+                "Time": "Mon, Dec 2, 1:00PM-4:00PM EST",
                 "Venue": "Andrew Yang 2020 Greenville Office",
                 "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
                 "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
-                "TimeStart": 1575298800,
-                "TimeEnd": 1575309600,
+                "TimeStart": 1575309600,
+                "TimeEnd": 1575320400,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "c",
                 "marker-size": "small"
