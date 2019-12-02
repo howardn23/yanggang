@@ -124,126 +124,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Gilbert",
-                "Primary_Contact_Name": "Danny Weatherly",
-                "Location": "Gilbert, Arizona",
-                "Primary_Contact_Email": "Gilbert.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "azyanggang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/891219421228828",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -111.78902699999998",
-                    "33.352826399999984"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Goodyear",
-                "Primary_Contact_Name": "Jeffrey Hotz",
-                "Location": "Goodyear, Arizona",
-                "Primary_Contact_Email": "Jeffreyjhotz@icloud.com",
-                "Regional_Organizer_Email": "azyanggang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/2189321917828416/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -112.3576567",
-                    "33.43533939999997"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Phoenix",
-                "Primary_Contact_Name": "Lesley Hafalia",
-                "Location": "Phoenix, Arizona",
-                "Primary_Contact_Email": "lhafalia@gmail.com",
-                "Regional_Organizer_Email": "azyanggang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/PhxAzYangGang/",
-                "Twitter": "https://twitter.com/PhxYangGang",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -112.07403729999999",
-                    "33.44837710000002"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Tucson",
-                "Primary_Contact_Name": "Jim Soward",
-                "Location": "Tucson, Arizona",
-                "Primary_Contact_Email": "jsowar@gmail.com",
-                "Regional_Organizer_Email": "azyanggang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/304648126888910/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -110.97471080000003",
-                    "32.22260659999999"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Prescott-Cottonwood",
-                "Primary_Contact_Name": "Brendon Carpenter",
-                "Location": "Prescott, Arizona",
-                "Primary_Contact_Email": "brendon.e.carpenter@gmail.com",
-                "Regional_Organizer_Email": "azyanggang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/2577591115641308/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -112.5239106600308",
-                    "34.59614594126578"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Yang_Gang_Name": "Flagstaff-Sedona",
                 "Primary_Contact_Name": "Brendon Carpenter",
                 "Location": "Flagstaff, Arizona",
@@ -262,6 +142,30 @@
                 "coordinates": [
                     " -111.74804369103562",
                     "35.18112690549432"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Gilbert",
+                "Primary_Contact_Name": "Danny Weatherly",
+                "Location": "Gilbert, Arizona",
+                "Primary_Contact_Email": "Gilbert.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "azyanggang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/891219421228828",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -111.78902699999998",
+                    "33.352826399999984"
                 ]
             }
         },
@@ -292,10 +196,58 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Goodyear",
+                "Primary_Contact_Name": "Jeffrey Hotz",
+                "Location": "Goodyear, Arizona",
+                "Primary_Contact_Email": "Jeffreyjhotz@icloud.com",
+                "Regional_Organizer_Email": "azyanggang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/2189321917828416/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -112.3576567",
+                    "33.43533939999997"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Maricopa Casa Grande",
+                "Primary_Contact_Name": "Liz Taylor",
+                "Location": "Casa Grande, Arizona",
+                "Primary_Contact_Email": "lizpsk@gmail.com",
+                "Regional_Organizer_Email": "azyanggang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/MaricopaCasaGrandeYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -111.90128765355927",
+                    "32.886941165638156"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Mesa",
                 "Primary_Contact_Name": "Suzanna Hug",
                 "Location": "Mesa, Arizona",
-                "Primary_Contact_Email": "brendon.e.carpenter@gmail.com",
+                "Primary_Contact_Email": "suzanne@votehug.com",
                 "Regional_Organizer_Email": "azyanggang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/3167829586621954/",
                 "Twitter": "",
@@ -316,12 +268,36 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Tempe",
-                "Primary_Contact_Name": "Kyle Henden",
-                "Location": "Tempe, Arizona",
-                "Primary_Contact_Email": "kylehenden22@gmail.com",
+                "Yang_Gang_Name": "Phoenix",
+                "Primary_Contact_Name": "Lesley Hafalia",
+                "Location": "Phoenix, Arizona",
+                "Primary_Contact_Email": "lhafalia@gmail.com",
                 "Regional_Organizer_Email": "azyanggang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/462990597686054/",
+                "Facebook_Group": "https://www.facebook.com/groups/PhxAzYangGang/",
+                "Twitter": "https://twitter.com/PhxYangGang",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -112.07403729999999",
+                    "33.44837710000002"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Prescott-Cottonwood",
+                "Primary_Contact_Name": "Brendon Carpenter",
+                "Location": "Prescott, Arizona",
+                "Primary_Contact_Email": "brendon.e.carpenter@gmail.com",
+                "Regional_Organizer_Email": "azyanggang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/2577591115641308/",
                 "Twitter": "",
                 "Instagram": "",
                 "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
@@ -332,8 +308,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -111.99814119342425",
-                    "33.391902728456664"
+                    " -112.5239106600308",
+                    "34.59614594126578"
                 ]
             }
         },
@@ -364,12 +340,12 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Maricopa Casa Grande",
-                "Primary_Contact_Name": "Liz Taylor",
-                "Location": "Casa Grande, Arizona",
-                "Primary_Contact_Email": "lizpsk@gmail.com",
+                "Yang_Gang_Name": "Tempe",
+                "Primary_Contact_Name": "Kyle Henden",
+                "Location": "Tempe, Arizona",
+                "Primary_Contact_Email": "kylehenden22@gmail.com",
                 "Regional_Organizer_Email": "azyanggang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/MaricopaCasaGrandeYangGang/",
+                "Facebook_Group": "https://www.facebook.com/groups/462990597686054/",
                 "Twitter": "",
                 "Instagram": "",
                 "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
@@ -380,8 +356,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -111.90128765355927",
-                    "32.886941165638156"
+                    " -111.99814119342425",
+                    "33.391902728456664"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Tucson",
+                "Primary_Contact_Name": "Jim Soward",
+                "Location": "Tucson, Arizona",
+                "Primary_Contact_Email": "jsowar@gmail.com",
+                "Regional_Organizer_Email": "azyanggang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/304648126888910/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://yg-southwest-region.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -110.97471080000003",
+                    "32.22260659999999"
                 ]
             }
         },
@@ -485,9 +485,9 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "Antelope Valley",
-                "Primary_Contact_Name": "Mary Paniscus",
+                "Primary_Contact_Name": "William Kim",
                 "Location": "Antelope Valley, California",
-                "Primary_Contact_Email": "av.yang.gang@gmail.com\u00a0",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/av.yang.gang/",
                 "Twitter": "",
@@ -580,30 +580,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Camarillo",
-                "Primary_Contact_Name": "Mindy Checkon",
-                "Location": "Camarillo, California",
-                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
-                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/348745155732320/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -119.0376023",
-                    "34.216393700000005"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Yang_Gang_Name": "Cerritos",
                 "Primary_Contact_Name": "Duy Ho",
                 "Location": "Cerritos, California",
@@ -652,9 +628,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Eastside L.A.",
+                "Yang_Gang_Name": "Highland Park/Eagle Rock",
                 "Primary_Contact_Name": "Zak Stoltz",
-                "Location": "Northeast Los Angeles (Highland Park/Eagle Rock), California",
+                "Location": "Highland Park/Eagle Rock, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/NELAyanggang/",
@@ -724,8 +700,32 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Inland Empire",
+                "Primary_Contact_Name": "T'ere Lee",
+                "Location": "San Bernardino, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/IEYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -117.295565",
+                    "34.063288"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Long Beach",
-                "Primary_Contact_Name": "Jenna Lloyd",
+                "Primary_Contact_Name": "Steve Kim",
                 "Location": "Long Beach, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
@@ -748,12 +748,84 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Los Angeles",
-                "Primary_Contact_Name": "Zak Stoltz",
-                "Location": "Los Angeles Yang Gang, California",
+                "Yang_Gang_Name": "South Bay LA",
+                "Primary_Contact_Name": "Sunny Zhou",
+                "Location": "Torrance, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/589042938233854/",
+                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.340295",
+                    "33.835345"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Los Angeles",
+                "Primary_Contact_Name": "Lee-kai Wang",
+                "Location": "Los Angeles, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/LAYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.348015",
+                    "34.051825"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "LMU",
+                "Primary_Contact_Name": "Lee-kai Wang",
+                "Location": "Los Angeles, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/LMUYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.416566",
+                    "33.970432"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "DTLA",
+                "Primary_Contact_Name": "Loren Tripp",
+                "Location": "Los Angeles, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
                 "Twitter": "",
                 "Instagram": "",
                 "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
@@ -814,6 +886,30 @@
                 "coordinates": [
                     " -122.13413209999999",
                     "38.019365699999994"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Murrieta/Temecula",
+                "Primary_Contact_Name": "Kevin Reynolds",
+                "Location": "Murrieta/Temecula, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/2221106841440141/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -117.161734",
+                    "33.539650"
                 ]
             }
         },
@@ -893,7 +989,7 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "Orange County",
-                "Primary_Contact_Name": "Jenna Lloyd",
+                "Primary_Contact_Name": "Howard Yang",
                 "Location": "Orange County, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
@@ -941,7 +1037,7 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "San Diego",
-                "Primary_Contact_Name": "Chris Platt",
+                "Primary_Contact_Name": "Kim Davong",
                 "Location": "San Diego, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
@@ -965,8 +1061,8 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "San Fernando Valley",
-                "Primary_Contact_Name": "Juliet T",
-                "Location": "San Fernando Valley, California",
+                "Primary_Contact_Name": "Ryan Burkhard",
+                "Location": "Van Nuys, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/SFVYangGang/",
@@ -980,8 +1076,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -118.43967559999999",
-                    "34.18257820000002"
+                    " -118.4860382905962",
+                    "34.20042712471241"
                 ]
             }
         },
@@ -1013,8 +1109,8 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "San Gabriel Valley",
-                "Primary_Contact_Name": "Justin Jang",
-                "Location": "San Gabriel Valley, California",
+                "Primary_Contact_Name": "Eric PS Chen",
+                "Location": "Alhambra, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/sangabrielvalleyYangGang/",
@@ -1028,8 +1124,128 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -118.03701130000002",
-                    "34.03334430000003"
+                    " -118.068751",
+                    "34.130880"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Silver Lake/Echo Park",
+                "Primary_Contact_Name": "Kristine Chong",
+                "Location": "Silver Lake, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SilverLakeYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.28493485303936",
+                    "34.09322740804979"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Pomona/Diamond Bar/Chino/Covina",
+                "Primary_Contact_Name": "Linda Ho",
+                "Location": "Diamond Bar, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/PomonaDiamondBarYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -117.763235",
+                    "34.044619"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Boyle Heights/East LA",
+                "Primary_Contact_Name": "Fahd Sevilla",
+                "Location": "Boyle Heights, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/EastLAYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.178317",
+                    "34.040638"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "South LA",
+                "Primary_Contact_Name": "Ashley Ludgood",
+                "Location": "Inglewood, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.38113994228151",
+                    "33.9540685918348"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "West Hollywood",
+                "Primary_Contact_Name": "Stu Arbury",
+                "Location": "West Hollywood, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/SoCalYangGang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -118.384890",
+                    "34.084457"
                 ]
             }
         },
@@ -1061,7 +1277,7 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "Santa Barbara ",
-                "Primary_Contact_Name": "Cody O'Connell",
+                "Primary_Contact_Name": "Chris Vega",
                 "Location": "Santa Barbara, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
@@ -1108,8 +1324,8 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Santa Monica ",
-                "Primary_Contact_Name": "Maximilian Federman",
+                "Yang_Gang_Name": "Santa Monica/West LA",
+                "Primary_Contact_Name": "Cyrus Nemani",
                 "Location": "Santa Monica, California",
                 "Primary_Contact_Email": "socal.yang.gang@gmail.com",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
@@ -1301,7 +1517,7 @@
             "type": "Feature",
             "properties": {
                 "Yang_Gang_Name": "USC",
-                "Primary_Contact_Name": "",
+                "Primary_Contact_Name": "Crystal Park",
                 "Location": "Los Angeles, California",
                 "Primary_Contact_Email": "",
                 "Regional_Organizer_Email": "california.yang.gang@gmail.com",
@@ -1318,6 +1534,30 @@
                 "coordinates": [
                     "-118.2860746",
                     "34.0225608"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Ventura County",
+                "Primary_Contact_Name": "Douglas McFarland, Christy Mcg",
+                "Location": "Camarillo, California",
+                "Primary_Contact_Email": "socal.yang.gang@gmail.com",
+                "Regional_Organizer_Email": "california.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/348745155732320/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "https://california-yang-gang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -119.10409367051477",
+                    "34.222028542260816"
                 ]
             }
         },
@@ -2038,54 +2278,6 @@
                 "coordinates": [
                     " -82.5436722",
                     "27.763383000000022"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "",
-                "Primary_Contact_Name": "",
-                "Location": ", ",
-                "Primary_Contact_Email": "",
-                "Regional_Organizer_Email": "",
-                "Facebook_Group": "",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -82.35493020000001",
-                    "29.64363249999999"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "",
-                "Primary_Contact_Name": "",
-                "Location": ", ",
-                "Primary_Contact_Email": "",
-                "Regional_Organizer_Email": "",
-                "Facebook_Group": "",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-82.3540166",
-                    "29.6453837"
                 ]
             }
         },
@@ -5308,9 +5500,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Edmund",
+                "Yang_Gang_Name": "Edmond",
                 "Primary_Contact_Name": "Lee Gray",
-                "Location": "Edmund, Oklahoma",
+                "Location": "Edmond, Oklahoma",
                 "Primary_Contact_Email": "",
                 "Regional_Organizer_Email": "oklahoma.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/2308785326020320/",
@@ -5324,8 +5516,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -118.20521379999997",
-                    "34.12102690000001"
+                    " -97.5473276334957",
+                    "35.667114829027305"
                 ]
             }
         },
@@ -7390,6 +7582,30 @@
                 "coordinates": [
                     " -88.78786780000001",
                     "43.78443970000001"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Missoula",
+                "Primary_Contact_Name": "Daniel Barthelmeh ",
+                "Location": "Missoula, Montana",
+                "Primary_Contact_Email": "dcbarthelmeh@gmail.com ",
+                "Regional_Organizer_Email": "yanggangmt@gmail.com ",
+                "Facebook_Group": "https://www.facebook.com/groups/569850620212451/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -114.15825018282739",
+                    "46.87623606076037"
                 ]
             }
         },
