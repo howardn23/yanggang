@@ -7110,6 +7110,48 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Arlington, VA Yang and Hang Trivia Night",
+                "Type": "MEETING",
+                "Time": "Thu, Dec 5, 6:00PM-8:30PM EST",
+                "Venue": "Bar Bao",
+                "Address": "3100 Clarendon Blvd<br>Arlington, VA 22201",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166798/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0959712,
+                    38.8861986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "San Mateo, CA - Tabling at San Mateo Farmers' Market",
+                "Type": "COMMUNITY",
+                "Time": "Sat, Dec 7, 9:00AM-1:00PM PST",
+                "Venue": "College of San Mateo Campus",
+                "Address": "1700 W Hillsdale Blvd<br>San Mateo, CA 94402",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166796/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3352856,
+                    37.5354361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Houston, TX - Text Banking Party",
                 "Type": "TEXT_BANK",
                 "Time": "Mon, Dec 9, 6:30PM-8:30PM CST",
@@ -9029,27 +9071,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "McPherson, KA- Yang Gang Hang at McPherson Public Library",
-                "Type": "COMMUNITY",
-                "Time": "Sat, Dec 21, 9:00AM-6:00PM CST",
-                "Venue": "McPherson Public Library",
-                "Address": "214 W Marlin St<br>Front entrance<br>McPherson, KS 67460",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/165515/\">Mobilize US</a>",
-                "marker-color": "#F2A00F",
-                "marker-symbol": "embassy",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.668973,
-                    38.370675
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Washington, D.C. -#HumanityFirst Event  \"Taste For Toys\"",
                 "Type": "COMMUNITY",
                 "Time": "Thu, Dec 5, 6:00PM-9:00PM EST",
@@ -10705,6 +10726,27 @@
                 "coordinates": [
                     -119.29693,
                     34.28145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Durham Canvass!",
+                "Type": "CANVASS",
+                "Time": "Sat, Dec 7, 9:00AM-12:00PM EST",
+                "Venue": "The Works Caf\u00e9",
+                "Address": "5 Mill Rd<br>Durham, NH 03824",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/156521/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9259796,
+                    43.1335816
                 ]
             }
         },
