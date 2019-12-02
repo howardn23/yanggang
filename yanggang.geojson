@@ -6669,6 +6669,27 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Detroit, MI - Crowd-Yanging Event",
+                "Type": "COMMUNITY",
+                "Time": "Sat, Dec 7, 2:00PM-6:00PM EST",
+                "Venue": "Welcome Center",
+                "Address": "42 W Warren Ave<br>Detroit, MI 48202",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166582/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.065142,
+                    42.3570037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Knoxville, TN - Crowd-Yanging Event",
                 "Type": "COMMUNITY",
                 "Time": "Fri, Dec 6, 7:00AM-8:00AM EST",
