@@ -6428,11 +6428,33 @@
         {
             "type": "Feature",
             "properties": {
+                "Group Name": "Prescott-Cottonwood",
+                "Location": "Prescott, Arizona",
+                "Contact": "Brendon Carpenter",
+                "Email": "brendon.e.carpenter@gmail.com",
+                "Regional": "azyanggang@gmail.com",
+                "Twitter": "",
+                "Facebook": "<a href=\"https://www.facebook.com/groups/2577591115641308/\">Facebook Page</a>",
+                "marker-color": "#133467",
+                "marker-symbol": "building",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-112.5239106600308",
+                    "34.59614594126578"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Group Name": "Tucson",
                 "Location": "Tucson, Arizona",
                 "Contact": "Jim Soward",
                 "Email": "jsowar@gmail.com",
-                "Regional": "arizona.yang.gang@gmail.com",
+                "Regional": "azyanggang@gmail.com",
                 "Twitter": "",
                 "Facebook": "<a href=\"https://www.facebook.com/groups/304648126888910/\">Facebook Page</a>",
                 "marker-color": "#133467",
@@ -6452,33 +6474,11 @@
             "properties": {
                 "Group Name": "Phoenix",
                 "Location": "Phoenix, Arizona",
-                "Contact": "Ron Russell",
-                "Email": "Ron@utopia42.com",
-                "Regional": "arizona.yang.gang@gmail.com",
-                "Twitter": "",
+                "Contact": "Lesley Hafalia",
+                "Email": "lhafalia@gmail.com",
+                "Regional": "azyanggang@gmail.com",
+                "Twitter": "https://twitter.com/PhxYangGang",
                 "Facebook": "<a href=\"https://www.facebook.com/groups/PhxAzYangGang/\">Facebook Page</a>",
-                "marker-color": "#133467",
-                "marker-symbol": "building",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -112.07403729999999",
-                    "33.44837710000002"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Group Name": "Phoenix",
-                "Location": "Phoenix, Arizona",
-                "Contact": "Andrew Glitch",
-                "Email": "ag1303@gmail.com",
-                "Regional": "arizona.yang.gang@gmail.com",
-                "Twitter": "",
-                "Facebook": "<a href=\"https://www.facebook.com/groups/384464952332718/\">Facebook Page</a>",
                 "marker-color": "#133467",
                 "marker-symbol": "building",
                 "marker-size": "small"
@@ -6498,7 +6498,7 @@
                 "Location": "Goodyear, Arizona",
                 "Contact": "Jeffrey Hotz",
                 "Email": "Jeffreyjhotz@icloud.com",
-                "Regional": "arizona.yang.gang@gmail.com",
+                "Regional": "azyanggang@gmail.com",
                 "Twitter": "",
                 "Facebook": "<a href=\"https://www.facebook.com/groups/2189321917828416/\">Facebook Page</a>",
                 "marker-color": "#133467",
@@ -6520,7 +6520,7 @@
                 "Location": "Gilbert, Arizona",
                 "Contact": "Danny Weatherly",
                 "Email": "Gilbert.yang.gang@gmail.com",
-                "Regional": "arizona.yang.gang@gmail.com",
+                "Regional": "azyanggang@gmail.com",
                 "Twitter": "",
                 "Facebook": "<a href=\"https://www.facebook.com/groups/891219421228828\">Facebook Page</a>",
                 "marker-color": "#133467",
@@ -6542,7 +6542,7 @@
                 "Location": "Chandler, Arizona",
                 "Contact": "Daniel Shih",
                 "Email": "danieltshih@gmail.com",
-                "Regional": "arizona.yang.gang@gmail.com",
+                "Regional": "azyanggang@gmail.com",
                 "Twitter": "",
                 "Facebook": "<a href=\"https://www.facebook.com/groups/chandleryanggang/\">Facebook Page</a>",
                 "marker-color": "#133467",
@@ -6642,6 +6642,27 @@
                 "coordinates": [
                     " -86.8103567",
                     "33.51858919999999"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Helotes, TX - Canvassing Event",
+                "Type": "CANVASS",
+                "Time": "Sat, Dec 14, 10:00AM-12:00PM CST",
+                "Venue": "Starbucks",
+                "Address": "12577 Bandera Rd<br>Helotes, TX 78023",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166609/\">Mobilize US</a>",
+                "marker-color": "#F2A00F",
+                "marker-symbol": "embassy",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.679635,
+                    29.5603006
                 ]
             }
         },
