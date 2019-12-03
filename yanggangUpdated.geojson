@@ -1,5 +1,5 @@
 {
-    "updated": 1575406865.9985476,
+    "updated": 1575407469.215354,
     "type": "FeatureCollection",
     "features": [
         {
@@ -7821,8 +7821,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -122.75896866392404",
-                    "45.638051548202554"
+                    "-122.6264416",
+                    "45.6375855"
                 ]
             }
         },
@@ -12814,6 +12814,56 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Greenville Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Wed, Dec 4, 10:00AM-1:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
+                "TimeStart": 1575471600,
+                "TimeEnd": 1575482400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Greenville Phonebank",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Wed, Dec 4, 10:00AM-1:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
+                "TimeStart": 1575471600,
+                "TimeEnd": 1575482400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Silicon Valley Yang Gang Hang!",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -12839,31 +12889,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Weekly Yang Gang Volunteer Livestream (for CA calendar)",
-                "Type": "MEETING",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 3, 6:30PM-7:30PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Sacramento, CA 95814",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166735/\">Mobilize US</a>",
-                "Description": "This is a virtual Zoom call.<br><br>A campaign update for all Yang Gang volunteers, run by campaign HQ.",
-                "TimeStart": 1575426600,
-                "TimeEnd": 1575430200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.49558999999999,
-                    38.580568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Weekly Yang Gang Volunteer Livestream",
                 "Type": "OTHER",
                 "Host": "Campaign",
@@ -12883,6 +12908,31 @@
                 "coordinates": [
                     -135,
                     37
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Weekly Yang Gang Volunteer Livestream (for CA calendar)",
+                "Type": "MEETING",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 3, 6:30PM-7:30PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Sacramento, CA 95814",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166735/\">Mobilize US</a>",
+                "Description": "This is a virtual Zoom call.<br><br>A campaign update for all Yang Gang volunteers, run by campaign HQ.",
+                "TimeStart": 1575426600,
+                "TimeEnd": 1575430200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.49558999999999,
+                    38.580568
                 ]
             }
         },
@@ -13209,56 +13259,6 @@
                 "coordinates": [
                     -71.4854541,
                     42.9935691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Phonebank",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 3, 4:00PM-7:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
-                "TimeStart": 1575406800,
-                "TimeEnd": 1575417600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 3, 4:00PM-7:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
-                "TimeStart": 1575406800,
-                "TimeEnd": 1575417600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
                 ]
             }
         }
