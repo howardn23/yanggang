@@ -1,5 +1,5 @@
 {
-    "updated": 1575385273.078967,
+    "updated": 1575385874.5085027,
     "type": "FeatureCollection",
     "features": [
         {
@@ -2143,7 +2143,7 @@
             "properties": {
                 "Yang_Gang_Name": "Fernandina Beach",
                 "Primary_Contact_Name": "Michael Patrick",
-                "Location": "Fernandina Beach, Flroida",
+                "Location": "Fernandina Beach, Florida",
                 "Primary_Contact_Email": "",
                 "Regional_Organizer_Email": "fl.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/YangGangFernandinaBeach/",
@@ -6647,6 +6647,54 @@
                 "coordinates": [
                     " -86.78160159999999",
                     "36.16266380000002"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Clarksville",
+                "Primary_Contact_Name": "Nancy Goggans",
+                "Location": "Clarksville, Tennessee",
+                "Primary_Contact_Email": "ClarksvilleYangGang@gmail.com",
+                "Regional_Organizer_Email": "tennessee.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/ClarksvilleYangGang/",
+                "Twitter": null,
+                "Instagram": null,
+                "Regional_Slack_Workspace": null,
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -87.48670697602746",
+                    "36.560223014385386"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Murfreesboro",
+                "Primary_Contact_Name": "Brally Tea Lewis",
+                "Location": "Murfreesboro, Tennessee",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "tennessee.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/ClarksvilleYangGang/",
+                "Twitter": null,
+                "Instagram": null,
+                "Regional_Slack_Workspace": null,
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -86.49048897384084",
+                    "35.86168162501963"
                 ]
             }
         },
@@ -13115,6 +13163,56 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Greenville Phonebank",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 3, 1:00PM-4:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
+                "TimeStart": 1575396000,
+                "TimeEnd": 1575406800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Greenville Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 3, 1:00PM-4:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
+                "TimeStart": 1575396000,
+                "TimeEnd": 1575406800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "OKC Yang Gang Hang - Taco Tuesday",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -13235,56 +13333,6 @@
                 "coordinates": [
                     -95.392319,
                     29.557467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Phonebank",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 3, 10:00AM-1:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
-                "TimeStart": 1575385200,
-                "TimeEnd": 1575396000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 3, 10:00AM-1:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
-                "TimeStart": 1575385200,
-                "TimeEnd": 1575396000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
                 ]
             }
         }
