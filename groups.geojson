@@ -2116,9 +2116,33 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Daytona Beach",
+                "Primary_Contact_Name": "",
+                "Location": "Daytona Beach, Florida",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "fl.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/349176309339275/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -81.23669529200512",
+                    "29.210193604425246"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Fernandina Beach",
                 "Primary_Contact_Name": "Michael Patrick",
-                "Location": "Fernandina Beach, flroida",
+                "Location": "Fernandina Beach, Flroida",
                 "Primary_Contact_Email": "",
                 "Regional_Organizer_Email": "fl.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/YangGangFernandinaBeach/",
@@ -2254,30 +2278,6 @@
                 "coordinates": [
                     " -81.37923649999999",
                     "28.538335500000002"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Pembroke Pines",
-                "Primary_Contact_Name": "Daniel Patino",
-                "Location": "Pembroke Pines, Florida",
-                "Primary_Contact_Email": "",
-                "Regional_Organizer_Email": "fl.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/543001579556724/",
-                "Twitter": "https://twitter.com/NFyanggang",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -80.29625550000003",
-                    "26.007765000000003"
                 ]
             }
         },
