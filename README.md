@@ -17,13 +17,13 @@ Quick way to resize is to add ?height=600&width=970
 
 yanggang.geojson<br>
 yanggangUpdated.geojson<br>
-&nbsp&nbsp- Yang2020 Mobilize Events and Yang Gang Groups<br>
-&nbsp&nbsp- Both files are exactly the same now<br>
+&nbsp;&nbsp;- Yang2020 Mobilize Events and Yang Gang Groups<br>
+&nbsp;&nbsp;- Both files are exactly the same now<br>
 
 groups.geojson<br>
-&nbsp&nbsp- Only Yang Gang Groups<br>
+&nbsp;&nbsp;- Only Yang Gang Groups<br>
 
 mobilizeEvents.geojson<br>
-&nbsp&nbsp- Only Yang2020 Mobilize Events<br>
+&nbsp;&nbsp;- Only Yang2020 Mobilize Events<br>
 
 
