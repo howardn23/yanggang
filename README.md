@@ -15,15 +15,15 @@ Quick way to resize is to add ?height=600&width=970
 
 
 
-yanggang.geojson
-yanggangUpdated.geojson
-    - Yang2020 Mobilize Events and Yang Gang Groups
-    - Both files are exactly the same now
+yanggang.geojson<br>
+yanggangUpdated.geojson<br>
+    - Yang2020 Mobilize Events and Yang Gang Groups<br>
+    - Both files are exactly the same now<br>
 
-groups.geojson
-    - Only Yang Gang Groups
+groups.geojson<br>
+    - Only Yang Gang Groups<br>
 
-mobilizeEvents.geojson
-    - Only Yang2020 Mobilize Events
+mobilizeEvents.geojson<br>
+    - Only Yang2020 Mobilize Events<br>
 
 
