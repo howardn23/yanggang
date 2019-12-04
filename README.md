@@ -13,17 +13,25 @@ Quick way to resize is to add ?height=600&width=970
 <script src="https://embed.github.com/view/geojson/howardn23/yanggang/master/yanggang.geojson?height=600&width=970"></script>
 ```
 
-
 <br>
-yanggang.geojson<br>
-yanggangUpdated.geojson<br>
+<br>
+Last Commit shows when the last change in data for files.<br>
+&nbsp;&nbsp;groups will reflect last data changes from spreadsheet
+&nbsp;&nbsp;mobilizeEvents will reflect last data changes from mobilize site
+&nbsp;&nbsp;yanggang & yanggangUpdated shows the last time the program was ran
+<br>
+<br>
+Files:
+<br>
+yanggang<br>
+yanggangUpdated<br>
 &nbsp;&nbsp;- Yang2020 Mobilize Events and Yang Gang Groups<br>
 &nbsp;&nbsp;- Both files are exactly the same now<br>
 <br>
-groups.geojson<br>
+groups<br>
 &nbsp;&nbsp;- Only Yang Gang Groups<br>
 <br>
-mobilizeEvents.geojson<br>
+mobilizeEvents<br>
 &nbsp;&nbsp;- Only Yang2020 Mobilize Events<br>
 
 
