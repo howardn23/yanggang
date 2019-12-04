@@ -19,10 +19,10 @@ yanggang.geojson<br>
 yanggangUpdated.geojson<br>
 &nbsp;&nbsp;- Yang2020 Mobilize Events and Yang Gang Groups<br>
 &nbsp;&nbsp;- Both files are exactly the same now<br>
-
+<br>
 groups.geojson<br>
 &nbsp;&nbsp;- Only Yang Gang Groups<br>
-
+<br>
 mobilizeEvents.geojson<br>
 &nbsp;&nbsp;- Only Yang2020 Mobilize Events<br>
 
