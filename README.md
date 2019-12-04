@@ -15,9 +15,9 @@ Quick way to resize is to add ?height=600&width=970
 
 <br>
 <br>
-Last Commit shows when the last change in data for files.<br>
-&nbsp;&nbsp;- groups: last data changes from spreadsheet<br>
-&nbsp;&nbsp;- mobilizeEvents: last data changes from mobilize site<br>
+Last commit shows the lastest changes for each file.<br>
+&nbsp;&nbsp;- groups: most recent data changes from spreadsheet<br>
+&nbsp;&nbsp;- mobilizeEvents: most recent data changes from mobilize site<br>
 &nbsp;&nbsp;- yanggang & yanggangUpdated: most recent program execution<br>
 <br>
 <br>

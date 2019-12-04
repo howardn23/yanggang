@@ -3556,7 +3556,31 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Bangor",
+                "Yang_Gang_Name": "Maine",
+                "Primary_Contact_Name": "Dan Dyer & Jaime Kearney",
+                "Location": ", Maine",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "Maine.Yang.Gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/MaineforYang/",
+                "Twitter": "",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "yang2020newengland.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -69.7794897",
+                    "44.3106241"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Bangor Yang Gang",
                 "Primary_Contact_Name": "Sabrina Williams",
                 "Location": "Bangor, Maine",
                 "Primary_Contact_Email": "",
@@ -3572,42 +3596,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -68.85901918691594",
-                    "44.829647995778366"
+                    " -68.795013",
+                    "44.808147"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Maine",
-                "Primary_Contact_Name": "Dan Dyer & Jaime Kearney",
-                "Location": "Maine, Maine",
-                "Primary_Contact_Email": "",
-                "Regional_Organizer_Email": "Maine.Yang.Gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/MaineforYang/",
-                "Twitter": "",
-                "Instagram": "",
-                "Regional_Slack_Workspace": "yang2020newengland.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -69.44546889999998",
-                    "45.253783"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Portland",
+                "Yang_Gang_Name": "Portland Yang Gang",
                 "Primary_Contact_Name": "Jaime Kearney",
                 "Location": "Portland, Maine",
-                "Primary_Contact_Email": "jaime.yanggang2020@gmail.com",
+                "Primary_Contact_Email": "",
                 "Regional_Organizer_Email": "Maine.Yang.Gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/MaineforYang/",
                 "Twitter": "",
@@ -6332,8 +6332,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -71.4774291",
-                    "41.58009450000001"
+                    " -71.418884",
+                    "41.825226"
                 ]
             }
         },
@@ -7318,6 +7318,126 @@
                 "coordinates": [
                     " -73.07917859999998",
                     "44.8417444"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": null,
+                "Primary_Contact_Name": null,
+                "Location": NaN,
+                "Primary_Contact_Email": null,
+                "Regional_Organizer_Email": null,
+                "Facebook_Group": null,
+                "Twitter": null,
+                "Instagram": null,
+                "Regional_Slack_Workspace": null,
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Brattleboro Yang Gang",
+                "Primary_Contact_Name": "",
+                "Location": "Brattleboro, Vermont",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "Vermont.Yang.Gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/VermontYangGang",
+                "Twitter": "https://twitter.com/vermonters4yang",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "yang2020newengland.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -72.559694 ",
+                    "42.860093"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Burlington Yang Gang",
+                "Primary_Contact_Name": "Macrina Newhouse",
+                "Location": "Burlington, Vermont",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "Vermont.Yang.Gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/VermontYangGang",
+                "Twitter": "https://twitter.com/vermonters4yang",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "yang2020newengland.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -73.2144711",
+                    "44.4756355"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Rutland Yang Gang",
+                "Primary_Contact_Name": "",
+                "Location": "Rutland, Vermont",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "Vermont.Yang.Gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/VermontYangGang",
+                "Twitter": "https://twitter.com/vermonters4yang",
+                "Instagram": "",
+                "Regional_Slack_Workspace": "yang2020newengland.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -73.01347486861016",
+                    "43.608618105306064"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": null,
+                "Primary_Contact_Name": null,
+                "Location": NaN,
+                "Primary_Contact_Email": null,
+                "Regional_Organizer_Email": null,
+                "Facebook_Group": null,
+                "Twitter": null,
+                "Instagram": null,
+                "Regional_Slack_Workspace": null,
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    ""
                 ]
             }
         },
