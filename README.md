@@ -13,7 +13,15 @@ Quick way to resize is to add ?height=600&width=970
 <script src="https://embed.github.com/view/geojson/howardn23/yanggang/master/yanggang.geojson?height=600&width=970"></script>
 ```
 
-yanggang.geojson and yanggangUpdated.geojson are exactly the same
+yanggang.geojson
+yanggangUpdated.geojson
+    - Yang2020 Mobilize Events and Yang Gang Groups
+    - Both files are exactly the same now
 
-groups.geojson: only yang gang groups 
+groups.geojson
+    - Only Yang Gang Groups
+
+mobilizeEvents.geojson
+    - Only Yang2020 Mobilize Events
+
 
