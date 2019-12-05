@@ -1,5 +1,5 @@
 {
-    "updated": 1575521469.5655801,
+    "updated": 1575522065.8674023,
     "type": "FeatureCollection",
     "features": [
         {
@@ -15995,6 +15995,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Corvallis - Tabling at Oregon State University",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 5, 12:00PM-2:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Corvallis, OR 97331",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168143/\">Mobilize US</a>",
+                "Description": "We will be talking to as many students as we can on campus before the winter break starts!  If you can be on campus at NOON to help set up the table, we really need you.  Thank you!  <br><br>Tabling in high traffic locations is one of the easiest and most effective ways to build awareness of the campaign and grow our volunteer base. Come join us to both learn and share about the campaign.",
+                "TimeStart": 1575576000,
+                "TimeEnd": 1575583200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.28041200000001,
+                    44.564606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Missoula, MT - Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -16039,31 +16064,6 @@
                 "coordinates": [
                     -105.12743,
                     40.59304
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Corvallis - Tabling at Oregon State University",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 5, 11:00AM-1:00PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Corvallis, OR 97331",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168143/\">Mobilize US</a>",
-                "Description": "We will be talking to as many students as we can on campus before the winter break starts!  If you can be on campus at 11am to help set up the table, we really need you.  Thank you!  <br><br>Tabling in high traffic locations is one of the easiest and most effective ways to build awareness of the campaign and grow our volunteer base. Come join us to both learn and share about the campaign.",
-                "TimeStart": 1575572400,
-                "TimeEnd": 1575579600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.28041200000001,
-                    44.564606
                 ]
             }
         },
