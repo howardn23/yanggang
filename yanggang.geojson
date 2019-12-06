@@ -1,5 +1,5 @@
 {
-    "updated": 1575654672.3797598,
+    "updated": 1575655270.442733,
     "type": "FeatureCollection",
     "features": [
         {
@@ -16946,6 +16946,56 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Greenville Phonebank",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Fri, Dec 6, 4:00PM-7:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
+                "TimeStart": 1575666000,
+                "TimeEnd": 1575676800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Greenville Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Fri, Dec 6, 4:00PM-7:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
+                "TimeStart": 1575666000,
+                "TimeEnd": 1575676800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Missoula, MT - Signature Gathering",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -17021,6 +17071,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "West Lafayette-Signature Gathering",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Campaign",
+                "Time": "Fri, Dec 6, 2:00PM-3:00PM EST",
+                "Venue": "Purdue Engineering Mall",
+                "Address": "575 W Stadium Ave<br>West Lafayette, IN 47907",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166166/\">Mobilize US</a>",
+                "Description": "We will not win if Andrew Yang is not on the ballots! Our state is currently collecting signatures. Let\u2019s meet at the engineering mall. Please find and review the documentation in this google drive folder: https://bit.ly/2rnDTuQ",
+                "TimeStart": 1575658800,
+                "TimeEnd": 1575662400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.9159101,
+                    40.4297643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "University of Texas Tabling at Tyler",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -17040,81 +17115,6 @@
                 "coordinates": [
                     -95.2558531,
                     32.3116056
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Phonebank",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Fri, Dec 6, 1:00PM-4:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
-                "TimeStart": 1575655200,
-                "TimeEnd": 1575666000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Fri, Dec 6, 1:00PM-4:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
-                "TimeStart": 1575655200,
-                "TimeEnd": 1575666000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "West Lafayette-Signature Gathering",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Campaign",
-                "Time": "Fri, Dec 6, 1:00PM-2:00PM EST",
-                "Venue": "Purdue Engineering Mall",
-                "Address": "575 W Stadium Ave<br>West Lafayette, IN 47907",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166166/\">Mobilize US</a>",
-                "Description": "We will not win if Andrew Yang is not on the ballots! Our state is currently collecting signatures. Let\u2019s meet at the engineering mall. Please find and review the documentation in this google drive folder: https://bit.ly/2rnDTuQ",
-                "TimeStart": 1575655200,
-                "TimeEnd": 1575658800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.9159101,
-                    40.4297643
                 ]
             }
         }
