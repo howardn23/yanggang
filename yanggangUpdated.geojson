@@ -1,5 +1,5 @@
 {
-    "updated": 1575625869.527261,
+    "updated": 1575626465.6905699,
     "type": "FeatureCollection",
     "features": [
         {
@@ -2730,6 +2730,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Big Island",
+                "Primary_Contact_Name": "Jen Hyde",
+                "Location": "Hilo, Hawaii",
+                "Primary_Contact_Email": "",
+                "Regional_Organizer_Email": "HawaiiRO.yang.gang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/2396477030608021/",
+                "Twitter": "",
+                "Instagram": "",
+                "State_Subreddit": "https://www.reddit.com/r/HawaiiForYang/",
+                "Regional_Slack_Workspace": "n-pacific-region.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -155.492351",
+                    "19.616542"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Hawai\u02bbi",
                 "Primary_Contact_Name": "Jalem Correia",
                 "Location": "Honolulu, Hawaii",
@@ -2749,31 +2774,6 @@
                 "coordinates": [
                     " -157.866877",
                     "21.384471"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Maui",
-                "Primary_Contact_Name": "Chris DeGuzman",
-                "Location": "Maui, Hawaii",
-                "Primary_Contact_Email": "mauiyanggang@gmail.com",
-                "Regional_Organizer_Email": "HawaiiRO.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/466391040848407/",
-                "Twitter": "",
-                "Instagram": "",
-                "State_Subreddit": "https://www.reddit.com/r/HawaiiForYang/",
-                "Regional_Slack_Workspace": "n-pacific-region.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " -156.33192529999997",
-                    "20.798362600000015"
                 ]
             }
         },
@@ -2805,12 +2805,12 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Big Island",
-                "Primary_Contact_Name": "Jen Hyde",
-                "Location": "Hilo, Hawaii",
-                "Primary_Contact_Email": "",
+                "Yang_Gang_Name": "Maui",
+                "Primary_Contact_Name": "Chris DeGuzman",
+                "Location": "Maui, Hawaii",
+                "Primary_Contact_Email": "mauiyanggang@gmail.com",
                 "Regional_Organizer_Email": "HawaiiRO.yang.gang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/2396477030608021/",
+                "Facebook_Group": "https://www.facebook.com/groups/466391040848407/",
                 "Twitter": "",
                 "Instagram": "",
                 "State_Subreddit": "https://www.reddit.com/r/HawaiiForYang/",
@@ -2822,8 +2822,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    " -155.492351",
-                    "19.616542"
+                    " -156.33192529999997",
+                    "20.798362600000015"
                 ]
             }
         },
