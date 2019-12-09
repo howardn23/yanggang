@@ -5687,6 +5687,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Priority": "HIGH",
                 "Title": "Pre-Hang Canvass Launch",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -5697,9 +5698,9 @@
                 "Description": "Come join us before the Yang Hang as we talk with voters about Andrew Yang! We'll be going door to door ensure folks hear about Andrew Yang's Humanity First message!",
                 "TimeStart": 1576098000,
                 "TimeEnd": 1576108800,
-                "marker-color": "#F2A00F",
+                "marker-color": "#DA3248",
                 "marker-symbol": "c",
-                "marker-size": "small"
+                "marker-size": "medium"
             },
             "geometry": {
                 "type": "Point",
