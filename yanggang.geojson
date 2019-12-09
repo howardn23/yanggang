@@ -1,5 +1,5 @@
 {
-    "updated": 1575894670.0925767,
+    "updated": 1575895270.9257932,
     "type": "FeatureCollection",
     "features": [
         {
@@ -11659,6 +11659,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Irvine, CA - Phonebanking for New Hampshire",
+                "Type": "PHONE_BANK",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 14, 1:00PM-3:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Irvine, CA 92620",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170624/\">Mobilize US</a>",
+                "Description": "Thanks for signing up to attend this Phone Banking Event! Phone banking has proven to be one of the most effective ways to reach out to voters, especially in the essential early states. We'll be concentrating on New Hampshire - identifying voters and initiating humanity first conversations about Andrew Yang\u2019s platform. <br><br>First timers are welcome. Please take some time to get setup before the event using this phone bank guide: http://bit.ly/Phone_Bank_Guide <br><br>Feel free to bring a potluck of food and drinks to share. Hope you can join us.",
+                "TimeStart": 1576357200,
+                "TimeEnd": 1576364400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.749022,
+                    33.714822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Arlington, Virginia Text Banking Party",
                 "Type": "TEXT_BANK",
                 "Host": "Volunteer",
@@ -11678,31 +11703,6 @@
                 "coordinates": [
                     -77.0705222,
                     38.8967096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Irvine, CA - Phonebanking for New Hampshire",
-                "Type": "PHONE_BANK",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 14, 12:30PM-3:00PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Irvine, CA 92620",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170624/\">Mobilize US</a>",
-                "Description": "Thanks for signing up to attend this Phone Banking Event! Phone banking has proven to be one of the most effective ways to reach out to voters, especially in the essential early states. We'll be concentrating on New Hampshire - identifying voters and initiating humanity first conversations about Andrew Yang\u2019s platform. <br><br>First timers are welcome. Please take some time to get setup before the event using this phone bank guide: http://bit.ly/Phone_Bank_Guide <br><br>Feel free to bring a potluck of food and drinks to share. Hope you can join us.",
-                "TimeStart": 1576355400,
-                "TimeEnd": 1576364400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.749022,
-                    33.714822
                 ]
             }
         },
