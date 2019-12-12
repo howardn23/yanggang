@@ -1,5 +1,5 @@
 {
-    "updated": 1576175471.68946,
+    "updated": 1576176071.4432986,
     "type": "FeatureCollection",
     "features": [
         {
@@ -8130,6 +8130,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Lexington",
+                "Primary_Contact_Name": "Karen Pemberton",
+                "Location": "Lexington, Kentucky",
+                "Primary_Contact_Email": "LexingtonforYang@gmail.com",
+                "Regional_Organizer_Email": "kentuckyforyang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/lexyanggang/",
+                "Twitter": "",
+                "Instagram": "",
+                "State_Subreddit": "https://www.reddit.com/r/kentuckyforyang",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " 84.5037",
+                    "38.0406"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Bowling Green",
                 "Primary_Contact_Name": "Alexis Murry",
                 "Location": "Bowling Green, Kentucky",
@@ -8361,7 +8386,7 @@
                 "Time": "Mon, Jan 20, 7:30PM-9:30PM EST",
                 "Venue": "Shaskeen Pub",
                 "Address": "909 Elm St<br>Manchester, NH 03101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166545/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166545/\">Mobilize US</a>",
                 "Description": "Join us for some good, old fashioned trivia in Manchester! <br><br>Depending on registered attendees, we'll split up into teams or play as one, have some drinks and food, and rock the competition! Trivia runs 7:30pm-9:30pm on Monday nights at the Shaskeen Pub.",
                 "TimeStart": 1579566600,
                 "TimeEnd": 1579573800,
@@ -8386,7 +8411,7 @@
                 "Time": "Mon, Jan 20, 7:30PM-9:30PM EST",
                 "Venue": "Shaskeen Pub",
                 "Address": "909 Elm St<br>Manchester, NH 03101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166545/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166545/\">Mobilize US</a>",
                 "Description": "Join us for some good, old fashioned trivia in Manchester! <br><br>Depending on registered attendees, we'll split up into teams or play as one, have some drinks and food, and rock the competition! Trivia runs 7:30pm-9:30pm on Monday nights at the Shaskeen Pub.",
                 "TimeStart": 1579566600,
                 "TimeEnd": 1579573800,
@@ -8399,31 +8424,6 @@
                 "coordinates": [
                     -71.4627274,
                     42.9912387
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Honolulu, HI - MLK Jr. Parade",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Mon, Jan 20, 8:00AM-12:00PM HST",
-                "Venue": "Magic Island",
-                "Address": "1365 Ala Moana Blvd<br>Honolulu, HI 96814",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170557/\">Mobilize US</a>",
-                "Description": "\"It seems to me that the Civil Rights movement must now begin to organize for the guaranteed annual income.\" - Martin Luther King, Jr.<br><br>Join us in remembrance and celebration of Dr. King on January 20, 2020. We'll be sharing more details about meet up locations and details about our involvement in both the broader Democratic Party's participation as well as our own Hawaii Yang Gang participation. We're calling all local Yangsters for the parade that starts at Magic Island and ends at Kapiolani Park.<br><br>More details will be posted soon!",
-                "TimeStart": 1579543200,
-                "TimeEnd": 1579557600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -157.846439,
-                    21.2845179
                 ]
             }
         },
@@ -8449,6 +8449,31 @@
                 "coordinates": [
                     -122.3948431,
                     37.7766711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Honolulu, HI - MLK Jr. Parade",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Mon, Jan 20, 8:00AM-12:00PM HST",
+                "Venue": "Magic Island",
+                "Address": "1365 Ala Moana Blvd<br>Honolulu, HI 96814",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170557/\">Mobilize US</a>",
+                "Description": "\"It seems to me that the Civil Rights movement must now begin to organize for the guaranteed annual income.\" - Martin Luther King, Jr.<br><br>Join us in remembrance and celebration of Dr. King on January 20, 2020. We'll be sharing more details about meet up locations and details about our involvement in both the broader Democratic Party's participation as well as our own Hawaii Yang Gang participation. We're calling all local Yangsters for the parade that starts at Magic Island and ends at Kapiolani Park.<br><br>More details will be posted soon!",
+                "TimeStart": 1579543200,
+                "TimeEnd": 1579557600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.846439,
+                    21.2845179
                 ]
             }
         },
@@ -8736,7 +8761,7 @@
                 "Time": "Wed, Jan 8, 7:00PM-9:00PM EST",
                 "Venue": "Backyard Brewery",
                 "Address": "1211 S Mammoth Rd<br>Manchester, NH 03109",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166523/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166523/\">Mobilize US</a>",
                 "Description": "Join us for some good, old fashioned trivia in Manchester! <br><br>Depending on registered attendees, we'll split up into teams or play as one, have some drinks and food, and rock the competition! Trivia runs 7pm-9pm on Wednesday nights at the Backyard Brewery.",
                 "TimeStart": 1578528000,
                 "TimeEnd": 1578535200,
@@ -8761,7 +8786,7 @@
                 "Time": "Wed, Jan 8, 7:00PM-9:00PM EST",
                 "Venue": "Backyard Brewery",
                 "Address": "1211 S Mammoth Rd<br>Manchester, NH 03109",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166523/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166523/\">Mobilize US</a>",
                 "Description": "Join us for some good, old fashioned trivia in Manchester! <br><br>Depending on registered attendees, we'll split up into teams or play as one, have some drinks and food, and rock the competition! Trivia runs 7pm-9pm on Wednesday nights at the Backyard Brewery.",
                 "TimeStart": 1578528000,
                 "TimeEnd": 1578535200,
@@ -9061,7 +9086,7 @@
                 "Time": "Wed, Jan 1, 2:30PM-4:00PM EST",
                 "Venue": "Salt Hill Pub - Lebanon",
                 "Address": "2 W Park St<br>Lebanon, NH 03766",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172631/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172631/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang on New Years Day in Lebanon, NH to hear about his vision for the country. Q&A will follow remarks!",
                 "TimeStart": 1577907000,
                 "TimeEnd": 1577912400,
@@ -9086,7 +9111,7 @@
                 "Time": "Wed, Jan 1, 2:30PM-4:00PM EST",
                 "Venue": "Salt Hill Pub - Lebanon",
                 "Address": "2 W Park St<br>Lebanon, NH 03766",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172631/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172631/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang on New Years Day in Lebanon, NH to hear about his vision for the country. Q&A will follow remarks!",
                 "TimeStart": 1577907000,
                 "TimeEnd": 1577912400,
@@ -9111,7 +9136,7 @@
                 "Time": "Wed, Jan 1, 11:45AM-1:15PM EST",
                 "Venue": "The Arbor Restaurant and Function Facility",
                 "Address": "57 Palm St<br>Nashua, NH 03060",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172774/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172774/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang in Nashua to talk about his vision for the country!",
                 "TimeStart": 1577897100,
                 "TimeEnd": 1577902500,
@@ -9136,7 +9161,7 @@
                 "Time": "Wed, Jan 1, 11:45AM-1:15PM EST",
                 "Venue": "The Arbor Restaurant and Function Facility",
                 "Address": "57 Palm St<br>Nashua, NH 03060",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172774/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172774/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang in Nashua to talk about his vision for the country!",
                 "TimeStart": 1577897100,
                 "TimeEnd": 1577902500,
@@ -9211,7 +9236,7 @@
                 "Time": "Tue, Dec 31, 8:30PM-10:00PM EST",
                 "Venue": "Stark Brewing Company",
                 "Address": "500 N Commercial St<br>Manchester, NH 03101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172267/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172267/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang and the Yang Gang in Manchester to kick off your NYE!",
                 "TimeStart": 1577842200,
                 "TimeEnd": 1577847600,
@@ -9236,7 +9261,7 @@
                 "Time": "Tue, Dec 31, 8:30PM-10:00PM EST",
                 "Venue": "Stark Brewing Company",
                 "Address": "500 N Commercial St<br>Manchester, NH 03101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172267/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172267/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang and the Yang Gang in Manchester to kick off your NYE!",
                 "TimeStart": 1577842200,
                 "TimeEnd": 1577847600,
@@ -9286,7 +9311,7 @@
                 "Time": "Tue, Dec 31, 4:00PM-5:30PM EST",
                 "Venue": "Rockingham Brewing Company",
                 "Address": "1 Corporate Park Dr 1<br>Derry, NH 03038",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172647/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172647/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang for a Brew in Derry on NYE!",
                 "TimeStart": 1577826000,
                 "TimeEnd": 1577831400,
@@ -9311,7 +9336,7 @@
                 "Time": "Tue, Dec 31, 4:00PM-5:30PM EST",
                 "Venue": "Rockingham Brewing Company",
                 "Address": "1 Corporate Park Dr 1<br>Derry, NH 03038",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172647/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172647/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang for a Brew in Derry on NYE!",
                 "TimeStart": 1577826000,
                 "TimeEnd": 1577831400,
@@ -9461,7 +9486,7 @@
                 "Time": "Mon, Dec 30, 4:30PM-6:00PM EST",
                 "Venue": "Coffee Coffee",
                 "Address": "326 S Broadway<br>Salem, NH 03079",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172765/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172765/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang in Salem to hear about his vision for the country!",
                 "TimeStart": 1577741400,
                 "TimeEnd": 1577746800,
@@ -9486,7 +9511,7 @@
                 "Time": "Mon, Dec 30, 4:30PM-6:00PM EST",
                 "Venue": "Coffee Coffee",
                 "Address": "326 S Broadway<br>Salem, NH 03079",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172765/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172765/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang in Salem to hear about his vision for the country!",
                 "TimeStart": 1577741400,
                 "TimeEnd": 1577746800,
@@ -9906,31 +9931,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "New York, NY - Yang Overpass Party",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 12:00PM-5:00PM EST",
-                "Venue": "",
-                "Address": "Delancey Street & Mangin Street<br>New York, NY 10002",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172103/\">Mobilize US</a>",
-                "Description": "Let\u2019s wave banners and posters on the pedestrian overpass over the FDR drive by the Williamsburg Bridge.<br><br>Here is a Google Maps satellite view of the overpass:<br>https://www.google.com/maps/@40.7142542,-73.9767054,3a,75y,2.82h,102.37t/data=!3m6!1e1!3m4!1srrv2WyBUQtDhSLfS4QXSDw!2e0!7i16384!8i8192<br><br>Take the F, M, J, or Z trains to Delancey Street and then walk East going straight down Delancey street. Stay on the SOUTH side of the Williamsburg Bridge. <br><br>Here's a view of the entrance to the ramp going up to the overapss:<br>https://www.google.com/maps/@40.7149567,-73.9777557,3a,40.8y,147.77h,88.27t/data=!3m6!1e1!3m4!1swvGh3RiZyKyjbHWqOpsL-w!2e0!7i16384!8i8192<br><br>Dress warmly. Feel free to make/bring your own banners or American flags, etc. I have two LARGE 3'x15' Humanity First banners that I will bring. Feel free to bring music/speakers.",
-                "TimeStart": 1577034000,
-                "TimeEnd": 1577052000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9775844,
-                    40.7148829
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Worcester MA- Yang Overpass Party",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -9950,6 +9950,31 @@
                 "coordinates": [
                     -71.78779300000001,
                     42.289683000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "New York, NY - Yang Overpass Party",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 12:00PM-5:00PM EST",
+                "Venue": "",
+                "Address": "Delancey Street & Mangin Street<br>New York, NY 10002",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172103/\">Mobilize US</a>",
+                "Description": "Let\u2019s wave banners and posters on the pedestrian overpass over the FDR drive by the Williamsburg Bridge.<br><br>Here is a Google Maps satellite view of the overpass:<br>https://www.google.com/maps/@40.7142542,-73.9767054,3a,75y,2.82h,102.37t/data=!3m6!1e1!3m4!1srrv2WyBUQtDhSLfS4QXSDw!2e0!7i16384!8i8192<br><br>Take the F, M, J, or Z trains to Delancey Street and then walk East going straight down Delancey street. Stay on the SOUTH side of the Williamsburg Bridge. <br><br>Here's a view of the entrance to the ramp going up to the overapss:<br>https://www.google.com/maps/@40.7149567,-73.9777557,3a,40.8y,147.77h,88.27t/data=!3m6!1e1!3m4!1swvGh3RiZyKyjbHWqOpsL-w!2e0!7i16384!8i8192<br><br>Dress warmly. Feel free to make/bring your own banners or American flags, etc. I have two LARGE 3'x15' Humanity First banners that I will bring. Feel free to bring music/speakers.",
+                "TimeStart": 1577034000,
+                "TimeEnd": 1577052000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9775844,
+                    40.7148829
                 ]
             }
         },
@@ -10107,16 +10132,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Portland Oregon Yang Gang March and Local Candidates Forum",
+                "Title": "Portland, OR - Yang Overpass Party",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 12:00PM-4:00PM PST",
-                "Venue": "Pioneer Courthouse Square",
-                "Address": "701 SW 6th Ave<br>Portland, OR 97205",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/142755/\">Mobilize US</a>",
-                "Description": "Let's march for Yang  and other UBI-Supporting local  candidates! We will be marching to City Hall  to celebrate UBI and automation  awareness as  well  at  3PM.  Anyone who  wants to  announce  their candidacy  for local politics who support Humanity  First is welcome to do so here!  We're not a cult of personality of one guy, we are a MOVEMENT of many! Be ready to support  HUMANITY FIRST candidates with donations to see Andrew's movement come true!   And remember:<br>Humanity First is love, not hate. We don't hate AI, or  other politicians.<br><br><br>#YangIsOurVoiceButNotOurBrain",
+                "Time": "Sat, Dec 21, 12:00PM-3:00PM PST",
+                "Venue": "",
+                "Address": "1119 SE 96th Ave<br>Portland, OR 97216",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171367/\">Mobilize US</a>",
+                "Description": "Let\u2019s hang Yang banners and wave to motorists at the Mall 205 Pedestrian Bridge!<br><br>We are not just anonymous internet personalities. We need to show that the Yang Gang is real, and that we are enthusiastic about Andrew Yang and his vision for America!<br><br>Wear your Yang gear and bring a large sign if you can. We will also have some extra signs available, so no worries if you can't bring your own. <br><br>We'll have snacks for all wavers! <br><br>Meet Saturday Dec. 21, 12-3PM at the pedestrian bridge connecting SE Salmon St and SE Main St over the I205 between the Stark and Division exits. <br><br>Plenty of nearly parking or take the Max Green Line to SE Main St.",
                 "TimeStart": 1576958400,
-                "TimeEnd": 1576972800,
+                "TimeEnd": 1576969200,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -10124,33 +10149,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.6793478,
-                    45.5189217
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Atlanta, GA - Yang Overpass Party",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 3:00PM-5:00PM EST",
-                "Venue": "I-20 Overpass in Grant Park",
-                "Address": "Cherokee Avenue Southeast & Glenwood Avenue Southeast<br>Atlanta, GA 30312",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172084/\">Mobilize US</a>",
-                "Description": "Let\u2019s show our Yang support to Holiday shoppers and travelers with an Overpass Party in Atlanta! We will meet on Cherokee Ave at the I-20 overpass in Grant Park.",
-                "TimeStart": 1576958400,
-                "TimeEnd": 1576965600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.3733554,
-                    33.7430316
+                    -122.5642189,
+                    45.5140562
                 ]
             }
         },
@@ -10182,16 +10182,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Portland, OR - Yang Overpass Party",
+                "Title": "Atlanta, GA - Yang Overpass Party",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 12:00PM-3:00PM PST",
-                "Venue": "",
-                "Address": "1119 SE 96th Ave<br>Portland, OR 97216",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171367/\">Mobilize US</a>",
-                "Description": "Let\u2019s hang Yang banners and wave to motorists at the Mall 205 Pedestrian Bridge!<br><br>We are not just anonymous internet personalities. We need to show that the Yang Gang is real, and that we are enthusiastic about Andrew Yang and his vision for America!<br><br>Wear your Yang gear and bring a large sign if you can. We will also have some extra signs available, so no worries if you can't bring your own. <br><br>We'll have snacks for all wavers! <br><br>Meet Saturday Dec. 21, 12-3PM at the pedestrian bridge connecting SE Salmon St and SE Main St over the I205 between the Stark and Division exits. <br><br>Plenty of nearly parking or take the Max Green Line to SE Main St.",
+                "Time": "Sat, Dec 21, 3:00PM-5:00PM EST",
+                "Venue": "I-20 Overpass in Grant Park",
+                "Address": "Cherokee Avenue Southeast & Glenwood Avenue Southeast<br>Atlanta, GA 30312",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172084/\">Mobilize US</a>",
+                "Description": "Let\u2019s show our Yang support to Holiday shoppers and travelers with an Overpass Party in Atlanta! We will meet on Cherokee Ave at the I-20 overpass in Grant Park.",
                 "TimeStart": 1576958400,
-                "TimeEnd": 1576969200,
+                "TimeEnd": 1576965600,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -10199,8 +10199,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.5642189,
-                    45.5140562
+                    -84.3733554,
+                    33.7430316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Portland Oregon Yang Gang March and Local Candidates Forum",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 12:00PM-4:00PM PST",
+                "Venue": "Pioneer Courthouse Square",
+                "Address": "701 SW 6th Ave<br>Portland, OR 97205",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/142755/\">Mobilize US</a>",
+                "Description": "Let's march for Yang  and other UBI-Supporting local  candidates! We will be marching to City Hall  to celebrate UBI and automation  awareness as  well  at  3PM.  Anyone who  wants to  announce  their candidacy  for local politics who support Humanity  First is welcome to do so here!  We're not a cult of personality of one guy, we are a MOVEMENT of many! Be ready to support  HUMANITY FIRST candidates with donations to see Andrew's movement come true!   And remember:<br>Humanity First is love, not hate. We don't hate AI, or  other politicians.<br><br><br>#YangIsOurVoiceButNotOurBrain",
+                "TimeStart": 1576958400,
+                "TimeEnd": 1576972800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6793478,
+                    45.5189217
                 ]
             }
         },
@@ -10282,16 +10307,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Queens - Honk For Yang Overpass Party",
+                "Title": "Winston-Salem, NC - Overpass Party",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 12:00PM-3:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Queens, NY 11435",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170559/\">Mobilize US</a>",
-                "Description": "Let\u2019s wave banners and posters on the Van Wyck Expy pedestrian overpass on US-I678.  Located near Jamaica Subway Station.<br><br>Bus: Q20A, Q20B, Q44-SBS, Q54, Q56, Q24, Q60<br><br>Subway: #E Jamaica Van Wyck Subway Station<br><br>Dress warm and bundle up!!",
+                "Time": "Sat, Dec 21, 12:00PM-2:00PM EST",
+                "Venue": "",
+                "Address": "1313 Cunningham St<br>Winston-Salem, NC 27107",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169353/\">Mobilize US</a>",
+                "Description": "For the National PASS THE YANG event, the Winston-Salem Yang Gang are having their first Overpass party! We will be meeting in a neighborhood near the overpass located on 52!<br><br>Bring extra signs, streams, pom-poms, even some scarves or fabric to wave around and dance with. We want to grab as much attention to the sign as possible. We will try to bring music and snacks but try to grab a good meal before you come just in case. You are welcome to bring your own music and snacks if you want! Wear any yang gear if you have any!<br><br>See you there! Let's see how many people honk for yang.",
                 "TimeStart": 1576947600,
-                "TimeEnd": 1576958400,
+                "TimeEnd": 1576954800,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -10299,8 +10324,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.809635,
-                    40.701225
+                    -80.2290598,
+                    36.0818034
                 ]
             }
         },
@@ -10357,16 +10382,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Winston-Salem, NC - Overpass Party",
+                "Title": "Queens - Honk For Yang Overpass Party",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 12:00PM-2:00PM EST",
-                "Venue": "",
-                "Address": "1313 Cunningham St<br>Winston-Salem, NC 27107",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169353/\">Mobilize US</a>",
-                "Description": "For the National PASS THE YANG event, the Winston-Salem Yang Gang are having their first Overpass party! We will be meeting in a neighborhood near the overpass located on 52!<br><br>Bring extra signs, streams, pom-poms, even some scarves or fabric to wave around and dance with. We want to grab as much attention to the sign as possible. We will try to bring music and snacks but try to grab a good meal before you come just in case. You are welcome to bring your own music and snacks if you want! Wear any yang gear if you have any!<br><br>See you there! Let's see how many people honk for yang.",
+                "Time": "Sat, Dec 21, 12:00PM-3:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Queens, NY 11435",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170559/\">Mobilize US</a>",
+                "Description": "Let\u2019s wave banners and posters on the Van Wyck Expy pedestrian overpass on US-I678.  Located near Jamaica Subway Station.<br><br>Bus: Q20A, Q20B, Q44-SBS, Q54, Q56, Q24, Q60<br><br>Subway: #E Jamaica Van Wyck Subway Station<br><br>Dress warm and bundle up!!",
                 "TimeStart": 1576947600,
-                "TimeEnd": 1576954800,
+                "TimeEnd": 1576958400,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -10374,8 +10399,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.2290598,
-                    36.0818034
+                    -73.809635,
+                    40.701225
                 ]
             }
         },
@@ -10582,14 +10607,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Oakland, CA - Debate Watch Party!",
+                "Title": "Clarksville, TN - Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 6:00PM-8:00PM PST",
-                "Venue": "Starline Social Club Ballroom",
-                "Address": "2236 Martin Luther King Jr Way<br>Oakland, CA 94612",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172110/\">Mobilize US</a>",
-                "Description": "Come hang out with the Oakland Yang Gang and watch Andrew Yang at the December Democratic Debate!",
+                "Time": "Thu, Dec 19, 8:00PM-10:00PM CST",
+                "Venue": "Overtime Sports Bar & Grill",
+                "Address": "3025 Mr C Dr<br>Clarksville, TN 37040",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171961/\">Mobilize US</a>",
+                "Description": "Join us for an exciting evening as Andrew Yang brings the MATH to six other candidates.  We'll be watching the 6th Democratic Debate!",
                 "TimeStart": 1576807200,
                 "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
@@ -10599,33 +10624,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.2725223,
-                    37.8122733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Bellingham, WA Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 6:00PM-8:00PM PST",
-                "Venue": "Wild Buffalo House Of Music",
-                "Address": "208 W Holly St<br>Bellingham, WA 98225",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171840/\">Mobilize US</a>",
-                "Description": "Yang Gang will be showing up in force to the Wild Buffalo House of Music for the sixth Democratic debate. Come help cheer on our guy and spread the good word! There will be free pizza (while supplies last).",
-                "TimeStart": 1576807200,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.480425,
-                    48.750798
+                    -87.285921,
+                    36.59153
                 ]
             }
         },
@@ -10657,39 +10657,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Clarksville, TN - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-10:00PM CST",
-                "Venue": "Overtime Sports Bar & Grill",
-                "Address": "3025 Mr C Dr<br>Clarksville, TN 37040",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171961/\">Mobilize US</a>",
-                "Description": "Join us for an exciting evening as Andrew Yang brings the MATH to six other candidates.  We'll be watching the 6th Democratic Debate!",
-                "TimeStart": 1576807200,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.285921,
-                    36.59153
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Parma, OH Debate Watch Party (Dec 19)",
+                "Title": "Winston-Salem Debate Watch Party!",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
                 "Time": "Thu, Dec 19, 8:00PM-10:00PM EST",
-                "Venue": "Ridgewood Inn (Parma)",
-                "Address": "5759 Ridge Rd<br>Parma, OH 44129",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171871/\">Mobilize US</a>",
-                "Description": "Join us for a Democratic Debate Watch Party on Thursday, December 19 at 8:00 pm at the Ridgewood Inn, located at 5759 Ridge Rd in Parma, OH! <br><br>**Credit cards accepted. $10 minimum. ATM within close walking distance at Shell Gas Station and CVS, both located at Ridge/Snow intersection.**<br><br>Co-hosted by the Parma, OH and Cleveland, OH Yang Gangs.<br><br>Tentatively scheduled. Subject to change.<br><br>Debate line-up will include Joe Biden, Pete Buttigieg, Elizabeth Warren, Bernie Sanders, Amy Klobuchar, Tom Steyer, and Andrew Yang.",
+                "Venue": "oSo Eats",
+                "Address": "299 Jonestown Rd<br>Winston-Salem, NC 27104",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172243/\">Mobilize US</a>",
+                "Description": "It's official! Andrew Yang has officially qualified for the 6th democratic debate! With only six other candidates to go up against so far, Yang gang will be meeting up on this day to support him. There will be foods and drinks available to order. Please bring friends and wear your yang gear! See you there!",
                 "TimeStart": 1576803600,
                 "TimeEnd": 1576810800,
                 "marker-color": "#F2A00F",
@@ -10699,72 +10674,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.7342367,
-                    41.4058365
+                    -80.3355102,
+                    36.0760647
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "Yang December Debate Watch Party in Reno!",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 5:00PM-8:00PM PST",
-                "Venue": "4TH Street Bar Reno",
-                "Address": "1114 E 4th St<br>Reno, NV 89512",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172004/\">Mobilize US</a>",
-                "Description": "Join us for a December debate watch party in Reno at 4th Street Bar! All are welcome to join whether you support Andrew Yang for President or you're just curious about his vision for the country!<br><br>We'll have free Yang merchandise for folks who attend. There will also be a Yang field organizer from the Reno campaign office in attendance to answer questions and meet folks.<br><br>If you have any questions or concerns, please don't hesitate to contact jeremycohen@gmail.com",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.7987163,
-                    39.5326104
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Yang December Debate Watch Party in Hanover!",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "",
-                "Address": "8 Low Rd<br>Hanover, NH 03755",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171856/\">Mobilize US</a>",
-                "Description": "Join us for a December debate watch party in Hanover at the home of Erick Lansigan! All are welcome to join whether you support Andrew Yang for President or you're just curious about his vision for the country!<br><br>We'll have free Yang merchandise for folks who attend. There will also be a Yang field organizer from the Lebanon campaign office in attendance to answer questions and meet folks.<br><br>If you have any questions or concerns, please don't hesitate to contact kinley@yang2020.com.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.2662913,
-                    43.7066173
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Trenton Yang Gang Debate Watch Party",
+                "Title": "Milwaukee, WI - 6th Democratic Presidential Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Championship Bar and Music Club",
-                "Address": "931 Chambers St<br>Trenton, NJ 08611",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172290/\">Mobilize US</a>",
-                "Description": "Join the Trenton Yang Gang for the 6th Democratic Debate. We'll be showing the debate on the projection screen in the back room (through the door past the pool tables) <br><br>Feel free to bring snacks.",
+                "Time": "Thu, Dec 19, 7:00PM-10:00PM CST",
+                "Venue": "Bounce Milwaukee",
+                "Address": "2801 S 5th Ct<br>Milwaukee, WI 53207",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172237/\">Mobilize US</a>",
+                "Description": "The Milwaukee Yang Gang will be joining the Democratic Party of Milwaukee County at their debate watch party! Come show your support for Andrew Yang! At the last watch party we were the the biggest group of supporters for a single candidate! The venue has food, and is family friendly! See you there!",
                 "TimeStart": 1576803600,
                 "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
@@ -10774,22 +10699,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.7391476,
-                    40.2115554
+                    -87.9172224,
+                    42.9937376
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "St. Pete, FL - 6th Presidential Primary Debate Watch",
-                "Type": "COMMUNITY",
+                "Title": "Tampa, FL - 6th Presidential Primary Debate Watch",
+                "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
                 "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "The Galley: A St. Pete Tavern",
-                "Address": "27 4th St N<br>St. Petersburg, FL 33701",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171780/\">Mobilize US</a>",
-                "Description": "Join us at The Ship's Hold of The Galley in downtown St. Pete for the 6th Presidential Primary Debate Watch Party, hosted by the Tampa Bay Yang Gang. Supporters of all candidates are welcome. The Galley has an excellent selection of delicious food and a wide variety of drinks. We look forward to seeing you! \ud83c\udf89\ud83c\uddfa\ud83c\uddf8<br><br>*The Ship's Hold is a special event space next door to The Galley.  Look for the double doors just down the street from The Galley entrance.",
+                "Venue": "Winners Sports Grill",
+                "Address": "6254 Gunn Hwy<br>Tampa, FL 33625",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172249/\">Mobilize US</a>",
+                "Description": "Winners Sports Grill and the Tampa Bay Yang Gang will be hosting the 6th Presidential Primary Debate Watch open to everyone and supporters of all candidates. Debate starts at 8pm. Come hang out with us! \ud83c\udf89\ud83d\ude4c",
                 "TimeStart": 1576803600,
                 "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
@@ -10799,8 +10724,83 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.638228,
-                    27.771818
+                    -82.5533711,
+                    28.064111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Holiday and Debate Watch Party in Lebanon!",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Andrew Yang's Lebanon Campaign Office",
+                "Address": "24 Hanover St 8A<br>Lebanon, NH 03766",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/170573/\">Mobilize US</a>",
+                "Description": "Join the local Yang campaign staff and community members supportive of Andrew's vision at the Yang office in Lebanon for a holiday/debate watch party.  All are welcome to join whether you support Andrew or you're just curious about his vision for the country!<br><br>This party will be a potluck, but no worries if you can't bring anything - we will have food and light refreshments for everyone. BYOB. <br><br>There will be Yang trivia for swag during commercial breaks and the largest group that shows up will get their choice between free MATH hats or a coveted 4' x 8' Yang yard sign.<br><br>If you have any questions or concerns, please don't hesitate to contact molly@yang2020.com.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.253646,
+                    43.6426878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Johnson County, KS -  Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 7:00PM-10:00PM CST",
+                "Venue": "Johnson County Democratic Party Headquarters",
+                "Address": "8971 W 75th St<br>Overland Park, KS 66204",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172214/\">Mobilize US</a>",
+                "Description": "Wear your Yang 2020 merch as we join the JoCo Dems for their December debate watch party! Bring cookies for sharing if you are able.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.689562,
+                    38.9925764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Phoenixville PA - Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Molly Maguire's Irish Pub and Restaurant",
+                "Address": "197 Bridge St<br>2nd Floor<br>Phoenixville, PA 19460",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167615/\">Mobilize US</a>",
+                "Description": "The December debates are coming up and Yang is gaining momentum! Rock your merch when you join us  and other Dems on the 2nd Floor of Molly Maguire's Pub to cheer on our guy and discuss the issues presented in this 6th debate.<br><br>The kitchen and bar will be available  for refreshments. <br><br>Please make sure to RSVP ASAP, so that we can ensure the Pub is adequately staffed and we can keep you posted about the time of the debate since it wasn't published as of the creation of this event.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5160917,
+                    40.1341442
                 ]
             }
         },
@@ -10832,14 +10832,239 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Abbeville - Greenwood Debate Watch Party!",
+                "Title": "Yang December Debate Watch Party in Hanover!",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "",
+                "Address": "8 Low Rd<br>Hanover, NH 03755",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/171856/\">Mobilize US</a>",
+                "Description": "Join us for a December debate watch party in Hanover at the home of Erick Lansigan! All are welcome to join whether you support Andrew Yang for President or you're just curious about his vision for the country!<br><br>We'll have free Yang merchandise for folks who attend. There will also be a Yang field organizer from the Lebanon campaign office in attendance to answer questions and meet folks.<br><br>If you have any questions or concerns, please don't hesitate to contact kinley@yang2020.com.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2662913,
+                    43.7066173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Yang December Debate Watch Party in Reno!",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 5:00PM-8:00PM PST",
+                "Venue": "4TH Street Bar Reno",
+                "Address": "1114 E 4th St<br>Reno, NV 89512",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172004/\">Mobilize US</a>",
+                "Description": "Join us for a December debate watch party in Reno at 4th Street Bar! All are welcome to join whether you support Andrew Yang for President or you're just curious about his vision for the country!<br><br>We'll have free Yang merchandise for folks who attend. There will also be a Yang field organizer from the Reno campaign office in attendance to answer questions and meet folks.<br><br>If you have any questions or concerns, please don't hesitate to contact jeremycohen@gmail.com",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.7987163,
+                    39.5326104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Parma, OH Debate Watch Party (Dec 19)",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 8:00PM-10:00PM EST",
+                "Venue": "Ridgewood Inn (Parma)",
+                "Address": "5759 Ridge Rd<br>Parma, OH 44129",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171871/\">Mobilize US</a>",
+                "Description": "Join us for a Democratic Debate Watch Party on Thursday, December 19 at 8:00 pm at the Ridgewood Inn, located at 5759 Ridge Rd in Parma, OH! <br><br>**Credit cards accepted. $10 minimum. ATM within close walking distance at Shell Gas Station and CVS, both located at Ridge/Snow intersection.**<br><br>Co-hosted by the Parma, OH and Cleveland, OH Yang Gangs.<br><br>Tentatively scheduled. Subject to change.<br><br>Debate line-up will include Joe Biden, Pete Buttigieg, Elizabeth Warren, Bernie Sanders, Amy Klobuchar, Tom Steyer, and Andrew Yang.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7342367,
+                    41.4058365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Yang December Debate Watch Party in Hanover!",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "",
+                "Address": "8 Low Rd<br>Hanover, NH 03755",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171856/\">Mobilize US</a>",
+                "Description": "Join us for a December debate watch party in Hanover at the home of Erick Lansigan! All are welcome to join whether you support Andrew Yang for President or you're just curious about his vision for the country!<br><br>We'll have free Yang merchandise for folks who attend. There will also be a Yang field organizer from the Lebanon campaign office in attendance to answer questions and meet folks.<br><br>If you have any questions or concerns, please don't hesitate to contact kinley@yang2020.com.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2662913,
+                    43.7066173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Bellingham, WA Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 5:00PM-7:00PM PST",
+                "Venue": "Wild Buffalo House Of Music",
+                "Address": "208 W Holly St<br>Bellingham, WA 98225",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171840/\">Mobilize US</a>",
+                "Description": "Yang Gang will be showing up in force to the Wild Buffalo House of Music for the sixth Democratic debate. Come help cheer on our guy and spread the good word! There will be free pizza (while supplies last).",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.480425,
+                    48.750798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "St. Pete, FL - 6th Presidential Primary Debate Watch",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "The Galley: A St. Pete Tavern",
+                "Address": "27 4th St N<br>St. Petersburg, FL 33701",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171780/\">Mobilize US</a>",
+                "Description": "Join us at The Ship's Hold of The Galley in downtown St. Pete for the 6th Presidential Primary Debate Watch Party, hosted by the Tampa Bay Yang Gang. Supporters of all candidates are welcome. The Galley has an excellent selection of delicious food and a wide variety of drinks. We look forward to seeing you! \ud83c\udf89\ud83c\uddfa\ud83c\uddf8<br><br>*The Ship's Hold is a special event space next door to The Galley.  Look for the double doors just down the street from The Galley entrance.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.638228,
+                    27.771818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Charleston, SC - Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Charleston Yang Gang Office",
+                "Address": "74 Reid St<br>Charleston, SC 29403",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171751/\">Mobilize US</a>",
+                "Description": "Thursday, December 19th at 8:00PM to 11:00PM<br><br>Yang Gang! Come join us for food, fun and debate watching!",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9377954,
+                    32.7927425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "\ud83d\udcfaLos Angeles, CA - Debate Watch Party at Hyperion Public (Silver Lake)",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 5:00PM-9:00PM PST",
+                "Venue": "Hyperion Public (Silver Lake)",
+                "Address": "2538 Hyperion Ave<br>Los Angeles, CA 90027",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171721/\">Mobilize US</a>",
+                "Description": "Join us at HYPERION PUBLIC (SILVER LAKE) on Thursday, 12/19 to watch the debate! The viewing area is open to the public, so there will be supporters from various candidates. Be sure to wear your Yang 2020 gear and feel free to bring friends. We will meet an hour before the debate starts to grab seats and Yang Hang.<br><br>\u23f1\ufe0fDebate time TBA<br>\ud83c\udf54Happy hour food & drinks from 3pm-6pm.<br>\ud83d\ude98Street parking available, or small parking lot in the back.<br><br>The 6th Democratic Presidential debate will take place in Los Angeles, CA and be co-hosted by PBS NewsHour and Politico.<br><br>(Please RSVP so we can get a better head count... Thank you!)",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576818000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2727156,
+                    34.1053532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Rochester, NY - Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 8:00PM-10:00PM EST",
+                "Venue": "",
+                "Address": "765 East Ridge Road<br>Rochester, NY 14621",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171714/\">Mobilize US</a>",
+                "Description": "Come watch Andrew kill it on the debate stage!",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5972819,
+                    43.1960954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Lancaster, PA - Democratic Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
                 "Time": "Thu, Dec 19, 8:00PM-11:30PM EST",
-                "Venue": "",
-                "Address": "2526 Montague Ave Ext<br>Greenwood, SC 29649",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171566/\">Mobilize US</a>",
-                "Description": "Come hang out and support Andrew Yang at the first debate watch party in the Abbeville/Greenwood area! December 19th is the last debate of this year. Invite your friends and family! Snacks will be provided.",
+                "Venue": "Tellus360",
+                "Address": "24 E King St<br>Lancaster, PA 17602",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171685/\">Mobilize US</a>",
+                "Description": "Thursday, December 19th at 8:00PM to 11:30PM<br><br>Yang Gang, we\u2019ve worked hard to get here, let\u2019s celebrate!",
                 "TimeStart": 1576803600,
                 "TimeEnd": 1576816200,
                 "marker-color": "#F2A00F",
@@ -10849,8 +11074,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.210677,
-                    34.2407745
+                    -76.3045208,
+                    40.0379231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Tulsa, OK - Presidential Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:00PM-10:00PM CST",
+                "Venue": "Tulsa Press Club & Benevolent",
+                "Address": "415 S Boston Ave 23<br>Tulsa, OK 74103",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171661/\">Mobilize US</a>",
+                "Description": "Thursday, December 19th at 7:00PM to 10:00PM<br><br>21+ No outside drinks. Come out, show support for Andrew Yang, and meet the local Yang Gang! Doors will be open earlier with the bar open for business, and we'll set up around 6pm.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9888908,
+                    36.1525188
                 ]
             }
         },
@@ -10882,16 +11132,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Tulsa, OK - Presidential Debate Watch Party",
+                "Title": "Abbeville - Greenwood Debate Watch Party!",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-10:00PM CST",
-                "Venue": "Tulsa Press Club & Benevolent",
-                "Address": "415 S Boston Ave 23<br>Tulsa, OK 74103",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171661/\">Mobilize US</a>",
-                "Description": "Thursday, December 19th at 7:00PM to 10:00PM<br><br>21+ No outside drinks. Come out, show support for Andrew Yang, and meet the local Yang Gang! Doors will be open earlier with the bar open for business, and we'll set up around 6pm.",
+                "Time": "Thu, Dec 19, 8:00PM-11:30PM EST",
+                "Venue": "",
+                "Address": "2526 Montague Ave Ext<br>Greenwood, SC 29649",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171566/\">Mobilize US</a>",
+                "Description": "Come hang out and support Andrew Yang at the first debate watch party in the Abbeville/Greenwood area! December 19th is the last debate of this year. Invite your friends and family! Snacks will be provided.",
                 "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
+                "TimeEnd": 1576816200,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -10899,8 +11149,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.9888908,
-                    36.1525188
+                    -82.210677,
+                    34.2407745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Oakland, CA - Debate Watch Party!",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 5:00PM-7:00PM PST",
+                "Venue": "Starline Social Club Ballroom",
+                "Address": "2236 Martin Luther King Jr Way<br>Oakland, CA 94612",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172110/\">Mobilize US</a>",
+                "Description": "Come hang out with the Oakland Yang Gang and watch Andrew Yang at the December Democratic Debate!",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2725223,
+                    37.8122733
                 ]
             }
         },
@@ -10982,14 +11257,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Johnson County, KS -  Debate Watch Party",
+                "Title": "Debate Watch Party - Manchester NH",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Campaign",
-                "Time": "Thu, Dec 19, 7:00PM-10:00PM CST",
-                "Venue": "Johnson County Democratic Party Headquarters",
-                "Address": "8971 W 75th St<br>Overland Park, KS 66204",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172214/\">Mobilize US</a>",
-                "Description": "Wear your Yang 2020 merch as we join the JoCo Dems for their December debate watch party! Bring cookies for sharing if you are able.",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Manchester Field Office - Yang2020",
+                "Address": "489 Amory St<br>Manchester, NH 03102",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166501/\">Mobilize US</a>",
+                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
                 "TimeStart": 1576803600,
                 "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
@@ -10999,183 +11274,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -94.689562,
-                    38.9925764
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Charleston, SC - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Charleston Yang Gang Office",
-                "Address": "74 Reid St<br>Charleston, SC 29403",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171751/\">Mobilize US</a>",
-                "Description": "Thursday, December 19th at 8:00PM to 11:00PM<br><br>Yang Gang! Come join us for food, fun and debate watching!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.9377954,
-                    32.7927425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Lancaster, PA - Democratic Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-11:30PM EST",
-                "Venue": "Tellus360",
-                "Address": "24 E King St<br>Lancaster, PA 17602",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171685/\">Mobilize US</a>",
-                "Description": "Thursday, December 19th at 8:00PM to 11:30PM<br><br>Yang Gang, we\u2019ve worked hard to get here, let\u2019s celebrate!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576816200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.3045208,
-                    40.0379231
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Rochester, NY - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-10:00PM EST",
-                "Venue": "",
-                "Address": "765 East Ridge Road<br>Rochester, NY 14621",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171714/\">Mobilize US</a>",
-                "Description": "Come watch Andrew kill it on the debate stage!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.5972819,
-                    43.1960954
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Milwaukee, WI - 6th Democratic Presidential Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-10:00PM CST",
-                "Venue": "Bounce Milwaukee",
-                "Address": "2801 S 5th Ct<br>Milwaukee, WI 53207",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172237/\">Mobilize US</a>",
-                "Description": "The Milwaukee Yang Gang will be joining the Democratic Party of Milwaukee County at their debate watch party! Come show your support for Andrew Yang! At the last watch party we were the the biggest group of supporters for a single candidate! The venue has food, and is family friendly! See you there!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.9172224,
-                    42.9937376
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Winston-Salem Debate Watch Party!",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-10:00PM EST",
-                "Venue": "oSo Eats",
-                "Address": "299 Jonestown Rd<br>Winston-Salem, NC 27104",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172243/\">Mobilize US</a>",
-                "Description": "It's official! Andrew Yang has officially qualified for the 6th democratic debate! With only six other candidates to go up against so far, Yang gang will be meeting up on this day to support him. There will be foods and drinks available to order. Please bring friends and wear your yang gear! See you there!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.3355102,
-                    36.0760647
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Tampa, FL - 6th Presidential Primary Debate Watch",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Winners Sports Grill",
-                "Address": "6254 Gunn Hwy<br>Tampa, FL 33625",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172249/\">Mobilize US</a>",
-                "Description": "Winners Sports Grill and the Tampa Bay Yang Gang will be hosting the 6th Presidential Primary Debate Watch open to everyone and supporters of all candidates. Debate starts at 8pm. Come hang out with us! \ud83c\udf89\ud83d\ude4c",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.5533711,
-                    28.064111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "\ud83d\udcfaLos Angeles, CA - Debate Watch Party at Hyperion Public (Silver Lake)",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 5:00PM-9:00PM PST",
-                "Venue": "Hyperion Public (Silver Lake)",
-                "Address": "2538 Hyperion Ave<br>Los Angeles, CA 90027",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171721/\">Mobilize US</a>",
-                "Description": "Join us at HYPERION PUBLIC (SILVER LAKE) on Thursday, 12/19 to watch the debate! The viewing area is open to the public, so there will be supporters from various candidates. Be sure to wear your Yang 2020 gear and feel free to bring friends. We will meet an hour before the debate starts to grab seats and Yang Hang.<br><br>\u23f1\ufe0fDebate time TBA<br>\ud83c\udf54Happy hour food & drinks from 3pm-6pm.<br>\ud83d\ude98Street parking available, or small parking lot in the back.<br><br>The 6th Democratic Presidential debate will take place in Los Angeles, CA and be co-hosted by PBS NewsHour and Politico.<br><br>(Please RSVP so we can get a better head count... Thank you!)",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.2727156,
-                    34.1053532
+                    -71.4854541,
+                    42.9935691
                 ]
             }
         },
@@ -11207,231 +11307,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Yang December Debate Watch Party in New London!",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Peter Christian's Tavern",
-                "Address": "195 Main St<br>New London, NH 03257",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/173098/\">Mobilize US</a>",
-                "Description": "Join us for a December debate watch party in New London at Peter Christian's Tavern! All are welcome to join whether you support Andrew Yang for President or you're just curious about his vision for the country!<br><br>We'll have free Yang merchandise for folks who attend! There will also be representatives from the campaign in attendance to answer questions. <br><br>If you have any questions or concerns, please don't hesitate to contact mattjones@yang2020.com.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.988014,
-                    43.416748
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Salt Lake County Democratic Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 6:00PM-8:00PM MST",
-                "Venue": "Salt Lake County North Building",
-                "Address": "2001 S State St<br>Salt Lake City, UT 84190",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169738/\">Mobilize US</a>",
-                "Description": "Join us for treats and a debate watch party. Let's show them our Yang Gang strength. It is in the north building, enter on the east side. <br><br>We are excited to invite you to our Holiday Party on Thursday, December 19, 2019. We will have a cookie walk, hot chocolate bar, and will be watching the Democratic Presidential Debate. Come for the cookies, stay for the debate!<br><br>What is a cookie walk? A cookie walk is a sale of holiday cookies baked by volunteers (sign up to bake cookies for the cookie walk here http://bit.ly/381aQy2). With so many different holiday cookies to choose from, guests will buy empty boxes and walk through the various tables, filling their box with all the cookies!<br><br>We will provide hot chocolate and all the fixings. For an extra special treat, watch the Democratic Presidential Debate with us!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.8874919,
-                    40.7267221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Debate Watch Party - Manchester NH",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Manchester Field Office - Yang2020",
-                "Address": "489 Amory St<br>Manchester, NH 03102",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166501/\">Mobilize US</a>",
-                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.4854541,
-                    42.9935691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Houston, TX - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-9:00PM CST",
-                "Venue": "Luigi's Ristorante Italiano",
-                "Address": "12779 Jones Rd<br>Houston, TX 77070",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172916/\">Mobilize US</a>",
-                "Description": "If you're in NW Houston, come out to Luigi's Ristorante Italiano on Jones Road. Eat some dinner or just grab a drink. Let's celebrate his making the December debates together! After the debate, we can talk about Yang\u2019s performance. See ya there!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.5858132,
-                    29.9586048
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Rock Hill, SC - 6th Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "",
-                "Address": "1146 E White St<br>Rock Hill, SC 29730",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167906/\">Mobilize US</a>",
-                "Description": "Come join us in Rock Hill SC as we watch Andrew participate in the 6th Democratic debate on December 19th!<br><br>We will be meeting 30 minutes before the debate starts, the event is open to anyone so please bring friends and loved ones!<br><br>Our watch location will be finalized the week of the event,  the current location is the Yang 2020 campaign office in Rock Hill SC.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Fort Collins Debate Watch",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 6:00PM-8:00PM MST",
-                "Venue": "The Hop Grenade",
-                "Address": "347 E Foothills Pkwy #120<br>Fort Collins, CO 80525",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172955/\">Mobilize US</a>",
-                "Description": "Watch the 6th Democratic Primary debate and enjoy food and drinks with your fellow Yang Gang folks.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.0733257,
-                    40.5421128
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Phoenixville PA - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Molly Maguire's Irish Pub and Restaurant",
-                "Address": "197 Bridge St<br>2nd Floor<br>Phoenixville, PA 19460",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167615/\">Mobilize US</a>",
-                "Description": "The December debates are coming up and Yang is gaining momentum! Rock your merch when you join us  and other Dems on the 2nd Floor of Molly Maguire's Pub to cheer on our guy and discuss the issues presented in this 6th debate.<br><br>The kitchen and bar will be available  for refreshments. <br><br>Please make sure to RSVP ASAP, so that we can ensure the Pub is adequately staffed and we can keep you posted about the time of the debate since it wasn't published as of the creation of this event.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.5160917,
-                    40.1341442
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Corvallis, OR - Debate Watch Party at The Pig and Olive",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 5:00PM-8:30PM PST",
-                "Venue": "The Pig and Olive",
-                "Address": "151 NW Monroe Ave 102<br>Corvallis, OR 97330",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172975/\">Mobilize US</a>",
-                "Description": "Where: The Pig and Olive (formerly DeMaggios), next to Taco Vino<br>When: Thursday, Dec. 19 @ 5-ish.<br><br>Join the Corvallis Yang Gang and friends to watch the 6th Democratic Debate.  If this will be your first local event, then WELCOME!<br><br>DeMaggio's has been great for the last two debates, and they have totally re-branded to add steaks and sandwiches to the menu, and still some pizza.  <br><br>No official time has been set for the debate, but will most likely start at 5 or 6 pm. Will adjust time as necessary.<br><br>Please feel free to bring friends or family, and hope to see you there!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576816200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.2588828,
-                    44.5640414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Debate Watch Party - Merrimack NH",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Rung Family Home",
-                "Address": "21 Ministerial Dr<br>Merrimack, NH 03054",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166515/\">Mobilize US</a>",
-                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.4869361,
-                    42.8833386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Debate Watch Party - Nashua NH",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Campaign",
@@ -11457,14 +11332,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Honolulu, HI - December Debate Watch Party",
+                "Title": "Trenton Yang Gang Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 3:00PM-6:00PM HST",
-                "Venue": "Manoa Gardens / Bale",
-                "Address": "2445 Campus Rd<br>Honolulu, HI 96822",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173030/\">Mobilize US</a>",
-                "Description": "The December debates are coming up and Yang is gaining momentum! Join us on UH Manoa Campus at Manoa Gardens / Bale. Look for people in the Yang gear and the tables reserved for #partyofyang.<br><br>After the debate, we can talk about Yang\u2019s performance and upcoming volunteering opportunities.<br><br>For more information about visitor parking visit http://manoa.hawaii.edu/commuter/visitor.php",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Championship Bar and Music Club",
+                "Address": "931 Chambers St<br>Trenton, NJ 08611",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172290/\">Mobilize US</a>",
+                "Description": "Join the Trenton Yang Gang for the 6th Democratic Debate. We'll be showing the debate on the projection screen in the back room (through the door past the pool tables) <br><br>Feel free to bring snacks.",
                 "TimeStart": 1576803600,
                 "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
@@ -11474,33 +11349,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -157.8196991,
-                    21.2988157
+                    -74.7391476,
+                    40.2115554
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "Dallas, Texas - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-9:00PM CST",
-                "Venue": "Ross & Hall Beer Garten + Kitchen",
-                "Address": "3300 Ross Ave<br>Dallas, TX 75204",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172847/\">Mobilize US</a>",
-                "Description": "Come meet the Dallas Yang Gang to watch and celebrate the December Democratic Debates! Call or text Kennedy at (469) 684-4062 with questions.",
+                "Title": "Debate Watch (Holiday) Party - Madbury NH!",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Jack's House",
+                "Address": "182 Madbury Rd<br>Madbury, NH 03823",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168994/\">Mobilize US</a>",
+                "Description": "Come watch the December debate when Andrew WILL make his biggest splash yet! This is going to be the real inflection point everyone! Let's support Andrew while enjoying the company of Humanity-First-minded people.... annnnd we can enjoy the Holiday!<br><br>:D",
                 "TimeStart": 1576803600,
-                "TimeEnd": 1576810800,
+                "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.7886773,
-                    32.7953618
+                    -70.9362664,
+                    43.1649705
                 ]
             }
         },
@@ -11532,150 +11407,75 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Debate Watch Party - Manchester NH",
+                "Title": "Corvallis, OR - Debate Watch Party at The Pig and Olive",
                 "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Manchester Field Office - Yang2020",
-                "Address": "489 Amory St<br>Manchester, NH 03102",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166501/\">Mobilize US</a>",
-                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 5:00PM-8:30PM PST",
+                "Venue": "The Pig and Olive",
+                "Address": "151 NW Monroe Ave 102<br>Corvallis, OR 97330",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172975/\">Mobilize US</a>",
+                "Description": "Where: The Pig and Olive (formerly DeMaggios), next to Taco Vino<br>When: Thursday, Dec. 19 @ 5-ish.<br><br>Join the Corvallis Yang Gang and friends to watch the 6th Democratic Debate.  If this will be your first local event, then WELCOME!<br><br>DeMaggio's has been great for the last two debates, and they have totally re-branded to add steaks and sandwiches to the menu, and still some pizza.  <br><br>No official time has been set for the debate, but will most likely start at 5 or 6 pm. Will adjust time as necessary.<br><br>Please feel free to bring friends or family, and hope to see you there!",
                 "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
+                "TimeEnd": 1576816200,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.4854541,
-                    42.9935691
+                    -123.2588828,
+                    44.5640414
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "Debate Watch Party - Nashua NH",
+                "Title": "Rock Hill, SC - 6th Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Nashua Field Office - Yang2020",
-                "Address": "115 Main St<br>Suite 301<br>Nashua, NH 03060",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166512/\">Mobilize US</a>",
-                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.4662371,
-                    42.7620077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Debate Watch Party - Merrimack NH",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Rung Family Home",
-                "Address": "21 Ministerial Dr<br>Merrimack, NH 03054",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166515/\">Mobilize US</a>",
-                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.4869361,
-                    42.8833386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Debate Watch (Holiday) Party - Madbury NH!",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Jack's House",
-                "Address": "182 Madbury Rd<br>Madbury, NH 03823",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/168994/\">Mobilize US</a>",
-                "Description": "Come watch the December debate when Andrew WILL make his biggest splash yet! This is going to be the real inflection point everyone! Let's support Andrew while enjoying the company of Humanity-First-minded people.... annnnd we can enjoy the Holiday!<br><br>:D",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.9362664,
-                    43.1649705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Holiday and Debate Watch Party in Lebanon!",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Andrew Yang's Lebanon Campaign Office",
-                "Address": "24 Hanover St 8A<br>Lebanon, NH 03766",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/170573/\">Mobilize US</a>",
-                "Description": "Join the local Yang campaign staff and community members supportive of Andrew's vision at the Yang office in Lebanon for a holiday/debate watch party.  All are welcome to join whether you support Andrew or you're just curious about his vision for the country!<br><br>This party will be a potluck, but no worries if you can't bring anything - we will have food and light refreshments for everyone. BYOB. <br><br>There will be Yang trivia for swag during commercial breaks and the largest group that shows up will get their choice between free MATH hats or a coveted 4' x 8' Yang yard sign.<br><br>If you have any questions or concerns, please don't hesitate to contact molly@yang2020.com.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.253646,
-                    43.6426878
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Yang December Debate Watch Party in Hanover!",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
+                "Host": "Volunteer",
                 "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
                 "Venue": "",
-                "Address": "8 Low Rd<br>Hanover, NH 03755",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/171856/\">Mobilize US</a>",
-                "Description": "Join us for a December debate watch party in Hanover at the home of Erick Lansigan! All are welcome to join whether you support Andrew Yang for President or you're just curious about his vision for the country!<br><br>We'll have free Yang merchandise for folks who attend. There will also be a Yang field organizer from the Lebanon campaign office in attendance to answer questions and meet folks.<br><br>If you have any questions or concerns, please don't hesitate to contact kinley@yang2020.com.",
+                "Address": "1146 E White St<br>Rock Hill, SC 29730",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167906/\">Mobilize US</a>",
+                "Description": "Come join us in Rock Hill SC as we watch Andrew participate in the 6th Democratic debate on December 19th!<br><br>We will be meeting 30 minutes before the debate starts, the event is open to anyone so please bring friends and loved ones!<br><br>Our watch location will be finalized the week of the event,  the current location is the Yang 2020 campaign office in Rock Hill SC.",
                 "TimeStart": 1576803600,
                 "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.2662913,
-                    43.7066173
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Houston, TX - Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:00PM-9:00PM CST",
+                "Venue": "Luigi's Ristorante Italiano",
+                "Address": "12779 Jones Rd<br>Houston, TX 77070",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172916/\">Mobilize US</a>",
+                "Description": "If you're in NW Houston, come out to Luigi's Ristorante Italiano on Jones Road. Eat some dinner or just grab a drink. Let's celebrate his making the December debates together! After the debate, we can talk about Yang\u2019s performance. See ya there!",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5858132,
+                    29.9586048
                 ]
             }
         },
@@ -11707,16 +11507,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "New York, NY - Samuel J. Tilden Democratic Club Holiday Debate Watch Party",
+                "Title": "Dallas, Texas - Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Shades of Green",
-                "Address": "125 E 15th St<br>New York, NY 10003",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168715/\">Mobilize US</a>",
-                "Description": "Hosting HolidayDebate Party ! In the spirit of the season  please consider bringing<br>an unwrapped toy to be given to our local children's hospital.",
+                "Time": "Thu, Dec 19, 7:00PM-9:00PM CST",
+                "Venue": "Ross & Hall Beer Garten + Kitchen",
+                "Address": "3300 Ross Ave<br>Dallas, TX 75204",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172847/\">Mobilize US</a>",
+                "Description": "Come meet the Dallas Yang Gang to watch and celebrate the December Democratic Debates! Call or text Kennedy at (469) 684-4062 with questions.",
                 "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
+                "TimeEnd": 1576810800,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -11724,58 +11524,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9877749,
-                    40.7346291
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Aiken Debate Watch Party for Yang!",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Aiken, SC 29801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169220/\">Mobilize US</a>",
-                "Description": "Come on out and let's eat, drink, and be merry as we cheer on Andrew Yang in the December debate. Wear your Yang gear. Appetizers will be provided but come and have dinner and drinks. Let's show our support for Yang and Tailgate Tavern in The Alley!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.697037,
-                    33.588993
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "La Crosse, WI - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-9:30PM CST",
-                "Venue": "Onyx Bar and Grill",
-                "Address": "101 Sky Harbour Dr<br>La Crosse, WI 54603",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172531/\">Mobilize US</a>",
-                "Description": "Thursday, December 19th at 7:30PM to 10:30<br><br>Join the La Crosse Yang Gang for our second debate watch party as we will (hopefully) see Andrew Yang gain some speaking time. <br><br>The event will be hosted at Onyx Bar and Grill. Please feel free to come early and grab some food and booze. <br><br>Please feel free to bring friends or family and hope to see you there!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576812600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -91.2610498,
-                    43.8601644
+                    -96.7886773,
+                    32.7953618
                 ]
             }
         },
@@ -11832,16 +11582,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "New Orleans, LA - Debate Watch Party",
+                "Title": "New York, NY - Samuel J. Tilden Democratic Club Holiday Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-11:00PM CST",
-                "Venue": "Mid City Yacht Club",
-                "Address": "440 S St Patrick St<br>New Orleans, LA 70119",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169151/\">Mobilize US</a>",
-                "Description": "The fifth Democratic Debates<br><br>Come watch with the NOLA Yang Gang for our Debate Watch Party.  Kick back a couple of beers and root for Andrew.   Yang2020!!",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Shades of Green",
+                "Address": "125 E 15th St<br>New York, NY 10003",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168715/\">Mobilize US</a>",
+                "Description": "Hosting HolidayDebate Party ! In the spirit of the season  please consider bringing<br>an unwrapped toy to be given to our local children's hospital.",
                 "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
+                "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -11849,33 +11599,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.109784,
-                    29.975274
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Debate Watch (Holiday) Party - Madbury NH!",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
-                "Venue": "Jack's House",
-                "Address": "182 Madbury Rd<br>Madbury, NH 03823",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168994/\">Mobilize US</a>",
-                "Description": "Come watch the December debate when Andrew WILL make his biggest splash yet! This is going to be the real inflection point everyone! Let's support Andrew while enjoying the company of Humanity-First-minded people.... annnnd we can enjoy the Holiday!<br><br>:D",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.9362664,
-                    43.1649705
+                    -73.9877749,
+                    40.7346291
                 ]
             }
         },
@@ -11907,16 +11632,91 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Atlanta, GA - Debate Watch Party at Georgia Beer Garden",
+                "Title": "Debate Watch Party - Manchester NH",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Manchester Field Office - Yang2020",
+                "Address": "489 Amory St<br>Manchester, NH 03102",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166501/\">Mobilize US</a>",
+                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4854541,
+                    42.9935691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Debate Watch Party - Nashua NH",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Nashua Field Office - Yang2020",
+                "Address": "115 Main St<br>Suite 301<br>Nashua, NH 03060",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166512/\">Mobilize US</a>",
+                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4662371,
+                    42.7620077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Yang December Debate Watch Party in New London!",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Peter Christian's Tavern",
+                "Address": "195 Main St<br>New London, NH 03257",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/173098/\">Mobilize US</a>",
+                "Description": "Join us for a December debate watch party in New London at Peter Christian's Tavern! All are welcome to join whether you support Andrew Yang for President or you're just curious about his vision for the country!<br><br>We'll have free Yang merchandise for folks who attend! There will also be representatives from the campaign in attendance to answer questions. <br><br>If you have any questions or concerns, please don't hesitate to contact mattjones@yang2020.com.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.988014,
+                    43.416748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Aiken Debate Watch Party for Yang!",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:30PM-11:30PM EST",
-                "Venue": "Georgia Beer Garden",
-                "Address": "420 Edgewood Ave SE<br>Atlanta, GA 30312",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172839/\">Mobilize US</a>",
-                "Description": "Come out and watch the December debate with the ATL Yang Gang at Georgia Beer Garden!! Wear your Yang gear and cheer on our future President. We look forward to seeing you there!",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576816200,
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Aiken, SC 29801",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169220/\">Mobilize US</a>",
+                "Description": "Come on out and let's eat, drink, and be merry as we cheer on Andrew Yang in the December debate. Wear your Yang gear. Appetizers will be provided but come and have dinner and drinks. Let's show our support for Yang and Tailgate Tavern in The Alley!",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -11924,48 +11724,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.3738697,
-                    33.754491
+                    -81.697037,
+                    33.588993
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "PRE-DEBATE WATCH ORGANIZATIONAL MTG hosted by Brooklyn Yang Gang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:30PM-8:30PM EST",
-                "Venue": "The Lounge at The Otto",
-                "Address": "211 McGuinness Blvd<br>Brooklyn, NY 11222",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173072/\">Mobilize US</a>",
-                "Description": "Join us before the Debate Watch in the lounge at The Otto. <br><br>We'll get our Yang on and plan events, ballot signature gathering, and boots-on-the-ground strategies to take Andrew to the White House!",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576805400,
+                "Title": "Debate Watch Party - Merrimack NH",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Rung Family Home",
+                "Address": "21 Ministerial Dr<br>Merrimack, NH 03054",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166515/\">Mobilize US</a>",
+                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.951118,
-                    40.7292903
+                    -71.4869361,
+                    42.8833386
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "CT Yang Gang Debate Watch Party",
+                "Title": "La Crosse, WI - Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:30PM-10:30PM EST",
-                "Venue": "Sports World",
-                "Address": "226 Main St<br>East Windsor, CT 06088",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171878/\">Mobilize US</a>",
-                "Description": "Andrew Yang just qualified for the 6th debate! Join us at Sports World in East Windsor, CT! Check it out at http://www.sportsworld.cc/. It\u2019s right off I-91 and has abundant parking. A big room, a big TV, and a place to share big ideas on promoting Yang here in Connecticut. There\u2019s a snack bar with reasonably priced goodies and beverages. Or BYOB and something to share if you like!  Swag, rally signs, and brochures will be available.",
-                "TimeStart": 1576801800,
+                "Time": "Thu, Dec 19, 7:00PM-9:30PM CST",
+                "Venue": "Onyx Bar and Grill",
+                "Address": "101 Sky Harbour Dr<br>La Crosse, WI 54603",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172531/\">Mobilize US</a>",
+                "Description": "Thursday, December 19th at 7:30PM to 10:30<br><br>Join the La Crosse Yang Gang for our second debate watch party as we will (hopefully) see Andrew Yang gain some speaking time. <br><br>The event will be hosted at Onyx Bar and Grill. Please feel free to come early and grab some food and booze. <br><br>Please feel free to bring friends or family and hope to see you there!",
+                "TimeStart": 1576803600,
                 "TimeEnd": 1576812600,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
@@ -11974,8 +11774,158 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.6146811,
-                    41.9205863
+                    -91.2610498,
+                    43.8601644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "New Orleans, LA - Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:00PM-11:00PM CST",
+                "Venue": "Mid City Yacht Club",
+                "Address": "440 S St Patrick St<br>New Orleans, LA 70119",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169151/\">Mobilize US</a>",
+                "Description": "The fifth Democratic Debates<br><br>Come watch with the NOLA Yang Gang for our Debate Watch Party.  Kick back a couple of beers and root for Andrew.   Yang2020!!",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576818000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.109784,
+                    29.975274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Debate Watch Party - Merrimack NH",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Rung Family Home",
+                "Address": "21 Ministerial Dr<br>Merrimack, NH 03054",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166515/\">Mobilize US</a>",
+                "Description": "Join us as Andrew Yang takes the stage for another for the 6th Democratic Presidential Debate! Food and light beverages will be provided, as well as good company. BYOB.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4869361,
+                    42.8833386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Salt Lake County Democratic Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 6:00PM-8:00PM MST",
+                "Venue": "Salt Lake County North Building",
+                "Address": "2001 S State St<br>Salt Lake City, UT 84190",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169738/\">Mobilize US</a>",
+                "Description": "Join us for treats and a debate watch party. Let's show them our Yang Gang strength. It is in the north building, enter on the east side. <br><br>We are excited to invite you to our Holiday Party on Thursday, December 19, 2019. We will have a cookie walk, hot chocolate bar, and will be watching the Democratic Presidential Debate. Come for the cookies, stay for the debate!<br><br>What is a cookie walk? A cookie walk is a sale of holiday cookies baked by volunteers (sign up to bake cookies for the cookie walk here http://bit.ly/381aQy2). With so many different holiday cookies to choose from, guests will buy empty boxes and walk through the various tables, filling their box with all the cookies!<br><br>We will provide hot chocolate and all the fixings. For an extra special treat, watch the Democratic Presidential Debate with us!",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8874919,
+                    40.7267221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Honolulu, HI - December Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 3:00PM-6:00PM HST",
+                "Venue": "Manoa Gardens / Bale",
+                "Address": "2445 Campus Rd<br>Honolulu, HI 96822",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173030/\">Mobilize US</a>",
+                "Description": "The December debates are coming up and Yang is gaining momentum! Join us on UH Manoa Campus at Manoa Gardens / Bale. Look for people in the Yang gear and the tables reserved for #partyofyang.<br><br>After the debate, we can talk about Yang\u2019s performance and upcoming volunteering opportunities.<br><br>For more information about visitor parking visit http://manoa.hawaii.edu/commuter/visitor.php",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.8196991,
+                    21.2988157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Debate Watch (Holiday) Party - Madbury NH!",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 8:00PM-11:00PM EST",
+                "Venue": "Jack's House",
+                "Address": "182 Madbury Rd<br>Madbury, NH 03823",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/168994/\">Mobilize US</a>",
+                "Description": "Come watch the December debate when Andrew WILL make his biggest splash yet! This is going to be the real inflection point everyone! Let's support Andrew while enjoying the company of Humanity-First-minded people.... annnnd we can enjoy the Holiday!<br><br>:D",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9362664,
+                    43.1649705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Fort Collins Debate Watch",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 6:00PM-8:00PM MST",
+                "Venue": "The Hop Grenade",
+                "Address": "347 E Foothills Pkwy #120<br>Fort Collins, CO 80525",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172955/\">Mobilize US</a>",
+                "Description": "Watch the 6th Democratic Primary debate and enjoy food and drinks with your fellow Yang Gang folks.",
+                "TimeStart": 1576803600,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.0733257,
+                    40.5421128
                 ]
             }
         },
@@ -12007,14 +11957,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "San Antonio, TX - Debate Watch Party at The Good Kind Southtown",
+                "Title": "Knoxville, TN- Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 6:30PM-9:00PM CST",
-                "Venue": "The Good Kind Southtown",
-                "Address": "1127 S St Mary's St<br>San Antonio, TX 78210",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172272/\">Mobilize US</a>",
-                "Description": "We are beyond thrilled that Andrew Yang qualified for the December debate! So we're heading again to The Good Kind - Southtown! The San Antonio Yang Gang appreciates them opening up their space to us for every debate. <br><br>If you've never been here before, we hope you can join us!  It's an outdoor venue, but they have plenty of heaters & fire pits to keep us warm!  As well as delicious food, & tasty alcoholic/non-alcoholic beverages.  It's a very relaxing place to hang out with your fellow Yang Gang! Also dog-friendly, so feel free to bring your dogs if you want! Bring the whole family!<br><br>Debate starts at 7pm CT!",
+                "Time": "Thu, Dec 19, 7:30PM-10:00PM EST",
+                "Venue": "Schulz Br\u00e4u Brewing Company",
+                "Address": "126 Bernard Ave<br>Knoxville, TN 37917",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173107/\">Mobilize US</a>",
+                "Description": "Hey Yang Gang!  Come join us at Schulz Braw Brewing (upstairs Mezzanine) for a debate watch party starting at 7:30PM on Thu Dec 19.  http://www.schulzbraubrewing.com/  <br>Wear your Yang Gang year!",
                 "TimeStart": 1576801800,
                 "TimeEnd": 1576810800,
                 "marker-color": "#F2A00F",
@@ -12024,8 +11974,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -98.488558,
-                    29.411844
+                    -83.92614,
+                    35.977143
                 ]
             }
         },
@@ -12057,56 +12007,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Seattle December Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 4:30PM-8:00PM PST",
-                "Venue": "Quality Athletics",
-                "Address": "121 S King St<br>Seattle, WA 98104",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/164451/\">Mobilize US</a>",
-                "Description": "Join us Thursday the 19th for the December Democratic Debate!<br><br>The event will be held at Quality Athletics (bar) near the stadiums. They have been kind enough to let us use the Trophy Room and adjacent patio (which will be covered)!<br><br>The sound quality is great so you can hear the debate above any chatter<br><br>No exact start time yet (check online), but the venue will be accessible at 4:30 pm. Get there early to get a good seat!<br><br>This event will be open to the public so feel free to bring your friends who may support another candidate. Warning: The Seattle Yang Gang cannot guarantee that supporters of other candidates will not become Andrew Yang supporters during this event",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.3329842,
-                    47.598066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Knoxville, TN- Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:30PM-10:00PM EST",
-                "Venue": "Schulz Br\u00e4u Brewing Company",
-                "Address": "126 Bernard Ave<br>Knoxville, TN 37917",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173107/\">Mobilize US</a>",
-                "Description": "Hey Yang Gang!  Come join us at Schulz Braw Brewing (upstairs Mezzanine) for a debate watch party starting at 7:30PM on Thu Dec 19.  http://www.schulzbraubrewing.com/  <br>Wear your Yang Gang year!",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.92614,
-                    35.977143
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Charlotte, NC - Democratic Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
@@ -12126,131 +12026,6 @@
                 "coordinates": [
                     -80.740508,
                     35.316699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Garden City /Boise, Idaho - December Democratic Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 5:30PM-9:00PM MST",
-                "Venue": "Powderhaus Brewing Company",
-                "Address": "9719 W. Chinden Blvd.<br>Garden City, ID 83714",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171681/\">Mobilize US</a>",
-                "Description": "The Idaho Democratic Party (IDP) is hosting a debate watch party and the Idaho for Andrew Yang group will be making a presence. Come meet us at Powderhaus Brewing Co. for the next Dem Debate Watch Party!<br><br>Join us and fellow democrats for Debate Bingo and a fun Straw Poll! There will be food, hard and soft beverages, and IDP swag! The debate begins at 6 p.m. and runs for about 2 hours.<br><br>This is a free event! So bring as many friends and family as you wish and come enjoy an evening out with the Idaho Democratic Party and your Idaho Yang Gang! See you there!<br><br>The IDP has requested folks to register on eventbrite so they are able to track numbers attending. <br>https://www.eventbrite.com/e/democratic-primary-debate-watch-party-tickets-85579666085?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&utm-source=strongmail&utm-term=listing",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -116.30247,
-                    43.6566658
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Brookyln Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:30PM-11:30PM EST",
-                "Venue": "The Lounge at The Otto",
-                "Address": "211 McGuinness Blvd<br>Brooklyn, NY 11222",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173065/\">Mobilize US</a>",
-                "Description": "Andrew is in the debates - as we always knew he would be!<br><br>Join us in the spacious, comfy lounge of The Otto at 211 McGuiness Blvd in Greenpoint, Brooklyn. We'll have a big  81\" TV, pizza, snacks and soft drinks. <br><br>We'll have an organizational meeting at 7:30 before the debates begin. We encourage you to come and liaise with fellow Yang Gang, and strategize on how we can secure the NYC bag for Andrew!",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576816200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.951118,
-                    40.7292903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Pittsburgh, PA - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:30PM-11:30PM EST",
-                "Venue": "Thirsty Scholar",
-                "Address": "3610 Fifth Ave<br>Pittsburgh, PA 15213",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168772/\">Mobilize US</a>",
-                "Description": "We are bringing together supporters from all the other campaigns for one giant watch party this time. Should be really fun!<br><br>Thirsty Scholar has given us access to the large event space where we will have 6 TVs all showing the debate. Food and Drinks will be available for purchase.<br><br>Under 21 is allowed, but please let me know so we can tell them how many under 21 we will have to account for.<br><br>Location: Thirsty Scholar 3610 5th Ave, Pittsburgh, PA 15213, USA",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576816200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.9586727,
-                    40.4414677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Baltimore, MD - Debate Watch Party!",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:30PM-10:30PM EST",
-                "Venue": "Residence Inn by Marriott Baltimore Downtown/ Inner Harbor",
-                "Address": "17 Light St<br>Baltimore, MD 21202",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172832/\">Mobilize US</a>",
-                "Description": "YANG MADE THE DECEMBER DEBATE!<br><br>Come out to support Andrew as he participates in the most exciting debate yet: fewer candidates, lots of hot topics, and hopefully a fair panel of moderators.<br>This is also an opportunity for you to sign the petition to get Andrew on the MD ballot while you\u2019re here!<br><br>Bring drinks & snacks",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576812600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.6132987,
-                    39.2886666
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Nevada City, CA - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 4:30PM-8:00PM PST",
-                "Venue": "City Council Cafe",
-                "Address": "233 Broad St<br>Nevada City, CA 95959",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172121/\">Mobilize US</a>",
-                "Description": "The December debates are coming up and Yang is gaining momentum! Join us at the City Council Cave, and watch as Andrew presents his vision to America. After the debate, we can talk about Yang\u2019s performance.",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.0186754,
-                    39.2625044
                 ]
             }
         },
@@ -12282,6 +12057,131 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Atlanta, GA - Debate Watch Party at Georgia Beer Garden",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:30PM-11:30PM EST",
+                "Venue": "Georgia Beer Garden",
+                "Address": "420 Edgewood Ave SE<br>Atlanta, GA 30312",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172839/\">Mobilize US</a>",
+                "Description": "Come out and watch the December debate with the ATL Yang Gang at Georgia Beer Garden!! Wear your Yang gear and cheer on our future President. We look forward to seeing you there!",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576816200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3738697,
+                    33.754491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Baltimore, MD - Debate Watch Party!",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:30PM-10:30PM EST",
+                "Venue": "Residence Inn by Marriott Baltimore Downtown/ Inner Harbor",
+                "Address": "17 Light St<br>Baltimore, MD 21202",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172832/\">Mobilize US</a>",
+                "Description": "YANG MADE THE DECEMBER DEBATE!<br><br>Come out to support Andrew as he participates in the most exciting debate yet: fewer candidates, lots of hot topics, and hopefully a fair panel of moderators.<br>This is also an opportunity for you to sign the petition to get Andrew on the MD ballot while you\u2019re here!<br><br>Bring drinks & snacks",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576812600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6132987,
+                    39.2886666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "CT Yang Gang Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:30PM-10:30PM EST",
+                "Venue": "Sports World",
+                "Address": "226 Main St<br>East Windsor, CT 06088",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171878/\">Mobilize US</a>",
+                "Description": "Andrew Yang just qualified for the 6th debate! Join us at Sports World in East Windsor, CT! Check it out at http://www.sportsworld.cc/. It\u2019s right off I-91 and has abundant parking. A big room, a big TV, and a place to share big ideas on promoting Yang here in Connecticut. There\u2019s a snack bar with reasonably priced goodies and beverages. Or BYOB and something to share if you like!  Swag, rally signs, and brochures will be available.",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576812600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6146811,
+                    41.9205863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Garden City /Boise, Idaho - December Democratic Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 5:30PM-9:00PM MST",
+                "Venue": "Powderhaus Brewing Company",
+                "Address": "9719 W. Chinden Blvd.<br>Garden City, ID 83714",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171681/\">Mobilize US</a>",
+                "Description": "The Idaho Democratic Party (IDP) is hosting a debate watch party and the Idaho for Andrew Yang group will be making a presence. Come meet us at Powderhaus Brewing Co. for the next Dem Debate Watch Party!<br><br>Join us and fellow democrats for Debate Bingo and a fun Straw Poll! There will be food, hard and soft beverages, and IDP swag! The debate begins at 6 p.m. and runs for about 2 hours.<br><br>This is a free event! So bring as many friends and family as you wish and come enjoy an evening out with the Idaho Democratic Party and your Idaho Yang Gang! See you there!<br><br>The IDP has requested folks to register on eventbrite so they are able to track numbers attending. <br>https://www.eventbrite.com/e/democratic-primary-debate-watch-party-tickets-85579666085?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&utm-source=strongmail&utm-term=listing",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.30247,
+                    43.6566658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "PRE-DEBATE WATCH ORGANIZATIONAL MTG hosted by Brooklyn Yang Gang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:30PM-8:30PM EST",
+                "Venue": "The Lounge at The Otto",
+                "Address": "211 McGuinness Blvd<br>Brooklyn, NY 11222",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173072/\">Mobilize US</a>",
+                "Description": "Join us before the Debate Watch in the lounge at The Otto. <br><br>We'll get our Yang on and plan events, ballot signature gathering, and boots-on-the-ground strategies to take Andrew to the White House!",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576805400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951118,
+                    40.7292903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Missoula, Montana - Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
@@ -12307,6 +12207,231 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Brookyln Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:30PM-11:30PM EST",
+                "Venue": "The Lounge at The Otto",
+                "Address": "211 McGuinness Blvd<br>Brooklyn, NY 11222",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173065/\">Mobilize US</a>",
+                "Description": "Andrew is in the debates - as we always knew he would be!<br><br>Join us in the spacious, comfy lounge of The Otto at 211 McGuiness Blvd in Greenpoint, Brooklyn. We'll have a big  81\" TV, pizza, snacks and soft drinks. <br><br>We'll have an organizational meeting at 7:30 before the debates begin. We encourage you to come and liaise with fellow Yang Gang, and strategize on how we can secure the NYC bag for Andrew!",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576816200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951118,
+                    40.7292903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "San Antonio, TX - Debate Watch Party at The Good Kind Southtown",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 6:30PM-9:00PM CST",
+                "Venue": "The Good Kind Southtown",
+                "Address": "1127 S St Mary's St<br>San Antonio, TX 78210",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172272/\">Mobilize US</a>",
+                "Description": "We are beyond thrilled that Andrew Yang qualified for the December debate! So we're heading again to The Good Kind - Southtown! The San Antonio Yang Gang appreciates them opening up their space to us for every debate. <br><br>If you've never been here before, we hope you can join us!  It's an outdoor venue, but they have plenty of heaters & fire pits to keep us warm!  As well as delicious food, & tasty alcoholic/non-alcoholic beverages.  It's a very relaxing place to hang out with your fellow Yang Gang! Also dog-friendly, so feel free to bring your dogs if you want! Bring the whole family!<br><br>Debate starts at 7pm CT!",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.488558,
+                    29.411844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Seattle December Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 4:30PM-8:00PM PST",
+                "Venue": "Quality Athletics",
+                "Address": "121 S King St<br>Seattle, WA 98104",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/164451/\">Mobilize US</a>",
+                "Description": "Join us Thursday the 19th for the December Democratic Debate!<br><br>The event will be held at Quality Athletics (bar) near the stadiums. They have been kind enough to let us use the Trophy Room and adjacent patio (which will be covered)!<br><br>The sound quality is great so you can hear the debate above any chatter<br><br>No exact start time yet (check online), but the venue will be accessible at 4:30 pm. Get there early to get a good seat!<br><br>This event will be open to the public so feel free to bring your friends who may support another candidate. Warning: The Seattle Yang Gang cannot guarantee that supporters of other candidates will not become Andrew Yang supporters during this event",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3329842,
+                    47.598066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Mt Washington Valley - Debate Watch party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:30PM-11:00PM EST",
+                "Venue": "North Conway Community Center",
+                "Address": "78 Norcross Cir<br>Conway, NH 03860",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173163/\">Mobilize US</a>",
+                "Description": "Come join the Mt Washington Valley Yang Gang at the North Conway Community Center to watch Andrew and ONLY 6 other candidates on the Debate Stage!  Coffee, Tea and Desert, will be served. <br><br>Lets get together to cheer all the candidates on, but mostly Andrew...   <br><br>Located at the NEW North Conway Community Center, very southern end of Schouler Part right on Rt 16.",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1264035,
+                    44.0505559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Pittsburgh, PA - Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:30PM-11:30PM EST",
+                "Venue": "Thirsty Scholar",
+                "Address": "3610 Fifth Ave<br>Pittsburgh, PA 15213",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168772/\">Mobilize US</a>",
+                "Description": "We are bringing together supporters from all the other campaigns for one giant watch party this time. Should be really fun!<br><br>Thirsty Scholar has given us access to the large event space where we will have 6 TVs all showing the debate. Food and Drinks will be available for purchase.<br><br>Under 21 is allowed, but please let me know so we can tell them how many under 21 we will have to account for.<br><br>Location: Thirsty Scholar 3610 5th Ave, Pittsburgh, PA 15213, USA",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576816200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9586727,
+                    40.4414677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Nevada City, CA - Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 4:30PM-8:00PM PST",
+                "Venue": "City Council Cafe",
+                "Address": "233 Broad St<br>Nevada City, CA 95959",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172121/\">Mobilize US</a>",
+                "Description": "The December debates are coming up and Yang is gaining momentum! Join us at the City Council Cave, and watch as Andrew presents his vision to America. After the debate, we can talk about Yang\u2019s performance.",
+                "TimeStart": 1576801800,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.0186754,
+                    39.2625044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Dayton, Ohio - Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 7:00PM-11:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Dayton, OH 45424",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171209/\">Mobilize US</a>",
+                "Description": "A New Way Forward... to my house!  <br><br> Join us as we watch Andrew Yang finally break the 10 minute talking time ceiling!  Debate time is still TBD, but show time is as-soon-as 1 hour prior.  Food will be provided, but you are welcome to bring a snack. After the debate, we can discuss Andrew's (amazing) performance!<br><br>Exact location will be provided upon signup, for privacy reasons.",
+                "TimeStart": 1576800000,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.110017,
+                    39.84316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Plymouth Area Yang Debate Watch/Holiday Party",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 7:00PM-10:00PM EST",
+                "Venue": "",
+                "Address": "75 Main St<br>Plymouth, NH 03264",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172700/\">Mobilize US</a>",
+                "Description": "Join us  for a celebration of the holidays and the debate all in 1 night with supporters of Andrew Yang. All are welcome, regardless of who you support though.",
+                "TimeStart": 1576800000,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6874967,
+                    43.757505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Portsmouth Debate Watch Party",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 7:00PM-10:00PM EST",
+                "Venue": "Portsmouth Office",
+                "Address": "1 Raynes Ave<br>Suite 205<br>Portsmouth, NH 03801",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172696/\">Mobilize US</a>",
+                "Description": "Come join the Portsmouth team to watch Andrew on the debate stage and ring in the holidays!",
+                "TimeStart": 1576800000,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.7635873,
+                    43.0801411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Chester Debate Watch Party",
                 "Type": "COMMUNITY",
                 "Host": "Campaign",
@@ -12314,6 +12439,31 @@
                 "Venue": "",
                 "Address": "118 Birch Rd<br>Chester, NH 03036",
                 "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172766/\">Mobilize US</a>",
+                "Description": "Join us in Chester to watch Andrew Yang on the debate stage and hear about his plan for A New Way Forward! Please be advised the hosts do have cats and larger dogs, but they are very sweet. Hope to see you there!",
+                "TimeStart": 1576800000,
+                "TimeEnd": 1576810800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2884313,
+                    43.008969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Chester Debate Watch Party",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 7:00PM-10:00PM EST",
+                "Venue": "",
+                "Address": "118 Birch Rd<br>Chester, NH 03036",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172766/\">Mobilize US</a>",
                 "Description": "Join us in Chester to watch Andrew Yang on the debate stage and hear about his plan for A New Way Forward! Please be advised the hosts do have cats and larger dogs, but they are very sweet. Hope to see you there!",
                 "TimeStart": 1576800000,
                 "TimeEnd": 1576810800,
@@ -12382,56 +12532,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Vienna, Virginia - Debate Watch Party!",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-10:00PM EST",
-                "Venue": "Melody Yazdani Studios",
-                "Address": "144 Church St NW<br>#200<br>Vienna, VA 22180",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172899/\">Mobilize US</a>",
-                "Description": "Hi all,<br><br>Andrew Yang has qualified for the December debate! Come join the Northern Virginia Yang Gang for our family friendly holiday debate watch party!<br><br>This party will be at Melody Yazdani Studios  in Vienna (https://melodyyazdani.com/). Some refreshments will be provided, but feel free to bring something to share as well if you'd like. We will have more Andrew Yang swag to give away (buttons and some Yard Signs).<br><br>Parking is available on the street and in the nearby lots. Please reach out if you'd like to carpool or to arrange a ride from the Vienna metro station.<br><br>If you'd like more information about upcoming events or to learn more about volunteer opportunities, join the Northern Virginia Facebook page: https://www.facebook.com/groups/novayanggang/ <br><br>Please also follow the Virginia for Andrew Yang Facebook page: https://www.facebook.com/VAforYang/",
-                "TimeStart": 1576800000,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.2674096,
-                    38.9009606
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Dayton, Ohio - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-11:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Dayton, OH 45424",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171209/\">Mobilize US</a>",
-                "Description": "A New Way Forward... to my house!  <br><br> Join us as we watch Andrew Yang finally break the 10 minute talking time ceiling!  Debate time is still TBD, but show time is as-soon-as 1 hour prior.  Food will be provided, but you are welcome to bring a snack. After the debate, we can discuss Andrew's (amazing) performance!<br><br>Exact location will be provided upon signup, for privacy reasons.",
-                "TimeStart": 1576800000,
-                "TimeEnd": 1576814400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.110017,
-                    39.84316
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Charlotte, NC - Debate Watch Party",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
@@ -12457,91 +12557,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Chester Debate Watch Party",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 7:00PM-10:00PM EST",
-                "Venue": "",
-                "Address": "118 Birch Rd<br>Chester, NH 03036",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172766/\">Mobilize US</a>",
-                "Description": "Join us in Chester to watch Andrew Yang on the debate stage and hear about his plan for A New Way Forward! Please be advised the hosts do have cats and larger dogs, but they are very sweet. Hope to see you there!",
-                "TimeStart": 1576800000,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.2884313,
-                    43.008969
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Plymouth Area Yang Debate Watch/Holiday Party",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 7:00PM-10:00PM EST",
-                "Venue": "",
-                "Address": "75 Main St<br>Plymouth, NH 03264",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172700/\">Mobilize US</a>",
-                "Description": "Join us  for a celebration of the holidays and the debate all in 1 night with supporters of Andrew Yang. All are welcome, regardless of who you support though.",
-                "TimeStart": 1576800000,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.6874967,
-                    43.757505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Portsmouth Debate Watch Party",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 7:00PM-10:00PM EST",
-                "Venue": "Portsmouth Office",
-                "Address": "1 Raynes Ave<br>Suite 205<br>Portsmouth, NH 03801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172696/\">Mobilize US</a>",
-                "Description": "Come join the Portsmouth team to watch Andrew on the debate stage and ring in the holidays!",
-                "TimeStart": 1576800000,
-                "TimeEnd": 1576810800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.7635873,
-                    43.0801411
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Woodstock, NY - Hudson Valley Yang Gang December Debate Watch Party",
+                "Title": "Vienna, Virginia - Debate Watch Party!",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 6:30PM-11:00PM EST",
-                "Venue": "Private house",
-                "Address": "10 Evergreen Ln<br>Woodstock, NY 12498",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171853/\">Mobilize US</a>",
-                "Description": "The field is shrinking but Andrew Yang is still fighting! Join us in Woodstock, NY to hang out and watch with fellow Yang Gangers. Friends and family are welcome. We will have plenty of food and fun.<br>Before the debate we can plan signature gathering, text banking, canvassing and other ways to Yang our friends, family & our communities.<br>Anyone who wants to come earlier to hang out, chat, and strategize please message me (Roger).<br>American needs another president from the Hudson Valley \ud83d\ude1c. Haven't had one since the Roosevelts.<br>Because the opposite of Donald Trump is #HumanityFirst.",
-                "TimeStart": 1576798200,
-                "TimeEnd": 1576814400,
+                "Time": "Thu, Dec 19, 7:00PM-10:00PM EST",
+                "Venue": "Melody Yazdani Studios",
+                "Address": "144 Church St NW<br>#200<br>Vienna, VA 22180",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172899/\">Mobilize US</a>",
+                "Description": "Hi all,<br><br>Andrew Yang has qualified for the December debate! Come join the Northern Virginia Yang Gang for our family friendly holiday debate watch party!<br><br>This party will be at Melody Yazdani Studios  in Vienna (https://melodyyazdani.com/). Some refreshments will be provided, but feel free to bring something to share as well if you'd like. We will have more Andrew Yang swag to give away (buttons and some Yard Signs).<br><br>Parking is available on the street and in the nearby lots. Please reach out if you'd like to carpool or to arrange a ride from the Vienna metro station.<br><br>If you'd like more information about upcoming events or to learn more about volunteer opportunities, join the Northern Virginia Facebook page: https://www.facebook.com/groups/novayanggang/ <br><br>Please also follow the Virginia for Andrew Yang Facebook page: https://www.facebook.com/VAforYang/",
+                "TimeStart": 1576800000,
+                "TimeEnd": 1576810800,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -12549,8 +12574,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.1084653,
-                    42.0396839
+                    -77.2674096,
+                    38.9009606
                 ]
             }
         },
@@ -12576,6 +12601,31 @@
                 "coordinates": [
                     -83.0063143,
                     39.9938987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Woodstock, NY - Hudson Valley Yang Gang December Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Thu, Dec 19, 6:30PM-11:00PM EST",
+                "Venue": "Private house",
+                "Address": "10 Evergreen Ln<br>Woodstock, NY 12498",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171853/\">Mobilize US</a>",
+                "Description": "The field is shrinking but Andrew Yang is still fighting! Join us in Woodstock, NY to hang out and watch with fellow Yang Gangers. Friends and family are welcome. We will have plenty of food and fun.<br>Before the debate we can plan signature gathering, text banking, canvassing and other ways to Yang our friends, family & our communities.<br>Anyone who wants to come earlier to hang out, chat, and strategize please message me (Roger).<br>American needs another president from the Hudson Valley \ud83d\ude1c. Haven't had one since the Roosevelts.<br>Because the opposite of Donald Trump is #HumanityFirst.",
+                "TimeStart": 1576798200,
+                "TimeEnd": 1576814400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1084653,
+                    42.0396839
                 ]
             }
         },
