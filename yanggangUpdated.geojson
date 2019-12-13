@@ -1,5 +1,5 @@
 {
-    "updated": 1576230672.8524501,
+    "updated": 1576231271.944433,
     "type": "FeatureCollection",
     "features": [
         {
@@ -1805,6 +1805,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Yang_Gang_Name": "Chiang Mai",
+                "Primary_Contact_Name": "Glen McNiel",
+                "Location": "Chiang Mai, Chiang Mai",
+                "Primary_Contact_Email": "glen@glenmcniel.com",
+                "Regional_Organizer_Email": "glen@glenmcniel.com",
+                "Facebook_Group": "https://www.facebook.com/groups/YangGangThailand/",
+                "Twitter": "",
+                "Instagram": "",
+                "State_Subreddit": "",
+                "Regional_Slack_Workspace": "http://expatsforyang.slack.com",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " 97.6685491",
+                    "18.6916613"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Yang_Gang_Name": "Medellin",
                 "Primary_Contact_Name": "Spencer Tichenor",
                 "Location": "Medellin, Colombia",
@@ -3549,6 +3574,56 @@
                 "coordinates": [
                     " -96.57166940000002",
                     "39.183608199999995"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Bowling Green",
+                "Primary_Contact_Name": "Alexis Murry",
+                "Location": "Bowling Green, Kentucky",
+                "Primary_Contact_Email": "Bowlinggreenforyang@gmail.com",
+                "Regional_Organizer_Email": "kentuckyforyang@gmail.com",
+                "Facebook_Group": "",
+                "Twitter": "",
+                "Instagram": "",
+                "State_Subreddit": "https://www.reddit.com/r/kentuckyforyang",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " 86.4808",
+                    "36.9685"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Lexington",
+                "Primary_Contact_Name": "Karen Pemberton",
+                "Location": "Lexington, Kentucky",
+                "Primary_Contact_Email": "LexingtonforYang@gmail.com",
+                "Regional_Organizer_Email": "kentuckyforyang@gmail.com",
+                "Facebook_Group": "https://www.facebook.com/groups/lexyanggang/",
+                "Twitter": "",
+                "Instagram": "",
+                "State_Subreddit": "https://www.reddit.com/r/kentuckyforyang",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " 84.5037",
+                    "38.0406"
                 ]
             }
         },
@@ -8124,81 +8199,6 @@
                 "coordinates": [
                     " -88.78786780000001",
                     "43.78443970000001"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Lexington",
-                "Primary_Contact_Name": "Karen Pemberton",
-                "Location": "Lexington, Kentucky",
-                "Primary_Contact_Email": "LexingtonforYang@gmail.com",
-                "Regional_Organizer_Email": "kentuckyforyang@gmail.com",
-                "Facebook_Group": "https://www.facebook.com/groups/lexyanggang/",
-                "Twitter": "",
-                "Instagram": "",
-                "State_Subreddit": "https://www.reddit.com/r/kentuckyforyang",
-                "Regional_Slack_Workspace": "",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " 84.5037",
-                    "38.0406"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Bowling Green",
-                "Primary_Contact_Name": "Alexis Murry",
-                "Location": "Bowling Green, Kentucky",
-                "Primary_Contact_Email": "Bowlinggreenforyang@gmail.com",
-                "Regional_Organizer_Email": "kentuckyforyang@gmail.com",
-                "Facebook_Group": "",
-                "Twitter": "",
-                "Instagram": "",
-                "State_Subreddit": "https://www.reddit.com/r/kentuckyforyang",
-                "Regional_Slack_Workspace": "",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " 86.4808",
-                    "36.9685"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Yang_Gang_Name": "Chiang Mai",
-                "Primary_Contact_Name": "Glen McNiel",
-                "Location": "Chiang Mai, Chiang Mai",
-                "Primary_Contact_Email": "glen@glenmcniel.com",
-                "Regional_Organizer_Email": "glen@glenmcniel.com",
-                "Facebook_Group": "https://www.facebook.com/groups/YangGangThailand/",
-                "Twitter": "",
-                "Instagram": "",
-                "State_Subreddit": "",
-                "Regional_Slack_Workspace": "http://expatsforyang.slack.com",
-                "marker-color": "#133467",
-                "marker-size": "small",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    " 97.6685491",
-                    "18.6916613"
                 ]
             }
         },
