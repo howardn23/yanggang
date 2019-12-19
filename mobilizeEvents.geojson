@@ -3793,14 +3793,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Atlanta, GA - Yang Overpass Party",
+                "Title": "[CANCELLED!] Atlanta, GA - Yang Overpass Party",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
                 "Time": "Sat, Dec 21, 3:00PM-5:00PM EST",
                 "Venue": "I-20 Overpass in Grant Park",
                 "Address": "Cherokee Avenue Southeast & Glenwood Avenue Southeast<br>Atlanta, GA 30312",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172084/\">Mobilize US</a>",
-                "Description": "Let\u2019s show our Yang support to Holiday shoppers and travelers with an Overpass Party in Atlanta! We will meet on Cherokee Ave at the I-20 overpass in Grant Park.",
+                "Description": "### We are in the process of cancelling this event<br><br>Let\u2019s show our Yang support to Holiday shoppers and travelers with an Overpass Party in Atlanta! We will meet on Cherokee Ave at the I-20 overpass in Grant Park.",
                 "TimeStart": 1576958400,
                 "TimeEnd": 1576965600,
                 "marker-color": "#F2A00F",
@@ -9195,6 +9195,56 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Greenville Phonebank",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 4:00PM-7:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
+                "TimeStart": 1576789200,
+                "TimeEnd": 1576800000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Greenville Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 4:00PM-7:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
+                "TimeStart": 1576789200,
+                "TimeEnd": 1576800000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Pre-Debate Phone Banking for Yang!  (Flexible time options)",
                 "Type": "PHONE_BANK",
                 "Host": "Campaign",
@@ -9264,56 +9314,6 @@
                 "coordinates": [
                     -80.3686791,
                     27.2988586
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Phonebank",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 1:00PM-4:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
-                "TimeStart": 1576778400,
-                "TimeEnd": 1576789200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 1:00PM-4:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
-                "TimeStart": 1576778400,
-                "TimeEnd": 1576789200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
                 ]
             }
         },
