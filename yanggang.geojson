@@ -1,5 +1,5 @@
 {
-    "updated": 1576729271.1751423,
+    "updated": 1576729870.6736434,
     "type": "FeatureCollection",
     "features": [
         {
@@ -5733,7 +5733,7 @@
                 "Yang_Gang_Name": "Cincinnati",
                 "Primary_Contact_Name": "Lynn Leaf",
                 "Location": "Cincinnati, Ohio",
-                "Primary_Contact_Email": "Lynnforscience@gmail.com",
+                "Primary_Contact_Email": "513YangGang@gmail.com ",
                 "Regional_Organizer_Email": "ohio.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/2346441675585974/",
                 "Twitter": "",
@@ -5758,7 +5758,7 @@
                 "Yang_Gang_Name": "Cleveland",
                 "Primary_Contact_Name": "Madeleine Zimmermann",
                 "Location": "Cleveland, Ohio",
-                "Primary_Contact_Email": "mxmzimmermann@gmail.com",
+                "Primary_Contact_Email": "stefaniuksp@gmail.com ",
                 "Regional_Organizer_Email": "ohio.yang.gang@gmail.com",
                 "Facebook_Group": "https://www.facebook.com/groups/CLEYangGang/",
                 "Twitter": "",
@@ -17346,6 +17346,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Become an Event Moderator",
+                "Type": "TRAINING",
+                "Host": "Campaign",
+                "Time": "Thu, Dec 19, 5:00AM-11:30PM EST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172375/\">Mobilize US</a>",
+                "Description": "Yang2020 event postings are coming in at increasing speeds. It's a great problem to have, but the Yang2020 event support team is going to need your help if we want to keep up!<br><br>We're looking for volunteer moderators to edit and approve events. We're also looking for volunteer callers to contact new event hosts and prepare them for their events. If either or both of these tasks sound interesting to you, then signup and begin the on-boarding process today!",
+                "TimeStart": 1576749600,
+                "TimeEnd": 1576816200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -139,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Las Vegas, NV - Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -17440,31 +17465,6 @@
                 "coordinates": [
                     -118.3089113,
                     34.0748517
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Become an Event Moderator",
-                "Type": "TRAINING",
-                "Host": "Campaign",
-                "Time": "Wed, Dec 18, 5:00AM-11:30PM EST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172375/\">Mobilize US</a>",
-                "Description": "Yang2020 event postings are coming in at increasing speeds. It's a great problem to have, but the Yang2020 event support team is going to need your help if we want to keep up!<br><br>We're looking for volunteer moderators to edit and approve events. We're also looking for volunteer callers to contact new event hosts and prepare them for their events. If either or both of these tasks sound interesting to you, then signup and begin the on-boarding process today!",
-                "TimeStart": 1576663200,
-                "TimeEnd": 1576729800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -139,
-                    45
                 ]
             }
         }
