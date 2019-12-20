@@ -1,5 +1,5 @@
 {
-    "updated": 1576857068.8744354,
+    "updated": 1576857669.1012735,
     "type": "FeatureCollection",
     "features": [
         {
@@ -14345,6 +14345,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Call for Yang2020 on Dec 20!",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Fri, Dec 20, 11:00AM-12:00PM EST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179302/\">Mobilize US</a>",
+                "Description": "Hey Yang Gang! Calling early state voters is one of the most impactful thing we can be doing right now to help Andrew get elected. We truly can't thank you all enough for your support and commitment to this movement.<br><br>Follow the steps below to get started:<br><br>1. Join our Yang 2020 Slack where you can chat with other callers and ask questions by [opening this link in a separate tab](https://www.yang2020.com/join-volunteer-slack/)<br><br>2. Everything you need to know about making calls can be found in our Call Team Handbook which you can check out by [opening this link in a separate tab](https://docs.google.com/document/d/17xNaWzkv6ZxpU2dQECmDFc8KcTuNj_ZOAXf9yy8jrJM/edit?usp=sharing)<br><br>3. Sign up for as many shifts as you'd like by filling in your info on the right side of your screen! If something changes with your schedule, don't worry about cancelling.<br><br>4. Once in the Yang 2020 Slack, go to the #callers_start_here channel where Calling Support will be able to answer any questions you have!",
+                "TimeStart": 1576857600,
+                "TimeEnd": 1576861200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -139,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Greenville Canvass",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -14389,31 +14414,6 @@
                 "coordinates": [
                     -81.0072642,
                     34.9179837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Call for Yang2020 on Dec 20!",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Fri, Dec 20, 10:00AM-11:00AM EST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179302/\">Mobilize US</a>",
-                "Description": "Hey Yang Gang! Calling early state voters is one of the most impactful thing we can be doing right now to help Andrew get elected. We truly can't thank you all enough for your support and commitment to this movement.<br><br>Follow the steps below to get started:<br><br>1. Join our Yang 2020 Slack where you can chat with other callers and ask questions by [opening this link in a separate tab](https://www.yang2020.com/join-volunteer-slack/)<br><br>2. Everything you need to know about making calls can be found in our Call Team Handbook which you can check out by [opening this link in a separate tab](https://docs.google.com/document/d/17xNaWzkv6ZxpU2dQECmDFc8KcTuNj_ZOAXf9yy8jrJM/edit?usp=sharing)<br><br>3. Sign up for as many shifts as you'd like by filling in your info on the right side of your screen! If something changes with your schedule, don't worry about cancelling.<br><br>4. Once in the Yang 2020 Slack, go to the #callers_start_here channel where Calling Support will be able to answer any questions you have!",
-                "TimeStart": 1576854000,
-                "TimeEnd": 1576857600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -139,
-                    45
                 ]
             }
         },
