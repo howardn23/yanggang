@@ -229,31 +229,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "San Francisco - MLK Day Parade!!!",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Mon, Jan 20, 10:00AM-1:00PM PST",
-                "Venue": "Caltrain Station",
-                "Address": "700 4th St<br>San Francisco, CA 94107",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171986/\">Mobilize US</a>",
-                "Description": "NOTE: WE SPECIFICALLY WANT TO HAVE REPRESENTATION FROM BLACK MEMBERS OF THE YANG GANG BECAUSE MLK DAY IS ABOUT JUSTICE FOR AFRICAN AMERICANS.<br><br>\"I am now convinced that the simplest approach will prove to be the most effective \u2013 the solution to poverty is to abolish it directly by a now widely discussed measure: the guaranteed income.\" - Martin Luther King Jr.<br><br>The legacy of MLK lives on in all he fought for, and as we know that includes the movement to enact Universal Basic Income.<br><br>We will be marching in the official SF MLK Day Parade on Jan 20th to promote this cause as well as the greater civil rights movement. Other positions that overlap: Investment in HBCUs, Expansion of Voting Rights Act, Abolition of Private Prisons, Legalization of Marijuana.<br><br>Bring signs related to the cause if you can! You can find more info out about the march @ sfmlkday.org!",
-                "TimeStart": 1579543200,
-                "TimeEnd": 1579554000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.3948431,
-                    37.7766711
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Honolulu, HI - MLK Jr. Parade",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -273,6 +248,31 @@
                 "coordinates": [
                     -157.846439,
                     21.2845179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "San Francisco - MLK Day Parade!!!",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Mon, Jan 20, 10:00AM-1:00PM PST",
+                "Venue": "Caltrain Station",
+                "Address": "700 4th St<br>San Francisco, CA 94107",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171986/\">Mobilize US</a>",
+                "Description": "NOTE: WE SPECIFICALLY WANT TO HAVE REPRESENTATION FROM BLACK MEMBERS OF THE YANG GANG BECAUSE MLK DAY IS ABOUT JUSTICE FOR AFRICAN AMERICANS.<br><br>\"I am now convinced that the simplest approach will prove to be the most effective \u2013 the solution to poverty is to abolish it directly by a now widely discussed measure: the guaranteed income.\" - Martin Luther King Jr.<br><br>The legacy of MLK lives on in all he fought for, and as we know that includes the movement to enact Universal Basic Income.<br><br>We will be marching in the official SF MLK Day Parade on Jan 20th to promote this cause as well as the greater civil rights movement. Other positions that overlap: Investment in HBCUs, Expansion of Voting Rights Act, Abolition of Private Prisons, Legalization of Marijuana.<br><br>Bring signs related to the cause if you can! You can find more info out about the march @ sfmlkday.org!",
+                "TimeStart": 1579543200,
+                "TimeEnd": 1579554000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3948431,
+                    37.7766711
                 ]
             }
         },
@@ -1211,6 +1211,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Signature Gathering  - New Year's Eve!  CD NY13",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 4:00PM-6:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>New York, NY 10027",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174126/\">Mobilize US</a>",
+                "Description": "Come sign the petitions to get Andrew and his delegates on the ballot. We will not win if Andrew Yang is not on the ballot.<br><br>Signature gathering begins in NY on Dec. 31, 2019. Let's welcome the new year supporting our favorite \"Man of the Year\"!",
+                "TimeStart": 1577826000,
+                "TimeEnd": 1577833200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95306,
+                    40.811407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Priority": "HIGH",
                 "Title": "Early NYE with Andrew Yang in Derry!",
                 "Type": "MEET_GREET",
@@ -1231,31 +1256,6 @@
                 "coordinates": [
                     -71.3348828,
                     42.8863251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Signature Gathering  - New Year's Eve!  CD NY13",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 4:00PM-6:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>New York, NY 10027",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174126/\">Mobilize US</a>",
-                "Description": "Come sign the petitions to get Andrew and his delegates on the ballot. We will not win if Andrew Yang is not on the ballot.<br><br>Signature gathering begins in NY on Dec. 31, 2019. Let's welcome the new year supporting our favorite \"Man of the Year\"!",
-                "TimeStart": 1577826000,
-                "TimeEnd": 1577833200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95306,
-                    40.811407
                 ]
             }
         },
@@ -1714,6 +1714,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Los Angeles Text Banking Party: For Iowa",
+                "Type": "TEXT_BANK",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 28, 1:00PM-5:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Los Angeles, CA 90015",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/162784/\">Mobilize US</a>",
+                "Description": "Thanks for signing up to attend this Text Banking Event! Yang Gang does not have enough volunteers in Iowa, so we must volunteer digitally to connect with voters. Iowa is an essential state that we must outreach. Our concentration will be rural Iowa.<br><br>Below is what we plan to do:<br>* Immediately send Voter Identification texts to thousands of potential voters<br>* Get trained to text if you haven\u2019t already gone through the training process. <br>* If you can, follow this step-by-step guide to get trained prior to the event: http://bit.ly/35Qhi9Q <br><br>Note:<br>Sorry, this space is NOT \"child\" friendly. No one will be admitted under the age of 17! No exceptions.<br><br>This is a private business that is offering office space for Yang Gang text banking. The max capacity is 12 people at a time. You do not have to stay for the full hours of this event, but the minimum hours of volunteering that's expected is 2.<br><br>Feel free to bring a potluck of food and drinks to share. There are also local restaurants on the ground floor of this building.",
+                "TimeStart": 1577566800,
+                "TimeEnd": 1577581200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2663,
+                    34.039378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Priority": "HIGH",
                 "Title": "MATH CLASS - Ripon, CA",
                 "Type": "TRAINING",
@@ -1734,31 +1759,6 @@
                 "coordinates": [
                     -121.1262593,
                     37.7396056
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Los Angeles Text Banking Party: For Iowa",
-                "Type": "TEXT_BANK",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 28, 1:00PM-5:00PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Los Angeles, CA 90015",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/162784/\">Mobilize US</a>",
-                "Description": "Thanks for signing up to attend this Text Banking Event! Yang Gang does not have enough volunteers in Iowa, so we must volunteer digitally to connect with voters. Iowa is an essential state that we must outreach. Our concentration will be rural Iowa.<br><br>Below is what we plan to do:<br>* Immediately send Voter Identification texts to thousands of potential voters<br>* Get trained to text if you haven\u2019t already gone through the training process. <br>* If you can, follow this step-by-step guide to get trained prior to the event: http://bit.ly/35Qhi9Q <br><br>Note:<br>Sorry, this space is NOT \"child\" friendly. No one will be admitted under the age of 17! No exceptions.<br><br>This is a private business that is offering office space for Yang Gang text banking. The max capacity is 12 people at a time. You do not have to stay for the full hours of this event, but the minimum hours of volunteering that's expected is 2.<br><br>Feel free to bring a potluck of food and drinks to share. There are also local restaurants on the ground floor of this building.",
-                "TimeStart": 1577566800,
-                "TimeEnd": 1577581200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.2663,
-                    34.039378
                 ]
             }
         },
@@ -1890,31 +1890,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Fresno, CA ~ Crowd Yanging @ Hmong New Year Festival: 28th",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 28, 8:00AM-5:00PM PST",
-                "Venue": "The Big Fresno Fair",
-                "Address": "1121 S Chance Ave<br>Fresno, CA 93702",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173132/\">Mobilize US</a>",
-                "Description": "We will have a booth for the Hong New Year Festival @ the Fresno Fair Grounds. The Booth will be open from 8 am to 5 pm, so we are creating shifts for the event. <br><br>Morning: 8 am to 11 am<br>Afternoon: 11 am to 2pm<br>Night: 2pm to 5pm. <br><br>When you sign up for the event, the event coordinator will message you about your shift preference and sign you up! We will be there from the 26th to the 1st. This is our biggest event yet, and we need every Yangster available to make this a success!",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577581200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.7509962,
-                    36.7315432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Helotes, TX - Yang 2020 Community Canvass",
                 "Type": "CANVASS",
                 "Host": "Volunteer",
@@ -1934,6 +1909,31 @@
                 "coordinates": [
                     -98.679635,
                     29.5603006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Fresno, CA ~ Crowd Yanging @ Hmong New Year Festival: 28th",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 28, 8:00AM-5:00PM PST",
+                "Venue": "The Big Fresno Fair",
+                "Address": "1121 S Chance Ave<br>Fresno, CA 93702",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173132/\">Mobilize US</a>",
+                "Description": "We will have a booth for the Hong New Year Festival @ the Fresno Fair Grounds. The Booth will be open from 8 am to 5 pm, so we are creating shifts for the event. <br><br>Morning: 8 am to 11 am<br>Afternoon: 11 am to 2pm<br>Night: 2pm to 5pm. <br><br>When you sign up for the event, the event coordinator will message you about your shift preference and sign you up! We will be there from the 26th to the 1st. This is our biggest event yet, and we need every Yangster available to make this a success!",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577581200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.7509962,
+                    36.7315432
                 ]
             }
         },
@@ -2665,31 +2665,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "American Canyon, CA - Beers & Buttons Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 4:00PM-6:00PM PST",
-                "Venue": "Junction Brewery and Grill",
-                "Address": "110 W American Canyon Rd<br>American Canyon, CA 94503",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178488/\">Mobilize US</a>",
-                "Description": "Please join us for a casual Yang-Gang Hang. We'll have lots of supplies available to pick up, including stickers, flyers, buttons and door hangers. We can't wait to see you there!",
-                "TimeStart": 1577059200,
-                "TimeEnd": 1577066400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.255163,
-                    38.1659006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "New Lenox, IL - Signature Gathering (Christmas in the Commons)",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -2709,6 +2684,31 @@
                 "coordinates": [
                     -87.9794215,
                     41.5143553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "American Canyon, CA - Beers & Buttons Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 4:00PM-6:00PM PST",
+                "Venue": "Junction Brewery and Grill",
+                "Address": "110 W American Canyon Rd<br>American Canyon, CA 94503",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178488/\">Mobilize US</a>",
+                "Description": "Please join us for a casual Yang-Gang Hang. We'll have lots of supplies available to pick up, including stickers, flyers, buttons and door hangers. We can't wait to see you there!",
+                "TimeStart": 1577059200,
+                "TimeEnd": 1577066400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.255163,
+                    38.1659006
                 ]
             }
         },
@@ -2815,56 +2815,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Sebastopol, CA - Crowd Yanging at the Farmers Market",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 1:00PM-2:00PM PST",
-                "Venue": "The Sebastopol Farmers' Market",
-                "Address": "6908 Weeks Way<br>Sebastopol, CA 95472",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168148/\">Mobilize US</a>",
-                "Description": "Come Canvass at the Sebastopol Farmer's Market and help spread the Yang Gang message!<br>Meet at the corner of McKinley and Petaluma",
-                "TimeStart": 1577048400,
-                "TimeEnd": 1577052000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.8237516,
-                    38.4032904
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Bakersfield, CA Canvassing Event",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 1:00PM-5:00PM PST",
-                "Venue": "",
-                "Address": "10000 City Hills Dr<br>Bakersfield, CA 93306",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176193/\">Mobilize US</a>",
-                "Description": "Canvassing City in the Hills for Andrew  Yang.",
-                "TimeStart": 1577048400,
-                "TimeEnd": 1577062800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.8921332,
-                    35.4030477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Burr Ridge, IL - Signature Gathering (Sunday Christmas Funday)",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -2884,6 +2834,31 @@
                 "coordinates": [
                     -87.9121544,
                     41.7531318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Sebastopol, CA - Crowd Yanging at the Farmers Market",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 1:00PM-2:00PM PST",
+                "Venue": "The Sebastopol Farmers' Market",
+                "Address": "6908 Weeks Way<br>Sebastopol, CA 95472",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168148/\">Mobilize US</a>",
+                "Description": "Come Canvass at the Sebastopol Farmer's Market and help spread the Yang Gang message!<br>Meet at the corner of McKinley and Petaluma",
+                "TimeStart": 1577048400,
+                "TimeEnd": 1577052000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8237516,
+                    38.4032904
                 ]
             }
         },
@@ -2915,16 +2890,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Albany, NY - Yang the Streets! - Crowd-Yanging",
-                "Type": "COMMUNITY",
+                "Title": "Bakersfield, CA Canvassing Event",
+                "Type": "CANVASS",
                 "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 3:00PM-4:30PM EST",
-                "Venue": "Daily Grind",
-                "Address": "204 Lark St #1<br>Albany, NY 12210",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176143/\">Mobilize US</a>",
-                "Description": "Wear your Yang gear and bring pamphlets, business cards, or any other handouts- we're Yanging the streets of Albany!<br><br>This is an informal event to introduce passersby to Yang and the campaign.<br><br>Face to face conversation is the best way to spread the word!",
-                "TimeStart": 1577044800,
-                "TimeEnd": 1577050200,
+                "Time": "Sun, Dec 22, 1:00PM-5:00PM PST",
+                "Venue": "",
+                "Address": "10000 City Hills Dr<br>Bakersfield, CA 93306",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176193/\">Mobilize US</a>",
+                "Description": "Canvassing City in the Hills for Andrew  Yang.",
+                "TimeStart": 1577048400,
+                "TimeEnd": 1577062800,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -2932,8 +2907,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.7638202,
-                    42.6560467
+                    -118.8921332,
+                    35.4030477
                 ]
             }
         },
@@ -2965,16 +2940,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Bellingham, WA Door-to-Door Canvassing",
-                "Type": "CANVASS",
+                "Title": "Albany, NY - Yang the Streets! - Crowd-Yanging",
+                "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 11:00AM-2:00PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Bellingham, WA 98225",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178371/\">Mobilize US</a>",
-                "Description": "Let\u2019s take advantage of the decent weather this Sunday and start knocking on some doors! We will be touching base at my house in Sunnyland neighborhood to go over the basics before we start hitting the streets! Bring your phone, and download the MiniVAN app to be ready.",
-                "TimeStart": 1577041200,
-                "TimeEnd": 1577052000,
+                "Time": "Sun, Dec 22, 3:00PM-4:30PM EST",
+                "Venue": "Daily Grind",
+                "Address": "204 Lark St #1<br>Albany, NY 12210",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176143/\">Mobilize US</a>",
+                "Description": "Wear your Yang gear and bring pamphlets, business cards, or any other handouts- we're Yanging the streets of Albany!<br><br>This is an informal event to introduce passersby to Yang and the campaign.<br><br>Face to face conversation is the best way to spread the word!",
+                "TimeStart": 1577044800,
+                "TimeEnd": 1577050200,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -2982,33 +2957,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.50813500000001,
-                    48.754119
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Bowling Green, KY - Signature Gathering",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 1:00PM-6:00PM CST",
-                "Venue": "Warren County Public Library",
-                "Address": "1225 State St<br>Bowling Green, KY 42101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/177931/\">Mobilize US</a>",
-                "Description": "Sunday, December 22nd at 1:00PM to 6:00PM <br><br>Kentucky, it's all hands on deck to get Andrew Yang on the ballot.  We still need lots of signatures and have very little time to collect them.  Some volunteers will be coming up from Tennessee if you are interested in carpooling.<br><br>We will meet up at the Warren County Public Library (Main Branch) on Sunday in Bowling Green for a brief training and huddle.  We may move from site to site throughout the day.  Volunteers are welcome to join or bow out as needed.  Please call or text organizer to locate the group.<br><br>Please find and review the documentation in this spreadsheet: http://bit.ly/y2020SignatureGatheringLinks <br><br>If you can't attend, but can sign for yourself or collect a few from friends or family (must be registered in Kentucky as a Democrat), please sign up for this event to receive an email with the organizer's contact info.  Some individuals may also be gathering signatures on and off every day until the deadline.  Please register here and inquire about other dates/locations if you would like to team up.<br><br>Some will be available, but please bring spare clipboards, pens, and any literature you'd like to hand out.  Dress comfortably for the weather as we will be walking around outdoors.  Let's get Andrew Yang on the ballot!",
-                "TimeStart": 1577041200,
-                "TimeEnd": 1577059200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.4457405,
-                    36.9897498
+                    -73.7638202,
+                    42.6560467
                 ]
             }
         },
@@ -3040,16 +2990,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Memphis, TN - Yang Gang Hang w/Memphis Freethought Alliance",
-                "Type": "MEETING",
+                "Title": "Bowling Green, KY - Signature Gathering",
+                "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 12:30PM-3:00PM CST",
-                "Venue": "Fogelman College of Business and Economics, University of Memphis",
-                "Address": "3675 Central Ave<br>2nd Floor, faculty lounge<br>Memphis, TN 38152",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176175/\">Mobilize US</a>",
-                "Description": "First cross over event with the Memphis Freethought Alliance!<br><br>Besides regular Yang Gang Hang activities, we will have David Chen, Ph.D. students of economics at U of M, explain his research on UBI.<br><br>Also, we will make plans for the knock on doors canvassing after holidays.<br><br>Free business cards, flyers, stickers, and other Yanging supplies are up for grab!",
-                "TimeStart": 1577039400,
-                "TimeEnd": 1577048400,
+                "Time": "Sun, Dec 22, 1:00PM-6:00PM CST",
+                "Venue": "Warren County Public Library",
+                "Address": "1225 State St<br>Bowling Green, KY 42101",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/177931/\">Mobilize US</a>",
+                "Description": "Sunday, December 22nd at 1:00PM to 6:00PM <br><br>Kentucky, it's all hands on deck to get Andrew Yang on the ballot.  We still need lots of signatures and have very little time to collect them.  Some volunteers will be coming up from Tennessee if you are interested in carpooling.<br><br>We will meet up at the Warren County Public Library (Main Branch) on Sunday in Bowling Green for a brief training and huddle.  We may move from site to site throughout the day.  Volunteers are welcome to join or bow out as needed.  Please call or text organizer to locate the group.<br><br>Please find and review the documentation in this spreadsheet: http://bit.ly/y2020SignatureGatheringLinks <br><br>If you can't attend, but can sign for yourself or collect a few from friends or family (must be registered in Kentucky as a Democrat), please sign up for this event to receive an email with the organizer's contact info.  Some individuals may also be gathering signatures on and off every day until the deadline.  Please register here and inquire about other dates/locations if you would like to team up.<br><br>Some will be available, but please bring spare clipboards, pens, and any literature you'd like to hand out.  Dress comfortably for the weather as we will be walking around outdoors.  Let's get Andrew Yang on the ballot!",
+                "TimeStart": 1577041200,
+                "TimeEnd": 1577059200,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -3057,8 +3007,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -89.9398573,
-                    35.1222247
+                    -86.4457405,
+                    36.9897498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Bellingham, WA Door-to-Door Canvassing",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 11:00AM-2:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Bellingham, WA 98225",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178371/\">Mobilize US</a>",
+                "Description": "Let\u2019s take advantage of the decent weather this Sunday and start knocking on some doors! We will be touching base at my house in Sunnyland neighborhood to go over the basics before we start hitting the streets! Bring your phone, and download the MiniVAN app to be ready.",
+                "TimeStart": 1577041200,
+                "TimeEnd": 1577052000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.50813500000001,
+                    48.754119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Blythewood/NE Columbia Canvassing for YANG",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sun, Dec 22, 1:30PM-4:00PM EST",
+                "Venue": "Panera Bread",
+                "Address": "1321 Roberts Branch Pkwy<br>Columbia, SC 29203",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174324/\">Mobilize US</a>",
+                "Description": "Let's get out and spread the message! Come canvassing with us in NE Columbia. <br>We will meet at the Panera at 77 & Killian Roads between 1:30-2pm, fuel up with food & drink, go over our plan, pair up new canvassers & veterans and at 2:00 (or once everyone arrives) we will GO!",
+                "TimeStart": 1577039400,
+                "TimeEnd": 1577048400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9605337,
+                    34.1370953
                 ]
             }
         },
@@ -3091,125 +3091,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Blythewood/NE Columbia Canvassing for YANG",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sun, Dec 22, 1:30PM-4:00PM EST",
-                "Venue": "Panera Bread",
-                "Address": "1321 Roberts Branch Pkwy<br>Columbia, SC 29203",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174324/\">Mobilize US</a>",
-                "Description": "Let's get out and spread the message! Come canvassing with us in NE Columbia. <br>We will meet at the Panera at 77 & Killian Roads between 1:30-2pm, fuel up with food & drink, go over our plan, pair up new canvassers & veterans and at 2:00 (or once everyone arrives) we will GO!",
+                "Title": "Memphis, TN - Yang Gang Hang w/Memphis Freethought Alliance",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 12:30PM-3:00PM CST",
+                "Venue": "Fogelman College of Business and Economics, University of Memphis",
+                "Address": "3675 Central Ave<br>2nd Floor, faculty lounge<br>Memphis, TN 38152",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176175/\">Mobilize US</a>",
+                "Description": "First cross over event with the Memphis Freethought Alliance!<br><br>Besides regular Yang Gang Hang activities, we will have David Chen, Ph.D. students of economics at U of M, explain his research on UBI.<br><br>Also, we will make plans for the knock on doors canvassing after holidays.<br><br>Free business cards, flyers, stickers, and other Yanging supplies are up for grab!",
                 "TimeStart": 1577039400,
                 "TimeEnd": 1577048400,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.9605337,
-                    34.1370953
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Glendale, CA- Tabling Event",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 10:00AM-4:00PM PST",
-                "Venue": "The Americana at Brand",
-                "Address": "889 Americana Way<br>Glendale, CA 91210",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169840/\">Mobilize US</a>",
-                "Description": "Come and spread some Yang cheer! <br>Join us at the crossroads between \u201cThe Americana at Brand\u201d and the \u201cGlendale Galleria\u201d on Central Ave in Glendale. <br><br>Sunday, Dec. 22 10AM-4PM<br><br>It\u2019s gonna be a busy shopping day in Glendale and we will need many Yangsters to show up! <br>To do list:<br><br>-Set up camp where shoppers cross from one mall to the other on Central Ave.<br><br>-Send a group to circle both malls and canvass midway throughout the day.<br><br>-Have fun! Give away merch! Spread Yang cheer!<br><br>We will end the event with dinner at Foxy\u2019s  on Colorado Blvd.",
-                "TimeStart": 1577037600,
-                "TimeEnd": 1577059200,
-                "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.2570278,
-                    34.1444475
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Queens, NY - Crowd-Yanging - Flushing, Main Street",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 1:00PM-4:00PM EST",
-                "Venue": "Durane Reade",
-                "Address": "136-06 Main Street<br>Queens, NY 11367",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175527/\">Mobilize US</a>",
-                "Description": "Bringing awareness for Andrew Yang. We'll engage with the people, hand out flyers and stickers. Signs are welcomed. <br>We'll meet up corner of Main Street and Roosevelt Ave.  (Duane Reade)<br><br>Subway:  #7 to Main St. Flushing",
-                "TimeStart": 1577037600,
-                "TimeEnd": 1577048400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.8184624,
-                    40.7197805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Alhambra, CA -- SGV Highway Overpass Party!",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 10:00AM-5:00PM PST",
-                "Venue": "Mark Keppel High School",
-                "Address": "501 E Hellman Ave<br>Alhambra, CA 91801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176059/\">Mobilize US</a>",
-                "Description": "Mark Keppel High School 501 E. Hellman Ave. Alhambra, CA 91801<br><br>We'll be doing an ALL-Day Weekend freeway overpass party! Many voters will just be tuning this week for the debate. We want to capitalize that attention by holding a #Honks4Yang all day this whole weekend.<br><br>December 20-22 Friday: 8:00am - 5:00pm Saturday: 10:00am - 5:00pm Sunday: 10:00am - 5:00pm<br><br>We've created a spreadsheet, if you can add your name and drop by any of the listed times, please do! It's crunch time #Yanggang!<br><br>https://docs.google.com/spreadsheets/d/1Wy1jR_xv0Y9Nwb_b7wNpWLc9eyfj4zcMflThO0ZiCO8/edit?usp=sharing",
-                "TimeStart": 1577037600,
-                "TimeEnd": 1577062800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.1144932,
-                    34.0711305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "West Lafayette, IN - Weekly Coffee Social Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Campaign",
-                "Time": "Sun, Dec 22, 1:00PM-2:00PM EST",
-                "Venue": "Starbucks",
-                "Address": "1196 3rd Street<br>West Lafayette, IN 47907",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/159677/\">Mobilize US</a>",
-                "Description": "Thanks for signing up to attend this Yang Gang Hang! It is time to take action. Let\u2019s meet up to discuss our upcoming canvassing and community events, and assign tasks to our Yang Gang members. We will meet at 3rd Street Starbucks!",
-                "TimeStart": 1577037600,
-                "TimeEnd": 1577041200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.92053,
-                    40.427535
+                    -89.9398573,
+                    35.1222247
                 ]
             }
         },
@@ -3266,6 +3166,56 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "West Lafayette, IN - Weekly Coffee Social Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Campaign",
+                "Time": "Sun, Dec 22, 1:00PM-2:00PM EST",
+                "Venue": "Starbucks",
+                "Address": "1196 3rd Street<br>West Lafayette, IN 47907",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/159677/\">Mobilize US</a>",
+                "Description": "Thanks for signing up to attend this Yang Gang Hang! It is time to take action. Let\u2019s meet up to discuss our upcoming canvassing and community events, and assign tasks to our Yang Gang members. We will meet at 3rd Street Starbucks!",
+                "TimeStart": 1577037600,
+                "TimeEnd": 1577041200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.92053,
+                    40.427535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Alhambra, CA -- SGV Highway Overpass Party!",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 10:00AM-5:00PM PST",
+                "Venue": "Mark Keppel High School",
+                "Address": "501 E Hellman Ave<br>Alhambra, CA 91801",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176059/\">Mobilize US</a>",
+                "Description": "Mark Keppel High School 501 E. Hellman Ave. Alhambra, CA 91801<br><br>We'll be doing an ALL-Day Weekend freeway overpass party! Many voters will just be tuning this week for the debate. We want to capitalize that attention by holding a #Honks4Yang all day this whole weekend.<br><br>December 20-22 Friday: 8:00am - 5:00pm Saturday: 10:00am - 5:00pm Sunday: 10:00am - 5:00pm<br><br>We've created a spreadsheet, if you can add your name and drop by any of the listed times, please do! It's crunch time #Yanggang!<br><br>https://docs.google.com/spreadsheets/d/1Wy1jR_xv0Y9Nwb_b7wNpWLc9eyfj4zcMflThO0ZiCO8/edit?usp=sharing",
+                "TimeStart": 1577037600,
+                "TimeEnd": 1577062800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1144932,
+                    34.0711305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Albany, NY - Yang Hang!",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -3285,6 +3235,56 @@
                 "coordinates": [
                     -73.790759,
                     42.681022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Queens, NY - Crowd-Yanging - Flushing, Main Street",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 1:00PM-4:00PM EST",
+                "Venue": "Durane Reade",
+                "Address": "136-06 Main Street<br>Queens, NY 11367",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175527/\">Mobilize US</a>",
+                "Description": "Bringing awareness for Andrew Yang. We'll engage with the people, hand out flyers and stickers. Signs are welcomed. <br>We'll meet up corner of Main Street and Roosevelt Ave.  (Duane Reade)<br><br>Subway:  #7 to Main St. Flushing",
+                "TimeStart": 1577037600,
+                "TimeEnd": 1577048400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8184624,
+                    40.7197805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Glendale, CA- Tabling Event",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 10:00AM-4:00PM PST",
+                "Venue": "The Americana at Brand",
+                "Address": "889 Americana Way<br>Glendale, CA 91210",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169840/\">Mobilize US</a>",
+                "Description": "Come and spread some Yang cheer! <br>Join us at the crossroads between \u201cThe Americana at Brand\u201d and the \u201cGlendale Galleria\u201d on Central Ave in Glendale. <br><br>Sunday, Dec. 22 10AM-4PM<br><br>It\u2019s gonna be a busy shopping day in Glendale and we will need many Yangsters to show up! <br>To do list:<br><br>-Set up camp where shoppers cross from one mall to the other on Central Ave.<br><br>-Send a group to circle both malls and canvass midway throughout the day.<br><br>-Have fun! Give away merch! Spread Yang cheer!<br><br>We will end the event with dinner at Foxy\u2019s  on Colorado Blvd.",
+                "TimeStart": 1577037600,
+                "TimeEnd": 1577059200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2570278,
+                    34.1444475
                 ]
             }
         },
@@ -3316,39 +3316,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "New York, NY - Yang Overpass Party",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 12:00PM-5:00PM EST",
-                "Venue": "",
-                "Address": "Delancey Street & Mangin Street<br>New York, NY 10002",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172103/\">Mobilize US</a>",
-                "Description": "Let\u2019s wave banners and posters on the pedestrian overpass over the FDR drive by the Williamsburg Bridge.<br><br>Here is a Google Maps satellite view of the overpass:<br>https://www.google.com/maps/@40.7142542,-73.9767054,3a,75y,2.82h,102.37t/data=!3m6!1e1!3m4!1srrv2WyBUQtDhSLfS4QXSDw!2e0!7i16384!8i8192<br><br>Take the F, M, J, or Z trains to Delancey Street and then walk East going straight down Delancey street. Stay on the SOUTH side of the Williamsburg Bridge. <br><br>Here's a view of the entrance to the ramp going up to the overapss:<br>https://www.google.com/maps/@40.7149567,-73.9777557,3a,40.8y,147.77h,88.27t/data=!3m6!1e1!3m4!1swvGh3RiZyKyjbHWqOpsL-w!2e0!7i16384!8i8192<br><br>Dress warmly. Feel free to make/bring your own banners or American flags, etc. I have two LARGE 3'x15' Humanity First banners that I will bring. Feel free to bring music/speakers.",
-                "TimeStart": 1577034000,
-                "TimeEnd": 1577052000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9775844,
-                    40.7148829
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Belmont, CA - Honk4Yang and Crowd Yanging at Farmers' Market",
+                "Title": "Mountain View, CA - Farmers Market Tabling and Yanging People!",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
                 "Time": "Sun, Dec 22, 9:00AM-1:00PM PST",
-                "Venue": "Belmont Farmers' Market",
-                "Address": "El Camino Real & Oneill Avenue<br>Belmont, CA 94002",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175625/\">Mobilize US</a>",
-                "Description": "Come wave signs and solicit Honks4Yang at a busy car/people traffic intersection at the entrance of the Belmont Farmers' market. <br><br>This works and is really fun!   The San Mateo Yang Gang ran a beta trial this past Sun and it was fantastic.   The intersection is pretty plain vanilla, so we stood out (plus no other candidate supporters present).    While the market itself is modestly-sized there's a tremendous number of cars driving by on El Camino.  We got pro-Yang honks and fist pumps and  had many positive conversations with shoppers.    <br><br>No doubt about it - Yang's visibility and support continues to build!<br><br>We'll meet at the intersection of O'Neill Ave and El Camino Real.    Please bring or make a big sign if you can.  IMHO - clear hand-made signs show off the Yang Gang's creativity and personality the most.",
+                "Venue": "Mountain View",
+                "Address": "600 W Evelyn Ave<br>Mountain View, CA 94041",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178349/\">Mobilize US</a>",
+                "Description": "This is a weekly tabling event at the Mountain View Farmers Market \ud83c\udf4e\ud83e\udd55 \ud83c\udf3d . We will help any new volunteers learn how to talk to people about Andrew Yang, show off our MATH hats \ud83e\udde2, and share how Andrew Yang will save the future of our country! \ud83d\ude03<br><br>We always have good energy, wonderful conversations, and lots of fun. Join us so we can help Yang Gang grow even more!<br><br>We have the money! The giant Yang buck will be present to help spread the wealth and joy of this campaign. \ud83d\udcb8 \ud83d\udcb5\ud83d\udcb0",
                 "TimeStart": 1577034000,
                 "TimeEnd": 1577048400,
                 "marker-color": "#F2A00F",
@@ -3358,58 +3333,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.2737509,
-                    37.5186887
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Buford, GA - Crowd-Yanging",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 12:00PM-2:00PM EST",
-                "Venue": "Mall of GA",
-                "Address": "30333 Buford Dr<br>Buford, GA 30519",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176531/\">Mobilize US</a>",
-                "Description": "Sunday, December 22nd at 12:00PM to 2:00PM<br><br>We're going to meet at the Christmas tree outside of the food court at noon and sing Christmas carols. We may also hold signs and do honk for yang at one of the busy intersections.  Please join us in spreading holiday cheer! <br><br>Here is a document w songs we intend to sing:<br>https://docs.google.com/document/d/1nn10XcCZ4ooewppGyO6o3k1j87ppIoIwNIh_PgF6auE/edit?usp=drivesdk",
-                "TimeStart": 1577034000,
-                "TimeEnd": 1577041200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.0134082,
-                    34.0962033
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Coral Gables, FL - MiniVan Canvassing Event",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 22, 12:00PM-5:00PM EST",
-                "Venue": "Starbucks",
-                "Address": "292 Miracle Mile<br>Coral Gables, FL 33134",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174980/\">Mobilize US</a>",
-                "Description": "Come join us for the first canvassing event in Miami Dade! Make sure you have the miniVAN app installed on your phone, and please keep in touch with me so I can prepare a list of doors for you to knock on. Here\u2019s a guide with more explanation: http://bit.ly/y2020canvass. <br><br>We will meet at  Starbucks first to make sure everyone is set up correctly in MiniVAN and will then head out to talk to voters  about Yang.",
-                "TimeStart": 1577034000,
-                "TimeEnd": 1577052000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.2605441,
-                    25.7491947
+                    -122.0760376,
+                    37.3945523
                 ]
             }
         },
@@ -3441,14 +3366,39 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Mountain View, CA - Farmers Market Tabling and Yanging People!",
+                "Title": "Coral Gables, FL - MiniVan Canvassing Event",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 12:00PM-5:00PM EST",
+                "Venue": "Starbucks",
+                "Address": "292 Miracle Mile<br>Coral Gables, FL 33134",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174980/\">Mobilize US</a>",
+                "Description": "Come join us for the first canvassing event in Miami Dade! Make sure you have the miniVAN app installed on your phone, and please keep in touch with me so I can prepare a list of doors for you to knock on. Here\u2019s a guide with more explanation: http://bit.ly/y2020canvass. <br><br>We will meet at  Starbucks first to make sure everyone is set up correctly in MiniVAN and will then head out to talk to voters  about Yang.",
+                "TimeStart": 1577034000,
+                "TimeEnd": 1577052000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2605441,
+                    25.7491947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Belmont, CA - Honk4Yang and Crowd Yanging at Farmers' Market",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
                 "Time": "Sun, Dec 22, 9:00AM-1:00PM PST",
-                "Venue": "Mountain View",
-                "Address": "600 W Evelyn Ave<br>Mountain View, CA 94041",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178349/\">Mobilize US</a>",
-                "Description": "This is a weekly tabling event at the Mountain View Farmers Market \ud83c\udf4e\ud83e\udd55 \ud83c\udf3d . We will help any new volunteers learn how to talk to people about Andrew Yang, show off our MATH hats \ud83e\udde2, and share how Andrew Yang will save the future of our country! \ud83d\ude03<br><br>We always have good energy, wonderful conversations, and lots of fun. Join us so we can help Yang Gang grow even more!<br><br>We have the money! The giant Yang buck will be present to help spread the wealth and joy of this campaign. \ud83d\udcb8 \ud83d\udcb5\ud83d\udcb0",
+                "Venue": "Belmont Farmers' Market",
+                "Address": "El Camino Real & Oneill Avenue<br>Belmont, CA 94002",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175625/\">Mobilize US</a>",
+                "Description": "Come wave signs and solicit Honks4Yang at a busy car/people traffic intersection at the entrance of the Belmont Farmers' market. <br><br>This works and is really fun!   The San Mateo Yang Gang ran a beta trial this past Sun and it was fantastic.   The intersection is pretty plain vanilla, so we stood out (plus no other candidate supporters present).    While the market itself is modestly-sized there's a tremendous number of cars driving by on El Camino.  We got pro-Yang honks and fist pumps and  had many positive conversations with shoppers.    <br><br>No doubt about it - Yang's visibility and support continues to build!<br><br>We'll meet at the intersection of O'Neill Ave and El Camino Real.    Please bring or make a big sign if you can.  IMHO - clear hand-made signs show off the Yang Gang's creativity and personality the most.",
                 "TimeStart": 1577034000,
                 "TimeEnd": 1577048400,
                 "marker-color": "#F2A00F",
@@ -3458,8 +3408,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.0760376,
-                    37.3945523
+                    -122.2737509,
+                    37.5186887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "New York, NY - Yang Overpass Party",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 12:00PM-5:00PM EST",
+                "Venue": "",
+                "Address": "Delancey Street & Mangin Street<br>New York, NY 10002",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172103/\">Mobilize US</a>",
+                "Description": "Let\u2019s wave banners and posters on the pedestrian overpass over the FDR drive by the Williamsburg Bridge.<br><br>Here is a Google Maps satellite view of the overpass:<br>https://www.google.com/maps/@40.7142542,-73.9767054,3a,75y,2.82h,102.37t/data=!3m6!1e1!3m4!1srrv2WyBUQtDhSLfS4QXSDw!2e0!7i16384!8i8192<br><br>Take the F, M, J, or Z trains to Delancey Street and then walk East going straight down Delancey street. Stay on the SOUTH side of the Williamsburg Bridge. <br><br>Here's a view of the entrance to the ramp going up to the overapss:<br>https://www.google.com/maps/@40.7149567,-73.9777557,3a,40.8y,147.77h,88.27t/data=!3m6!1e1!3m4!1swvGh3RiZyKyjbHWqOpsL-w!2e0!7i16384!8i8192<br><br>Dress warmly. Feel free to make/bring your own banners or American flags, etc. I have two LARGE 3'x15' Humanity First banners that I will bring. Feel free to bring music/speakers.",
+                "TimeStart": 1577034000,
+                "TimeEnd": 1577052000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9775844,
+                    40.7148829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Buford, GA - Crowd-Yanging",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 22, 12:00PM-2:00PM EST",
+                "Venue": "Mall of GA",
+                "Address": "30333 Buford Dr<br>Buford, GA 30519",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176531/\">Mobilize US</a>",
+                "Description": "Sunday, December 22nd at 12:00PM to 2:00PM<br><br>We're going to meet at the Christmas tree outside of the food court at noon and sing Christmas carols. We may also hold signs and do honk for yang at one of the busy intersections.  Please join us in spreading holiday cheer! <br><br>Here is a document w songs we intend to sing:<br>https://docs.google.com/document/d/1nn10XcCZ4ooewppGyO6o3k1j87ppIoIwNIh_PgF6auE/edit?usp=drivesdk",
+                "TimeStart": 1577034000,
+                "TimeEnd": 1577041200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.0134082,
+                    34.0962033
                 ]
             }
         },
@@ -3716,14 +3716,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Rockaway Beach, NY - Organizing Meeting",
+                "Title": "Nevada City, CA - Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 5:30PM-7:00PM EST",
-                "Venue": "RBQ",
-                "Address": "97-20 Rockaway Beach Blvd<br>Queens, NY 11694",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176112/\">Mobilize US</a>",
-                "Description": "Thanks for signing up to attend this organizing meeting! It is time to take action. Let\u2019s meet up to discuss our upcoming canvassing and community events, and assign tasks to our Yang Gang members. We will meet at RBQ in Rockaway Beach.<br><br>Saturday, Dec. 20th 5:30-7PM<br><br>97-20 Rockaway Beach Blvd, Queens, NY 11694",
+                "Time": "Sat, Dec 21, 2:30PM-4:00PM PST",
+                "Venue": "City Council Cafe",
+                "Address": "233 Broad St<br>Nevada City, CA 95959",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178741/\">Mobilize US</a>",
+                "Description": "Saturday, December 21st at 2:30PM to 4:00PM<br><br>Getting together with other supporters in our local area to talk about how we help Andrew win. Let\u2019s meet at City Council Cafe in downtown Nevada City. Below is what we plan on covering at the meeting: - Introductions and what drew you to the Yang 2020 campaign - How can we get more involved in canvassing, texting, tabling etc.",
                 "TimeStart": 1576967400,
                 "TimeEnd": 1576972800,
                 "marker-color": "#F2A00F",
@@ -3733,8 +3733,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.8192647,
-                    40.5849173
+                    -121.0186754,
+                    39.2625044
                 ]
             }
         },
@@ -3767,14 +3767,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Nevada City, CA - Yang Gang Hang",
+                "Title": "Rockaway Beach, NY - Organizing Meeting",
                 "Type": "MEETING",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 2:30PM-4:00PM PST",
-                "Venue": "City Council Cafe",
-                "Address": "233 Broad St<br>Nevada City, CA 95959",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178741/\">Mobilize US</a>",
-                "Description": "Saturday, December 21st at 2:30PM to 4:00PM<br><br>Getting together with other supporters in our local area to talk about how we help Andrew win. Let\u2019s meet at City Council Cafe in downtown Nevada City. Below is what we plan on covering at the meeting: - Introductions and what drew you to the Yang 2020 campaign - How can we get more involved in canvassing, texting, tabling etc.",
+                "Time": "Sat, Dec 21, 5:30PM-7:00PM EST",
+                "Venue": "RBQ",
+                "Address": "97-20 Rockaway Beach Blvd<br>Queens, NY 11694",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176112/\">Mobilize US</a>",
+                "Description": "Thanks for signing up to attend this organizing meeting! It is time to take action. Let\u2019s meet up to discuss our upcoming canvassing and community events, and assign tasks to our Yang Gang members. We will meet at RBQ in Rockaway Beach.<br><br>Saturday, Dec. 21st 5:30-7PM<br><br>97-20 Rockaway Beach Blvd, Queens, NY 11694",
                 "TimeStart": 1576967400,
                 "TimeEnd": 1576972800,
                 "marker-color": "#F2A00F",
@@ -3784,8 +3784,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -121.0186754,
-                    39.2625044
+                    -73.8192647,
+                    40.5849173
                 ]
             }
         },
@@ -3811,6 +3811,31 @@
                 "coordinates": [
                     -122.1693498,
                     37.7746142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Yonkers, NY - Crowd-Yanging Event",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 4:00PM-6:00PM EST",
+                "Venue": "Van Der Donck Park in Larkin Plaza",
+                "Address": "41 Dock St<br>Yonkers, NY 10701",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174309/\">Mobilize US</a>",
+                "Description": "Let\u2019s go to the Winter Lights Celebration at Van Der Donck Park in Larkin Plaza and \u201cYang\u201d the attendees! Print up some handouts from https://yangprints.com/ and be sure to wear your Yang swag. More details to follow when you sign up to volunteer!",
+                "TimeStart": 1576962000,
+                "TimeEnd": 1576969200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9013832,
+                    40.9354113
                 ]
             }
         },
@@ -3843,15 +3868,15 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Yonkers, NY - Crowd-Yanging Event",
+                "Title": "Portland, OR - Yang Overpass Party",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 4:00PM-6:00PM EST",
-                "Venue": "Van Der Donck Park in Larkin Plaza",
-                "Address": "41 Dock St<br>Yonkers, NY 10701",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174309/\">Mobilize US</a>",
-                "Description": "Let\u2019s go to the Winter Lights Celebration at Van Der Donck Park in Larkin Plaza and \u201cYang\u201d the attendees! Print up some handouts from https://yangprints.com/ and be sure to wear your Yang swag. More details to follow when you sign up to volunteer!",
-                "TimeStart": 1576962000,
+                "Time": "Sat, Dec 21, 12:00PM-3:00PM PST",
+                "Venue": "Gibbs Street Pedestrian Bridge",
+                "Address": "Southwest Kelly Avenue & Southwest Gibbs Street<br>Portland, OR 97239",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170267/\">Mobilize US</a>",
+                "Description": "Let\u2019s hang Yang banners and wave to motorists at the Gibbs Street Pedestrian Bridge! We are not just anonymous internet personalities. We need to show that the Yang Gang is real, and that we are enthusiastic about Andrew Yang and his vision for America!<br><br>Wear your Yang gear and bring a large sign if you can. We will also have some extra signs available, so no worries if you can't bring your own.  We'll have snacks for all wavers!<br><br>Meet Saturday Dec. 21, 12-3PM at the Gibbs Street Pedestrian Bridge located at the intersection of SW Gibbs Street & SW Kelly Ave, next to 3314 SW Kelly Ave.<br><br>Questions?  Contact Judith 503-936-6661",
+                "TimeStart": 1576958400,
                 "TimeEnd": 1576969200,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
@@ -3860,24 +3885,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9013832,
-                    40.9354113
+                    -122.6748218,
+                    45.499333
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "Iowa Phone Bank Training",
-                "Type": "TRAINING",
+                "Title": "Boulder Door-To-Door Canvassing",
+                "Type": "CANVASS",
                 "Host": "Campaign",
-                "Time": "Sat, Dec 21, 2:00PM-3:00PM CST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/154108/\">Mobilize US</a>",
-                "Description": "With less than 80 days until caucus, we need all hands on deck. If you live in Iowa and want to make a huge difference,  we need more volunteers. This is one of the best ways you can reach out to your neighbors and move the needle! <br><br>This training is to teach you the basics of Phone Banking and get you in touch with a Staff Organize that can get you an effective list to call to get the candidates name out there! The training lasts for about an hour, just select a time slot that works best for you. On the call, you're able to do a few practice phone calls with an Organizer on the line to help if you get stuck. <br><br>Remember we rely on this grassroots effort that you helped create, but we can't just stop at vocalizing support. We have to put in more effort than any other campaign out there, and this is where it all starts!",
+                "Time": "Sat, Dec 21, 1:00PM-4:00PM MST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Boulder, CO 80303",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167431/\">Mobilize US</a>",
+                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
                 "TimeStart": 1576958400,
-                "TimeEnd": 1576962000,
+                "TimeEnd": 1576969200,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "c",
                 "marker-size": "small"
@@ -3885,33 +3910,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -135,
-                    33
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Beaverton, OR - Yang Overpass Party",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 12:00PM-3:00PM PST",
-                "Venue": "Sunset Transit Center Park & Ride",
-                "Address": "10470 SW Barnes Rd<br>Beaverton, OR 97005",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170066/\">Mobilize US</a>",
-                "Description": "Let\u2019s wave Yang banners and signs at the pedestrian bridge over Hwy. 26! We are not just anonymous internet personalities. We need to prove that the Yang Gang is real, and that we are enthusiastic about Andrew Yang and his vision for America!<br><br>Wear your Yang gear and bring a large sign if you can. We will also have some extra signs available, so no worries if you can't bring your own.<br><br>Meet Saturday Dec. 21; 12-3PM at 10470 SW Barnes Rd, Portland, OR 97225",
-                "TimeStart": 1576958400,
-                "TimeEnd": 1576969200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.7829996,
-                    45.5107609
+                    -105.209276,
+                    39.973222
                 ]
             }
         },
@@ -3943,6 +3943,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Iowa Phone Bank Training",
+                "Type": "TRAINING",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 21, 2:00PM-3:00PM CST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/154108/\">Mobilize US</a>",
+                "Description": "With less than 80 days until caucus, we need all hands on deck. If you live in Iowa and want to make a huge difference,  we need more volunteers. This is one of the best ways you can reach out to your neighbors and move the needle! <br><br>This training is to teach you the basics of Phone Banking and get you in touch with a Staff Organize that can get you an effective list to call to get the candidates name out there! The training lasts for about an hour, just select a time slot that works best for you. On the call, you're able to do a few practice phone calls with an Organizer on the line to help if you get stuck. <br><br>Remember we rely on this grassroots effort that you helped create, but we can't just stop at vocalizing support. We have to put in more effort than any other campaign out there, and this is where it all starts!",
+                "TimeStart": 1576958400,
+                "TimeEnd": 1576962000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135,
+                    33
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Hendersonville NC- local Yang Gang Meet & Greet",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -3962,31 +3987,6 @@
                 "coordinates": [
                     -82.4628946,
                     35.3103986
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Portland, OR - Yang Overpass Party",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 12:00PM-3:00PM PST",
-                "Venue": "Gibbs Street Pedestrian Bridge",
-                "Address": "Southwest Kelly Avenue & Southwest Gibbs Street<br>Portland, OR 97239",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170267/\">Mobilize US</a>",
-                "Description": "Let\u2019s hang Yang banners and wave to motorists at the Gibbs Street Pedestrian Bridge! We are not just anonymous internet personalities. We need to show that the Yang Gang is real, and that we are enthusiastic about Andrew Yang and his vision for America!<br><br>Wear your Yang gear and bring a large sign if you can. We will also have some extra signs available, so no worries if you can't bring your own.  We'll have snacks for all wavers!<br><br>Meet Saturday Dec. 21, 12-3PM at the Gibbs Street Pedestrian Bridge located at the intersection of SW Gibbs Street & SW Kelly Ave, next to 3314 SW Kelly Ave.<br><br>Questions?  Contact Judith 503-936-6661",
-                "TimeStart": 1576958400,
-                "TimeEnd": 1576969200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.6748218,
-                    45.499333
                 ]
             }
         },
@@ -4043,6 +4043,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Beaverton, OR - Yang Overpass Party",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 12:00PM-3:00PM PST",
+                "Venue": "Sunset Transit Center Park & Ride",
+                "Address": "10470 SW Barnes Rd<br>Beaverton, OR 97005",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170066/\">Mobilize US</a>",
+                "Description": "Let\u2019s wave Yang banners and signs at the pedestrian bridge over Hwy. 26! We are not just anonymous internet personalities. We need to prove that the Yang Gang is real, and that we are enthusiastic about Andrew Yang and his vision for America!<br><br>Wear your Yang gear and bring a large sign if you can. We will also have some extra signs available, so no worries if you can't bring your own.<br><br>Meet Saturday Dec. 21; 12-3PM at 10470 SW Barnes Rd, Portland, OR 97225",
+                "TimeStart": 1576958400,
+                "TimeEnd": 1576969200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7829996,
+                    45.5107609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "[CANCELLED!] Atlanta, GA - Yang Overpass Party",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -4062,56 +4087,6 @@
                 "coordinates": [
                     -84.3733554,
                     33.7430316
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Boulder Door-To-Door Canvassing",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 21, 1:00PM-4:00PM MST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Boulder, CO 80303",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167431/\">Mobilize US</a>",
-                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
-                "TimeStart": 1576958400,
-                "TimeEnd": 1576969200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.209276,
-                    39.973222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Oregon Yang Gang - Community Event online IOWA Phone Bank Training",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 11:30AM-1:00PM PST",
-                "Venue": "Happy Valley Library",
-                "Address": "13793 SE Sieben Park Way<br>Happy Valley, OR 97015",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178446/\">Mobilize US</a>",
-                "Description": "The first primaries are just 2 months away, and Andrew Yang needs our help to become the next president!<br><br>Join Oregon Yang Gang this Saturday for a FREE pizza party from 11:30 am-12:00 pm. <br><br>Participate in Online IOWA phone bank training from 12pm - 1pm and learn how to call Iowa voters and help propel Andrew Yang to victory! <br><br>IOWA Yang Gang and Oregon Yang Gang have been working together to support Andrew Yang to win in IOWA. They sent their phone bank training link to me this afternoon. Oregon Yang Gangs are going to join Iowa Phone Banking Training. <br><br>Please sign up here and join the event! Please bring your cell phone and a laptop or tablet!<br><br>Where:<br>Happy Valley Library community room (1st floor) * <br>13793 SE Sieben Park Way * <br>Happy Valley, OR 97015 *<br><br>When:<br>Saturday December 21, 12:00am -1:00pm PST <br>(Oregon time corresponding IOWA time 2:00pm -3:00pm CST) <br><br><br>For more info, please visit the following link:<br>https://www.mobilize.us/yang2020/event/154108/?fbclid=IwAR3C0ozqbIovzPstcVNJizcI3ozdsgyZYhBf5hZvNHzEQ3du_QYtiTGAk60<br><br>To learn more about Oregon Yang Gang upcoming events, please join Oregon Yang gang facebook: https://www.facebook.com/groups/2054372711526199/<br><br>Can't join this event? Please make donations to support Andrew Yang: https://secure.actblue.com/donate/friends-of-andrew-yang-oryanggang",
-                "TimeStart": 1576956600,
-                "TimeEnd": 1576962000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.5127657,
-                    45.4227483
                 ]
             }
         },
@@ -4143,41 +4118,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Caroling & Canvassing",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 21, 1:00PM-4:00PM CST",
-                "Venue": "The Coffee Connection",
-                "Address": "213 E Main St 101<br>Knoxville, IA 50138",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175954/\">Mobilize US</a>",
-                "Description": "The Holiday season is here so you know what that means Caroling!!! Come out and sing Yang related holiday songs with us and spread holiday joy while letting voters know more about this awesome campaign.<br><br>(Carpooling from West Des Moines is also available)",
-                "TimeStart": 1576954800,
-                "TimeEnd": 1576965600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.0969969,
-                    41.3191907
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Houston, TX Yang Gang Food Bank Volunteer Community Event",
+                "Title": "Oregon Yang Gang - Community Event online IOWA Phone Bank Training",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 1:00PM-4:00PM CST",
-                "Venue": "Houston Food Bank",
-                "Address": "535 Portwall St<br>Houston, TX 77029",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166337/\">Mobilize US</a>",
-                "Description": "Join the Houston Yang Gang giving the \"Gift of Time\" to the Houston Food Bank this holiday season. Wear your Yang 2020 merch and let's put work into our message of #HUMANITYFIRST.<br><br>Volunteers MUST be at least 6 years old and supervised by parent or guardian throughout the shift.<br><br>Please plan to arrive at least fifteen minutes before your scheduled volunteer shift so you can check in, receive instructions and start on time.  If you arrive after the start of your shift, you may have to wait up to 30 minutes for orientation and assignment.  If members of your group arrive late, we cannot guarantee they will be able to join you in your assigned project area.<br><br>We are signed up for the Saturday, December 21, 2019, 1:00pm-4:00pm shift as a group. REGISTRATION IS REQUIRED TO ATTEND. REGISTER HERE:<br>http://houstonfoodbank.civicore.com/index.php?section=indGpRegistrations&action=conditional&fwID=53061<br><br>Please contact Izzie for more information.",
-                "TimeStart": 1576954800,
-                "TimeEnd": 1576965600,
+                "Time": "Sat, Dec 21, 11:30AM-1:00PM PST",
+                "Venue": "Happy Valley Library",
+                "Address": "13793 SE Sieben Park Way<br>Happy Valley, OR 97015",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178446/\">Mobilize US</a>",
+                "Description": "The first primaries are just 2 months away, and Andrew Yang needs our help to become the next president!<br><br>Join Oregon Yang Gang this Saturday for a FREE pizza party from 11:30 am-12:00 pm. <br><br>Participate in Online IOWA phone bank training from 12pm - 1pm and learn how to call Iowa voters and help propel Andrew Yang to victory! <br><br>IOWA Yang Gang and Oregon Yang Gang have been working together to support Andrew Yang to win in IOWA. They sent their phone bank training link to me this afternoon. Oregon Yang Gangs are going to join Iowa Phone Banking Training. <br><br>Please sign up here and join the event! Please bring your cell phone and a laptop or tablet!<br><br>Where:<br>Happy Valley Library community room (1st floor) * <br>13793 SE Sieben Park Way * <br>Happy Valley, OR 97015 *<br><br>When:<br>Saturday December 21, 12:00am -1:00pm PST <br>(Oregon time corresponding IOWA time 2:00pm -3:00pm CST) <br><br><br>For more info, please visit the following link:<br>https://www.mobilize.us/yang2020/event/154108/?fbclid=IwAR3C0ozqbIovzPstcVNJizcI3ozdsgyZYhBf5hZvNHzEQ3du_QYtiTGAk60<br><br>To learn more about Oregon Yang Gang upcoming events, please join Oregon Yang gang facebook: https://www.facebook.com/groups/2054372711526199/<br><br>Can't join this event? Please make donations to support Andrew Yang: https://secure.actblue.com/donate/friends-of-andrew-yang-oryanggang",
+                "TimeStart": 1576956600,
+                "TimeEnd": 1576962000,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -4185,8 +4135,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.2747503,
-                    29.7810067
+                    -122.5127657,
+                    45.4227483
                 ]
             }
         },
@@ -4218,16 +4168,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Orange CA - Yanging at the Orange Circle",
+                "Title": "Houston, TX Yang Gang Food Bank Volunteer Community Event",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 10:30AM-1:30PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Orange, CA 92866",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176183/\">Mobilize US</a>",
-                "Description": "Please feel free to bring any business cards or informational flyers you may have regarding Andrew Yang. I will have some materials.<br><br>We will be moving locations during our crowd-yanging so if you arrive later than the start time please give me a call so you can find us. We aren't constantly moving but we will move twice during the event to meet as many people as possible.<br><br>Feel free to contact me with any questions you may have about this event.",
-                "TimeStart": 1576953000,
-                "TimeEnd": 1576963800,
+                "Time": "Sat, Dec 21, 1:00PM-4:00PM CST",
+                "Venue": "Houston Food Bank",
+                "Address": "535 Portwall St<br>Houston, TX 77029",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166337/\">Mobilize US</a>",
+                "Description": "Join the Houston Yang Gang giving the \"Gift of Time\" to the Houston Food Bank this holiday season. Wear your Yang 2020 merch and let's put work into our message of #HUMANITYFIRST.<br><br>Volunteers MUST be at least 6 years old and supervised by parent or guardian throughout the shift.<br><br>Please plan to arrive at least fifteen minutes before your scheduled volunteer shift so you can check in, receive instructions and start on time.  If you arrive after the start of your shift, you may have to wait up to 30 minutes for orientation and assignment.  If members of your group arrive late, we cannot guarantee they will be able to join you in your assigned project area.<br><br>We are signed up for the Saturday, December 21, 2019, 1:00pm-4:00pm shift as a group. REGISTRATION IS REQUIRED TO ATTEND. REGISTER HERE:<br>http://houstonfoodbank.civicore.com/index.php?section=indGpRegistrations&action=conditional&fwID=53061<br><br>Please contact Izzie for more information.",
+                "TimeStart": 1576954800,
+                "TimeEnd": 1576965600,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -4235,8 +4185,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.844775,
-                    33.784615
+                    -95.2747503,
+                    29.7810067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Caroling & Canvassing",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 21, 1:00PM-4:00PM CST",
+                "Venue": "The Coffee Connection",
+                "Address": "213 E Main St 101<br>Knoxville, IA 50138",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175954/\">Mobilize US</a>",
+                "Description": "The Holiday season is here so you know what that means Caroling!!! Come out and sing Yang related holiday songs with us and spread holiday joy while letting voters know more about this awesome campaign.<br><br>(Carpooling from West Des Moines is also available)",
+                "TimeStart": 1576954800,
+                "TimeEnd": 1576965600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.0969969,
+                    41.3191907
                 ]
             }
         },
@@ -4268,15 +4243,15 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "San Diego, CA Crowd Yanging Little Italy Farmer's Market",
+                "Title": "Orange CA - Yanging at the Orange Circle",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 10:00AM-1:30PM PST",
-                "Venue": "Farmers Market",
-                "Address": "434 W Cedar St<br>San Diego, CA 92101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176827/\">Mobilize US</a>",
-                "Description": "Yanging, training, and filming for HumanityFirst Street Team YouTube channel! https://www.youtube.com/channel/UCbfHtYDSuGNYmBV1vaYj-xQ<br><br>Come out and learn how to Yang 200 people per hour with fun and ease, develop life skills connecting with anyone around their values and beliefs!<br><br>https://www.facebook.com/events/730855287404443/",
-                "TimeStart": 1576951200,
+                "Time": "Sat, Dec 21, 10:30AM-1:30PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Orange, CA 92866",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176183/\">Mobilize US</a>",
+                "Description": "Please feel free to bring any business cards or informational flyers you may have regarding Andrew Yang. I will have some materials.<br><br>We will be moving locations during our crowd-yanging so if you arrive later than the start time please give me a call so you can find us. We aren't constantly moving but we will move twice during the event to meet as many people as possible.<br><br>Feel free to contact me with any questions you may have about this event.",
+                "TimeStart": 1576953000,
                 "TimeEnd": 1576963800,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
@@ -4285,83 +4260,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.1670786,
-                    32.7221464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Citrus Park, FL - Honk For Yang",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 1:00PM-3:00PM EST",
-                "Venue": "Citrus Park Upper Tampa Trail Pedestrian Overpass",
-                "Address": "Citrus Park Lane & Citrus Park Drive<br>Citrus Park, FL 33625",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178071/\">Mobilize US</a>",
-                "Description": "Saturday, December 21st to 1:00PM to 3:00PM<br><br>Join us for an overpass rally, displaying our large Yang Banners, at the Upper Tampa Bay Trail pedestrian overpass in Citrus Park. This is a recreation trail with foot traffic, so bring materials for public canvassing.",
-                "TimeStart": 1576951200,
-                "TimeEnd": 1576958400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.570315,
-                    28.0660541
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Alhambra, CA -- SGV Highway Overpass Party!",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 10:00AM-5:00PM PST",
-                "Venue": "Mark Keppel High School",
-                "Address": "501 E Hellman Ave<br>Alhambra, CA 91801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176058/\">Mobilize US</a>",
-                "Description": "Mark Keppel High School 501 E. Hellman Ave. Alhambra, CA 91801<br><br>We'll be doing an ALL-Day Weekend freeway overpass party! Many voters will just be tuning this week for the debate. We want to capitalize that attention by holding a #Honks4Yang all day this whole weekend.<br><br>December 20-22 Friday: 8:00am - 5:00pm Saturday: 10:00am - 5:00pm Sunday: 10:00am - 5:00pm<br><br>We've created a spreadsheet, if you can add your name and drop by any of the listed times, please do! It's crunch time #Yanggang!<br><br>https://docs.google.com/spreadsheets/d/1Wy1jR_xv0Y9Nwb_b7wNpWLc9eyfj4zcMflThO0ZiCO8/edit?usp=sharing",
-                "TimeStart": 1576951200,
-                "TimeEnd": 1576976400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.1144932,
-                    34.0711305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Austin, TX - Overpass Party for Andrew Yang",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 12:00PM-2:00PM CST",
-                "Venue": "",
-                "Address": "E Martin Luther King Jr Blvd over I-35 Southbound<br>Austin, TX 78705",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176106/\">Mobilize US</a>",
-                "Description": "The Austin Yang Gang\ud83e\udde2 is throwing an Overpass Party to get Andrew Yang\u2019s name out there.<br><br>We will be on the E MLK Jr overpass above I-35 southbound which has a sidewalk and a shoulder so we will have lots of space to be comfortable.  It will be a nice day--the forecast is partly cloudy and a high of 67 F!<br><br>We\u2019re bringing a banner and zip ties.<br><br>Don't forget to bring some water or your favorite beverage.<br><br>Saturday, Dec 21th; 12-2PM<br><br>E Martin Luther King Jr Blvd, Austin, TX",
-                "TimeStart": 1576951200,
-                "TimeEnd": 1576958400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.7017294,
-                    30.2828748
+                    -117.844775,
+                    33.784615
                 ]
             }
         },
@@ -4393,6 +4293,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Alhambra, CA -- SGV Highway Overpass Party!",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 10:00AM-5:00PM PST",
+                "Venue": "Mark Keppel High School",
+                "Address": "501 E Hellman Ave<br>Alhambra, CA 91801",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176058/\">Mobilize US</a>",
+                "Description": "Mark Keppel High School 501 E. Hellman Ave. Alhambra, CA 91801<br><br>We'll be doing an ALL-Day Weekend freeway overpass party! Many voters will just be tuning this week for the debate. We want to capitalize that attention by holding a #Honks4Yang all day this whole weekend.<br><br>December 20-22 Friday: 8:00am - 5:00pm Saturday: 10:00am - 5:00pm Sunday: 10:00am - 5:00pm<br><br>We've created a spreadsheet, if you can add your name and drop by any of the listed times, please do! It's crunch time #Yanggang!<br><br>https://docs.google.com/spreadsheets/d/1Wy1jR_xv0Y9Nwb_b7wNpWLc9eyfj4zcMflThO0ZiCO8/edit?usp=sharing",
+                "TimeStart": 1576951200,
+                "TimeEnd": 1576976400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1144932,
+                    34.0711305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "North Augusta, SC Canvass (knocking on doors)",
                 "Type": "CANVASS",
                 "Host": "Volunteer",
@@ -4418,16 +4343,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Ludington, MI - OFFICE OPENING",
-                "Type": "OFFICE_OPENING",
+                "Title": "Citrus Park, FL - Honk For Yang",
+                "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 1:00PM-6:00PM EST",
-                "Venue": "Michigan Market",
-                "Address": "307 S James St<br>Ludington, MI 49431",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/177530/\">Mobilize US</a>",
-                "Description": "We are working out of Ludington, Michigan to promote Andrew Yang in the second district, Western Michigan colleges, and rural Michigan areas. <br><br>For the first hour or so we will have a meet and greet with snacks and drinks, you can bring chips or snacks or cookies if you wish potluck style.  Then we will discuss the state of the campaign especially in  the early states and how we can make the biggest impact. 20-30 volunteers can create a wave that will make it all the way to Washington. <br><br>Let's knock on some doors and Make America Think Harder. <br><br>Jeffrey Wrisley will discuss canvassing strategies and goals for West Michigan including reaching out to rural areas, colleges, and and a multitude of diverse neighborhoods. Join us!<br><br>SATURDAY, DECEMBER 21st at 1pm-6pm",
+                "Time": "Sat, Dec 21, 1:00PM-3:00PM EST",
+                "Venue": "Citrus Park Upper Tampa Trail Pedestrian Overpass",
+                "Address": "Citrus Park Lane & Citrus Park Drive<br>Citrus Park, FL 33625",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178071/\">Mobilize US</a>",
+                "Description": "Saturday, December 21st to 1:00PM to 3:00PM<br><br>Join us for an overpass rally, displaying our large Yang Banners, at the Upper Tampa Bay Trail pedestrian overpass in Citrus Park. This is a recreation trail with foot traffic, so bring materials for public canvassing.",
                 "TimeStart": 1576951200,
-                "TimeEnd": 1576969200,
+                "TimeEnd": 1576958400,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -4435,8 +4360,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.4476533,
-                    43.9532713
+                    -82.570315,
+                    28.0660541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "San Diego, CA Crowd Yanging Little Italy Farmer's Market",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 10:00AM-1:30PM PST",
+                "Venue": "Farmers Market",
+                "Address": "434 W Cedar St<br>San Diego, CA 92101",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176827/\">Mobilize US</a>",
+                "Description": "Yanging, training, and filming for HumanityFirst Street Team YouTube channel! https://www.youtube.com/channel/UCbfHtYDSuGNYmBV1vaYj-xQ<br><br>Come out and learn how to Yang 200 people per hour with fun and ease, develop life skills connecting with anyone around their values and beliefs!<br><br>https://www.facebook.com/events/730855287404443/",
+                "TimeStart": 1576951200,
+                "TimeEnd": 1576963800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1670786,
+                    32.7221464
                 ]
             }
         },
@@ -4462,6 +4412,56 @@
                 "coordinates": [
                     -87.913867,
                     41.1213147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Austin, TX - Overpass Party for Andrew Yang",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 12:00PM-2:00PM CST",
+                "Venue": "",
+                "Address": "E Martin Luther King Jr Blvd over I-35 Southbound<br>Austin, TX 78705",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176106/\">Mobilize US</a>",
+                "Description": "The Austin Yang Gang\ud83e\udde2 is throwing an Overpass Party to get Andrew Yang\u2019s name out there.<br><br>We will be on the E MLK Jr overpass above I-35 southbound which has a sidewalk and a shoulder so we will have lots of space to be comfortable.  It will be a nice day--the forecast is partly cloudy and a high of 67 F!<br><br>We\u2019re bringing a banner and zip ties.<br><br>Don't forget to bring some water or your favorite beverage.<br><br>Saturday, Dec 21th; 12-2PM<br><br>E Martin Luther King Jr Blvd, Austin, TX",
+                "TimeStart": 1576951200,
+                "TimeEnd": 1576958400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.7017294,
+                    30.2828748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Ludington, MI - OFFICE OPENING",
+                "Type": "OFFICE_OPENING",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 1:00PM-6:00PM EST",
+                "Venue": "Michigan Market",
+                "Address": "307 S James St<br>Ludington, MI 49431",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/177530/\">Mobilize US</a>",
+                "Description": "We are working out of Ludington, Michigan to promote Andrew Yang in the second district, Western Michigan colleges, and rural Michigan areas. <br><br>For the first hour or so we will have a meet and greet with snacks and drinks, you can bring chips or snacks or cookies if you wish potluck style.  Then we will discuss the state of the campaign especially in  the early states and how we can make the biggest impact. 20-30 volunteers can create a wave that will make it all the way to Washington. <br><br>Let's knock on some doors and Make America Think Harder. <br><br>Jeffrey Wrisley will discuss canvassing strategies and goals for West Michigan including reaching out to rural areas, colleges, and and a multitude of diverse neighborhoods. Join us!<br><br>SATURDAY, DECEMBER 21st at 1pm-6pm",
+                "TimeStart": 1576951200,
+                "TimeEnd": 1576969200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.4476533,
+                    43.9532713
                 ]
             }
         },
@@ -4518,56 +4518,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Pembroke Pines, FL - Crowd Yanging - Pembroke Lakes Mall",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 12:00PM-3:00PM EST",
-                "Venue": "Starbucks",
-                "Address": "11253 Pines Blvd<br>Pembroke Pines, FL 33026",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175515/\">Mobilize US</a>",
-                "Description": "Hey YangGang! <br><br>We're getting together Saturday the 21st to Yang the Pembroke Lakes Mall parking lot! This is a very efficient way to spread the word about Andrew Yang! <br><br>We're meeting at Starbucks at noon to game plan and we should finish around 3:00 PM. <br><br>Flyers will be provided.",
-                "TimeStart": 1576947600,
-                "TimeEnd": 1576958400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.2988505,
-                    26.0095264
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Queens - Honk For Yang Overpass Party",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 12:00PM-3:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Queens, NY 11435",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170559/\">Mobilize US</a>",
-                "Description": "Let\u2019s wave banners and posters on the Van Wyck Expy pedestrian overpass on US-I678.  Located near Jamaica Subway Station.<br><br>Bus: Q20A, Q20B, Q44-SBS, Q54, Q56, Q24, Q60<br><br>Subway: #E Jamaica Van Wyck Subway Station<br><br>Dress warm and bundle up!!",
-                "TimeStart": 1576947600,
-                "TimeEnd": 1576958400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.809635,
-                    40.701225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Worcester, MA - Yang Overpass Party (Sat)",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -4587,6 +4537,106 @@
                 "coordinates": [
                     -71.780157,
                     42.2919228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Concord Yang Gang Coffee and Conversations",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 21, 12:00PM-2:00PM EST",
+                "Venue": "True Brew Barista",
+                "Address": "Odd Fellows Ave<br>Concord, NH 03301",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/174631/\">Mobilize US</a>",
+                "Description": "Meet the Concord Yang Gang at True Brew! Join us to learn more about the Yang campaign and how you can help move our society forward.",
+                "TimeStart": 1576947600,
+                "TimeEnd": 1576954800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.536702,
+                    43.20461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Oakland, CA - Crowd-Yanging",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 9:00AM-2:00PM PST",
+                "Venue": "Splash Pad Park",
+                "Address": "746 Grand Ave<br>Oakland, CA 94610",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175984/\">Mobilize US</a>",
+                "Description": "Saturday, December 21st at 9:00AM to 2:00PM<br><br>Help us staff the table for a couple of hours or the whole time (9am-2pm). You can even bring unused, unopened toiletry items to donate to a local nonprofit for the benefit of those who struggle to afford basic necessities (#pledgeforhumaity).<br><br>We have an Andrew Yang cut-out and a Yang buck for fun photo ops. We play music inspired by the Yang campaign. We have a table full of takeaway buttons, brochures, stickers, and cards. Most of all we have Yang Gang who bring themselves, their passion, and good conversation.<br><br>Help us to Yang the crowd that flocks to the most popular farmers market in the Bay Area every Saturday!",
+                "TimeStart": 1576947600,
+                "TimeEnd": 1576965600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2486021,
+                    37.811027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Fort Collins Door-To-Door Canvassing",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 21, 10:00AM-1:00PM MST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Fort Collins, CO 80524",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167059/\">Mobilize US</a>",
+                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
+                "TimeStart": 1576947600,
+                "TimeEnd": 1576958400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.029519,
+                    40.646854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Pembroke Pines, FL - Crowd Yanging - Pembroke Lakes Mall",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 12:00PM-3:00PM EST",
+                "Venue": "Starbucks",
+                "Address": "11253 Pines Blvd<br>Pembroke Pines, FL 33026",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175515/\">Mobilize US</a>",
+                "Description": "Hey YangGang! <br><br>We're getting together Saturday the 21st to Yang the Pembroke Lakes Mall parking lot! This is a very efficient way to spread the word about Andrew Yang! <br><br>We're meeting at Starbucks at noon to game plan and we should finish around 3:00 PM. <br><br>Flyers will be provided.",
+                "TimeStart": 1576947600,
+                "TimeEnd": 1576958400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2988505,
+                    26.0095264
                 ]
             }
         },
@@ -4643,25 +4693,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Concord Yang Gang Coffee and Conversations",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 21, 12:00PM-2:00PM EST",
-                "Venue": "True Brew Barista",
-                "Address": "Odd Fellows Ave<br>Concord, NH 03301",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/174631/\">Mobilize US</a>",
-                "Description": "Meet the Concord Yang Gang at True Brew! Join us to learn more about the Yang campaign and how you can help move our society forward.",
+                "Title": "Bolingbrook, IL -  Signature Gathering (CD 11)",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 11:00AM-2:00PM CST",
+                "Venue": "Fountaindale Public Library District",
+                "Address": "300 W Briarcliff Rd<br>Bolingbrook, IL 60440",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/177526/\">Mobilize US</a>",
+                "Description": "Saturday, December 21st at 11:00AM to 2:00PM<br><br>There's only a handful of days left before we have to turn in the petitions to get Andrew and his delegates on the Illinois ballot.<br><br>Come out and collect signatures to help us reach the signature requirements to help Andrew win Illinois!<br><br>Please bring a clipboard and plenty of pens. You'll also want to print out copies of the statewide petition and the delegate slates. While Bolingbrook is in congressional district 11,  likely people will also be from neighboring districts do please have a sheet of congressional district 1-14 on hand. <br><br>Delegate slate petitions can be downloaded at www.yangsites.com.",
                 "TimeStart": 1576947600,
-                "TimeEnd": 1576954800,
+                "TimeEnd": 1576958400,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.536702,
-                    43.20461
+                    -88.0793877,
+                    41.6988139
                 ]
             }
         },
@@ -4718,64 +4768,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Fort Collins Door-To-Door Canvassing",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 21, 10:00AM-1:00PM MST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Fort Collins, CO 80524",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167059/\">Mobilize US</a>",
-                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
-                "TimeStart": 1576947600,
-                "TimeEnd": 1576958400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.029519,
-                    40.646854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Oakland, CA - Crowd-Yanging",
+                "Title": "Queens - Honk For Yang Overpass Party",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 9:00AM-2:00PM PST",
-                "Venue": "Splash Pad Park",
-                "Address": "746 Grand Ave<br>Oakland, CA 94610",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175984/\">Mobilize US</a>",
-                "Description": "Saturday, December 21st at 9:00AM to 2:00PM<br><br>Help us staff the table for a couple of hours or the whole time (9am-2pm). You can even bring unused, unopened toiletry items to donate to a local nonprofit for the benefit of those who struggle to afford basic necessities (#pledgeforhumaity).<br><br>We have an Andrew Yang cut-out and a Yang buck for fun photo ops. We play music inspired by the Yang campaign. We have a table full of takeaway buttons, brochures, stickers, and cards. Most of all we have Yang Gang who bring themselves, their passion, and good conversation.<br><br>Help us to Yang the crowd that flocks to the most popular farmers market in the Bay Area every Saturday!",
-                "TimeStart": 1576947600,
-                "TimeEnd": 1576965600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.2486021,
-                    37.811027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Bolingbrook, IL -  Signature Gathering (CD 11)",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 11:00AM-2:00PM CST",
-                "Venue": "Fountaindale Public Library District",
-                "Address": "300 W Briarcliff Rd<br>Bolingbrook, IL 60440",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/177526/\">Mobilize US</a>",
-                "Description": "Saturday, December 21st at 11:00AM to 2:00PM<br><br>There's only a handful of days left before we have to turn in the petitions to get Andrew and his delegates on the Illinois ballot.<br><br>Come out and collect signatures to help us reach the signature requirements to help Andrew win Illinois!<br><br>Please bring a clipboard and plenty of pens. You'll also want to print out copies of the statewide petition and the delegate slates. While Bolingbrook is in congressional district 11,  likely people will also be from neighboring districts do please have a sheet of congressional district 1-14 on hand. <br><br>Delegate slate petitions can be downloaded at www.yangsites.com.",
+                "Time": "Sat, Dec 21, 12:00PM-3:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Queens, NY 11435",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170559/\">Mobilize US</a>",
+                "Description": "Let\u2019s wave banners and posters on the Van Wyck Expy pedestrian overpass on US-I678.  Located near Jamaica Subway Station.<br><br>Bus: Q20A, Q20B, Q44-SBS, Q54, Q56, Q24, Q60<br><br>Subway: #E Jamaica Van Wyck Subway Station<br><br>Dress warm and bundle up!!",
                 "TimeStart": 1576947600,
                 "TimeEnd": 1576958400,
                 "marker-color": "#F2A00F",
@@ -4785,8 +4785,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -88.0793877,
-                    41.6988139
+                    -73.809635,
+                    40.701225
                 ]
             }
         },
@@ -4818,50 +4818,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Helotes, TX - Canvassing Event",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 10:00AM-12:00PM CST",
-                "Venue": "Starbucks",
-                "Address": "12577 Bandera Rd<br>Helotes, TX 78023",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171111/\">Mobilize US</a>",
-                "Description": "This is a great opportunity for the NW San Antonio area Yang Gang to get in here and \"Yang\" some folks. We will meet and Starbucks and then hit the city of Helotes, TX shortly thereafter.  Please note, we have a map of houses we have and have not been which we will go over before we leave Starbucks.<br><br>Be sure to wear your Andrew Yang for President materials if you have them! <br><br>Additional info can be found by visiting www.SAForYang.com<br>www.Facebook.com/SanAntonioYangGang",
-                "TimeStart": 1576944000,
-                "TimeEnd": 1576951200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.679635,
-                    29.5603006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Coppell, TX - Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
+                "Title": "Canvassing in Western Iowa",
+                "Type": "CANVASS",
+                "Host": "Campaign",
                 "Time": "Sat, Dec 21, 10:00AM-1:00PM CST",
-                "Venue": "American Tea & Coffee",
-                "Address": "230 N Denton Tap Rd Ste 104<br>Coppell, TX 75019",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175816/\">Mobilize US</a>",
-                "Description": "Saturday, December 21st at 10:00AM to 1:00PM<br><br>This is a weekly meetup for the Lewisville Yang Gang! We will discuss canvassing and apartment banking to spread the word about Andrew Yang to as many people in our community as possible!",
+                "Venue": "Council Bluffs office",
+                "Address": "118 W Broadway<br>Council Bluffs, IA 51503",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176793/\">Mobilize US</a>",
+                "Description": "1 week after our Bus Tour and only 2 days after the final debate of 2019 - SATURDAY is the day to use our momentum and spread the word (and joy) right before the Holidays! <br><br>We will be canvassing in Council Bluffs and surrounding counties, but meet up at our office at 10am or 1pm for coordinating our day! <br>Take what you learned from MATH class, meet up with your local study buddies and test out everything in the field where the votes are won! <br><br>Dress warm!",
                 "TimeStart": 1576944000,
                 "TimeEnd": 1576954800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.9931122,
-                    32.9739976
+                    -95.8445843,
+                    41.263154
                 ]
             }
         },
@@ -4893,50 +4868,50 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Canvassing in Western Iowa",
-                "Type": "CANVASS",
-                "Host": "Campaign",
+                "Title": "Coppell, TX - Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
                 "Time": "Sat, Dec 21, 10:00AM-1:00PM CST",
-                "Venue": "Council Bluffs office",
-                "Address": "118 W Broadway<br>Council Bluffs, IA 51503",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176793/\">Mobilize US</a>",
-                "Description": "1 week after our Bus Tour and only 2 days after the final debate of 2019 - SATURDAY is the day to use our momentum and spread the word (and joy) right before the Holidays! <br><br>We will be canvassing in Council Bluffs and surrounding counties, but meet up at our office at 10am or 1pm for coordinating our day! <br>Take what you learned from MATH class, meet up with your local study buddies and test out everything in the field where the votes are won! <br><br>Dress warm!",
+                "Venue": "American Tea & Coffee",
+                "Address": "230 N Denton Tap Rd Ste 104<br>Coppell, TX 75019",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175816/\">Mobilize US</a>",
+                "Description": "Saturday, December 21st at 10:00AM to 1:00PM<br><br>This is a weekly meetup for the Lewisville Yang Gang! We will discuss canvassing and apartment banking to spread the word about Andrew Yang to as many people in our community as possible!",
                 "TimeStart": 1576944000,
                 "TimeEnd": 1576954800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.8445843,
-                    41.263154
+                    -96.9931122,
+                    32.9739976
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "Canvassing in North Western Iowa",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 21, 10:00AM-1:00PM CST",
-                "Venue": "Siouxland Yang Gang HQ",
-                "Address": "521 Nebraska St<br>Sioux City, IA 51101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176871/\">Mobilize US</a>",
-                "Description": "1 week after our Bus Tour and only 2 days after the final debate of 2019 - SATURDAY is the day to use our momentum and spread the word (and joy) right before the Holidays! <br><br>We will be canvassing in Council Bluffs and surrounding counties, but meet up at our office at 10am or 1pm for coordinating our day! <br>Take what you learned from MATH class, meet up with your local study buddies and test out everything in the field where the votes are won! <br><br>Dress warm!",
+                "Title": "Helotes, TX - Canvassing Event",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 10:00AM-12:00PM CST",
+                "Venue": "Starbucks",
+                "Address": "12577 Bandera Rd<br>Helotes, TX 78023",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171111/\">Mobilize US</a>",
+                "Description": "This is a great opportunity for the NW San Antonio area Yang Gang to get in here and \"Yang\" some folks. We will meet and Starbucks and then hit the city of Helotes, TX shortly thereafter.  Please note, we have a map of houses we have and have not been which we will go over before we leave Starbucks.<br><br>Be sure to wear your Andrew Yang for President materials if you have them! <br><br>Additional info can be found by visiting www.SAForYang.com<br>www.Facebook.com/SanAntonioYangGang",
                 "TimeStart": 1576944000,
-                "TimeEnd": 1576954800,
+                "TimeEnd": 1576951200,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.4036498,
-                    42.4960347
+                    -98.679635,
+                    29.5603006
                 ]
             }
         },
@@ -4968,25 +4943,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Brooklyn, NY - Yang Gang Hang - Coffee Meetup NY CD08",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 10:30AM-12:00PM EST",
-                "Venue": "Trash Island Coffee Shop",
-                "Address": "616 Halsey St<br>Brooklyn, NY 11233",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175828/\">Mobilize US</a>",
-                "Description": "Saturday, December 21st at 10:30AM to 12:00PM<br><br>Are you Yang-curious or hardcore Yang Gang and live in New York's 8th Congressional District? Come to our first NY-8-specific Yang Gang Hang! <br><br>Let's get to know each other while enjoying some coffee/tea/beverages in a chill coffee shop. We'll talk about why we support Yang, when we'll be signing petitions to get him on the NY ballot, and how to get more involved. <br><br>Yang Gang from any district are welcome, but I would like to especially encourage those in District 8 to come out. Find out your district here: https://ziplook.house.gov/htbin/findrep_house?ZIP=<br><br>If you can't be there at 10:30 (this may be early for some people), no worries, you can come by whenever you want!",
-                "TimeStart": 1576942200,
-                "TimeEnd": 1576947600,
+                "Title": "Canvassing in North Western Iowa",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 21, 10:00AM-1:00PM CST",
+                "Venue": "Siouxland Yang Gang HQ",
+                "Address": "521 Nebraska St<br>Sioux City, IA 51101",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176871/\">Mobilize US</a>",
+                "Description": "1 week after our Bus Tour and only 2 days after the final debate of 2019 - SATURDAY is the day to use our momentum and spread the word (and joy) right before the Holidays! <br><br>We will be canvassing in Council Bluffs and surrounding counties, but meet up at our office at 10am or 1pm for coordinating our day! <br>Take what you learned from MATH class, meet up with your local study buddies and test out everything in the field where the votes are won! <br><br>Dress warm!",
+                "TimeStart": 1576944000,
+                "TimeEnd": 1576954800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9296215,
-                    40.6840073
+                    -96.4036498,
+                    42.4960347
                 ]
             }
         },
@@ -5018,6 +4993,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Brooklyn, NY - Yang Gang Hang - Coffee Meetup NY CD08",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 10:30AM-12:00PM EST",
+                "Venue": "Trash Island Coffee Shop",
+                "Address": "616 Halsey St<br>Brooklyn, NY 11233",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175828/\">Mobilize US</a>",
+                "Description": "Saturday, December 21st at 10:30AM to 12:00PM<br><br>Are you Yang-curious or hardcore Yang Gang and live in New York's 8th Congressional District? Come to our first NY-8-specific Yang Gang Hang! <br><br>Let's get to know each other while enjoying some coffee/tea/beverages in a chill coffee shop. We'll talk about why we support Yang, when we'll be signing petitions to get him on the NY ballot, and how to get more involved. <br><br>Yang Gang from any district are welcome, but I would like to especially encourage those in District 8 to come out. Find out your district here: https://ziplook.house.gov/htbin/findrep_house?ZIP=<br><br>If you can't be there at 10:30 (this may be early for some people), no worries, you can come by whenever you want!",
+                "TimeStart": 1576942200,
+                "TimeEnd": 1576947600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9296215,
+                    40.6840073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "McPherson, KS- Yang Gang Hang at McPherson Public Library",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -5037,31 +5037,6 @@
                 "coordinates": [
                     -97.668973,
                     38.370675
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Barrington, IL - Signature Gathering for CD6",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 9:00AM-5:00PM CST",
-                "Venue": "Barrington Area Public Library",
-                "Address": "505 N Northwest Hwy<br>Front Door<br>Barrington, IL 60010",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176066/\">Mobilize US</a>",
-                "Description": "We need to collect signatures in front of the Library all day on Saturday.  Last week a Biden delegate said she got 40 in 2 hours and could have gotten more. Most people will be solid Congressional District 6 signatures. We can stand in front of the Library but we cannot gather inside the Library. 100 signatures should be a very reachable goal.<br><br>Library hours are 9am to 5pm. <br>We're looking for 2 person teams to cover 1-2 hour shifts or stay for as long as you can. . Take breaks if the weather demands it. We're in the stretch run and we need to make up some serious ground. For real, it's put up or shut up time. Yang needs us now to get his delegates on the ballots or he will have no votes at the convention.<br> <br>9am - 11 = need 2 people<br>11am - 1pm = need 2 people<br>1pm - 3 = need 2 people<br>3pm - 5 = need 1 person (I will be covering this shift)<br><br>Sign up for the event and send me a text to claim a shift. Even if you live kinda far away we need to make this happen. You will need a clip board and CD6  petition pages (slates). The PDF will be Emailed to you. I will also have blank ones at the Dupage Yang Gang meetup on Dec 18th that I can give you.<br><br>Signature Gathering info:  http://bit.ly/y2020SignatureGatheringLinks<br><br>Humanity First!",
-                "TimeStart": 1576940400,
-                "TimeEnd": 1576969200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -88.1276897,
-                    42.1592547
                 ]
             }
         },
@@ -5118,6 +5093,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Barrington, IL - Signature Gathering for CD6",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 9:00AM-5:00PM CST",
+                "Venue": "Barrington Area Public Library",
+                "Address": "505 N Northwest Hwy<br>Front Door<br>Barrington, IL 60010",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176066/\">Mobilize US</a>",
+                "Description": "We need to collect signatures in front of the Library all day on Saturday.  Last week a Biden delegate said she got 40 in 2 hours and could have gotten more. Most people will be solid Congressional District 6 signatures. We can stand in front of the Library but we cannot gather inside the Library. 100 signatures should be a very reachable goal.<br><br>Library hours are 9am to 5pm. <br>We're looking for 2 person teams to cover 1-2 hour shifts or stay for as long as you can. . Take breaks if the weather demands it. We're in the stretch run and we need to make up some serious ground. For real, it's put up or shut up time. Yang needs us now to get his delegates on the ballots or he will have no votes at the convention.<br> <br>9am - 11 = need 2 people<br>11am - 1pm = need 2 people<br>1pm - 3 = need 2 people<br>3pm - 5 = need 1 person (I will be covering this shift)<br><br>Sign up for the event and send me a text to claim a shift. Even if you live kinda far away we need to make this happen. You will need a clip board and CD6  petition pages (slates). The PDF will be Emailed to you. I will also have blank ones at the Dupage Yang Gang meetup on Dec 18th that I can give you.<br><br>Signature Gathering info:  http://bit.ly/y2020SignatureGatheringLinks<br><br>Humanity First!",
+                "TimeStart": 1576940400,
+                "TimeEnd": 1576969200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1276897,
+                    42.1592547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Portsmouth Canvass",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -5143,6 +5143,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Somersworth Canvass!",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 21, 9:00AM-12:00PM EST",
+                "Venue": "Edward LeVasser's House",
+                "Address": "44 Pleasant St<br>Somersworth, NH 03878",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/170765/\">Mobilize US</a>",
+                "Description": "Join us for a canvass in Somersworth!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign. <br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at Edward Levasseur's abode in downtown Somersworth! Canvassing is fun and easier than you think. We'll have some coffee, and can all get a celebratory bite or beverage afterwards!",
+                "TimeStart": 1576936800,
+                "TimeEnd": 1576947600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.866599,
+                    43.2579876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Dover Canvass!",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -5162,6 +5187,31 @@
                 "coordinates": [
                     -70.9210334,
                     43.1377534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Rochester Canvass!",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 21, 9:00AM-12:00PM EST",
+                "Venue": "Dunkin Donuts",
+                "Address": "111 S Main St<br>Rochester, NH 03867",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/151482/\">Mobilize US</a>",
+                "Description": "Join us for canvassing for Yang in Rochester!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign. <br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at the Dunkin Donuts (111 S Main St), Rochester. We'll have some coffee, and can all get a celebratory bite or beverage afterwards. Canvassing is fun and easier than you think.",
+                "TimeStart": 1576936800,
+                "TimeEnd": 1576947600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9719782,
+                    43.2999695
                 ]
             }
         },
@@ -5218,50 +5268,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Rochester Canvass!",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 21, 9:00AM-12:00PM EST",
-                "Venue": "Dunkin Donuts",
-                "Address": "111 S Main St<br>Rochester, NH 03867",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/151482/\">Mobilize US</a>",
-                "Description": "Join us for canvassing for Yang in Rochester!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign. <br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at the Dunkin Donuts (111 S Main St), Rochester. We'll have some coffee, and can all get a celebratory bite or beverage afterwards. Canvassing is fun and easier than you think.",
-                "TimeStart": 1576936800,
-                "TimeEnd": 1576947600,
+                "Title": "Carmel, IN - Signature Gathering",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 21, 8:30AM-10:30AM EST",
+                "Venue": "Carmel Racquet Club",
+                "Address": "225 E Carmel Dr<br>Carmel, IN 46032",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173598/\">Mobilize US</a>",
+                "Description": "Hello Yang Gang! <br><br>Here is another opportunity for us to put Andrew Yang on the ballot! We will be collecting signatures during the 13th Annual Donut 5K run up in Carmel. <br><br>Saturday, December 21st at 8:30AM to 10:30AM<br><br>This is the description of the event: <br><br>\"Be part of the Sweetest Race in Indiana. Held on the Saturday before Christmas, it's the perfect opportunity to get the family (and the family dog) together to burn a few calories. Donut holes will be available at each mile marker, as well as at the indoor after-party. Great for kids of all-ages.\"<br><br>So, come on out and lets ask people for some signatures!! <br><br>Please review this guide. (Link below) <br><br>http://bit.ly/INSigGuide",
+                "TimeStart": 1576935000,
+                "TimeEnd": 1576942200,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.9719782,
-                    43.2999695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Somersworth Canvass!",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 21, 9:00AM-12:00PM EST",
-                "Venue": "Edward LeVasser's House",
-                "Address": "44 Pleasant St<br>Somersworth, NH 03878",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/170765/\">Mobilize US</a>",
-                "Description": "Join us for a canvass in Somersworth!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign. <br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at Edward Levasseur's abode in downtown Somersworth! Canvassing is fun and easier than you think. We'll have some coffee, and can all get a celebratory bite or beverage afterwards!",
-                "TimeStart": 1576936800,
-                "TimeEnd": 1576947600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.866599,
-                    43.2579876
+                    -86.1231701,
+                    39.9597434
                 ]
             }
         },
@@ -5312,31 +5337,6 @@
                 "coordinates": [
                     -71.4662371,
                     42.7620077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Carmel, IN - Signature Gathering",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 21, 8:30AM-10:30AM EST",
-                "Venue": "Carmel Racquet Club",
-                "Address": "225 E Carmel Dr<br>Carmel, IN 46032",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173598/\">Mobilize US</a>",
-                "Description": "Hello Yang Gang! <br><br>Here is another opportunity for us to put Andrew Yang on the ballot! We will be collecting signatures during the 13th Annual Donut 5K run up in Carmel. <br><br>Saturday, December 21st at 8:30AM to 10:30AM<br><br>This is the description of the event: <br><br>\"Be part of the Sweetest Race in Indiana. Held on the Saturday before Christmas, it's the perfect opportunity to get the family (and the family dog) together to burn a few calories. Donut holes will be available at each mile marker, as well as at the indoor after-party. Great for kids of all-ages.\"<br><br>So, come on out and lets ask people for some signatures!! <br><br>Please review this guide. (Link below) <br><br>http://bit.ly/INSigGuide",
-                "TimeStart": 1576935000,
-                "TimeEnd": 1576942200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.1231701,
-                    39.9597434
                 ]
             }
         },
@@ -5944,31 +5944,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Greenville Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Fri, Dec 20, 10:00AM-1:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
-                "TimeStart": 1576854000,
-                "TimeEnd": 1576864800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Greenville Phonebank",
                 "Type": "PHONE_BANK",
                 "Host": "Campaign",
@@ -5994,25 +5969,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Fairfax, VA - #PledgeForHumanity Coat Drive (Annandale)",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Fri, Dec 20, 5:00AM-8:00PM EST",
-                "Venue": "PR Performance Fitness",
-                "Address": "4111 John Marr Dr<br>Annandale, VA 22003",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176603/\">Mobilize US</a>",
-                "Description": "December 23rd deadline!<br><br>Coat and Winter Accessories Drive!<br><br>In the spirit of Humanity First, the NoVA Yang Gang organizes coat drive, benefiting Fairfax County based Shelter House, which assists homeless families and victims of domestic violence. <br><br>The drive lasts six (6) days and takes place from Wednesday, December 18 until Monday, December 23, to give everyone a chance to make a drop off. Please bring your donations (mildly used or new coats, gloves, hats, scarfs, sweaters etc.) to the drop off location during the listed hours. There will be a clearly marked COAT DRIVE FOR Shelter House box at the location (inside), where donations should be dropped.",
-                "TimeStart": 1576836000,
-                "TimeEnd": 1576890000,
+                "Title": "Greenville Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Fri, Dec 20, 10:00AM-1:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
+                "TimeStart": 1576854000,
+                "TimeEnd": 1576864800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.1884421,
-                    38.8329386
+                    -81.0072642,
+                    34.9179837
                 ]
             }
         },
@@ -6069,91 +6044,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Austin, TX - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:30PM-11:00PM CST",
-                "Venue": "40 North Pizzeria",
-                "Address": "900 W 10th St<br>Austin, TX 78703",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174782/\">Mobilize US</a>",
-                "Description": "Democratic debate watch party! Come join Austin Yang Gang as we cheer on Andrew Yang for President at 40 North Pizzeria.",
-                "TimeStart": 1576805400,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.7517051,
-                    30.2749757
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "St. Louis, MO - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-11:00PM CST",
-                "Venue": "Fitz\u2019s",
-                "Address": "6605 Delmar Blvd<br>University City, MO 63130",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174620/\">Mobilize US</a>",
-                "Description": "Join us at Fitz\u2019s balcony bar to watch the 6th debate!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.3055629,
-                    38.6562321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "San Gabriel Valley, CA - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 5:00PM-9:00PM PST",
-                "Venue": "Old Town Pizza",
-                "Address": "338 S Myrtle Ave #2849<br>Monrovia, CA 91016",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173948/\">Mobilize US</a>",
-                "Description": "Come watch the debate and have pizza with your fellow Yang Gang! Bring your Yang gear!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.000713,
-                    34.1482939
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Pescadero California Debate Watch Party",
+                "Title": "Fairfax, VA - #PledgeForHumanity Coat Drive (Annandale)",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 5:00PM-9:00PM PST",
-                "Venue": "Bill's Barn & Event Center",
-                "Address": "10350 Cabrillo Hwy<br>Pescadero, CA 94060",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178235/\">Mobilize US</a>",
-                "Description": "Hello Friends!<br> <br>You and all your friends are invited to a...<br> <br>PRESIDENTIAL DEBATE WATCH PARTY IN THE BARN ON GIANT MOVIE SCREEN!<br> <br>This Thursday, December 19th, at our barn at 6pm, we are having a watch party for people who are interested in learning about any or all the presidential candidates, and of course, my favorite Andrew Yang.<br><br>This is of course, completely free and everyone is welcome no matter who they support.<br><br>Please just bring your caring, curiosity and your friends! Thank you!!!<br><br>(We will supply popcorn & coffee. If you think of it, please bring a snack, or drink to share. Thank you!)<br><br>Our address is:<br><br>10350 Cabrillo Highway<br>Pescadero, CA 94060<br>1/2 mile south of Bean Hollow Beach<br>American Flag marks the driveway<br><br>The doors will open at 5:00 and the debate will start at 6pm.<br><br>We want to hear everyone's thoughts on all the candidates! Open minds!<br> <br>Regarding my fav Andrew Yang, you can check out links below to get an idea of who he is, what he believes, and what he can do for our country and our world. <br> <br>He is a really good guy. His ideas and platform are brilliant, unique, and set him apart from the rest.<br> <br>He has never been a politician before, and his popularity is quite a phenomenon.<br> <br>Andrew came from nowhere with only grass roots support, and now is one of the few candidates remaining. <br> <br>Andrew is the only person of color left on the debate stage.<br><br>He has a tsunami of online support (often ranking 1st in google searches, YouTube views, Twitter comments etc. )and his popularity has been growing faster than any other candidate.<br> <br>I think he can win!<br> <br>His mottos are \u2018Humanity First\u2019 and \u2018MATH\u2019 (Make America think harder!).<br> <br>I am rooting for him and doing what I can to help.<br> <br>If you want to watch all the candidates, share thoughts, and/or are curious about Andrew come on by, or you can just google \"Andrew Yang\" and check him out. Lots of YouTubes. <br> <br>I put a few of my favorite links to information about him below. <br> <br>I would be interested in hearing what you think.<br> <br>I may be sending you some additional information and a reminder about the event as the time nears.<br> <br>No RSVP needed. <br> <br>Hope you can come!<br> <br>Bill<br><br>Andrew Yang November Debate Summary<br>( 5 minutes)<br>https://youtu.be/J1ZO8EzJ3zE<br> <br>Joe Rogan-Andrew Yang In Depth Interview <br>(1 hr 50 minutes)<br>https://youtu.be/cTsEzmFamZ8<br> <br>Andrew Yang Iowa Speech<br>(10 minutes)<br>https://youtu.be/R9OBK3ss5W4<br> <br>Andrew Yang inspirational video <br>(5-10 minutes)<br>https://youtu.be/vD_ONqj1nq8<br> <br>Comedy Sketch- Funny!<br>(5 minutes)<br>https://youtu.be/OFvJ8J5pK4A",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
+                "Time": "Fri, Dec 20, 5:00AM-8:00PM EST",
+                "Venue": "PR Performance Fitness",
+                "Address": "4111 John Marr Dr<br>Annandale, VA 22003",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176603/\">Mobilize US</a>",
+                "Description": "December 23rd deadline!<br><br>Coat and Winter Accessories Drive!<br><br>In the spirit of Humanity First, the NoVA Yang Gang organizes coat drive, benefiting Fairfax County based Shelter House, which assists homeless families and victims of domestic violence. <br><br>The drive lasts six (6) days and takes place from Wednesday, December 18 until Monday, December 23, to give everyone a chance to make a drop off. Please bring your donations (mildly used or new coats, gloves, hats, scarfs, sweaters etc.) to the drop off location during the listed hours. There will be a clearly marked COAT DRIVE FOR Shelter House box at the location (inside), where donations should be dropped.",
+                "TimeStart": 1576836000,
+                "TimeEnd": 1576890000,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -6161,133 +6061,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.4028591,
-                    37.2158678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Yang December Debate Watch Party",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 5:00PM-9:00PM PST",
-                "Venue": "Southern Las Vegas Office",
-                "Address": "580 E Windmill Ln<br>Las Vegas, NV 89123",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/177276/\">Mobilize US</a>",
-                "Description": "Come cheer on Andrew Yang at the December Debate! Join the Yang Gang as we watch Andrew share his Humanity First message with the nation!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.1504243,
-                    36.0432105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Spokane, WA - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Campaign",
-                "Time": "Thu, Dec 19, 5:00PM-9:00PM PST",
-                "Venue": "nYne Bar & Bistro",
-                "Address": "232 W Sprague Ave<br>Spokane, WA 99201",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174660/\">Mobilize US</a>",
-                "Description": "Thursday, December 19th at 5:00PM to 9:00PM<br><br>The Young Democrats of Spokane County and Eastern Washington Voters are hosting a December Debate Solidarity Watch Party. Doors open at 5PM and the debate starts at 6PM. It\u2019s all ages and all are welcome to join!<br><br>Yang is gaining momentum! Let's gather to watch the debate and engage with neighbors. After the debate, we can talk about Yang\u2019s performance and share our thoughts and perspective. Wear your Yang gear! <br><br>This is a non-partisan event. All campaigns are invited.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.4147831,
-                    47.6573563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Arcata, CA - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 5:00PM-9:00PM PST",
-                "Venue": "Richards' Goat Tavern & Tea Room",
-                "Address": "401 I St<br>Arcata, CA 95521",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178437/\">Mobilize US</a>",
-                "Description": "Yang Gangers looking for a place to watch the debates and hopefully connect with fellow supporters? We will be converging at this public event with Yang Gang and democratic supporters of all stripes! \"THURS 12/19 - DNC Thunderdome<br>ROUND 6\" http://miniplexevents.com/music--comedy.html<br><br>Located at Richard's Goat Miniplex in Arcata, seating starts at 5pm. Followed by Karaoke at 9pm! All ages allowed, no drink purchases actually necessary lol<br><br>Remember to be wear your yang gear, feel free to bring materials to share, and most importantly to be respectful to all!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -124.0895665,
-                    40.8655328
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Mountain View - Yang 6th Debate Watch Party @ St. Stephen's Green",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 5:00PM-9:00PM PST",
-                "Venue": "St. Stephen's Green",
-                "Address": "223 Castro St<br>Mountain View, CA 94041",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176195/\">Mobilize US</a>",
-                "Description": "Come support Andrew Yang in our 1st debate watch party at a bar! Organized by SVYG.",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.0790549,
-                    37.3934652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "New Orleans, LA - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-11:00PM CST",
-                "Venue": "Mid City Yacht Club",
-                "Address": "440 S St Patrick St<br>New Orleans, LA 70119",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/169151/\">Mobilize US</a>",
-                "Description": "The fifth Democratic Debates<br><br>Come watch with the NOLA Yang Gang for our Debate Watch Party.  Kick back a couple of beers and root for Andrew.   Yang2020!!",
-                "TimeStart": 1576803600,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.109784,
-                    29.975274
+                    -77.1884421,
+                    38.8329386
                 ]
             }
         },
@@ -6319,106 +6094,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Menlo Park, CA - Debate Watch Party (Round 6)!",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 4:30PM-9:00PM PST",
-                "Venue": "Round Table Pizza",
-                "Address": "1225 El Camino Real<br>Menlo Park, CA 94025",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174914/\">Mobilize US</a>",
-                "Description": "Fun Fact: According to Yelp, this was very first Round Table Pizza ever opened, back in 1959!<br><br>Come watch the sixth Democratic Party Presidential Debate on Thursday December 19 at Round Table Pizza, 1225 El Camino Real, Menlo Park, CA 94025. Doors open at 4:30 pm as we expect the debate to begin at 5 pm. Come early to chat, order food and grab a good spot to watch the debate! Join us for an engaging post-debate discussion. This event is free to attend. Pizza, salads and beer are available for purchase.<br><br>Ven a ver el debate presidencial del Partido Dem\u00f3crata en Round Table Pizza. Las puertas se abren a las 4:30 p.m. y el debate comenzar\u00e1 a las 5 p.m. Discusi\u00f3n posterior al debate. Este evento es gratis. Pizza, ensaladas y cerveza est\u00e1n disponibles para su compra.<br><br>Candidates (as of December 12):<br>former Vice President Joe Biden<br>South Bend, Indiana Mayor Pete Buttigieg<br>Minnesota Senator Amy Klobuchar<br>Vermont Senator Bernie Sanders<br>philanthropist Tom Steyer<br>Massachusetts Senator Elizabeth Warren<br>entrepreneur Andrew Yang<br><br>Yet to qualify:<br>New Jersey Senator Cory Booker<br>Hawaii Representative Tulsi Gabbard<br>California Senator Kamala Harris qualilfied, but dropped out of the race due to budget concerns.<br><br>Debate Location: Loyola Marymount University<br>Partners: PBS NewsHour and Politico<br>Moderators: Judy Woodruff, Tim Alberta, Amna Nawaz, and Yamiche Alcindor",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.185011,
-                    37.454325
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "TEMPE, AZ - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 5:30PM-10:00PM MST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Tempe, AZ 85281",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173748/\">Mobilize US</a>",
-                "Description": "Come join the Phoenix Yang Gang to watch Andrew rock the debate stage with our fellow Yang Gang. With seven democrats qualifying, we have big expectations! Pot luck style event, bring your best dish! Time has not been released yet, but the other debates have started 5 p.m MST so we'll update the time if need be.  RSVP at 480-600-7731, kylehenden22@gmail.com or here on mobilize!",
-                "TimeStart": 1576801800,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.934004,
-                    33.427440000000004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "\ud83d\udcfaLos Angeles, CA - Debate Watch Party at Hyperion Public (Silver Lake)",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 4:00PM-9:00PM PST",
-                "Venue": "Hyperion Public (Silver Lake)",
-                "Address": "2538 Hyperion Ave<br>Los Angeles, CA 90027",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/171721/\">Mobilize US</a>",
-                "Description": "Join us at HYPERION PUBLIC (SILVER LAKE) on Thursday, 12/19 to watch the debate! The viewing area is open to the public, so there will be supporters from various candidates. Be sure to wear your Yang 2020 gear and feel free to bring friends. We will meet an hour before the debate starts to grab seats and Yang Hang.<br><br>- \ud83e\udde2Yang Hang at 4pm<br>- \ud83c\uddfa\ud83c\uddf8Debate at 5pm<br>- \ud83c\udf54Happy hour food & drinks from 3pm-6pm<br>- \ud83d\ude98Street parking available, or small parking lot in the back<br><br>The 6th Democratic Presidential debate will take place in Los Angeles, CA and be co-hosted by PBS NewsHour and Politico.",
-                "TimeStart": 1576800000,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.2727156,
-                    34.1053532
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Woodsboro, MD - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 7:00PM-11:59PM EST",
-                "Venue": "",
-                "Address": "7 Wood St<br>Woodsboro, MD 21798",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175093/\">Mobilize US</a>",
-                "Description": "Come watch the democratic debate and learn about how you can get involved!<br><br>Food & drinks will be provided so please RSVP so we know you can make it and let me know if you have any food restrictions. All are welcome at this event.",
-                "TimeStart": 1576800000,
-                "TimeEnd": 1576817940,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.3129903,
-                    39.531583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Playa Del Rey, CA - Dem Debate and Sign-waving at LMU",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -6438,31 +6113,6 @@
                 "coordinates": [
                     -118.4188905,
                     33.9685495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "San Mateo, CA - Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Thu, Dec 19, 4:30AM-9:00PM PST",
-                "Venue": "Windy City Pizza",
-                "Address": "<br>San Mateo, CA 94002",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/177307/\">Mobilize US</a>",
-                "Description": "Hello San Mateo!  Our Yang Gang will be joining an all-candidate supporter debate party in Menlo Park.  We have some friendships and friendly rivalry going on with supporters of the other candidates, and we enjoy time spent together over civic engagement!<br><br>Come meet others who are passionate and committed in  our efforts to participate in the democratic process!<br><br>For more information and to RSVP, please do so at the Menlo Park event here:  https://www.mobilize.us/yang2020/event/174914/",
-                "TimeStart": 1576758600,
-                "TimeEnd": 1576818000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.3255254,
-                    37.5629917
                 ]
             }
         }
