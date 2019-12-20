@@ -629,31 +629,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Boulder YG - Yang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Wed, Jan 8, 6:00PM-8:00PM MST",
-                "Venue": "Dark Horse",
-                "Address": "2922 Baseline Rd, Boulder, CO 80303<br>Boulder, CO 80303",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/157325/\">Mobilize US</a>",
-                "Description": "Weekly meetup, come out meet fellow yang gang people, find out what local volunteer opportunities there are and how you can get involved, and find out what major events we are hosting in Colorado.<br><br>Meet at the upstairs room.",
-                "TimeStart": 1578531600,
-                "TimeEnd": 1578538800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.25533,
-                    39.9989863
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Gilbert, AZ - Text Banking Meet Up",
                 "Type": "TEXT_BANK",
                 "Host": "Volunteer",
@@ -679,13 +654,38 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Boulder YG - Yang Hang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Wed, Jan 8, 6:00PM-8:00PM MST",
+                "Venue": "Dark Horse",
+                "Address": "2922 Baseline Rd, Boulder, CO 80303<br>Boulder, CO 80303",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/157325/\">Mobilize US</a>",
+                "Description": "Weekly meetup, come out meet fellow yang gang people, find out what local volunteer opportunities there are and how you can get involved, and find out what major events we are hosting in Colorado.<br><br>Meet at the upstairs room.",
+                "TimeStart": 1578531600,
+                "TimeEnd": 1578538800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.25533,
+                    39.9989863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Trivia w/ the Manchester Yang Gang",
                 "Type": "COMMUNITY",
                 "Host": "Campaign",
                 "Time": "Wed, Jan 8, 7:00PM-9:00PM EST",
                 "Venue": "Backyard Brewery",
                 "Address": "1211 S Mammoth Rd<br>Manchester, NH 03109",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166523/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166523/\">Mobilize US</a>",
                 "Description": "Join us for some good, old fashioned trivia in Manchester! <br><br>Depending on registered attendees, we'll split up into teams or play as one, have some drinks and food, and rock the competition! Trivia runs 7pm-9pm on Wednesday nights at the Backyard Brewery.",
                 "TimeStart": 1578528000,
                 "TimeEnd": 1578535200,
@@ -710,7 +710,7 @@
                 "Time": "Wed, Jan 8, 7:00PM-9:00PM EST",
                 "Venue": "Backyard Brewery",
                 "Address": "1211 S Mammoth Rd<br>Manchester, NH 03109",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166523/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166523/\">Mobilize US</a>",
                 "Description": "Join us for some good, old fashioned trivia in Manchester! <br><br>Depending on registered attendees, we'll split up into teams or play as one, have some drinks and food, and rock the competition! Trivia runs 7pm-9pm on Wednesday nights at the Backyard Brewery.",
                 "TimeStart": 1578528000,
                 "TimeEnd": 1578535200,
@@ -929,6 +929,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Charleston,SC - Yang Gang Canvassing",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 4, 1:30PM-4:00PM EST",
+                "Venue": "",
+                "Address": "74 Reid St<br>Charleston, SC 29403",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176293/\">Mobilize US</a>",
+                "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone. We will meet at the Charleston Yang Gang office and head out to canvass from there.<br><br>Wear your Yang gear !!",
+                "TimeStart": 1578162600,
+                "TimeEnd": 1578171600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9377954,
+                    32.7927425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Charleston,SC - Yang Gang Canvassing Day",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -954,16 +979,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Charleston,SC - Yang Gang Canvassing",
-                "Type": "CANVASS",
+                "Title": "Garden City, NY - Signature Collection!",
+                "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
-                "Time": "Sat, Jan 4, 1:30PM-4:00PM EST",
-                "Venue": "",
-                "Address": "74 Reid St<br>Charleston, SC 29403",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176293/\">Mobilize US</a>",
-                "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone. We will meet at the Charleston Yang Gang office and head out to canvass from there.<br><br>Wear your Yang gear !!",
-                "TimeStart": 1578162600,
-                "TimeEnd": 1578171600,
+                "Time": "Sat, Jan 4, 12:00PM-9:00PM EST",
+                "Venue": "Roosevelt Field",
+                "Address": "630 Old Country Rd<br>Garden City, NY 11530",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179664/\">Mobilize US</a>",
+                "Description": "Saturday, January 4th at 12:00PM to 9:00PM<br><br>Help Andrew Yang and our NY CD-4 delegates get on the ballot! We've been given a tall order - to collect a whole bunch of signatures (5000 for our Presidential candidate, 500 for each delegate!) before early February. Let's crush these goals and keep this campaign rolling. CD-2 and -3 Yangsters may also have a good amount of luck here, so please come out to support us!<br><br>Feel free to swing by at any time during a 12PM - 9PM window, but would really appreciate if you could spend at least ~3 hours helping out the campaign. We'll be busy collecting signatures, but will surely also have time for some food and bubble tea breaks, so please come out and meet some local Yang Gang members, Yang some Long Islanders (super important, because we need more than 15% of votes for a Congressional District to secure DNC delegates), and help Make America Think Harder!<br><br>Expecting some good foot traffic this weekend as lots of people will be looking to do Christmas gifts returns and exchanges.",
+                "TimeStart": 1578157200,
+                "TimeEnd": 1578189600,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -971,8 +996,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.9377954,
-                    32.7927425
+                    -73.6143576,
+                    40.7381975
                 ]
             }
         },
@@ -1079,6 +1104,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Andrew Yang in Rochester!",
+                "Type": "TOWN_HALL",
+                "Host": "Campaign",
+                "Time": "Thu, Jan 2, 7:00PM-8:30PM EST",
+                "Venue": "Governor's Inn & Restaurant",
+                "Address": "78 Wakefield St<br>Rochester, NH 03867",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174898/\">Mobilize US</a>",
+                "Description": "Come join Andrew Yang at the Governor's Inn in Rochester, and hear about his vision for the country!<br><br>Andrew will be speaking at 7pm in the Rolland Estate main room. We recommend arriving at 6:30pm or earlier. The Governor's Inn restaurant and bar will be open.",
+                "TimeStart": 1578009600,
+                "TimeEnd": 1578015000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9775517,
+                    43.307911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Priority": "HIGH",
                 "Title": "Andrew Yang in Rochester!",
                 "Type": "TOWN_HALL",
@@ -1093,31 +1143,6 @@
                 "marker-color": "#DA3248",
                 "marker-symbol": "c",
                 "marker-size": "medium"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.9775517,
-                    43.307911
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Andrew Yang in Rochester!",
-                "Type": "TOWN_HALL",
-                "Host": "Campaign",
-                "Time": "Thu, Jan 2, 7:00PM-8:30PM EST",
-                "Venue": "Governor's Inn & Restaurant",
-                "Address": "78 Wakefield St<br>Rochester, NH 03867",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174898/\">Mobilize US</a>",
-                "Description": "Come join Andrew Yang at the Governor's Inn in Rochester, and hear about his vision for the country!<br><br>Andrew will be speaking at 7pm in the Rolland Estate main room. We recommend arriving at 6:30pm or earlier. The Governor's Inn restaurant and bar will be open.",
-                "TimeStart": 1578009600,
-                "TimeEnd": 1578015000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
@@ -1181,6 +1206,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Keene Office Opening with Andrew Yang!",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Wed, Jan 1, 5:00PM-6:30PM EST",
+                "Venue": "",
+                "Address": "44 Main St<br>Keene, NH 03431",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172640/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang in Keene to open our new field office!",
+                "TimeStart": 1577916000,
+                "TimeEnd": 1577921400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2779889,
+                    42.9327247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Priority": "HIGH",
                 "Title": "Keene Office Opening with Andrew Yang!",
                 "Type": "COMMUNITY",
@@ -1207,25 +1257,26 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Keene Office Opening with Andrew Yang!",
-                "Type": "COMMUNITY",
+                "Priority": "HIGH",
+                "Title": "New Year's Day with Andrew Yang - Lebanon",
+                "Type": "MEET_GREET",
                 "Host": "Campaign",
-                "Time": "Wed, Jan 1, 5:00PM-6:30PM EST",
-                "Venue": "",
-                "Address": "44 Main St<br>Keene, NH 03431",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172640/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang in Keene to open our new field office!",
-                "TimeStart": 1577916000,
-                "TimeEnd": 1577921400,
-                "marker-color": "#F2A00F",
+                "Time": "Wed, Jan 1, 2:30PM-4:00PM EST",
+                "Venue": "Salt Hill Pub - Lebanon",
+                "Address": "2 W Park St<br>Lebanon, NH 03766",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172631/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang on New Years Day in Lebanon, NH to hear about his vision for the country. Q&A will follow remarks!",
+                "TimeStart": 1577907000,
+                "TimeEnd": 1577912400,
+                "marker-color": "#DA3248",
                 "marker-symbol": "c",
-                "marker-size": "small"
+                "marker-size": "medium"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.2779889,
-                    42.9327247
+                    -72.252669,
+                    43.642665
                 ]
             }
         },
@@ -1245,32 +1296,6 @@
                 "marker-color": "#F2A00F",
                 "marker-symbol": "c",
                 "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.252669,
-                    43.642665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Priority": "HIGH",
-                "Title": "New Year's Day with Andrew Yang - Lebanon",
-                "Type": "MEET_GREET",
-                "Host": "Campaign",
-                "Time": "Wed, Jan 1, 2:30PM-4:00PM EST",
-                "Venue": "Salt Hill Pub - Lebanon",
-                "Address": "2 W Park St<br>Lebanon, NH 03766",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172631/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang on New Years Day in Lebanon, NH to hear about his vision for the country. Q&A will follow remarks!",
-                "TimeStart": 1577907000,
-                "TimeEnd": 1577912400,
-                "marker-color": "#DA3248",
-                "marker-symbol": "c",
-                "marker-size": "medium"
             },
             "geometry": {
                 "type": "Point",
@@ -1459,19 +1484,20 @@
         {
             "type": "Feature",
             "properties": {
+                "Priority": "HIGH",
                 "Title": "Early NYE in Manchester with Yang!",
                 "Type": "MEET_GREET",
                 "Host": "Campaign",
                 "Time": "Tue, Dec 31, 8:30PM-10:00PM EST",
                 "Venue": "Stark Brewing Company",
                 "Address": "500 N Commercial St<br>Manchester, NH 03101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172267/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172267/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang and the Yang Gang in Manchester to kick off your NYE!",
                 "TimeStart": 1577842200,
                 "TimeEnd": 1577847600,
-                "marker-color": "#F2A00F",
+                "marker-color": "#DA3248",
                 "marker-symbol": "c",
-                "marker-size": "small"
+                "marker-size": "medium"
             },
             "geometry": {
                 "type": "Point",
@@ -1509,20 +1535,19 @@
         {
             "type": "Feature",
             "properties": {
-                "Priority": "HIGH",
                 "Title": "Early NYE in Manchester with Yang!",
                 "Type": "MEET_GREET",
                 "Host": "Campaign",
                 "Time": "Tue, Dec 31, 8:30PM-10:00PM EST",
                 "Venue": "Stark Brewing Company",
                 "Address": "500 N Commercial St<br>Manchester, NH 03101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172267/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172267/\">Mobilize US</a>",
                 "Description": "Join Andrew Yang and the Yang Gang in Manchester to kick off your NYE!",
                 "TimeStart": 1577842200,
                 "TimeEnd": 1577847600,
-                "marker-color": "#DA3248",
+                "marker-color": "#F2A00F",
                 "marker-symbol": "c",
-                "marker-size": "medium"
+                "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
@@ -1636,6 +1661,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Signature Gathering  - New Year's Eve!  CD NY13",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 4:00PM-6:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>New York, NY 10027",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174126/\">Mobilize US</a>",
+                "Description": "Come sign the petitions to get Andrew and his delegates on the ballot. We will not win if Andrew Yang is not on the ballot.<br><br>Signature gathering begins in NY on Dec. 31, 2019. Let's welcome the new year supporting our favorite \"Man of the Year\"!",
+                "TimeStart": 1577826000,
+                "TimeEnd": 1577833200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95306,
+                    40.811407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Priority": "HIGH",
                 "Title": "Early NYE with Andrew Yang in Derry!",
                 "Type": "MEET_GREET",
@@ -1656,31 +1706,6 @@
                 "coordinates": [
                     -71.3348828,
                     42.8863251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Signature Gathering  - New Year's Eve!  CD NY13",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 4:00PM-6:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>New York, NY 10027",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174126/\">Mobilize US</a>",
-                "Description": "Come sign the petitions to get Andrew and his delegates on the ballot. We will not win if Andrew Yang is not on the ballot.<br><br>Signature gathering begins in NY on Dec. 31, 2019. Let's welcome the new year supporting our favorite \"Man of the Year\"!",
-                "TimeStart": 1577826000,
-                "TimeEnd": 1577833200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95306,
-                    40.811407
                 ]
             }
         },
@@ -1712,31 +1737,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Early NYE in Portsmouth with Andrew Yang",
-                "Type": "MEET_GREET",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 1:30PM-3:00PM EST",
-                "Venue": "Cure",
-                "Address": "189 State Street<br>Portsmouth, NH 03801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172770/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang in Portsmouth on NYE!",
-                "TimeStart": 1577817000,
-                "TimeEnd": 1577822400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.756068,
-                    43.076507
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Priority": "HIGH",
                 "Title": "Early NYE in Portsmouth with Andrew Yang",
                 "Type": "MEET_GREET",
@@ -1751,6 +1751,31 @@
                 "marker-color": "#DA3248",
                 "marker-symbol": "c",
                 "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.756068,
+                    43.076507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Early NYE in Portsmouth with Andrew Yang",
+                "Type": "MEET_GREET",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 1:30PM-3:00PM EST",
+                "Venue": "Cure",
+                "Address": "189 State Street<br>Portsmouth, NH 03801",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172770/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang in Portsmouth on NYE!",
+                "TimeStart": 1577817000,
+                "TimeEnd": 1577822400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
