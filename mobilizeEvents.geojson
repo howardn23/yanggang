@@ -6474,13 +6474,13 @@
                 "Title": "Test",
                 "Type": "PHONE_BANK",
                 "Host": "Campaign",
-                "Time": "Sat, Dec 21, 9:00AM-12:00PM CST",
+                "Time": "Sat, Dec 21, 9:00AM-12:30PM CST",
                 "Venue": "Dubuque Office",
                 "Address": "633 Main St<br>Dubuque, IA 52001",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/162026/\">Mobilize US</a>",
                 "Description": "Dubuque  Volunteer Phonebank",
                 "TimeStart": 1576940400,
-                "TimeEnd": 1576951200,
+                "TimeEnd": 1576953000,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "c",
                 "marker-size": "small"
@@ -7071,6 +7071,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Become an Event Moderator",
+                "Type": "TRAINING",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 21, 5:00AM-11:30PM EST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172375/\">Mobilize US</a>",
+                "Description": "Yang2020 event postings are coming in at increasing speeds. It's a great problem to have, but the Yang2020 event support team is going to need your help if we want to keep up!<br><br>We're looking for volunteer moderators to edit and approve events. We're also looking for volunteer callers to contact new event hosts and prepare them for their events. If either or both of these tasks sound interesting to you, then signup and begin the on-boarding process today!",
+                "TimeStart": 1576922400,
+                "TimeEnd": 1576989000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -139,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "San Diego - Beach Bonfire Party 12/20",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -7090,31 +7115,6 @@
                 "coordinates": [
                     -117.2437282,
                     32.7701774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Become an Event Moderator",
-                "Type": "TRAINING",
-                "Host": "Campaign",
-                "Time": "Fri, Dec 20, 5:00AM-11:30PM EST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172375/\">Mobilize US</a>",
-                "Description": "Yang2020 event postings are coming in at increasing speeds. It's a great problem to have, but the Yang2020 event support team is going to need your help if we want to keep up!<br><br>We're looking for volunteer moderators to edit and approve events. We're also looking for volunteer callers to contact new event hosts and prepare them for their events. If either or both of these tasks sound interesting to you, then signup and begin the on-boarding process today!",
-                "TimeStart": 1576836000,
-                "TimeEnd": 1576902600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -139,
-                    45
                 ]
             }
         }
