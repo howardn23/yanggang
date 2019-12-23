@@ -854,31 +854,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Gilbert, AZ - Text Banking Meet Up",
-                "Type": "TEXT_BANK",
-                "Host": "Volunteer",
-                "Time": "Wed, Jan 8, 6:00PM-8:00PM MST",
-                "Venue": "The Coffee Shop",
-                "Address": "3000 E Ray Rd<br>Gilbert, AZ 85296",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167711/\">Mobilize US</a>",
-                "Description": "Wednesday, January 8th at 6:00PM to 8PM<br><br>Hi Gilbert Yang Gang you're all invited to join us at the Coffee Shop near Joe's Farm Grill to get to know your local Yang Gang and to text bank the early primary States. If have haven't done text banking before please see some of the instructions below and make sure to get everything setup prior to the meet up:<br><br>To start text banking you have to create a Slack as well as a Hustle account (below is a link to a helpful Google Doc to help you get started). To maximize your time at the meetup please complete the setup prior to the meeting and feel free to reach out for help. If this is all overwhelming no worries we can help you get setup on Wednesday :)<br><br>https://docs.google.com/document/d/1Eao47ri3BLlzWarmTOpBndA_zCVVpzlm0oW6gKSCIKo/edit",
-                "TimeStart": 1578531600,
-                "TimeEnd": 1578538800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.726244,
-                    33.321866
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Boulder YG - Yang Hang",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -898,6 +873,31 @@
                 "coordinates": [
                     -105.25533,
                     39.9989863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Gilbert, AZ - Text Banking Meet Up",
+                "Type": "TEXT_BANK",
+                "Host": "Volunteer",
+                "Time": "Wed, Jan 8, 6:00PM-8:00PM MST",
+                "Venue": "The Coffee Shop",
+                "Address": "3000 E Ray Rd<br>Gilbert, AZ 85296",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167711/\">Mobilize US</a>",
+                "Description": "Wednesday, January 8th at 6:00PM to 8PM<br><br>Hi Gilbert Yang Gang you're all invited to join us at the Coffee Shop near Joe's Farm Grill to get to know your local Yang Gang and to text bank the early primary States. If have haven't done text banking before please see some of the instructions below and make sure to get everything setup prior to the meet up:<br><br>To start text banking you have to create a Slack as well as a Hustle account (below is a link to a helpful Google Doc to help you get started). To maximize your time at the meetup please complete the setup prior to the meeting and feel free to reach out for help. If this is all overwhelming no worries we can help you get setup on Wednesday :)<br><br>https://docs.google.com/document/d/1Eao47ri3BLlzWarmTOpBndA_zCVVpzlm0oW6gKSCIKo/edit",
+                "TimeStart": 1578531600,
+                "TimeEnd": 1578538800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.726244,
+                    33.321866
                 ]
             }
         },
@@ -1279,18 +1279,18 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Charleston,SC - Yang Gang Canvassing",
+                "Title": "Charleston,SC - Yang Gang Canvassing Day",
                 "Type": "CANVASS",
-                "Host": "Volunteer",
+                "Host": "Campaign",
                 "Time": "Sat, Jan 4, 1:30PM-4:00PM EST",
-                "Venue": "",
+                "Venue": "Charleston Yang Gang Office",
                 "Address": "74 Reid St<br>Charleston, SC 29403",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176293/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176296/\">Mobilize US</a>",
                 "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone. We will meet at the Charleston Yang Gang office and head out to canvass from there.<br><br>Wear your Yang gear !!",
                 "TimeStart": 1578162600,
                 "TimeEnd": 1578171600,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
@@ -1304,18 +1304,18 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Charleston,SC - Yang Gang Canvassing Day",
+                "Title": "Charleston,SC - Yang Gang Canvassing",
                 "Type": "CANVASS",
-                "Host": "Campaign",
+                "Host": "Volunteer",
                 "Time": "Sat, Jan 4, 1:30PM-4:00PM EST",
-                "Venue": "Charleston Yang Gang Office",
+                "Venue": "",
                 "Address": "74 Reid St<br>Charleston, SC 29403",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176296/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176293/\">Mobilize US</a>",
                 "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone. We will meet at the Charleston Yang Gang office and head out to canvass from there.<br><br>Wear your Yang gear !!",
                 "TimeStart": 1578162600,
                 "TimeEnd": 1578171600,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
@@ -1379,31 +1379,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Fort Collins Door-To-Door Canvassing",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Jan 4, 10:00AM-1:00PM MST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Fort Collins, CO 80524",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167059/\">Mobilize US</a>",
-                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
-                "TimeStart": 1578157200,
-                "TimeEnd": 1578168000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.029519,
-                    40.646854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "JAMAICA, NY - Signature Gathering DISTRICT 5",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -1448,6 +1423,31 @@
                 "coordinates": [
                     -73.6143576,
                     40.7381975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Fort Collins Door-To-Door Canvassing",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Jan 4, 10:00AM-1:00PM MST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Fort Collins, CO 80524",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167059/\">Mobilize US</a>",
+                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
+                "TimeStart": 1578157200,
+                "TimeEnd": 1578168000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.029519,
+                    40.646854
                 ]
             }
         },
@@ -1833,6 +1833,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "New Year, New Way Forward - Nashua with Andrew Yang",
+                "Type": "TOWN_HALL",
+                "Host": "Campaign",
+                "Time": "Wed, Jan 1, 11:45AM-1:15PM EST",
+                "Venue": "The Arbor Restaurant and Function Facility",
+                "Address": "57 Palm St<br>Nashua, NH 03060",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172774/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang in Nashua to talk about his vision for the country!",
+                "TimeStart": 1577897100,
+                "TimeEnd": 1577902500,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.470772,
+                    42.756495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Priority": "HIGH",
                 "Title": "New Year, New Way Forward - Nashua with Andrew Yang",
                 "Type": "TOWN_HALL",
@@ -1847,31 +1872,6 @@
                 "marker-color": "#DA3248",
                 "marker-symbol": "c",
                 "marker-size": "medium"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.470772,
-                    42.756495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "New Year, New Way Forward - Nashua with Andrew Yang",
-                "Type": "TOWN_HALL",
-                "Host": "Campaign",
-                "Time": "Wed, Jan 1, 11:45AM-1:15PM EST",
-                "Venue": "The Arbor Restaurant and Function Facility",
-                "Address": "57 Palm St<br>Nashua, NH 03060",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172774/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang in Nashua to talk about his vision for the country!",
-                "TimeStart": 1577897100,
-                "TimeEnd": 1577902500,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
@@ -2060,6 +2060,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Capital District - New Year's Eve Petition Kickoff!",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 31, 8:00PM-11:30PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Round Lake, NY 12151",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180902/\">Mobilize US</a>",
+                "Description": "Let's start January off with a bang!<br><br>We will have the month of January to gather thousands of signatures to get Yang's delegates on the ballot. Round Lake is  right on the line of districts 20 and 21. So if either of those are your district please join us for New Year's Eve!<br><br>We can start the month off right and make sure everyone is ready to get those signatures \ud83d\ude0e",
+                "TimeStart": 1577840400,
+                "TimeEnd": 1577853000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.787225,
+                    42.922697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Early NYE in Concord with Andrew Yang",
                 "Type": "MEET_GREET",
                 "Host": "Campaign",
@@ -2212,31 +2237,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "NYC, NY - Get Yang on the Ballot!",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Tue, Dec 31, 3:00PM-6:00PM EST",
-                "Venue": "Union Square",
-                "Address": "Union Sq West between 16th and 17th St<br>New York, NY 10010",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180580/\">Mobilize US</a>",
-                "Description": "Context:<br>Andrew Yang needs enough physical signatures collected in-person state-wide in order to be on the NY State Ballot. <br><br>NY has 27 Congressional Districts and in District #12 (most of Manhattan), there are 7 Andrew Yang Delegates. I'm one of them and the task at hand is to collect 1K signatures!  I'll need your help!<br><br>IF you are REGISTERED:<br>1) as a Democrat Voter (look yourself up at https://voterlookup.elections.ny.gov/)<br>2) to vote in District #12 (check results from the lookup)<br><br>THEN<br>come find me at the designated place and time to put down your physical signature on my Delegate Petition. You'll make a meaningful difference in getting Yang on the NY State ballot!<br>(also, send this link to friends who also fit the criteria)<br><br>Voter Registration Lookup: https://voterlookup.elections.ny.gov/<br><br>Details on District #12<br>* https://www.govtrack.us/congress/members/NY/12<br>* Roughly east of 8th ave, north of Houston/LES and up to 98th St",
-                "TimeStart": 1577822400,
-                "TimeEnd": 1577833200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9904273,
-                    40.7359104
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Ashland, Oregon. Noon New Year's Eve Party YANG GANG OUTREACH",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -2256,6 +2256,31 @@
                 "coordinates": [
                     -122.6886724,
                     42.193447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "NYC, NY - Get Yang on the Ballot!",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 31, 3:00PM-6:00PM EST",
+                "Venue": "Union Square",
+                "Address": "Union Sq West between 16th and 17th St<br>New York, NY 10010",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180580/\">Mobilize US</a>",
+                "Description": "Context:<br>Andrew Yang needs enough physical signatures collected in-person state-wide in order to be on the NY State Ballot. <br><br>NY has 27 Congressional Districts and in District #12 (most of Manhattan), there are 7 Andrew Yang Delegates. I'm one of them and the task at hand is to collect 1K signatures!  I'll need your help!<br><br>IF you are REGISTERED:<br>1) as a Democrat Voter (look yourself up at https://voterlookup.elections.ny.gov/)<br>2) to vote in District #12 (check results from the lookup)<br><br>THEN<br>come find me at the designated place and time to put down your physical signature on my Delegate Petition. You'll make a meaningful difference in getting Yang on the NY State ballot!<br>(also, send this link to friends who also fit the criteria)<br><br>Voter Registration Lookup: https://voterlookup.elections.ny.gov/<br><br>Details on District #12<br>* https://www.govtrack.us/congress/members/NY/12<br>* Roughly east of 8th ave, north of Houston/LES and up to 98th St",
+                "TimeStart": 1577822400,
+                "TimeEnd": 1577833200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9904273,
+                    40.7359104
                 ]
             }
         },
@@ -2287,31 +2312,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Early NYE in Portsmouth with Andrew Yang",
-                "Type": "MEET_GREET",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 1:30PM-3:00PM EST",
-                "Venue": "Cure",
-                "Address": "189 State Street<br>Portsmouth, NH 03801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172770/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang in Portsmouth on NYE!",
-                "TimeStart": 1577817000,
-                "TimeEnd": 1577822400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.756068,
-                    43.076507
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Priority": "HIGH",
                 "Title": "Early NYE in Portsmouth with Andrew Yang",
                 "Type": "MEET_GREET",
@@ -2326,6 +2326,31 @@
                 "marker-color": "#DA3248",
                 "marker-symbol": "c",
                 "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.756068,
+                    43.076507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Early NYE in Portsmouth with Andrew Yang",
+                "Type": "MEET_GREET",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 1:30PM-3:00PM EST",
+                "Venue": "Cure",
+                "Address": "189 State Street<br>Portsmouth, NH 03801",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172770/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang in Portsmouth on NYE!",
+                "TimeStart": 1577817000,
+                "TimeEnd": 1577822400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
