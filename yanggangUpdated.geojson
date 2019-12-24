@@ -1,5 +1,5 @@
 {
-    "updated": 1577154701.682711,
+    "updated": 1577155268.2996528,
     "type": "FeatureCollection",
     "features": [
         {
@@ -9411,7 +9411,7 @@
                 "Time": "Wed, Jan 8, 7:00PM-9:00PM EST",
                 "Venue": "Backyard Brewery",
                 "Address": "1211 S Mammoth Rd<br>Manchester, NH 03109",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166523/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166523/\">Mobilize US</a>",
                 "Description": "Join us for some good, old fashioned trivia in Manchester! <br><br>Depending on registered attendees, we'll split up into teams or play as one, have some drinks and food, and rock the competition! Trivia runs 7pm-9pm on Wednesday nights at the Backyard Brewery.",
                 "TimeStart": 1578528000,
                 "TimeEnd": 1578535200,
@@ -9436,7 +9436,7 @@
                 "Time": "Wed, Jan 8, 7:00PM-9:00PM EST",
                 "Venue": "Backyard Brewery",
                 "Address": "1211 S Mammoth Rd<br>Manchester, NH 03109",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166523/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166523/\">Mobilize US</a>",
                 "Description": "Join us for some good, old fashioned trivia in Manchester! <br><br>Depending on registered attendees, we'll split up into teams or play as one, have some drinks and food, and rock the competition! Trivia runs 7pm-9pm on Wednesday nights at the Backyard Brewery.",
                 "TimeStart": 1578528000,
                 "TimeEnd": 1578535200,
@@ -9705,31 +9705,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Valley Stream, NY - Signature Gathering CD NY05",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Sun, Jan 5, 12:00PM-7:00PM EST",
-                "Venue": "Green Acres Mall",
-                "Address": "Sunrise Hwy<br>Valley Stream, NY 11581",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181055/\">Mobilize US</a>",
-                "Description": "We will not win if Andrew Yang is not on the ballots! Our state is currently collecting signatures. Let\u2019s meet in **Chipotle at Green Acres Mall**. <br><br>Please find and review the documentation in this spreadsheet: http://bit.ly/y2020SignatureGatheringLinks",
-                "TimeStart": 1578243600,
-                "TimeEnd": 1578268800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.7192917,
-                    40.6624591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Goleta, CA - Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -9749,6 +9724,31 @@
                 "coordinates": [
                     -119.8694772,
                     34.4294708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Valley Stream, NY - Signature Gathering CD NY05",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sun, Jan 5, 12:00PM-7:00PM EST",
+                "Venue": "Green Acres Mall",
+                "Address": "Sunrise Hwy<br>Valley Stream, NY 11581",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181055/\">Mobilize US</a>",
+                "Description": "We will not win if Andrew Yang is not on the ballots! Our state is currently collecting signatures. Let\u2019s meet in **Chipotle at Green Acres Mall**. <br><br>Please find and review the documentation in this spreadsheet: http://bit.ly/y2020SignatureGatheringLinks",
+                "TimeStart": 1578243600,
+                "TimeEnd": 1578268800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7192917,
+                    40.6624591
                 ]
             }
         },
@@ -9855,18 +9855,18 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Charleston,SC - Yang Gang Canvassing",
+                "Title": "Charleston,SC - Yang Gang Canvassing Day",
                 "Type": "CANVASS",
-                "Host": "Volunteer",
+                "Host": "Campaign",
                 "Time": "Sat, Jan 4, 1:30PM-4:00PM EST",
-                "Venue": "",
+                "Venue": "Charleston Yang Gang Office",
                 "Address": "74 Reid St<br>Charleston, SC 29403",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176293/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176296/\">Mobilize US</a>",
                 "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone. We will meet at the Charleston Yang Gang office and head out to canvass from there.<br><br>Wear your Yang gear !!",
                 "TimeStart": 1578162600,
                 "TimeEnd": 1578171600,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
@@ -9880,18 +9880,18 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Charleston,SC - Yang Gang Canvassing Day",
+                "Title": "Charleston,SC - Yang Gang Canvassing",
                 "Type": "CANVASS",
-                "Host": "Campaign",
+                "Host": "Volunteer",
                 "Time": "Sat, Jan 4, 1:30PM-4:00PM EST",
-                "Venue": "Charleston Yang Gang Office",
+                "Venue": "",
                 "Address": "74 Reid St<br>Charleston, SC 29403",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176296/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176293/\">Mobilize US</a>",
                 "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone. We will meet at the Charleston Yang Gang office and head out to canvass from there.<br><br>Wear your Yang gear !!",
                 "TimeStart": 1578162600,
                 "TimeEnd": 1578171600,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
@@ -9955,31 +9955,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "JAMAICA, NY - Signature Gathering CD NY05",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 4, 12:00PM-8:00PM EST",
-                "Venue": "Jamaica Multiplex Cinemas",
-                "Address": "159-02 Jamaica Ave<br>Queens, NY 11423",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181059/\">Mobilize US</a>",
-                "Description": "We will not win if Andrew Yang is not on the ballots! Our state is currently collecting signatures. Let\u2019s meet in front of **Jamacia Multiplex Cinemas on 159-02 Jamaica Ave**. <br><br>Please find and review the documentation in this spreadsheet: http://bit.ly/y2020SignatureGatheringLinks",
-                "TimeStart": 1578157200,
-                "TimeEnd": 1578186000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.7998843,
-                    40.703265
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Garden City, NY - Signature Collection!",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -10024,6 +9999,31 @@
                 "coordinates": [
                     -105.029519,
                     40.646854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "JAMAICA, NY - Signature Gathering CD NY05",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 4, 12:00PM-8:00PM EST",
+                "Venue": "Jamaica Multiplex Cinemas",
+                "Address": "159-02 Jamaica Ave<br>Queens, NY 11423",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181059/\">Mobilize US</a>",
+                "Description": "We will not win if Andrew Yang is not on the ballots! Our state is currently collecting signatures. Let\u2019s meet in front of **Jamacia Multiplex Cinemas on 159-02 Jamaica Ave**. <br><br>Please find and review the documentation in this spreadsheet: http://bit.ly/y2020SignatureGatheringLinks",
+                "TimeStart": 1578157200,
+                "TimeEnd": 1578186000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7998843,
+                    40.703265
                 ]
             }
         },
@@ -10155,6 +10155,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Andrew Yang in Rochester!",
+                "Type": "TOWN_HALL",
+                "Host": "Campaign",
+                "Time": "Thu, Jan 2, 7:00PM-8:30PM EST",
+                "Venue": "Governor's Inn & Restaurant",
+                "Address": "78 Wakefield St<br>Rochester, NH 03867",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174898/\">Mobilize US</a>",
+                "Description": "Come join Andrew Yang at the Governor's Inn in Rochester, and hear about his vision for the country!<br><br>Andrew will be speaking at 7pm in the Rolland Estate main room. We recommend arriving at 6:30pm or earlier. The Governor's Inn restaurant and bar will be open.",
+                "TimeStart": 1578009600,
+                "TimeEnd": 1578015000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9775517,
+                    43.307911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Priority": "HIGH",
                 "Title": "Andrew Yang in Rochester!",
                 "Type": "TOWN_HALL",
@@ -10181,16 +10206,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Andrew Yang in Rochester!",
-                "Type": "TOWN_HALL",
+                "Title": "Plymouth, NH Office Opening with Andrew Yang!",
+                "Type": "MEET_GREET",
                 "Host": "Campaign",
-                "Time": "Thu, Jan 2, 7:00PM-8:30PM EST",
-                "Venue": "Governor's Inn & Restaurant",
-                "Address": "78 Wakefield St<br>Rochester, NH 03867",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174898/\">Mobilize US</a>",
-                "Description": "Come join Andrew Yang at the Governor's Inn in Rochester, and hear about his vision for the country!<br><br>Andrew will be speaking at 7pm in the Rolland Estate main room. We recommend arriving at 6:30pm or earlier. The Governor's Inn restaurant and bar will be open.",
-                "TimeStart": 1578009600,
-                "TimeEnd": 1578015000,
+                "Time": "Thu, Jan 2, 4:00PM-5:30PM EST",
+                "Venue": "",
+                "Address": "75 Main St<br>Plymouth, NH 03264",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172655/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang as he opens his Plymouth, NH field office!",
+                "TimeStart": 1577998800,
+                "TimeEnd": 1578004200,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "c",
                 "marker-size": "small"
@@ -10198,8 +10223,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.9775517,
-                    43.307911
+                    -71.6874967,
+                    43.757505
                 ]
             }
         },
@@ -10232,25 +10257,26 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Plymouth, NH Office Opening with Andrew Yang!",
-                "Type": "MEET_GREET",
+                "Priority": "HIGH",
+                "Title": "Keene Office Opening with Andrew Yang!",
+                "Type": "COMMUNITY",
                 "Host": "Campaign",
-                "Time": "Thu, Jan 2, 4:00PM-5:30PM EST",
+                "Time": "Wed, Jan 1, 5:00PM-6:30PM EST",
                 "Venue": "",
-                "Address": "75 Main St<br>Plymouth, NH 03264",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172655/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang as he opens his Plymouth, NH field office!",
-                "TimeStart": 1577998800,
-                "TimeEnd": 1578004200,
-                "marker-color": "#F2A00F",
+                "Address": "44 Main St<br>Keene, NH 03431",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172640/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang in Keene to open our new field office!",
+                "TimeStart": 1577916000,
+                "TimeEnd": 1577921400,
+                "marker-color": "#DA3248",
                 "marker-symbol": "c",
-                "marker-size": "small"
+                "marker-size": "medium"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.6874967,
-                    43.757505
+                    -72.2779889,
+                    42.9327247
                 ]
             }
         },
@@ -10283,16 +10309,16 @@
             "type": "Feature",
             "properties": {
                 "Priority": "HIGH",
-                "Title": "Keene Office Opening with Andrew Yang!",
-                "Type": "COMMUNITY",
+                "Title": "New Year's Day with Andrew Yang - Lebanon",
+                "Type": "MEET_GREET",
                 "Host": "Campaign",
-                "Time": "Wed, Jan 1, 5:00PM-6:30PM EST",
-                "Venue": "",
-                "Address": "44 Main St<br>Keene, NH 03431",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172640/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang in Keene to open our new field office!",
-                "TimeStart": 1577916000,
-                "TimeEnd": 1577921400,
+                "Time": "Wed, Jan 1, 2:30PM-4:00PM EST",
+                "Venue": "Salt Hill Pub - Lebanon",
+                "Address": "2 W Park St<br>Lebanon, NH 03766",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172631/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang on New Years Day in Lebanon, NH to hear about his vision for the country. Q&A will follow remarks!",
+                "TimeStart": 1577907000,
+                "TimeEnd": 1577912400,
                 "marker-color": "#DA3248",
                 "marker-symbol": "c",
                 "marker-size": "medium"
@@ -10300,8 +10326,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.2779889,
-                    42.9327247
+                    -72.252669,
+                    43.642665
                 ]
             }
         },
@@ -10321,32 +10347,6 @@
                 "marker-color": "#F2A00F",
                 "marker-symbol": "c",
                 "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.252669,
-                    43.642665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Priority": "HIGH",
-                "Title": "New Year's Day with Andrew Yang - Lebanon",
-                "Type": "MEET_GREET",
-                "Host": "Campaign",
-                "Time": "Wed, Jan 1, 2:30PM-4:00PM EST",
-                "Venue": "Salt Hill Pub - Lebanon",
-                "Address": "2 W Park St<br>Lebanon, NH 03766",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172631/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang on New Years Day in Lebanon, NH to hear about his vision for the country. Q&A will follow remarks!",
-                "TimeStart": 1577907000,
-                "TimeEnd": 1577912400,
-                "marker-color": "#DA3248",
-                "marker-symbol": "c",
-                "marker-size": "medium"
             },
             "geometry": {
                 "type": "Point",
@@ -10585,26 +10585,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Priority": "HIGH",
-                "Title": "Early NYE in Manchester with Yang!",
-                "Type": "MEET_GREET",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 8:30PM-10:00PM EST",
-                "Venue": "Stark Brewing Company",
-                "Address": "500 N Commercial St<br>Manchester, NH 03101",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172267/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang and the Yang Gang in Manchester to kick off your NYE!",
+                "Title": "NYE Oakland YangGang Bar Crawl",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 31, 5:30PM-11:59PM PST",
+                "Venue": "The Double Standard",
+                "Address": "2424 Telegraph Ave<br>Oakland, CA 94612",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179259/\">Mobilize US</a>",
+                "Description": "Leave the tuxes at home, but wear your MATH hat and all the Yang gear. We're going crowd yanging'! <br><br>A Yang Crawl, if you will. <br><br>The more bars we hit up, the more exposure for Andrew Yang! <br><br>We will start at Double Standard at 6 pm on 12/31 and yang all of updown/ downtown/ temescal Oakland! <br><br>This is a 21+ over event.  Please register so we can stay in touch about our location!",
                 "TimeStart": 1577842200,
-                "TimeEnd": 1577847600,
-                "marker-color": "#DA3248",
-                "marker-symbol": "c",
-                "marker-size": "medium"
+                "TimeEnd": 1577865540,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.4678754,
-                    42.994673
+                    -122.268178,
+                    37.8142717
                 ]
             }
         },
@@ -10636,25 +10635,26 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "NYE Oakland YangGang Bar Crawl",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Tue, Dec 31, 5:30PM-11:59PM PST",
-                "Venue": "The Double Standard",
-                "Address": "2424 Telegraph Ave<br>Oakland, CA 94612",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179259/\">Mobilize US</a>",
-                "Description": "Leave the tuxes at home, but wear your MATH hat and all the Yang gear. We're going crowd yanging'! <br><br>A Yang Crawl, if you will. <br><br>The more bars we hit up, the more exposure for Andrew Yang! <br><br>We will start at Double Standard at 6 pm on 12/31 and yang all of updown/ downtown/ temescal Oakland! <br><br>This is a 21+ over event.  Please register so we can stay in touch about our location!",
+                "Priority": "HIGH",
+                "Title": "Early NYE in Manchester with Yang!",
+                "Type": "MEET_GREET",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 8:30PM-10:00PM EST",
+                "Venue": "Stark Brewing Company",
+                "Address": "500 N Commercial St<br>Manchester, NH 03101",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/172267/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang and the Yang Gang in Manchester to kick off your NYE!",
                 "TimeStart": 1577842200,
-                "TimeEnd": 1577865540,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
+                "TimeEnd": 1577847600,
+                "marker-color": "#DA3248",
+                "marker-symbol": "c",
+                "marker-size": "medium"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.268178,
-                    37.8142717
+                    -71.4678754,
+                    42.994673
                 ]
             }
         },
@@ -10762,6 +10762,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Early NYE with Andrew Yang in Derry!",
+                "Type": "MEET_GREET",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 4:00PM-5:30PM EST",
+                "Venue": "Rockingham Brewing Company",
+                "Address": "1 Corporate Park Dr 1<br>Derry, NH 03038",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172647/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang for a Brew in Derry on NYE!",
+                "TimeStart": 1577826000,
+                "TimeEnd": 1577831400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3348828,
+                    42.8863251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "NYC, NY - Signature Gathering for CD NY06",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -10781,6 +10806,31 @@
                 "coordinates": [
                     -73.8289109,
                     40.757796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Signature Gathering  - New Year's Eve!  CD NY13",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 4:00PM-6:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>New York, NY 10027",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174126/\">Mobilize US</a>",
+                "Description": "Come sign the petitions to get Andrew and his delegates on the ballot. We will not win if Andrew Yang is not on the ballot.<br><br>Signature gathering begins in NY on Dec. 31, 2019. Let's welcome the new year supporting our favorite \"Man of the Year\"!",
+                "TimeStart": 1577826000,
+                "TimeEnd": 1577833200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95306,
+                    40.811407
                 ]
             }
         },
@@ -10813,50 +10863,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Signature Gathering  - New Year's Eve!  CD NY13",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 4:00PM-6:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>New York, NY 10027",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174126/\">Mobilize US</a>",
-                "Description": "Come sign the petitions to get Andrew and his delegates on the ballot. We will not win if Andrew Yang is not on the ballot.<br><br>Signature gathering begins in NY on Dec. 31, 2019. Let's welcome the new year supporting our favorite \"Man of the Year\"!",
-                "TimeStart": 1577826000,
-                "TimeEnd": 1577833200,
+                "Title": "Ashland, Oregon. Noon New Year's Eve Party YANG GANG OUTREACH",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 31, 12:00PM-2:00PM PST",
+                "Venue": "Science Works",
+                "Address": "1500 E Main St<br>Ashland, OR 97520",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174573/\">Mobilize US</a>",
+                "Description": "Hey Yang Gang! Let's meet at  Noon New Year's Eve Party @ Science Works Hands-On Museum. <br><br>This is a a  family friendly event in Ashland that Starts @ 11 am until 3 pm. <br>There are Ballon drop and activities for the entire family.<br><br>We can hang out together passing out flyers. <br><br>Please wear your Yang Gang gear.",
+                "TimeStart": 1577822400,
+                "TimeEnd": 1577829600,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.95306,
-                    40.811407
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Early NYE with Andrew Yang in Derry!",
-                "Type": "MEET_GREET",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 4:00PM-5:30PM EST",
-                "Venue": "Rockingham Brewing Company",
-                "Address": "1 Corporate Park Dr 1<br>Derry, NH 03038",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172647/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang for a Brew in Derry on NYE!",
-                "TimeStart": 1577826000,
-                "TimeEnd": 1577831400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.3348828,
-                    42.8863251
+                    -122.6886724,
+                    42.193447
                 ]
             }
         },
@@ -10888,31 +10913,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Ashland, Oregon. Noon New Year's Eve Party YANG GANG OUTREACH",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Tue, Dec 31, 12:00PM-2:00PM PST",
-                "Venue": "Science Works",
-                "Address": "1500 E Main St<br>Ashland, OR 97520",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174573/\">Mobilize US</a>",
-                "Description": "Hey Yang Gang! Let's meet at  Noon New Year's Eve Party @ Science Works Hands-On Museum. <br><br>This is a a  family friendly event in Ashland that Starts @ 11 am until 3 pm. <br>There are Ballon drop and activities for the entire family.<br><br>We can hang out together passing out flyers. <br><br>Please wear your Yang Gang gear.",
-                "TimeStart": 1577822400,
-                "TimeEnd": 1577829600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.6886724,
-                    42.193447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Queens, NY - Signature Gathering Event",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -10938,31 +10938,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Early NYE in Portsmouth with Andrew Yang",
-                "Type": "MEET_GREET",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 1:30PM-3:00PM EST",
-                "Venue": "Cure",
-                "Address": "189 State Street<br>Portsmouth, NH 03801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172770/\">Mobilize US</a>",
-                "Description": "Join Andrew Yang in Portsmouth on NYE!",
-                "TimeStart": 1577817000,
-                "TimeEnd": 1577822400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.756068,
-                    43.076507
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Priority": "HIGH",
                 "Title": "Early NYE in Portsmouth with Andrew Yang",
                 "Type": "MEET_GREET",
@@ -10977,6 +10952,31 @@
                 "marker-color": "#DA3248",
                 "marker-symbol": "c",
                 "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.756068,
+                    43.076507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Early NYE in Portsmouth with Andrew Yang",
+                "Type": "MEET_GREET",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 1:30PM-3:00PM EST",
+                "Venue": "Cure",
+                "Address": "189 State Street<br>Portsmouth, NH 03801",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172770/\">Mobilize US</a>",
+                "Description": "Join Andrew Yang in Portsmouth on NYE!",
+                "TimeStart": 1577817000,
+                "TimeEnd": 1577822400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
@@ -11039,6 +11039,56 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Virginia Weekly Volunteer Call",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Mon, Dec 30, 8:30PM-9:30PM EST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/164139/\">Mobilize US</a>",
+                "Description": "Please join us for our weekly Virginia volunteer call.  We will share updates about the campaign, plan upcoming events, and save time for new volunteer introductions. <br><br>If you haven't volunteered before, this is a great way to get plugged in!<br><br>Dial in information below:<br><br>Time: Mondays at 8:30 PM Eastern Time <br><br>Zoom Meeting link:  https://zoom.us/j/153384712<br><br>Meeting ID: 153 384 712<br><br>Phone Dial by your location<br>        +1 929 436 2866 US (New York)<br>        +1 669 900 6833 US (San Jose)<br>Meeting ID: 153 384 712<br><br>Find your local number: https://zoom.us/u/aenHHEb7lE<br><br>Please download and import the following iCalendar (.ics) files to your calendar system: https://zoom.us/meeting/vJEudOGsqTood9QxYTyY4twqVOe7SZqWyA/ics?icsToken=98tyKuitrTgiHtOUsl_9d7MtOav-b8_ujXUXm7tkqAbcVzREczXZM7VxCKNICfmB",
+                "TimeStart": 1577755800,
+                "TimeEnd": 1577759400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135,
+                    49
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Denton Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Mon, Dec 30, 7:00PM-8:30PM CST",
+                "Venue": "",
+                "Address": "106 N Locust St<br>Denton, TX 76201",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/138765/\">Mobilize US</a>",
+                "Description": "Join us in Denton, TX for our weekly Yang Gang Hang at Jupiter House Coffee! Each week we'll be discussing new developments in the Yangosphere, talking policy, strategy and tactics, and just generally spreading the positive Yang Gang vibes.  Bring a friend, and feel free to come with questions, talking points and new ideas. This is a great way to get plugged into the DFW Yang2020 community at large, so swing by say hello, and help get the word out about the most important political candidate of the 2020 election season, Andrew Yang!",
+                "TimeStart": 1577754000,
+                "TimeEnd": 1577759400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.132281,
+                    33.2148764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Denver Yang Hang",
                 "Type": "MEETING",
                 "Host": "Campaign",
@@ -11058,31 +11108,6 @@
                 "coordinates": [
                     -104.9863027,
                     39.734302
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Exeter Town Hall with Andrew Yang",
-                "Type": "TOWN_HALL",
-                "Host": "Campaign",
-                "Time": "Mon, Dec 30, 6:30PM-8:30PM EST",
-                "Venue": "The Exeter Inn",
-                "Address": "90 Front St<br>Exeter, NH 03833",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175094/\">Mobilize US</a>",
-                "Description": "Come join Andrew as he answers YOUR questions about the issues important to your community and presents a New Way Forward for America.",
-                "TimeStart": 1577748600,
-                "TimeEnd": 1577755800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.9538905,
-                    42.9774304
                 ]
             }
         },
@@ -11115,25 +11140,25 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Port Huron, MI - Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Mon, Dec 30, 6:00PM-7:00PM EST",
-                "Venue": "",
-                "Address": "<br>Port Huron, MI 48060",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180814/\">Mobilize US</a>",
-                "Description": "THIS EVENT IS A VIRTUAL YANG GANG HANG. ADDRESS LISTED IS NOT THE LOCATION. Thanks for signing up to attend this Yang Gang Hang! We hope to gather Yang Gang supporters across the Thumb area. Getting together with other supporters in our local area to talk about text banking and canvassing is how we help Andrew win. This event will take place on the Port Huron Yang Gang Discord server. Please email porthuronyanggang@gmail.com for details on how to get plugged in with us.",
-                "TimeStart": 1577746800,
-                "TimeEnd": 1577750400,
+                "Title": "Exeter Town Hall with Andrew Yang",
+                "Type": "TOWN_HALL",
+                "Host": "Campaign",
+                "Time": "Mon, Dec 30, 6:30PM-8:30PM EST",
+                "Venue": "The Exeter Inn",
+                "Address": "90 Front St<br>Exeter, NH 03833",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175094/\">Mobilize US</a>",
+                "Description": "Come join Andrew as he answers YOUR questions about the issues important to your community and presents a New Way Forward for America.",
+                "TimeStart": 1577748600,
+                "TimeEnd": 1577755800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.4644445,
-                    42.9751872
+                    -70.9538905,
+                    42.9774304
                 ]
             }
         },
@@ -11159,6 +11184,31 @@
                 "coordinates": [
                     -71.4628526,
                     42.9915743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Port Huron, MI - Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Mon, Dec 30, 6:00PM-7:00PM EST",
+                "Venue": "",
+                "Address": "<br>Port Huron, MI 48060",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180814/\">Mobilize US</a>",
+                "Description": "THIS EVENT IS A VIRTUAL YANG GANG HANG. ADDRESS LISTED IS NOT THE LOCATION. Thanks for signing up to attend this Yang Gang Hang! We hope to gather Yang Gang supporters across the Thumb area. Getting together with other supporters in our local area to talk about text banking and canvassing is how we help Andrew win. This event will take place on the Port Huron Yang Gang Discord server. Please email porthuronyanggang@gmail.com for details on how to get plugged in with us.",
+                "TimeStart": 1577746800,
+                "TimeEnd": 1577750400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4644445,
+                    42.9751872
                 ]
             }
         },
@@ -11390,16 +11440,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Portland, Oregon - YangOutLoud!",
-                "Type": "MEETING",
+                "Title": "Anchorage, AK - Yang Traffic Signing",
+                "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Sun, Dec 29, 3:00PM-4:30PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Portland, OR 97206",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180141/\">Mobilize US</a>",
-                "Description": "YangOutLoud!<br>\"Practice Turning YangGang Passion into Words that Work\"<br><br>Meeting, every 2 weeks. <br>Next meeting: 12/29/2019 - 3:00 - 4:30 PM PST<br><br>We want to practice effective verbal responses to questions as we advocate for Yang.\u00a0  <br><br>What will you say when a local podcast or service group wants you to explain the Freedom Dividend or Democracy Dollars in detail?<br><br>What we effectively speak is always dependent on how good a fit there is between who our audience is and  who we each uniquely are as a human!  A consistent message with a diversity of voices is a strong clear message.   We want to prepare ourselves for public speaking.",
+                "Time": "Sun, Dec 29, 2:00PM-3:00PM AKST",
+                "Venue": "Old ToysRUs",
+                "Address": "8600 King St<br>Parking lot next to Dimond blvd.<br>Anchorage, AK 99515",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175598/\">Mobilize US</a>",
+                "Description": "Yang your vehicles, the more the better.<br>Yang yourselves, again more the better.<br>Bundle up<br>Wear gloves<br>Bring Signs if you got them.<br>I have a few if you don't.<br>I still need a honk for Yang sign.<br>Bring hand outs and goodies if you got them.<br>Traffic will be stopped and its possible to hand out stuff.<br>If you are shy , So am I. <br>I'm with you but we can do it together.<br>#YangGangStrong<br><br>If I can afford it I will bring us coffee and post on the event day I am bringing it.<br><br>Every Sunday I want to do this. This is a perfect place and time for stand still and slow moving vehicles. <br>Let's make them see Andrew Yang.<br><br>Bring your yard signs <- put your name on it so you can get it back to your house safe and sound.<br><br>I want to make this a weekly thing and I am open to alternating Costco locations if I have enough people out here with me who want to do it. <br><br>Every Sunday 2pm to 3pm Starting<br>December 22, 2019 ends when Yang becomes President.<br><br>Meet end of old Toys r Us parking lot facing Dimond.",
                 "TimeStart": 1577660400,
-                "TimeEnd": 1577665800,
+                "TimeEnd": 1577664000,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -11407,8 +11457,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.598605,
-                    45.482433
+                    -149.8801246,
+                    61.1428951
                 ]
             }
         },
@@ -11441,16 +11491,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Anchorage, AK - Yang Traffic Signing",
-                "Type": "COMMUNITY",
+                "Title": "Portland, Oregon - YangOutLoud!",
+                "Type": "MEETING",
                 "Host": "Volunteer",
-                "Time": "Sun, Dec 29, 2:00PM-3:00PM AKST",
-                "Venue": "Old ToysRUs",
-                "Address": "8600 King St<br>Parking lot next to Dimond blvd.<br>Anchorage, AK 99515",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175598/\">Mobilize US</a>",
-                "Description": "Yang your vehicles, the more the better.<br>Yang yourselves, again more the better.<br>Bundle up<br>Wear gloves<br>Bring Signs if you got them.<br>I have a few if you don't.<br>I still need a honk for Yang sign.<br>Bring hand outs and goodies if you got them.<br>Traffic will be stopped and its possible to hand out stuff.<br>If you are shy , So am I. <br>I'm with you but we can do it together.<br>#YangGangStrong<br><br>If I can afford it I will bring us coffee and post on the event day I am bringing it.<br><br>Every Sunday I want to do this. This is a perfect place and time for stand still and slow moving vehicles. <br>Let's make them see Andrew Yang.<br><br>Bring your yard signs <- put your name on it so you can get it back to your house safe and sound.<br><br>I want to make this a weekly thing and I am open to alternating Costco locations if I have enough people out here with me who want to do it. <br><br>Every Sunday 2pm to 3pm Starting<br>December 22, 2019 ends when Yang becomes President.<br><br>Meet end of old Toys r Us parking lot facing Dimond.",
+                "Time": "Sun, Dec 29, 3:00PM-4:30PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Portland, OR 97206",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180141/\">Mobilize US</a>",
+                "Description": "YangOutLoud!<br>\"Practice Turning YangGang Passion into Words that Work\"<br><br>Meeting, every 2 weeks. <br>Next meeting: 12/29/2019 - 3:00 - 4:30 PM PST<br><br>We want to practice effective verbal responses to questions as we advocate for Yang.\u00a0  <br><br>What will you say when a local podcast or service group wants you to explain the Freedom Dividend or Democracy Dollars in detail?<br><br>What we effectively speak is always dependent on how good a fit there is between who our audience is and  who we each uniquely are as a human!  A consistent message with a diversity of voices is a strong clear message.   We want to prepare ourselves for public speaking.",
                 "TimeStart": 1577660400,
-                "TimeEnd": 1577664000,
+                "TimeEnd": 1577665800,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -11458,8 +11508,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -149.8801246,
-                    61.1428951
+                    -122.598605,
+                    45.482433
                 ]
             }
         },
@@ -11491,18 +11541,18 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Charleston, SC - Yang Gang Canvassing",
+                "Title": "Charleston SC - Yang Gang Canvassing Day",
                 "Type": "CANVASS",
-                "Host": "Volunteer",
+                "Host": "Campaign",
                 "Time": "Sun, Dec 29, 3:00PM-5:00PM EST",
                 "Venue": "Charleston Yang Gang Office",
                 "Address": "74 Reid St<br>Charleston, SC 29403",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176291/\">Mobilize US</a>",
-                "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone.  We will meet at the Charleston Yang Gang office and head out to canvass from there. <br><br>Wear your Yang gear !!",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176294/\">Mobilize US</a>",
+                "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone. We will meet at the Charleston Yang Gang office and head out to canvass from there.<br><br>Wear your Yang gear !!",
                 "TimeStart": 1577649600,
                 "TimeEnd": 1577656800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
@@ -11516,18 +11566,18 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Charleston SC - Yang Gang Canvassing Day",
+                "Title": "Charleston, SC - Yang Gang Canvassing",
                 "Type": "CANVASS",
-                "Host": "Campaign",
+                "Host": "Volunteer",
                 "Time": "Sun, Dec 29, 3:00PM-5:00PM EST",
                 "Venue": "Charleston Yang Gang Office",
                 "Address": "74 Reid St<br>Charleston, SC 29403",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176294/\">Mobilize US</a>",
-                "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone. We will meet at the Charleston Yang Gang office and head out to canvass from there.<br><br>Wear your Yang gear !!",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176291/\">Mobilize US</a>",
+                "Description": "Come join us as we go canvassing around Charleston. With less than 60 days till the primaries, it's vital that we let the folks in our community know about the Yang message and his policies that will benefit everyone.  We will meet at the Charleston Yang Gang office and head out to canvass from there. <br><br>Wear your Yang gear !!",
                 "TimeStart": 1577649600,
                 "TimeEnd": 1577656800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
@@ -11591,31 +11641,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Orlando, FL Winter Garden Yang Gang Canvassing",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sun, Dec 29, 2:00PM-5:30PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Winter Park, FL 32789",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181166/\">Mobilize US</a>",
-                "Description": "Yang Gang come on out! Meet at the speedway gas station. We will be going door to door and having face to face conversations and spreading Andrew Yang's message! (its really pretty fun,you can just walk around with us if you dont want to knock) We have plenty of flyers to pass out. Lets do it the time is now!",
-                "TimeStart": 1577646000,
-                "TimeEnd": 1577658600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.352273,
-                    28.599188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Canvassing after Community Service",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -11666,16 +11691,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Albany, NY - Yang Hang!",
-                "Type": "MEETING",
+                "Title": "Orlando, FL Winter Garden Yang Gang Canvassing",
+                "Type": "CANVASS",
                 "Host": "Volunteer",
-                "Time": "Sun, Dec 29, 1:00PM-3:00PM EST",
-                "Venue": "The Gateway Diner",
-                "Address": "899 Central Ave<br>Albany, NY 12206",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172936/\">Mobilize US</a>",
-                "Description": "Hey Capital District Yang Gang! You are cordially invited to the weekly Yang Hang. This is a casual, fun meetup every Sunday at 1pm to discuss how we're getting involved with the campaign and plan for the coming weeks.<br><br>This is very informal and meant to engage as many people as possible, growing stronger as we move through this exciting campaign together.<br><br>This will hopefully be a great place to prepare for canvassing and brainstorm creative ways to make everyone aware of Yang's message. <br><br>I picked this location to start, but we can rotate if it is too far for some. Can't wait to see everyone there!",
-                "TimeStart": 1577642400,
-                "TimeEnd": 1577649600,
+                "Time": "Sun, Dec 29, 2:00PM-5:30PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Winter Park, FL 32789",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181166/\">Mobilize US</a>",
+                "Description": "Yang Gang come on out! Meet at the speedway gas station. We will be going door to door and having face to face conversations and spreading Andrew Yang's message! (its really pretty fun,you can just walk around with us if you dont want to knock) We have plenty of flyers to pass out. Lets do it the time is now!",
+                "TimeStart": 1577646000,
+                "TimeEnd": 1577658600,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -11683,33 +11708,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.790759,
-                    42.681022
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Fairfield Door-To-Door Canvassing",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sun, Dec 29, 1:00PM-4:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Fairfield, CT 06824",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180874/\">Mobilize US</a>",
-                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
-                "TimeStart": 1577642400,
-                "TimeEnd": 1577653200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.28081800000001,
-                    41.173039
+                    -81.352273,
+                    28.599188
                 ]
             }
         },
@@ -11741,6 +11741,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Albany, NY - Yang Hang!",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Sun, Dec 29, 1:00PM-3:00PM EST",
+                "Venue": "The Gateway Diner",
+                "Address": "899 Central Ave<br>Albany, NY 12206",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172936/\">Mobilize US</a>",
+                "Description": "Hey Capital District Yang Gang! You are cordially invited to the weekly Yang Hang. This is a casual, fun meetup every Sunday at 1pm to discuss how we're getting involved with the campaign and plan for the coming weeks.<br><br>This is very informal and meant to engage as many people as possible, growing stronger as we move through this exciting campaign together.<br><br>This will hopefully be a great place to prepare for canvassing and brainstorm creative ways to make everyone aware of Yang's message. <br><br>I picked this location to start, but we can rotate if it is too far for some. Can't wait to see everyone there!",
+                "TimeStart": 1577642400,
+                "TimeEnd": 1577649600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.790759,
+                    42.681022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "West Lafayette, IN - Weekly Coffee Social Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Campaign",
@@ -11760,6 +11785,31 @@
                 "coordinates": [
                     -86.92053,
                     40.427535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Fairfield Door-To-Door Canvassing",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sun, Dec 29, 1:00PM-4:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Fairfield, CT 06824",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180874/\">Mobilize US</a>",
+                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
+                "TimeStart": 1577642400,
+                "TimeEnd": 1577653200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.28081800000001,
+                    41.173039
                 ]
             }
         },
@@ -11909,32 +11959,7 @@
                 "type": "Point",
                 "coordinates": [
                     -135,
-                    49
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Arcata, CA - Humboldt County Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 28, 3:00PM-4:00PM PST",
-                "Venue": "Cafe Mokka",
-                "Address": "495 J St<br>Arcata, CA 95521",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181085/\">Mobilize US</a>",
-                "Description": "Thanks for signing up to attend the Humboldt County Yang Gang Hang!<br><br>This will be a casual meetup at Cafe Mokka on Sat. 12/28 @ 3pm to discuss how to get involved with the campaign and plan for the coming weeks. Specifically will be dicussing getting things together to potentially do some tabling or/and yanging at Arts Alive and the Arcata Farmer's Market -both the following weekend! The cafe isn't the biggest so will be easy to spot. Look for the redhead with the Yanged out laptop!<br><br>Connecting through our Facebook group \"Humboldt County Yang Gang\" is great, but getting supporters together in-real-life (IRL) is how we can really grow and help Andrew win! The purpose of this meeting is just to get to know other Yang supporters in our community, talk about what drew us to the campaign, and discuss ways to get Andrew to the White House - making calls, sending texts, knocking on doors, but also fun actions at local community events!<br><br>This is to be a fairly informal meeting. Don\u2019t feel obligated to prepare anything before hand or feel like you need to have prior campaigning experience to show up. We just want to start building a Yang Gang presence in our community as we approach the Democratic Primary beginning with that early voting in February.<br><br>This will hopefully be a great place to prepare for canvassing and brainstorm creative ways to make everyone aware of Yang's message. Bring your ideas, and I will bring Yang Cards to share!<br><br>And really this location is just to start, but we can change it if someone thinks up or can offer a more suitable place -and the time as well if another works better for everybody. Can't wait to see everyone there!",
-                "TimeStart": 1577574000,
-                "TimeEnd": 1577577600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -124.0903016,
-                    40.8662631
+                    45
                 ]
             }
         },
@@ -11966,16 +11991,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Los Angeles Text Banking Party: For Iowa",
-                "Type": "TEXT_BANK",
+                "Title": "Arcata, CA - Humboldt County Yang Gang Hang",
+                "Type": "MEETING",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 28, 1:00PM-5:00PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Los Angeles, CA 90015",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/162784/\">Mobilize US</a>",
-                "Description": "Thanks for signing up to attend this Text Banking Event! Yang Gang does not have enough volunteers in Iowa, so we must volunteer digitally to connect with voters. Iowa is an essential state that we must outreach. Our concentration will be rural Iowa.<br><br>Below is what we plan to do:<br>* Immediately send Voter Identification texts to thousands of potential voters<br>* Get trained to text if you haven\u2019t already gone through the training process. <br>* If you can, follow this step-by-step guide to get trained prior to the event: http://bit.ly/35Qhi9Q <br><br>Note:<br>Sorry, this space is NOT \"child\" friendly. No one will be admitted under the age of 17! No exceptions.<br><br>This is a private business that is offering office space for Yang Gang text banking. The max capacity is 12 people at a time. You do not have to stay for the full hours of this event, but the minimum hours of volunteering that's expected is 2.<br><br>Feel free to bring a potluck of food and drinks to share. There are also local restaurants on the ground floor of this building.",
-                "TimeStart": 1577566800,
-                "TimeEnd": 1577581200,
+                "Time": "Sat, Dec 28, 3:00PM-4:00PM PST",
+                "Venue": "Cafe Mokka",
+                "Address": "495 J St<br>Arcata, CA 95521",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181085/\">Mobilize US</a>",
+                "Description": "Thanks for signing up to attend the Humboldt County Yang Gang Hang!<br><br>This will be a casual meetup at Cafe Mokka on Sat. 12/28 @ 3pm to discuss how to get involved with the campaign and plan for the coming weeks. Specifically will be dicussing getting things together to potentially do some tabling or/and yanging at Arts Alive and the Arcata Farmer's Market -both the following weekend! The cafe isn't the biggest so will be easy to spot. Look for the redhead with the Yanged out laptop!<br><br>Connecting through our Facebook group \"Humboldt County Yang Gang\" is great, but getting supporters together in-real-life (IRL) is how we can really grow and help Andrew win! The purpose of this meeting is just to get to know other Yang supporters in our community, talk about what drew us to the campaign, and discuss ways to get Andrew to the White House - making calls, sending texts, knocking on doors, but also fun actions at local community events!<br><br>This is to be a fairly informal meeting. Don\u2019t feel obligated to prepare anything before hand or feel like you need to have prior campaigning experience to show up. We just want to start building a Yang Gang presence in our community as we approach the Democratic Primary beginning with that early voting in February.<br><br>This will hopefully be a great place to prepare for canvassing and brainstorm creative ways to make everyone aware of Yang's message. Bring your ideas, and I will bring Yang Cards to share!<br><br>And really this location is just to start, but we can change it if someone thinks up or can offer a more suitable place -and the time as well if another works better for everybody. Can't wait to see everyone there!",
+                "TimeStart": 1577574000,
+                "TimeEnd": 1577577600,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -11983,8 +12008,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.2663,
-                    34.039378
+                    -124.0903016,
+                    40.8662631
                 ]
             }
         },
@@ -12011,6 +12036,31 @@
                 "coordinates": [
                     -121.1262593,
                     37.7396056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Los Angeles Text Banking Party: For Iowa",
+                "Type": "TEXT_BANK",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 28, 1:00PM-5:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Los Angeles, CA 90015",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/162784/\">Mobilize US</a>",
+                "Description": "Thanks for signing up to attend this Text Banking Event! Yang Gang does not have enough volunteers in Iowa, so we must volunteer digitally to connect with voters. Iowa is an essential state that we must outreach. Our concentration will be rural Iowa.<br><br>Below is what we plan to do:<br>* Immediately send Voter Identification texts to thousands of potential voters<br>* Get trained to text if you haven\u2019t already gone through the training process. <br>* If you can, follow this step-by-step guide to get trained prior to the event: http://bit.ly/35Qhi9Q <br><br>Note:<br>Sorry, this space is NOT \"child\" friendly. No one will be admitted under the age of 17! No exceptions.<br><br>This is a private business that is offering office space for Yang Gang text banking. The max capacity is 12 people at a time. You do not have to stay for the full hours of this event, but the minimum hours of volunteering that's expected is 2.<br><br>Feel free to bring a potluck of food and drinks to share. There are also local restaurants on the ground floor of this building.",
+                "TimeStart": 1577566800,
+                "TimeEnd": 1577581200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2663,
+                    34.039378
                 ]
             }
         },
@@ -12169,16 +12219,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "NYC - Crowd-Yanging - Union Square Park (Greenmarket)",
-                "Type": "COMMUNITY",
+                "Title": "Illinois Statewide Congressional District Delegate Petition Canvassing",
+                "Type": "CANVASS",
                 "Host": "Volunteer",
-                "Time": "Sat, Dec 28, 1:00PM-4:00PM EST",
-                "Venue": "",
-                "Address": "Union Square West & East 17th Street<br>New York, NY 10003",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178277/\">Mobilize US</a>",
-                "Description": "Bringing awareness for Andrew Yang. We'll engage with the people, hand out flyers and stickers. Signs are welcomed. <br><br>We'll meet up corner of E 17th Street & Union Square W. (Park Side)<br><br>Subway: #4, #5, #6, L, N, Q, R, W to Union Sq. Station",
+                "Time": "Sat, Dec 28, 12:00PM-1:00PM CST",
+                "Venue": "Virtual Canvassing Assignment",
+                "Address": "https://zoom.us/j/326803016<br>, IL 60901",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168788/\">Mobilize US</a>",
+                "Description": "Help Andrew Yang's delegates get on the ballot by canvassing in your Congressional District. <br><br>Face-to-face conversations continue to be one of the most meaningful ways to communicate with potential voters, and door-to-door canvassing is a highly effective way to initiate these interactions. <br><br>Jamie Murray is inviting you to a scheduled Zoom meeting.<br>Topic: Yang Gang Canvassing Illinois <br><br>Time: Dec 7, 2019 12:00 PM Central Time (US and Canada)<br>        Every day, until Dec 13, 2019, 7 occurrence(s)<br>        Dec 7, 2019 12:00 PM<br>        Dec 8, 2019 12:00 PM<br>        Dec 9, 2019 12:00 PM<br>        Dec 10, 2019 12:00 PM<br>        Dec 11, 2019 12:00 PM<br>        Dec 12, 2019 12:00 PM<br>        Dec 13, 2019 12:00 PM<br><br>Please download and import the following iCalendar (.ics) files to your calendar system.<br>Daily: https://zoom.us/meeting/vpYrf-mrrjos5AFezBDH6c4AoCfV-wsnlw/ics?icsToken=98tyKuqqqDMqGdSUtl_Ha7QvW4H_bPHukSRvjKZHvjvNVSMHQwzVMNQPJaFxHM-B<br><br>Join Zoom Meeting<br>https://zoom.us/j/326803016<br>Meeting ID: 326 803 016<br><br>One tap mobile<br>+19292056099,,326803016# US (New York)<br>+16699006833,,326803016# US (San Jose)<br><br>Dial by your location<br>        +1 929 205 6099 US (New York)<br>        +1 669 900 6833 US (San Jose)<br><br>Meeting ID: 326 803 016<br><br>Find your local number: https://zoom.us/u/aep0bObngwClick this link https://zoom.us/j/259229774?pwd=WXNaMVhOamlVQjgyelN0VXpMSnEzUT09 to join a Zoom meeting for a training on how to canvass.<br><br>Ready to go?? Contact Jamie Murray, the host, Illinois Petition Coordinator, for a personalized list of registered voters in the area near you to get signatures. <br><br>Here\u2019s a guide with more details: http://bit.ly/y2020canvass <br><br>This is an ongoing event so you can knock out your territory and ask for more! <br><br>Make sure you have the miniVAN app installed on your phone before you begin. Not familiar?  We're happy to help!<br><br>Let's #GetYangsDelegatesOnTheBallot!",
                 "TimeStart": 1577556000,
-                "TimeEnd": 1577566800,
+                "TimeEnd": 1577559600,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -12186,8 +12236,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9903589,
-                    40.7371154
+                    -87.913867,
+                    41.1213147
                 ]
             }
         },
@@ -12213,56 +12263,6 @@
                 "coordinates": [
                     -118.3129985,
                     34.1772754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Fort Wayne IN - Signature Gathering Allen County Library",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 28, 1:00PM-3:00PM EST",
-                "Venue": "Allen County Public Library",
-                "Address": "900 Library Plaza<br>Ft. Wayne, IN 46804",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180470/\">Mobilize US</a>",
-                "Description": "Help us get Andrew Yang on the Indiana ballot. We need 4500 valid signatures statewide. Fort Wayne and surrounding counties need 1000 signatures by Jan 8th. Whether you are Yang curious, just want to add your signature or want to join our signature gathering team do come out to the Allen County Public Library.",
-                "TimeStart": 1577556000,
-                "TimeEnd": 1577563200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.1432369,
-                    41.0771709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Illinois Statewide Congressional District Delegate Petition Canvassing",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 28, 12:00PM-1:00PM CST",
-                "Venue": "Virtual Canvassing Assignment",
-                "Address": "https://zoom.us/j/326803016<br>, IL 60901",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/168788/\">Mobilize US</a>",
-                "Description": "Help Andrew Yang's delegates get on the ballot by canvassing in your Congressional District. <br><br>Face-to-face conversations continue to be one of the most meaningful ways to communicate with potential voters, and door-to-door canvassing is a highly effective way to initiate these interactions. <br><br>Jamie Murray is inviting you to a scheduled Zoom meeting.<br>Topic: Yang Gang Canvassing Illinois <br><br>Time: Dec 7, 2019 12:00 PM Central Time (US and Canada)<br>        Every day, until Dec 13, 2019, 7 occurrence(s)<br>        Dec 7, 2019 12:00 PM<br>        Dec 8, 2019 12:00 PM<br>        Dec 9, 2019 12:00 PM<br>        Dec 10, 2019 12:00 PM<br>        Dec 11, 2019 12:00 PM<br>        Dec 12, 2019 12:00 PM<br>        Dec 13, 2019 12:00 PM<br><br>Please download and import the following iCalendar (.ics) files to your calendar system.<br>Daily: https://zoom.us/meeting/vpYrf-mrrjos5AFezBDH6c4AoCfV-wsnlw/ics?icsToken=98tyKuqqqDMqGdSUtl_Ha7QvW4H_bPHukSRvjKZHvjvNVSMHQwzVMNQPJaFxHM-B<br><br>Join Zoom Meeting<br>https://zoom.us/j/326803016<br>Meeting ID: 326 803 016<br><br>One tap mobile<br>+19292056099,,326803016# US (New York)<br>+16699006833,,326803016# US (San Jose)<br><br>Dial by your location<br>        +1 929 205 6099 US (New York)<br>        +1 669 900 6833 US (San Jose)<br><br>Meeting ID: 326 803 016<br><br>Find your local number: https://zoom.us/u/aep0bObngwClick this link https://zoom.us/j/259229774?pwd=WXNaMVhOamlVQjgyelN0VXpMSnEzUT09 to join a Zoom meeting for a training on how to canvass.<br><br>Ready to go?? Contact Jamie Murray, the host, Illinois Petition Coordinator, for a personalized list of registered voters in the area near you to get signatures. <br><br>Here\u2019s a guide with more details: http://bit.ly/y2020canvass <br><br>This is an ongoing event so you can knock out your territory and ask for more! <br><br>Make sure you have the miniVAN app installed on your phone before you begin. Not familiar?  We're happy to help!<br><br>Let's #GetYangsDelegatesOnTheBallot!",
-                "TimeStart": 1577556000,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.913867,
-                    41.1213147
                 ]
             }
         },
@@ -12319,25 +12319,50 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Oakland, CA - Crowd-Yanging",
+                "Title": "NYC - Crowd-Yanging - Union Square Park (Greenmarket)",
                 "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 9:00AM-2:00PM PST",
-                "Venue": "Splash Pad Park",
-                "Address": "746 Grand Ave<br>Oakland, CA 94610",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180610/\">Mobilize US</a>",
-                "Description": "Saturday, December 28th at 9:00AM to 2:00PM<br><br>Help us staff the table for a couple of hours or the whole time (9am-2pm). You can even bring unused, unopened toiletry items to donate to a local nonprofit for the benefit of those who struggle to afford basic necessities (#pledgeforhumaity).<br><br>We have an Andrew Yang cut-out and a Yang buck for fun photo ops. We play music inspired by the Yang campaign. We have a table full of takeaway buttons, brochures, stickers, and cards. Most of all we have Yang Gang who bring themselves, their passion, and good conversation.<br><br>Help us to Yang the crowd that flocks to the most popular farmers market in the Bay Area every Saturday!",
-                "TimeStart": 1577552400,
-                "TimeEnd": 1577570400,
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 28, 1:00PM-4:00PM EST",
+                "Venue": "",
+                "Address": "Union Square West & East 17th Street<br>New York, NY 10003",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178277/\">Mobilize US</a>",
+                "Description": "Bringing awareness for Andrew Yang. We'll engage with the people, hand out flyers and stickers. Signs are welcomed. <br><br>We'll meet up corner of E 17th Street & Union Square W. (Park Side)<br><br>Subway: #4, #5, #6, L, N, Q, R, W to Union Sq. Station",
+                "TimeStart": 1577556000,
+                "TimeEnd": 1577566800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.2486021,
-                    37.811027
+                    -73.9903589,
+                    40.7371154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Fort Wayne IN - Signature Gathering Allen County Library",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 28, 1:00PM-3:00PM EST",
+                "Venue": "Allen County Public Library",
+                "Address": "900 Library Plaza<br>Ft. Wayne, IN 46804",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180470/\">Mobilize US</a>",
+                "Description": "Help us get Andrew Yang on the Indiana ballot. We need 4500 valid signatures statewide. Fort Wayne and surrounding counties need 1000 signatures by Jan 8th. Whether you are Yang curious, just want to add your signature or want to join our signature gathering team do come out to the Allen County Public Library.",
+                "TimeStart": 1577556000,
+                "TimeEnd": 1577563200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1432369,
+                    41.0771709
                 ]
             }
         },
@@ -12369,6 +12394,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Oakland, CA - Crowd-Yanging",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 9:00AM-2:00PM PST",
+                "Venue": "Splash Pad Park",
+                "Address": "746 Grand Ave<br>Oakland, CA 94610",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180610/\">Mobilize US</a>",
+                "Description": "Saturday, December 28th at 9:00AM to 2:00PM<br><br>Help us staff the table for a couple of hours or the whole time (9am-2pm). You can even bring unused, unopened toiletry items to donate to a local nonprofit for the benefit of those who struggle to afford basic necessities (#pledgeforhumaity).<br><br>We have an Andrew Yang cut-out and a Yang buck for fun photo ops. We play music inspired by the Yang campaign. We have a table full of takeaway buttons, brochures, stickers, and cards. Most of all we have Yang Gang who bring themselves, their passion, and good conversation.<br><br>Help us to Yang the crowd that flocks to the most popular farmers market in the Bay Area every Saturday!",
+                "TimeStart": 1577552400,
+                "TimeEnd": 1577570400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2486021,
+                    37.811027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Long Beach, CA - Tabling at Bixby Park Farmers Market (DEC 28)",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -12394,14 +12444,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Weekend Phone Bank: Grinnell",
-                "Type": "PHONE_BANK",
+                "Title": "Neighborhood Knocking: Osceola",
+                "Type": "CANVASS",
                 "Host": "Campaign",
                 "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Grinnell Field Office",
-                "Address": "820 4th Ave<br>Grinnell, IA 50112",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180563/\">Mobilize US</a>",
-                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.<br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person.<br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
+                "Venue": "Julis's House",
+                "Address": "925 Blakes Ln<br>Osceola, IA 50213",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179434/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
                 "TimeStart": 1577548800,
                 "TimeEnd": 1577559600,
                 "marker-color": "#F2A00F",
@@ -12411,33 +12461,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -92.7246832,
-                    41.7431032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Weekend Phone Bank: Oskaloosa",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Oskaloosa Field Office",
-                "Address": "200 High Ave W 13<br>Oskaloosa, IA 52577",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180602/\">Mobilize US</a>",
-                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.<br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person.<br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -92.6475223,
-                    41.295351
+                    -93.76525,
+                    41.023877
                 ]
             }
         },
@@ -12463,56 +12488,6 @@
                 "coordinates": [
                     -96.0586698,
                     43.0058253
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Neighborhood Knocking: Storm Lake",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Buena Vista Field Office",
-                "Address": "1515 E Lakeshore Dr<br>Storm Lake, IA 50588",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179433/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.1797466,
-                    42.634088
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Neighborhood Knocking: Osceola",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Julis's House",
-                "Address": "925 Blakes Ln<br>Osceola, IA 50213",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179434/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.76525,
-                    41.023877
                 ]
             }
         },
@@ -12569,39 +12544,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Neighborhood Knocking: Dubuque",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Dubuque Field Office",
-                "Address": "633 Main St<br>Dubuque, IA 52001",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179445/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.666757,
-                    42.499447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Weekend Phone Bank: Dubuque",
+                "Title": "Weekend Phone Bank: Oskaloosa",
                 "Type": "PHONE_BANK",
                 "Host": "Campaign",
                 "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Dubuque Field Office",
-                "Address": "633 Main St<br>Dubuque, IA 52001",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180501/\">Mobilize US</a>",
-                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.  <br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person. <br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
+                "Venue": "Oskaloosa Field Office",
+                "Address": "200 High Ave W 13<br>Oskaloosa, IA 52577",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180602/\">Mobilize US</a>",
+                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.<br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person.<br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
                 "TimeStart": 1577548800,
                 "TimeEnd": 1577559600,
                 "marker-color": "#F2A00F",
@@ -12611,46 +12561,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.666757,
-                    42.499447
+                    -92.6475223,
+                    41.295351
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "Brooklyn, NY - YangGang Hang (CD NY-7)",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 28, 11:00AM-12:00PM EST",
-                "Venue": "Bien Cuit",
-                "Address": "120 Smith St<br>Brooklyn, NY 11201",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181225/\">Mobilize US</a>",
-                "Description": "Are you Yang Gang and live in New York's 7th Congressional District?<br><br>(Find out for sure here: https://ziplook.house.gov/htbin/findrep_house?ZIP=)<br><br>Join us for coffee and pastries at our NY-7-specific Yang Gang Hang/strategy meeting!<br><br>Saturday, December 28th at 11:00AM to 12:00PM<br><br>We'll talk about why we support Yang, when we'll be signing petitions to get him on the NY ballot, and how to get more involved.",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577552400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9900421,
-                    40.6877042
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Neighborhood Knocking: Mason City",
+                "Title": "Neighborhood Knocking: Storm Lake",
                 "Type": "CANVASS",
                 "Host": "Campaign",
                 "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Mason City Field Office",
-                "Address": "12 S Federal Ave<br>Mason City, IA 50401",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179446/\">Mobilize US</a>",
+                "Venue": "Buena Vista Field Office",
+                "Address": "1515 E Lakeshore Dr<br>Storm Lake, IA 50588",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179433/\">Mobilize US</a>",
                 "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
                 "TimeStart": 1577548800,
                 "TimeEnd": 1577559600,
@@ -12661,8 +12586,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.2015255,
-                    43.1513785
+                    -95.1797466,
+                    42.634088
                 ]
             }
         },
@@ -12694,31 +12619,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Weekend Phone Bank: Mason City",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Mason City Field Office",
-                "Address": "12 S Federal Ave<br>Mason City, IA 50401",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180558/\">Mobilize US</a>",
-                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.  <br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person. <br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.2015255,
-                    43.1513785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Weekend Phone Bank: Ames",
                 "Type": "PHONE_BANK",
                 "Host": "Campaign",
@@ -12744,14 +12644,89 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Weekend Phone Bank: Council Bluffs",
+                "Title": "Weekend Phone Bank: Grinnell",
                 "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "Grinnell Field Office",
+                "Address": "820 4th Ave<br>Grinnell, IA 50112",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180563/\">Mobilize US</a>",
+                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.<br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person.<br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.7246832,
+                    41.7431032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Neighborhood Knocking: Dubuque",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "Dubuque Field Office",
+                "Address": "633 Main St<br>Dubuque, IA 52001",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179445/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.666757,
+                    42.499447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Neighborhood Knocking: Mason City",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "Mason City Field Office",
+                "Address": "12 S Federal Ave<br>Mason City, IA 50401",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179446/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2015255,
+                    43.1513785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Neighborhood Knocking: Council Bluffs",
+                "Type": "CANVASS",
                 "Host": "Campaign",
                 "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
                 "Venue": "Council Bluffs Field Office",
                 "Address": "118 W Broadway<br>Council Bluffs, IA 51503",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180612/\">Mobilize US</a>",
-                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.<br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person.<br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179409/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
                 "TimeStart": 1577548800,
                 "TimeEnd": 1577559600,
                 "marker-color": "#F2A00F",
@@ -12794,6 +12769,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Weekend Phone Bank: Dubuque",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "Dubuque Field Office",
+                "Address": "633 Main St<br>Dubuque, IA 52001",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180501/\">Mobilize US</a>",
+                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.  <br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person. <br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.666757,
+                    42.499447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Weekend Phone Bank: West Des Moines",
                 "Type": "PHONE_BANK",
                 "Host": "Campaign",
@@ -12813,6 +12813,56 @@
                 "coordinates": [
                     -93.7162014,
                     41.5893386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Brooklyn, NY - YangGang Hang (CD NY-7)",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 28, 11:00AM-12:00PM EST",
+                "Venue": "Bien Cuit",
+                "Address": "120 Smith St<br>Brooklyn, NY 11201",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181225/\">Mobilize US</a>",
+                "Description": "Are you Yang Gang and live in New York's 7th Congressional District?<br><br>(Find out for sure here: https://ziplook.house.gov/htbin/findrep_house?ZIP=)<br><br>Join us for coffee and pastries at our NY-7-specific Yang Gang Hang/strategy meeting!<br><br>Saturday, December 28th at 11:00AM to 12:00PM<br><br>We'll talk about why we support Yang, when we'll be signing petitions to get him on the NY ballot, and how to get more involved.",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577552400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9900421,
+                    40.6877042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Weekend Phone Bank: Mason City",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "Mason City Field Office",
+                "Address": "12 S Federal Ave<br>Mason City, IA 50401",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180558/\">Mobilize US</a>",
+                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.  <br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person. <br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2015255,
+                    43.1513785
                 ]
             }
         },
@@ -12869,13 +12919,13 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Neighborhood Knocking: Council Bluffs",
+                "Title": "Neighborhood Knocking: Oskaloosa",
                 "Type": "CANVASS",
                 "Host": "Campaign",
                 "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Council Bluffs Field Office",
-                "Address": "118 W Broadway<br>Council Bluffs, IA 51503",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179409/\">Mobilize US</a>",
+                "Venue": "Oskaloosa Field Office",
+                "Address": "200 High Ave W 13<br>Oskaloosa, IA 52577",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179404/\">Mobilize US</a>",
                 "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
                 "TimeStart": 1577548800,
                 "TimeEnd": 1577559600,
@@ -12886,22 +12936,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.8445843,
-                    41.263154
+                    -92.6475223,
+                    41.295351
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "Neighborhood Knocking: Knoxville",
-                "Type": "CANVASS",
+                "Title": "Weekend Phone Bank: Storm Lake",
+                "Type": "PHONE_BANK",
                 "Host": "Campaign",
                 "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Coffee Connection",
-                "Address": "213 E Main St 101<br>Knoxville, IA 50138",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179373/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
+                "Venue": "Buena Vista Field Office",
+                "Address": "1515 E Lakeshore Dr<br>Storm Lake, IA 50588",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180615/\">Mobilize US</a>",
+                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.<br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person.<br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
                 "TimeStart": 1577548800,
                 "TimeEnd": 1577559600,
                 "marker-color": "#F2A00F",
@@ -12911,8 +12961,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.096931,
-                    41.3190937
+                    -95.1797466,
+                    42.634088
                 ]
             }
         },
@@ -12994,13 +13044,13 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Neighborhood Knocking: West Des Moines",
+                "Title": "Neighborhood Knocking: Grinnell",
                 "Type": "CANVASS",
                 "Host": "Campaign",
                 "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "West Des Moines Field Office",
-                "Address": "950 Office Park Rd 125<br>West Des Moines, IA 50265",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178855/\">Mobilize US</a>",
+                "Venue": "Grinnell Field Office",
+                "Address": "820 4th Ave<br>Grinnell, IA 50112",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179395/\">Mobilize US</a>",
                 "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
                 "TimeStart": 1577548800,
                 "TimeEnd": 1577559600,
@@ -13011,33 +13061,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.7162014,
-                    41.5893386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Neighborhood Knocking: Ames",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Ames Field Office",
-                "Address": "219 Main St<br>Ames, IA 50010",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179367/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.6129769,
-                    42.0253432
+                    -92.7246832,
+                    41.7431032
                 ]
             }
         },
@@ -13069,6 +13094,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Neighborhood Knocking: West Des Moines",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "West Des Moines Field Office",
+                "Address": "950 Office Park Rd 125<br>West Des Moines, IA 50265",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/178855/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.7162014,
+                    41.5893386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Weekend Phone Bank: Burlington",
                 "Type": "PHONE_BANK",
                 "Host": "Campaign",
@@ -13088,56 +13138,6 @@
                 "coordinates": [
                     -91.1033999,
                     40.8107787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Weekend Phone Bank: Storm Lake",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Buena Vista Field Office",
-                "Address": "1515 E Lakeshore Dr<br>Storm Lake, IA 50588",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180615/\">Mobilize US</a>",
-                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.<br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person.<br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.1797466,
-                    42.634088
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Neighborhood Knocking: Adel",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Brick Street Books and Cafe",
-                "Address": "803 Main St<br>Adel, IA 50003",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179378/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.017735,
-                    41.617145
                 ]
             }
         },
@@ -13169,6 +13169,106 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Neighborhood Knocking: Ames",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "Ames Field Office",
+                "Address": "219 Main St<br>Ames, IA 50010",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179367/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6129769,
+                    42.0253432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Neighborhood Knocking: Knoxville",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "Coffee Connection",
+                "Address": "213 E Main St 101<br>Knoxville, IA 50138",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179373/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.096931,
+                    41.3190937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Neighborhood Knocking: Adel",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "Brick Street Books and Cafe",
+                "Address": "803 Main St<br>Adel, IA 50003",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179378/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.017735,
+                    41.617145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Weekend Phone Bank: Council Bluffs",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
+                "Venue": "Council Bluffs Field Office",
+                "Address": "118 W Broadway<br>Council Bluffs, IA 51503",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180612/\">Mobilize US</a>",
+                "Description": "With only a handful of weeks remaining before the Caucus, join the Yang Gang as we continue to build our wave of momentum before it crashes down on Feb. 3 the business as usual system stacked against working class Iowans.<br><br>We have the grassroots energy to win this election, but we can\u2019t let up if we want to rewrite the rules of the 21st century and put Andrew Yang in the White House. So let\u2019s knock on every door and make every phone call we can to show our friends and neighbors how a Humanity First national would benefit them.<br><br>Every day our passionate supporters reach out to those in their communities to share Andrew\u2019s plans to create opportunity for every American and ensure our children the future they deserve.<br><br>If you\u2019ve never volunteered before, no worries! Our friendly staff will help catch you up to speed. In fact, many of Andrew Yang\u2019s most ardent volunteers are first time Caucus goers. What matters most is that you realize your own power. In every door knock and every phone call, our movement is one step closer to achieving Andrew\u2019s vision: an America of opportunity, freedom, and equality, for every person.<br><br>Please join us and be a part of that effort. Nothing short of the future of our nation is at stake.<br><br>Note: If you do, thank you! Please bring a fully charged cell phone. We've got everything else you will need, including Andrew Yang merchandise for volunteers that help multiple times!",
+                "TimeStart": 1577548800,
+                "TimeEnd": 1577559600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8445843,
+                    41.263154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Neighborhood Knocking: Cedar Rapids",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -13188,31 +13288,6 @@
                 "coordinates": [
                     -91.6675558,
                     41.9793329
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Neighborhood Knocking: Grinnell",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Grinnell Field Office",
-                "Address": "820 4th Ave<br>Grinnell, IA 50112",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179395/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -92.7246832,
-                    41.7431032
                 ]
             }
         },
@@ -13244,31 +13319,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Neighborhood Knocking: Oskaloosa",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 10:00AM-1:00PM CST",
-                "Venue": "Oskaloosa Field Office",
-                "Address": "200 High Ave W 13<br>Oskaloosa, IA 52577",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179404/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang! <br> <br>Join us to knock on doors for Andrew Yang. Speaking to voters face-to-face is BY FAR the biggest impact you can have on the upcoming caucus. No experience required and introverts welcome! You will be trained. <br> <br>We will have everything teed up for you and ready to go. With the scripts and drop down menus on your screen, it couldn't be easier. You will need your phone, of course. <br> <br>Every conversation with a voter gets us that much closer to winning Iowa for Andrew! <br><br>PS Bring a friend!<br><br>PPS If you can't canvass, we will do mini phone banks as well.",
-                "TimeStart": 1577548800,
-                "TimeEnd": 1577559600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -92.6475223,
-                    41.295351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Winter Garden, FL Yang Gang Crowd Yanging!",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -13288,31 +13338,6 @@
                 "coordinates": [
                     -81.5893733,
                     28.5646049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Somersworth Canvass!",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 9:00AM-12:00PM EST",
-                "Venue": "Edward LeVasser's House",
-                "Address": "44 Pleasant St<br>Somersworth, NH 03878",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170765/\">Mobilize US</a>",
-                "Description": "Join us for a canvass in Somersworth!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign. <br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at Edward Levasseur's abode in downtown Somersworth! Canvassing is fun and easier than you think. We'll have some coffee, and can all get a celebratory bite or beverage afterwards!",
-                "TimeStart": 1577541600,
-                "TimeEnd": 1577552400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.866599,
-                    43.2579876
                 ]
             }
         },
@@ -13369,31 +13394,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Central MA Carpool Coordination - Southern NH MiniVAN Canvassing! (12/28-12/29)",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 9:00AM-6:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Worcester, MA 01608",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181096/\">Mobilize US</a>",
-                "Description": "Andrew Yang put the call to action out there for all of Massachusetts (https://www.youtube.com/watch?v=zzhDiHQJVlI&feature=youtu.be&t=1478): he needs our help to reach out to New Hampshire voters before February comes around! Southern NH is closest to us, and our NH field organizers have confirmed - they will be scheduling canvassing for every weekend - let's help out!<br><br>The Massachusetts Yang Gang Operations Team will help to match drivers to riders toward the NH region of their choice. Canvassing is more fun with friends after all!<br><br>This Mobilize event is specific to coordinating for December 28-29 for mobilizing eastern MA to the Seacoast NH area (e.g. Salem, Derry, etc.). Locations will be based on NH regional organizer recommendations and no more than 1.5 hour drive.<br><br>You MUST complete this Google Survey as part of this sign-up in order to be matched with other supporters and matching shift preferences: https://bit.ly/2q421Sw (Note: Mobilize shows you the start and end times of the first and last available shift)",
-                "TimeStart": 1577541600,
-                "TimeEnd": 1577574000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.801462,
-                    42.26198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Durham Canvass!",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -13413,6 +13413,31 @@
                 "coordinates": [
                     -70.9259796,
                     43.1335816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Dover Canvass!",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 9:00AM-12:00PM EST",
+                "Venue": "Flight Coffee",
+                "Address": "478 Central Ave<br>Dover, NH 03820",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/155326/\">Mobilize US</a>",
+                "Description": "Join us for a canvass in Dover!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign. <br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at Flight Cafe, Dover. Canvassing is fun and easier than you think. We'll have some coffee, and can all get a celebratory bite or beverage afterwards!",
+                "TimeStart": 1577541600,
+                "TimeEnd": 1577552400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9210334,
+                    43.1377534
                 ]
             }
         },
@@ -13444,14 +13469,39 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Dover Canvass!",
+                "Title": "Central MA Carpool Coordination - Southern NH MiniVAN Canvassing! (12/28-12/29)",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 9:00AM-6:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Worcester, MA 01608",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/181096/\">Mobilize US</a>",
+                "Description": "Andrew Yang put the call to action out there for all of Massachusetts (https://www.youtube.com/watch?v=zzhDiHQJVlI&feature=youtu.be&t=1478): he needs our help to reach out to New Hampshire voters before February comes around! Southern NH is closest to us, and our NH field organizers have confirmed - they will be scheduling canvassing for every weekend - let's help out!<br><br>The Massachusetts Yang Gang Operations Team will help to match drivers to riders toward the NH region of their choice. Canvassing is more fun with friends after all!<br><br>This Mobilize event is specific to coordinating for December 28-29 for mobilizing eastern MA to the Seacoast NH area (e.g. Salem, Derry, etc.). Locations will be based on NH regional organizer recommendations and no more than 1.5 hour drive.<br><br>You MUST complete this Google Survey as part of this sign-up in order to be matched with other supporters and matching shift preferences: https://bit.ly/2q421Sw (Note: Mobilize shows you the start and end times of the first and last available shift)",
+                "TimeStart": 1577541600,
+                "TimeEnd": 1577574000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.801462,
+                    42.26198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Somersworth Canvass!",
                 "Type": "CANVASS",
                 "Host": "Campaign",
                 "Time": "Sat, Dec 28, 9:00AM-12:00PM EST",
-                "Venue": "Flight Coffee",
-                "Address": "478 Central Ave<br>Dover, NH 03820",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/155326/\">Mobilize US</a>",
-                "Description": "Join us for a canvass in Dover!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign. <br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at Flight Cafe, Dover. Canvassing is fun and easier than you think. We'll have some coffee, and can all get a celebratory bite or beverage afterwards!",
+                "Venue": "Edward LeVasser's House",
+                "Address": "44 Pleasant St<br>Somersworth, NH 03878",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/170765/\">Mobilize US</a>",
+                "Description": "Join us for a canvass in Somersworth!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign. <br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at Edward Levasseur's abode in downtown Somersworth! Canvassing is fun and easier than you think. We'll have some coffee, and can all get a celebratory bite or beverage afterwards!",
                 "TimeStart": 1577541600,
                 "TimeEnd": 1577552400,
                 "marker-color": "#F2A00F",
@@ -13461,8 +13511,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.9210334,
-                    43.1377534
+                    -70.866599,
+                    43.2579876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Eastern MA Carpool Coordination - Southern NH Canvassing! (12/28-12/29)",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sat, Dec 28, 9:00AM-6:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Boston, MA 02201",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179796/\">Mobilize US</a>",
+                "Description": "Andrew Yang put the call to action out there for all of Massachusetts (https://www.youtube.com/watch?v=zzhDiHQJVlI&feature=youtu.be&t=1478): he needs our help to reach out to New Hampshire voters before February comes around! Southern NH is closest to us, and our NH field organizers have confirmed - they will be scheduling canvassing for every weekend - let's help out!<br><br>The Massachusetts Yang Gang Operations Team will help to match drivers to riders toward the NH region of their choice. Canvassing is more fun with friends after all!<br><br>This Mobilize event is specific to coordinating for December 28-29 for mobilizing eastern MA to the Seacoast NH area (e.g. Salem, Derry, etc.). Locations will be based on NH regional organizer recommendations and no more than 1.5 hour drive. <br><br>You MUST complete this Google Survey as part of this sign-up in order to be matched with other supporters and matching shift preferences: https://bit.ly/2q421Sw<br>(Note: Mobilize shows you the start and end times of the first and last available shift)",
+                "TimeStart": 1577541600,
+                "TimeEnd": 1577574000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06074068454382,
+                    42.35822797918689
                 ]
             }
         },
@@ -13519,56 +13594,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Durham Canvass!",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 9:00AM-12:00PM EST",
-                "Venue": "The Works Caf\u00e9",
-                "Address": "5 Mill Rd<br>Durham, NH 03824",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/156521/\">Mobilize US</a>",
-                "Description": "Join us for canvassing for Yang in Durham!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign.<br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at The Works Cafe (5 Mill Rd), Durham. We'll have some coffee, and then we can all get a celebratory bite or beverage afterwards. Canvassing is fun and easier than you'd think.",
-                "TimeStart": 1577541600,
-                "TimeEnd": 1577552400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.9259796,
-                    43.1335816
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Eastern MA Carpool Coordination - Southern NH Canvassing! (12/28-12/29)",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sat, Dec 28, 9:00AM-6:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Boston, MA 02201",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179796/\">Mobilize US</a>",
-                "Description": "Andrew Yang put the call to action out there for all of Massachusetts (https://www.youtube.com/watch?v=zzhDiHQJVlI&feature=youtu.be&t=1478): he needs our help to reach out to New Hampshire voters before February comes around! Southern NH is closest to us, and our NH field organizers have confirmed - they will be scheduling canvassing for every weekend - let's help out!<br><br>The Massachusetts Yang Gang Operations Team will help to match drivers to riders toward the NH region of their choice. Canvassing is more fun with friends after all!<br><br>This Mobilize event is specific to coordinating for December 28-29 for mobilizing eastern MA to the Seacoast NH area (e.g. Salem, Derry, etc.). Locations will be based on NH regional organizer recommendations and no more than 1.5 hour drive. <br><br>You MUST complete this Google Survey as part of this sign-up in order to be matched with other supporters and matching shift preferences: https://bit.ly/2q421Sw<br>(Note: Mobilize shows you the start and end times of the first and last available shift)",
-                "TimeStart": 1577541600,
-                "TimeEnd": 1577574000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.06074068454382,
-                    42.35822797918689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Dover Canvass!",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -13594,16 +13619,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Manchester Canvass",
+                "Title": "Durham Canvass!",
                 "Type": "CANVASS",
                 "Host": "Campaign",
-                "Time": "Sat, Dec 28, 8:30AM-11:00AM EST",
-                "Venue": "Manchester Field Office - Yang2020",
-                "Address": "489 Amory St<br>Manchester, NH 03102",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166496/\">Mobilize US</a>",
-                "Description": "Join us for a canvass in greater Manchester! <br><br>Speaking to voters face-to-face in early states is BY FAR the biggest impact you can have on the upcoming election right now. Bring a friend, download the app \"MiniVAN\", on your smartphone and meet us for a fun-filled day in the neighborhood.",
-                "TimeStart": 1577539800,
-                "TimeEnd": 1577548800,
+                "Time": "Sat, Dec 28, 9:00AM-12:00PM EST",
+                "Venue": "The Works Caf\u00e9",
+                "Address": "5 Mill Rd<br>Durham, NH 03824",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/156521/\">Mobilize US</a>",
+                "Description": "Join us for canvassing for Yang in Durham!<br><br>Speaking to voters face-to-face in early states is BY FAR the most impactful way to help the campaign.<br><br>THIS IS HOW WE WIN.<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at The Works Cafe (5 Mill Rd), Durham. We'll have some coffee, and then we can all get a celebratory bite or beverage afterwards. Canvassing is fun and easier than you'd think.",
+                "TimeStart": 1577541600,
+                "TimeEnd": 1577552400,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "c",
                 "marker-size": "small"
@@ -13611,8 +13636,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.4854753,
-                    42.9935561
+                    -70.9259796,
+                    43.1335816
                 ]
             }
         },
@@ -13675,7 +13700,7 @@
                 "Time": "Sat, Dec 28, 8:30AM-11:00AM EST",
                 "Venue": "Manchester Field Office - Yang2020",
                 "Address": "489 Amory St<br>Manchester, NH 03102",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166496/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/166496/\">Mobilize US</a>",
                 "Description": "Join us for a canvass in greater Manchester! <br><br>Speaking to voters face-to-face in early states is BY FAR the biggest impact you can have on the upcoming election right now. Bring a friend, download the app \"MiniVAN\", on your smartphone and meet us for a fun-filled day in the neighborhood.",
                 "TimeStart": 1577539800,
                 "TimeEnd": 1577548800,
@@ -13713,6 +13738,31 @@
                 "coordinates": [
                     -71.4662371,
                     42.7620077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Manchester Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Dec 28, 8:30AM-11:00AM EST",
+                "Venue": "Manchester Field Office - Yang2020",
+                "Address": "489 Amory St<br>Manchester, NH 03102",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166496/\">Mobilize US</a>",
+                "Description": "Join us for a canvass in greater Manchester! <br><br>Speaking to voters face-to-face in early states is BY FAR the biggest impact you can have on the upcoming election right now. Bring a friend, download the app \"MiniVAN\", on your smartphone and meet us for a fun-filled day in the neighborhood.",
+                "TimeStart": 1577539800,
+                "TimeEnd": 1577548800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4854753,
+                    42.9935561
                 ]
             }
         },
@@ -13794,6 +13844,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "NY, NY - Yang Gang Weekly Happy Hour Hang",
+                "Type": "MEETING",
+                "Host": "Campaign",
+                "Time": "Fri, Dec 27, 5:30PM-7:30PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>New York, NY 10027",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175666/\">Mobilize US</a>",
+                "Description": "Are you Yang-curious or hardcore Yang Gang? <br><br>This event is for you.  Come to our weekly Happy Hour/Yang Gang Hang!<br><br>Let's kick off the signature gathering season while enjoying drinks and nibbles in a beautiful Harlem brownstone.  We'll talk about why we support Yang, when we'll be signing petitions to get him on the NY ballot, and how to get more involved.<br><br>Optional: bring a beverage or treat to share.<br><br>An organizational meeting will follow from 7 to 7:30 pm.<br><br>Yang Gang from any district are welcome, but we would like to especially encourage those in Districts 10 -15.<br><br>(Find out your district here: <br> https://ziplook.house.gov/htbin/findrep_house?ZIP=)",
+                "TimeStart": 1577485800,
+                "TimeEnd": 1577493000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95306,
+                    40.811407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Concord NH MATH Class",
                 "Type": "TRAINING",
                 "Host": "Campaign",
@@ -13844,16 +13919,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "NY, NY - Yang Gang Weekly Happy Hour Hang",
-                "Type": "MEETING",
+                "Title": "Phone Bank Party for New Hampshire",
+                "Type": "PHONE_BANK",
                 "Host": "Campaign",
-                "Time": "Fri, Dec 27, 5:30PM-7:30PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>New York, NY 10027",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175666/\">Mobilize US</a>",
-                "Description": "Are you Yang-curious or hardcore Yang Gang? <br><br>This event is for you.  Come to our weekly Happy Hour/Yang Gang Hang!<br><br>Let's kick off the signature gathering season while enjoying drinks and nibbles in a beautiful Harlem brownstone.  We'll talk about why we support Yang, when we'll be signing petitions to get him on the NY ballot, and how to get more involved.<br><br>Optional: bring a beverage or treat to share.<br><br>An organizational meeting will follow from 7 to 7:30 pm.<br><br>Yang Gang from any district are welcome, but we would like to especially encourage those in Districts 10 -15.<br><br>(Find out your district here: <br> https://ziplook.house.gov/htbin/findrep_house?ZIP=)",
-                "TimeStart": 1577485800,
-                "TimeEnd": 1577493000,
+                "Time": "Fri, Dec 27, 3:00PM-6:00PM EST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176435/\">Mobilize US</a>",
+                "Description": "New Hampshire primary is February 11th! These calls will be focused on inviting people to hear him speak at town halls  next week. <br><br>3 Easy Steps:<br><br>1) RSVP to see training video link.<br>2) I will send you a call list. Create an Action ID or sign in.<br>3) Start making calls.<br><br>Weekdays: 3 PM - 6PM EST<br>Weekends: 10 AM - 6 PM EST<br><br>On Saturday 12/28 we will hold a zoom call for 30 minutes at 3PM EST with all attendees, link forthcoming. On weekdays, I am available for 1:1 Q&A support.",
+                "TimeStart": 1577476800,
+                "TimeEnd": 1577487600,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "c",
                 "marker-size": "small"
@@ -13861,8 +13936,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.95306,
-                    40.811407
+                    -135,
+                    41
                 ]
             }
         },
@@ -13888,31 +13963,6 @@
                 "coordinates": [
                     -113.995368,
                     46.8704967
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Phone Bank Party for New Hampshire",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Fri, Dec 27, 3:00PM-6:00PM EST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/176435/\">Mobilize US</a>",
-                "Description": "New Hampshire primary is February 11th! These calls will be focused on inviting people to hear him speak at town halls  next week. <br><br>3 Easy Steps:<br><br>1) RSVP to see training video link.<br>2) I will send you a call list. Create an Action ID or sign in.<br>3) Start making calls.<br><br>Weekdays: 3 PM - 6PM EST<br>Weekends: 10 AM - 6 PM EST<br><br>On Saturday 12/28 we will hold a zoom call for 30 minutes at 3PM EST with all attendees, link forthcoming. On weekdays, I am available for 1:1 Q&A support.",
-                "TimeStart": 1577476800,
-                "TimeEnd": 1577487600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -135,
-                    45
                 ]
             }
         },
@@ -13969,31 +14019,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Fresno, CA ~ Crowd Yanging @ Hmong New Year Festival: 27th",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Fri, Dec 27, 8:00AM-5:00PM PST",
-                "Venue": "The Big Fresno Fair",
-                "Address": "1121 S Chance Ave<br>Fresno, CA 93702",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173129/\">Mobilize US</a>",
-                "Description": "We will have a booth for the Hong New Year Festival @ the Fresno Fair Grounds. The Booth will be open from 8 am to 5 pm, so we are creating shifts for the event. <br><br>Morning: 8 am to 11 am<br>Afternoon: 11 am to 2pm<br>Night: 2pm to 5pm. <br><br>When you sign up for the event, the event coordinator will message you about your shift preference and sign you up! We will be there from the 26th to the 1st. This is our biggest event yet, and we need every Yangster available to make this a success!",
-                "TimeStart": 1577462400,
-                "TimeEnd": 1577494800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.7509962,
-                    36.7315432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Priority": "HIGH",
                 "Title": "MATH Class - Cleveland, OH",
                 "Type": "TRAINING",
@@ -14014,6 +14039,31 @@
                 "coordinates": [
                     -81.7320452,
                     41.3832355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Fresno, CA ~ Crowd Yanging @ Hmong New Year Festival: 27th",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Fri, Dec 27, 8:00AM-5:00PM PST",
+                "Venue": "The Big Fresno Fair",
+                "Address": "1121 S Chance Ave<br>Fresno, CA 93702",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/173129/\">Mobilize US</a>",
+                "Description": "We will have a booth for the Hong New Year Festival @ the Fresno Fair Grounds. The Booth will be open from 8 am to 5 pm, so we are creating shifts for the event. <br><br>Morning: 8 am to 11 am<br>Afternoon: 11 am to 2pm<br>Night: 2pm to 5pm. <br><br>When you sign up for the event, the event coordinator will message you about your shift preference and sign you up! We will be there from the 26th to the 1st. This is our biggest event yet, and we need every Yangster available to make this a success!",
+                "TimeStart": 1577462400,
+                "TimeEnd": 1577494800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.7509962,
+                    36.7315432
                 ]
             }
         },
@@ -14313,7 +14363,7 @@
                 "type": "Point",
                 "coordinates": [
                     -135,
-                    41
+                    37
                 ]
             }
         },
@@ -14370,6 +14420,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Weekly Yang Gang Volunteer Livestream",
+                "Type": "OTHER",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 24, 9:30PM-10:30PM EST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/161011/\">Mobilize US</a>",
+                "Description": "A campaign update for all Yang Gang volunteers",
+                "TimeStart": 1577241000,
+                "TimeEnd": 1577244600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135,
+                    33
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Weekly Yang Gang Volunteer Livestream (for CA calendar)",
                 "Type": "MEETING",
                 "Host": "Campaign",
@@ -14389,31 +14464,6 @@
                 "coordinates": [
                     -121.49558999999999,
                     38.580568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Weekly Yang Gang Volunteer Livestream",
-                "Type": "OTHER",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 24, 9:30PM-10:30PM EST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/161011/\">Mobilize US</a>",
-                "Description": "A campaign update for all Yang Gang volunteers",
-                "TimeStart": 1577241000,
-                "TimeEnd": 1577244600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -135,
-                    37
                 ]
             }
         },
@@ -14638,83 +14688,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -135,
-                    33
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Virginia Weekly Volunteer Call",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Mon, Dec 23, 8:30PM-9:30PM EST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/164139/\">Mobilize US</a>",
-                "Description": "Please join us for our weekly Virginia volunteer call.  We will share updates about the campaign, plan upcoming events, and save time for new volunteer introductions. <br><br>If you haven't volunteered before, this is a great way to get plugged in!<br><br>Dial in information below:<br><br>Time: Mondays at 8:30 PM Eastern Time <br><br>Zoom Meeting link:  https://zoom.us/j/153384712<br><br>Meeting ID: 153 384 712<br><br>Phone Dial by your location<br>        +1 929 436 2866 US (New York)<br>        +1 669 900 6833 US (San Jose)<br>Meeting ID: 153 384 712<br><br>Find your local number: https://zoom.us/u/aenHHEb7lE<br><br>Please download and import the following iCalendar (.ics) files to your calendar system: https://zoom.us/meeting/vJEudOGsqTood9QxYTyY4twqVOe7SZqWyA/ics?icsToken=98tyKuitrTgiHtOUsl_9d7MtOav-b8_ujXUXm7tkqAbcVzREczXZM7VxCKNICfmB",
-                "TimeStart": 1577151000,
-                "TimeEnd": 1577154600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -139,
                     49
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Allen, TX - Collin County Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Mon, Dec 23, 7:00PM-9:00PM CST",
-                "Venue": "5th Street Pizza",
-                "Address": "111 N Central Expy Suite 102<br>Allen, TX 75013",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179955/\">Mobilize US</a>",
-                "Description": "During these chats we discuss policy how they will address issues that concern everyday Americans.<br><br>Then we will discuss what Collin County for Yang will do in the community to spread the word about Andrew Yang.<br><br>**Issue: Education**<br><br>We will discuss the impact of Andrew Yang visiting Dallas. We will discuss what it is like working with the National Campaign.<br><br>**Location**<br><br>5th st Pizza 111 N Central Expy Suite 102, Allen, TX 75013<br><br>http://5thstreetpizza.net<br><br>**Time/date**<br><br>Monday, December 23, 2019 7pm-9pm",
-                "TimeStart": 1577149200,
-                "TimeEnd": 1577156400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.6779847,
-                    33.1031867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Denton Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Mon, Dec 23, 7:00PM-8:30PM CST",
-                "Venue": "",
-                "Address": "106 N Locust St<br>Denton, TX 76201",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/138765/\">Mobilize US</a>",
-                "Description": "Join us in Denton, TX for our weekly Yang Gang Hang at Jupiter House Coffee! Each week we'll be discussing new developments in the Yangosphere, talking policy, strategy and tactics, and just generally spreading the positive Yang Gang vibes.  Bring a friend, and feel free to come with questions, talking points and new ideas. This is a great way to get plugged into the DFW Yang2020 community at large, so swing by say hello, and help get the word out about the most important political candidate of the 2020 election season, Andrew Yang!",
-                "TimeStart": 1577149200,
-                "TimeEnd": 1577154600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.132281,
-                    33.2148764
                 ]
             }
         },
@@ -14740,6 +14715,31 @@
                 "coordinates": [
                     -111.7907394,
                     33.3546852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Allen, TX - Collin County Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Mon, Dec 23, 7:00PM-9:00PM CST",
+                "Venue": "5th Street Pizza",
+                "Address": "111 N Central Expy Suite 102<br>Allen, TX 75013",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179955/\">Mobilize US</a>",
+                "Description": "During these chats we discuss policy how they will address issues that concern everyday Americans.<br><br>Then we will discuss what Collin County for Yang will do in the community to spread the word about Andrew Yang.<br><br>**Issue: Education**<br><br>We will discuss the impact of Andrew Yang visiting Dallas. We will discuss what it is like working with the National Campaign.<br><br>**Location**<br><br>5th st Pizza 111 N Central Expy Suite 102, Allen, TX 75013<br><br>http://5thstreetpizza.net<br><br>**Time/date**<br><br>Monday, December 23, 2019 7pm-9pm",
+                "TimeStart": 1577149200,
+                "TimeEnd": 1577156400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6779847,
+                    33.1031867
                 ]
             }
         },
