@@ -6820,6 +6820,56 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Greenville Phonebank",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 24, 1:00PM-4:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
+                "TimeStart": 1577210400,
+                "TimeEnd": 1577221200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Greenville Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 24, 1:00PM-4:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
+                "TimeStart": 1577210400,
+                "TimeEnd": 1577221200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0072642,
+                    34.9179837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "OKC Yang Gang Hang - Taco Tuesday",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -6839,56 +6889,6 @@
                 "coordinates": [
                     -97.508804,
                     35.4638242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Phonebank",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 24, 10:00AM-1:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152950/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us as we contact potential supporters.  Calls can be done at the office or at your home.<br>First timers  are welcomed, and will be trained.<br>It's a lot easier than you think!<br>All you need is a smartphone or a computer.<br>Hope to see you all soon.",
-                "TimeStart": 1577199600,
-                "TimeEnd": 1577210400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 24, 10:00AM-1:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
-                "TimeStart": 1577199600,
-                "TimeEnd": 1577210400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
                 ]
             }
         },
