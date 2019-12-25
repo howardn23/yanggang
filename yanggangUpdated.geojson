@@ -1,5 +1,5 @@
 {
-    "updated": 1577248268.848042,
+    "updated": 1577248870.4309638,
     "type": "FeatureCollection",
     "features": [
         {
@@ -15271,6 +15271,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Become an Event Moderator",
+                "Type": "TRAINING",
+                "Host": "Campaign",
+                "Time": "Wed, Dec 25, 5:00AM-11:30PM EST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172375/\">Mobilize US</a>",
+                "Description": "Yang2020 event postings are coming in at increasing speeds. It's a great problem to have, but the Yang2020 event support team is going to need your help if we want to keep up!<br><br>We're looking for volunteer moderators to edit and approve events. We're also looking for volunteer callers to contact new event hosts and prepare them for their events. If either or both of these tasks sound interesting to you, then signup and begin the on-boarding process today!",
+                "TimeStart": 1577268000,
+                "TimeEnd": 1577334600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -139,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Hollywood, CA - Yang-themed Caroling",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -15290,31 +15315,6 @@
                 "coordinates": [
                     -118.3392454,
                     34.1017791
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Become an Event Moderator",
-                "Type": "TRAINING",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 24, 5:00AM-11:30PM EST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172375/\">Mobilize US</a>",
-                "Description": "Yang2020 event postings are coming in at increasing speeds. It's a great problem to have, but the Yang2020 event support team is going to need your help if we want to keep up!<br><br>We're looking for volunteer moderators to edit and approve events. We're also looking for volunteer callers to contact new event hosts and prepare them for their events. If either or both of these tasks sound interesting to you, then signup and begin the on-boarding process today!",
-                "TimeStart": 1577181600,
-                "TimeEnd": 1577248200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -139,
-                    45
                 ]
             }
         }
