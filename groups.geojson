@@ -6,7 +6,7 @@
             "properties": {
                 "Field_Office_Name": "Des Moines",
                 "Primary_Contact_Name": "Maggie",
-                "Hours": "",
+                "Hours": "10AM-8PM",
                 "Address": "950 Office Park Road\nSuite 212\nWest Des Moines, IA 50265",
                 "State": "Iowa\n",
                 "Primary_Contact_Email": "Maggie@yang2020.com",
@@ -28,7 +28,7 @@
             "properties": {
                 "Field_Office_Name": "Ames",
                 "Primary_Contact_Name": "Mary",
-                "Hours": "",
+                "Hours": "10AM-8PM",
                 "Address": "219 Main St\r\nAmes, IA 50010",
                 "State": "Iowa\n",
                 "Primary_Contact_Email": "Mary@yang2020.com",
@@ -240,6 +240,314 @@
                 "coordinates": [
                     "-71.487664",
                     "42.9935561"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Portsmouth 1 (Rockingham County)",
+                "Primary_Contact_Name": "",
+                "Hours": "",
+                "Address": "1 Raynes Ave\nPortsmouth, NH 03801",
+                "State": "New Hamshire",
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Portsmouth 2 (Strafford County)",
+                "Primary_Contact_Name": "",
+                "Hours": "",
+                "Address": "545 Lafayette Rd\nPortsmouth, NH 03801",
+                "State": "New Hamshire",
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Nashua\n",
+                "Primary_Contact_Name": "",
+                "Hours": "",
+                "Address": "115 Main St, Suite 301\nNashua, NH 03060",
+                "State": "New Hamshire",
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Suncook / Concord\n",
+                "Primary_Contact_Name": "",
+                "Hours": "",
+                "Address": "50 Pinewood Rd, Suite 4A\nSuncook, NH 03275",
+                "State": "New Hamshire",
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Keene",
+                "Primary_Contact_Name": "",
+                "Hours": "",
+                "Address": "44 Main St\nKeene, NH 03431",
+                "State": "New Hamshire",
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Lebanon",
+                "Primary_Contact_Name": "",
+                "Hours": "",
+                "Address": "24 Hanover St, Suite 8A\nLebanon, NH 03766",
+                "State": "New Hamshire",
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Littleton",
+                "Primary_Contact_Name": "",
+                "Hours": "",
+                "Address": "243 Cottage St\nLittleton, NH 03561",
+                "State": "New Hamshire",
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": null,
+                "Primary_Contact_Name": null,
+                "Hours": null,
+                "Address": null,
+                "State": null,
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": null,
+                "Primary_Contact_Name": null,
+                "Hours": null,
+                "Address": null,
+                "State": null,
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": null,
+                "Primary_Contact_Name": null,
+                "Hours": null,
+                "Address": null,
+                "State": null,
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": null,
+                "Primary_Contact_Name": null,
+                "Hours": null,
+                "Address": null,
+                "State": null,
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "xManchester - 489 Amory Street, Manchester, NH 03102",
+                "Primary_Contact_Name": null,
+                "Hours": null,
+                "Address": null,
+                "State": null,
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "xPlymouth - 75 Main St, Plymouth, NH 03264",
+                "Primary_Contact_Name": null,
+                "Hours": null,
+                "Address": null,
+                "State": null,
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "xSalem - 32 Stiles Rd, Suite 209, Salem, NH 03079",
+                "Primary_Contact_Name": null,
+                "Hours": null,
+                "Address": null,
+                "State": null,
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
                 ]
             }
         },
