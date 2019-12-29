@@ -1,5 +1,5 @@
 {
-    "updated": 1577593873.861194,
+    "updated": 1577594474.4216046,
     "type": "FeatureCollection",
     "features": [
         {
@@ -17505,13 +17505,13 @@
                 "Title": "NYE Oakland YangGang Bar Crawl",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
-                "Time": "Tue, Dec 31, 5:30PM-11:59PM PST",
+                "Time": "Tue, Dec 31, 5:30PM-10:00PM PST",
                 "Venue": "The Double Standard",
                 "Address": "2424 Telegraph Ave<br>Oakland, CA 94612",
                 "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/179259/\">Mobilize US</a>",
                 "Description": "Leave the tuxes at home, but wear your MATH hat and all the Yang gear. We're going crowd yanging'! <br><br>A Yang Crawl, if you will. <br><br>The more bars we hit up, the more exposure for Andrew Yang! <br><br>We will start at Double Standard at 6 pm on 12/31 and yang all of updown/ downtown/ temescal Oakland! <br><br>This is a 21+ over event.  Please register so we can stay in touch about our location!",
                 "TimeStart": 1577842200,
-                "TimeEnd": 1577865540,
+                "TimeEnd": 1577858400,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -20560,6 +20560,31 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Become an Event Moderator",
+                "Type": "TRAINING",
+                "Host": "Campaign",
+                "Time": "Sun, Dec 29, 5:00AM-11:30PM EST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172375/\">Mobilize US</a>",
+                "Description": "Yang2020 event postings are coming in at increasing speeds. It's a great problem to have, but the Yang2020 event support team is going to need your help if we want to keep up!<br><br>We're looking for volunteer moderators to edit and approve events. We're also looking for volunteer callers to contact new event hosts and prepare them for their events. If either or both of these tasks sound interesting to you, then signup and begin the on-boarding process today!",
+                "TimeStart": 1577613600,
+                "TimeEnd": 1577680200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -139,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Vista, CA - Door to Door Canvassing 12/29",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -20579,31 +20604,6 @@
                 "coordinates": [
                     -117.2853845,
                     33.2076329
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Become an Event Moderator",
-                "Type": "TRAINING",
-                "Host": "Campaign",
-                "Time": "Sat, Dec 28, 5:00AM-11:30PM EST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/172375/\">Mobilize US</a>",
-                "Description": "Yang2020 event postings are coming in at increasing speeds. It's a great problem to have, but the Yang2020 event support team is going to need your help if we want to keep up!<br><br>We're looking for volunteer moderators to edit and approve events. We're also looking for volunteer callers to contact new event hosts and prepare them for their events. If either or both of these tasks sound interesting to you, then signup and begin the on-boarding process today!",
-                "TimeStart": 1577527200,
-                "TimeEnd": 1577593800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -139,
-                    45
                 ]
             }
         }
