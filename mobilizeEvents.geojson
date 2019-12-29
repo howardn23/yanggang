@@ -11891,31 +11891,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Pittsburgh Yang Gang Coffee Club",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Sun, Dec 29, 11:30AM-1:30PM EST",
-                "Venue": "The Coffee Tree Roasters",
-                "Address": "5524 Walnut St<br>Pittsburgh, PA 15232",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/165832/\">Mobilize US</a>",
-                "Description": "Please join us for coffee and conversation. Whether you are already Yang Gang, or just want to find out more, all are welcome! We are a friendly and enthusiastic bunch. We welcome your questions, input, ideas and skills!",
-                "TimeStart": 1577637000,
-                "TimeEnd": 1577644200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.9327342,
-                    40.4512442
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Portsmouth Canvass",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -12061,6 +12036,31 @@
                 "coordinates": [
                     -93.6192067,
                     41.5855699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Pittsburgh Yang Gang Coffee Club",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Sun, Dec 29, 11:00AM-12:30PM EST",
+                "Venue": "The Coffee Tree Roasters",
+                "Address": "5524 Walnut St<br>Pittsburgh, PA 15232",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/165832/\">Mobilize US</a>",
+                "Description": "Please join us for coffee and conversation. Whether you are already Yang Gang, or just want to find out more, all are welcome! We are a friendly and enthusiastic bunch. We welcome your questions, input, ideas and skills!",
+                "TimeStart": 1577635200,
+                "TimeEnd": 1577640600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9327342,
+                    40.4512442
                 ]
             }
         },
