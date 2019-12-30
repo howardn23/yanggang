@@ -11,6 +11,7 @@
                 "State": "Iowa\n",
                 "Primary_Contact_Email": "Maggie@yang2020.com",
                 "Facebook_Group": "https://www.facebook.com/groups/DSMYANGGANG/",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -31,8 +32,9 @@
                 "Hours": "10AM-8PM",
                 "Address": "219 Main St\r\nAmes, IA 50010",
                 "State": "Iowa\n",
-                "Primary_Contact_Email": "Mary@yang2020.com",
+                "Primary_Contact_Email": "Mary@yang2020.com, Charlotte@yang2020.com",
                 "Facebook_Group": "https://www.facebook.com/groups/amesyanggang/",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -53,8 +55,9 @@
                 "Hours": "",
                 "Address": "1706 Brady St #107\nDavenport, IA 52803",
                 "State": "Iowa\n",
-                "Primary_Contact_Email": "Allison@yang2020.com",
+                "Primary_Contact_Email": "Allison@yang2020.com, drasche@yang2020.com",
                 "Facebook_Group": "https://www.facebook.com/groups/QuadCitiesYangGang/",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -77,6 +80,7 @@
                 "State": "Iowa\n",
                 "Primary_Contact_Email": "Viola@yang2020.com",
                 "Facebook_Group": "https://www.facebook.com/groups/2298284940453974/",
+                "Primary_Contact_Phone": "715-456-4437",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -99,6 +103,7 @@
                 "State": "Iowa\n",
                 "Primary_Contact_Email": "Alex@yang2020.com",
                 "Facebook_Group": "https://www.facebook.com/groups/441899463243382/",
+                "Primary_Contact_Phone": "307-286-6833",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -119,8 +124,9 @@
                 "Hours": "",
                 "Address": "118 W Broadway\r\nCouncil Bluffs, IA 51503",
                 "State": "Iowa\n",
-                "Primary_Contact_Email": "",
+                "Primary_Contact_Email": "Rebecca@yang2020.com, Roger@yang2020.com, Dustin@yang2020.com",
                 "Facebook_Group": "https://www.facebook.com/groups/2034426350000746/",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -136,13 +142,37 @@
         {
             "type": "Feature",
             "properties": {
+                "Field_Office_Name": "Grinnell ",
+                "Primary_Contact_Name": "Tim",
+                "Hours": "",
+                "Address": "820 4th Ave\nGrinnell, IA 50112",
+                "State": "Iowa",
+                "Primary_Contact_Email": "timp@yang2020.com",
+                "Facebook_Group": "",
+                "Primary_Contact_Phone": "213-800-3494",
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -92.72468",
+                    "41.7431"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Field_Office_Name": "Sioux City",
                 "Primary_Contact_Name": "Brody",
                 "Hours": "",
                 "Address": "521 Nebraska St.\r\nSioux City, IA 51101",
                 "State": "Iowa\n",
-                "Primary_Contact_Email": "brody@yang2020.com",
+                "Primary_Contact_Email": "brody@yang2020.com\nkmunoz@yang2020.com",
                 "Facebook_Group": "https://www.facebook.com/groups/555973714897200/",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -165,6 +195,7 @@
                 "State": "Iowa\n",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "https://www.facebook.com/groups/2530646593838445/",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -181,12 +212,13 @@
             "type": "Feature",
             "properties": {
                 "Field_Office_Name": "Orange City",
-                "Primary_Contact_Name": "",
+                "Primary_Contact_Name": "John",
                 "Hours": "",
                 "Address": "110 1st St. SW\r\nOrange City, IA",
                 "State": "Iowa\n",
-                "Primary_Contact_Email": "",
+                "Primary_Contact_Email": "JohnKelley@yang2020.com",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -205,10 +237,11 @@
                 "Field_Office_Name": "Storm Lake\n",
                 "Primary_Contact_Name": "",
                 "Hours": "",
-                "Address": "1515 E. Lakeshore Dr.\r\nStorm Lake, 50588",
+                "Address": "1515 E. Lakeshore Dr.\nStorm Lake, IA 50588",
                 "State": "Iowa\n",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -224,13 +257,83 @@
         {
             "type": "Feature",
             "properties": {
+                "Field_Office_Name": "Mason City",
+                "Primary_Contact_Name": "Jacob",
+                "Hours": "",
+                "Address": "12 S Federal Ave\nMason City, IA 50401",
+                "State": "Iowa\n",
+                "Primary_Contact_Email": "jadams@yang2020.com",
+                "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -93.20152",
+                    "43.15137"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Cedar Rapids",
+                "Primary_Contact_Name": "Sasha",
+                "Hours": "",
+                "Address": "310 3rd St SE\nCedar Rapids, IA 52401",
+                "State": "Iowa",
+                "Primary_Contact_Email": "Sasha@yang2020.com",
+                "Facebook_Group": "",
+                "Primary_Contact_Phone": "319-343-6532",
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -91.66536",
+                    "41.97739"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Oskaloosa",
+                "Primary_Contact_Name": "David",
+                "Hours": "",
+                "Address": "200 High Ave W # 13\nOskaloosa, IA 52577",
+                "State": "Iowa",
+                "Primary_Contact_Email": "DavidPerelman@yang2020.com",
+                "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -92.64752",
+                    "41.29535"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Field_Office_Name": "Manchester",
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "489 Amory St \nManchester, NH 03102",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -250,9 +353,10 @@
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "1 Raynes Ave\nPortsmouth, NH 03801",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -272,9 +376,10 @@
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "545 Lafayette Rd\nPortsmouth, NH 03801",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -291,12 +396,13 @@
             "type": "Feature",
             "properties": {
                 "Field_Office_Name": "Nashua\n",
-                "Primary_Contact_Name": "",
+                "Primary_Contact_Name": "Danny",
                 "Hours": "",
                 "Address": "115 Main St, Suite 301\nNashua, NH 03060",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -316,9 +422,10 @@
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "50 Pinewood Rd, Suite 4A\nSuncook, NH 03275",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -338,9 +445,10 @@
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "44 Main St\nKeene, NH 03431",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -360,9 +468,10 @@
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "24 Hanover St, Suite 8A\nLebanon, NH 03766",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -382,9 +491,10 @@
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "243 Cottage St\nLittleton, NH 03561",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -404,9 +514,10 @@
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "75 Main St\nPlymouth, NH 03264",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -426,9 +537,10 @@
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "32 Stiles Rd, Suite 209\nSalem, NH 03079",
-                "State": "New Hamshire",
+                "State": "New Hampshire",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -451,6 +563,7 @@
                 "State": "Nevada",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -473,6 +586,7 @@
                 "State": "Nevada",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -495,6 +609,7 @@
                 "State": "South Carolina",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -517,6 +632,7 @@
                 "State": "South Carolina",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -532,13 +648,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Field_Office_Name": "Charleston",
+                "Field_Office_Name": "Charleston (Yang Gang office)",
                 "Primary_Contact_Name": "",
                 "Hours": "",
                 "Address": "74 Reid St\nCharleston, SC 29403",
                 "State": "South Carolina",
                 "Primary_Contact_Email": "",
                 "Facebook_Group": "",
+                "Primary_Contact_Phone": "",
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
