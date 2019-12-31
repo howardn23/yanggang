@@ -1,5 +1,5 @@
 {
-    "updated": 1577818875.0928838,
+    "updated": 1577819475.272609,
     "type": "FeatureCollection",
     "features": [
         {
@@ -10810,7 +10810,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Winston-Salem, NC - Yang Gang Sign It Up Event!",
+                "Title": "Winston-Salem, NC - Yang Gang Crowd Yanging!",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
                 "Time": "Sat, Jan 18, 12:00PM-2:00PM EST",
@@ -36137,40 +36137,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Ashland, Oregon. Noon New Year's Eve Party YANG GANG OUTREACH",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Tue, Dec 31, 12:00PM-2:00PM PST",
-                "Venue": "Science Works",
-                "Address": "1500 E Main St<br>Ashland, OR 97520",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174573/\">Mobilize US</a>",
-                "Description": "Hey Yang Gang! Let's meet at  Noon New Year's Eve Party @ Science Works Hands-On Museum. <br><br>This is a a  family friendly event in Ashland that Starts @ 11 am until 3 pm. <br>There are Ballon drop and activities for the entire family.<br><br>We can hang out together passing out flyers. <br><br>Please wear your Yang Gang gear.",
-                "TimeStart": 1577822400,
-                "TimeEnd": 1577829600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.6886724,
-                    42.193447
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "id": 940017,
-                    "start_date": 1577822400,
-                    "is_full": false,
-                    "end_date": 1577829600
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "New York, NY - Signature Gathering for CD NY10",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -36205,6 +36171,87 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Ashland, Oregon. Noon New Year's Eve Party YANG GANG OUTREACH",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 31, 12:00PM-2:00PM PST",
+                "Venue": "Science Works",
+                "Address": "1500 E Main St<br>Ashland, OR 97520",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/174573/\">Mobilize US</a>",
+                "Description": "Hey Yang Gang! Let's meet at  Noon New Year's Eve Party @ Science Works Hands-On Museum. <br><br>This is a a  family friendly event in Ashland that Starts @ 11 am until 3 pm. <br>There are Ballon drop and activities for the entire family.<br><br>We can hang out together passing out flyers. <br><br>Please wear your Yang Gang gear.",
+                "TimeStart": 1577822400,
+                "TimeEnd": 1577829600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6886724,
+                    42.193447
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "id": 940017,
+                    "start_date": 1577822400,
+                    "is_full": false,
+                    "end_date": 1577829600
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Priority": "HIGH",
+                "Title": "Call for Yang2020 on New Year's Eve!",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 2:00PM-3:00PM EST",
+                "Venue": "",
+                "Address": "Virtual",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/185712/\">Mobilize US</a>",
+                "Description": "Hey Yang Gang! Calling early state voters is one of the most impactful thing we can be doing right now to help Andrew get elected. We truly can't thank you all enough for your support and commitment to this movement.<br><br>Follow the steps below to get started:<br><br>1. Join our Yang 2020 Slack where you can chat with other callers and ask questions by [opening this link in a separate tab](https://www.yang2020.com/join-volunteer-slack/)<br><br>2. Everything you need to know about making calls can be found in our Call Team Handbook which you can check out by [opening this link in a separate tab](https://docs.google.com/document/d/17xNaWzkv6ZxpU2dQECmDFc8KcTuNj_ZOAXf9yy8jrJM/edit?usp=sharing)<br><br>3. Sign up for as many shifts as you'd like by filling in your info on the right side of your screen! If something changes with your schedule, don't worry about cancelling. The dialer will be open from 11:00AM CT to 4:00PM CT on New Year's Eve. We're *strongly* encouraging everyone to sign up at \"peak hours\" 1:00PM CT - 4:00PM CT in order to minimize the wait time between calls.<br><br>4. Once in the Yang 2020 Slack, go to the #callers_start_here channel where Calling Support will be able to answer any questions you have!",
+                "TimeStart": 1577818800,
+                "TimeEnd": 1577822400,
+                "marker-color": "#DA3248",
+                "marker-symbol": "c",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -139,
+                    41
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "id": 994500,
+                    "start_date": 1577818800,
+                    "is_full": false,
+                    "end_date": 1577822400
+                },
+                {
+                    "id": 994501,
+                    "start_date": 1577822400,
+                    "is_full": false,
+                    "end_date": 1577826000
+                },
+                {
+                    "id": 994502,
+                    "start_date": 1577826000,
+                    "is_full": false,
+                    "end_date": 1577829600
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Queens, NY - NY06 Signature Gathering Event",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -36233,6 +36280,1082 @@
                     "start_date": 1577818800,
                     "is_full": false,
                     "end_date": 1577833200
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Keene Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 2:00PM-5:00PM EST",
+                "Venue": "",
+                "Address": "44 Main St<br>Keene, NH 03431",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/185537/\">Mobilize US</a>",
+                "Description": "Come canvass for Yang in Keene!<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at our Keene office (44 Main Street).  See you soon!",
+                "TimeStart": 1577818800,
+                "TimeEnd": 1577829600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2776903,
+                    42.9328613
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "id": 993519,
+                    "start_date": 1577818800,
+                    "is_full": false,
+                    "end_date": 1577829600
+                },
+                {
+                    "id": 993476,
+                    "start_date": 1577896200,
+                    "is_full": false,
+                    "end_date": 1577905200
+                },
+                {
+                    "id": 993520,
+                    "start_date": 1577905200,
+                    "is_full": false,
+                    "end_date": 1577916000
+                },
+                {
+                    "id": 993477,
+                    "start_date": 1577982600,
+                    "is_full": false,
+                    "end_date": 1577991600
+                },
+                {
+                    "id": 993521,
+                    "start_date": 1577991600,
+                    "is_full": false,
+                    "end_date": 1578002400
+                },
+                {
+                    "id": 993478,
+                    "start_date": 1578069000,
+                    "is_full": false,
+                    "end_date": 1578078000
+                },
+                {
+                    "id": 993522,
+                    "start_date": 1578078000,
+                    "is_full": false,
+                    "end_date": 1578088800
+                },
+                {
+                    "id": 993479,
+                    "start_date": 1578155400,
+                    "is_full": false,
+                    "end_date": 1578164400
+                },
+                {
+                    "id": 993523,
+                    "start_date": 1578164400,
+                    "is_full": false,
+                    "end_date": 1578175200
+                },
+                {
+                    "id": 993480,
+                    "start_date": 1578241800,
+                    "is_full": false,
+                    "end_date": 1578250800
+                },
+                {
+                    "id": 993524,
+                    "start_date": 1578250800,
+                    "is_full": false,
+                    "end_date": 1578261600
+                },
+                {
+                    "id": 993481,
+                    "start_date": 1578328200,
+                    "is_full": false,
+                    "end_date": 1578337200
+                },
+                {
+                    "id": 993525,
+                    "start_date": 1578337200,
+                    "is_full": false,
+                    "end_date": 1578348000
+                },
+                {
+                    "id": 993482,
+                    "start_date": 1578414600,
+                    "is_full": false,
+                    "end_date": 1578423600
+                },
+                {
+                    "id": 993526,
+                    "start_date": 1578423600,
+                    "is_full": false,
+                    "end_date": 1578434400
+                },
+                {
+                    "id": 993483,
+                    "start_date": 1578501000,
+                    "is_full": false,
+                    "end_date": 1578510000
+                },
+                {
+                    "id": 993527,
+                    "start_date": 1578510000,
+                    "is_full": false,
+                    "end_date": 1578520800
+                },
+                {
+                    "id": 993484,
+                    "start_date": 1578587400,
+                    "is_full": false,
+                    "end_date": 1578596400
+                },
+                {
+                    "id": 993528,
+                    "start_date": 1578596400,
+                    "is_full": false,
+                    "end_date": 1578607200
+                },
+                {
+                    "id": 993485,
+                    "start_date": 1578673800,
+                    "is_full": false,
+                    "end_date": 1578682800
+                },
+                {
+                    "id": 993529,
+                    "start_date": 1578682800,
+                    "is_full": false,
+                    "end_date": 1578693600
+                },
+                {
+                    "id": 993486,
+                    "start_date": 1578760200,
+                    "is_full": false,
+                    "end_date": 1578769200
+                },
+                {
+                    "id": 993530,
+                    "start_date": 1578769200,
+                    "is_full": false,
+                    "end_date": 1578780000
+                },
+                {
+                    "id": 993487,
+                    "start_date": 1578846600,
+                    "is_full": false,
+                    "end_date": 1578855600
+                },
+                {
+                    "id": 993531,
+                    "start_date": 1578855600,
+                    "is_full": false,
+                    "end_date": 1578866400
+                },
+                {
+                    "id": 993488,
+                    "start_date": 1578933000,
+                    "is_full": false,
+                    "end_date": 1578942000
+                },
+                {
+                    "id": 993532,
+                    "start_date": 1578942000,
+                    "is_full": false,
+                    "end_date": 1578952800
+                },
+                {
+                    "id": 993489,
+                    "start_date": 1579019400,
+                    "is_full": false,
+                    "end_date": 1579028400
+                },
+                {
+                    "id": 993533,
+                    "start_date": 1579028400,
+                    "is_full": false,
+                    "end_date": 1579039200
+                },
+                {
+                    "id": 993490,
+                    "start_date": 1579105800,
+                    "is_full": false,
+                    "end_date": 1579114800
+                },
+                {
+                    "id": 993534,
+                    "start_date": 1579114800,
+                    "is_full": false,
+                    "end_date": 1579125600
+                },
+                {
+                    "id": 993491,
+                    "start_date": 1579192200,
+                    "is_full": false,
+                    "end_date": 1579201200
+                },
+                {
+                    "id": 993535,
+                    "start_date": 1579201200,
+                    "is_full": false,
+                    "end_date": 1579212000
+                },
+                {
+                    "id": 993492,
+                    "start_date": 1579278600,
+                    "is_full": false,
+                    "end_date": 1579287600
+                },
+                {
+                    "id": 993536,
+                    "start_date": 1579287600,
+                    "is_full": false,
+                    "end_date": 1579298400
+                },
+                {
+                    "id": 993493,
+                    "start_date": 1579365000,
+                    "is_full": false,
+                    "end_date": 1579374000
+                },
+                {
+                    "id": 993537,
+                    "start_date": 1579374000,
+                    "is_full": false,
+                    "end_date": 1579384800
+                },
+                {
+                    "id": 993494,
+                    "start_date": 1579451400,
+                    "is_full": false,
+                    "end_date": 1579460400
+                },
+                {
+                    "id": 993538,
+                    "start_date": 1579460400,
+                    "is_full": false,
+                    "end_date": 1579471200
+                },
+                {
+                    "id": 993495,
+                    "start_date": 1579537800,
+                    "is_full": false,
+                    "end_date": 1579546800
+                },
+                {
+                    "id": 993539,
+                    "start_date": 1579546800,
+                    "is_full": false,
+                    "end_date": 1579557600
+                },
+                {
+                    "id": 993496,
+                    "start_date": 1579624200,
+                    "is_full": false,
+                    "end_date": 1579633200
+                },
+                {
+                    "id": 993540,
+                    "start_date": 1579633200,
+                    "is_full": false,
+                    "end_date": 1579644000
+                },
+                {
+                    "id": 993497,
+                    "start_date": 1579710600,
+                    "is_full": false,
+                    "end_date": 1579719600
+                },
+                {
+                    "id": 993541,
+                    "start_date": 1579719600,
+                    "is_full": false,
+                    "end_date": 1579730400
+                },
+                {
+                    "id": 993498,
+                    "start_date": 1579797000,
+                    "is_full": false,
+                    "end_date": 1579806000
+                },
+                {
+                    "id": 993542,
+                    "start_date": 1579806000,
+                    "is_full": false,
+                    "end_date": 1579816800
+                },
+                {
+                    "id": 993499,
+                    "start_date": 1579883400,
+                    "is_full": false,
+                    "end_date": 1579892400
+                },
+                {
+                    "id": 993543,
+                    "start_date": 1579892400,
+                    "is_full": false,
+                    "end_date": 1579903200
+                },
+                {
+                    "id": 993500,
+                    "start_date": 1579969800,
+                    "is_full": false,
+                    "end_date": 1579978800
+                },
+                {
+                    "id": 993544,
+                    "start_date": 1579978800,
+                    "is_full": false,
+                    "end_date": 1579989600
+                },
+                {
+                    "id": 993501,
+                    "start_date": 1580056200,
+                    "is_full": false,
+                    "end_date": 1580065200
+                },
+                {
+                    "id": 993545,
+                    "start_date": 1580065200,
+                    "is_full": false,
+                    "end_date": 1580076000
+                },
+                {
+                    "id": 993502,
+                    "start_date": 1580142600,
+                    "is_full": false,
+                    "end_date": 1580151600
+                },
+                {
+                    "id": 993546,
+                    "start_date": 1580151600,
+                    "is_full": false,
+                    "end_date": 1580162400
+                },
+                {
+                    "id": 993503,
+                    "start_date": 1580229000,
+                    "is_full": false,
+                    "end_date": 1580238000
+                },
+                {
+                    "id": 993547,
+                    "start_date": 1580238000,
+                    "is_full": false,
+                    "end_date": 1580248800
+                },
+                {
+                    "id": 993504,
+                    "start_date": 1580315400,
+                    "is_full": false,
+                    "end_date": 1580324400
+                },
+                {
+                    "id": 993548,
+                    "start_date": 1580324400,
+                    "is_full": false,
+                    "end_date": 1580335200
+                },
+                {
+                    "id": 993505,
+                    "start_date": 1580401800,
+                    "is_full": false,
+                    "end_date": 1580410800
+                },
+                {
+                    "id": 993549,
+                    "start_date": 1580410800,
+                    "is_full": false,
+                    "end_date": 1580421600
+                },
+                {
+                    "id": 993506,
+                    "start_date": 1580488200,
+                    "is_full": false,
+                    "end_date": 1580497200
+                },
+                {
+                    "id": 993550,
+                    "start_date": 1580497200,
+                    "is_full": false,
+                    "end_date": 1580508000
+                },
+                {
+                    "id": 993507,
+                    "start_date": 1580574600,
+                    "is_full": false,
+                    "end_date": 1580583600
+                },
+                {
+                    "id": 993551,
+                    "start_date": 1580583600,
+                    "is_full": false,
+                    "end_date": 1580594400
+                },
+                {
+                    "id": 993508,
+                    "start_date": 1580661000,
+                    "is_full": false,
+                    "end_date": 1580670000
+                },
+                {
+                    "id": 993552,
+                    "start_date": 1580670000,
+                    "is_full": false,
+                    "end_date": 1580680800
+                },
+                {
+                    "id": 993509,
+                    "start_date": 1580747400,
+                    "is_full": false,
+                    "end_date": 1580756400
+                },
+                {
+                    "id": 993553,
+                    "start_date": 1580756400,
+                    "is_full": false,
+                    "end_date": 1580767200
+                },
+                {
+                    "id": 993510,
+                    "start_date": 1580833800,
+                    "is_full": false,
+                    "end_date": 1580842800
+                },
+                {
+                    "id": 993554,
+                    "start_date": 1580842800,
+                    "is_full": false,
+                    "end_date": 1580853600
+                },
+                {
+                    "id": 993511,
+                    "start_date": 1580920200,
+                    "is_full": false,
+                    "end_date": 1580929200
+                },
+                {
+                    "id": 993555,
+                    "start_date": 1580929200,
+                    "is_full": false,
+                    "end_date": 1580940000
+                },
+                {
+                    "id": 993512,
+                    "start_date": 1581006600,
+                    "is_full": false,
+                    "end_date": 1581015600
+                },
+                {
+                    "id": 993556,
+                    "start_date": 1581015600,
+                    "is_full": false,
+                    "end_date": 1581026400
+                },
+                {
+                    "id": 993513,
+                    "start_date": 1581093000,
+                    "is_full": false,
+                    "end_date": 1581102000
+                },
+                {
+                    "id": 993557,
+                    "start_date": 1581102000,
+                    "is_full": false,
+                    "end_date": 1581112800
+                },
+                {
+                    "id": 993514,
+                    "start_date": 1581179400,
+                    "is_full": false,
+                    "end_date": 1581188400
+                },
+                {
+                    "id": 993558,
+                    "start_date": 1581188400,
+                    "is_full": false,
+                    "end_date": 1581199200
+                },
+                {
+                    "id": 993515,
+                    "start_date": 1581265800,
+                    "is_full": false,
+                    "end_date": 1581274800
+                },
+                {
+                    "id": 993559,
+                    "start_date": 1581274800,
+                    "is_full": false,
+                    "end_date": 1581285600
+                },
+                {
+                    "id": 993516,
+                    "start_date": 1581352200,
+                    "is_full": false,
+                    "end_date": 1581361200
+                },
+                {
+                    "id": 993560,
+                    "start_date": 1581361200,
+                    "is_full": false,
+                    "end_date": 1581372000
+                },
+                {
+                    "id": 993517,
+                    "start_date": 1581438600,
+                    "is_full": false,
+                    "end_date": 1581447600
+                },
+                {
+                    "id": 993561,
+                    "start_date": 1581447600,
+                    "is_full": false,
+                    "end_date": 1581458400
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Keene Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 2:00PM-5:00PM EST",
+                "Venue": "",
+                "Address": "44 Main St<br>Keene, NH 03431",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/185537/\">Mobilize US</a>",
+                "Description": "Come canvass for Yang in Keene!<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at our Keene office (44 Main Street).  See you soon!",
+                "TimeStart": 1577818800,
+                "TimeEnd": 1577829600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2776903,
+                    42.9328613
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "id": 993519,
+                    "start_date": 1577818800,
+                    "is_full": false,
+                    "end_date": 1577829600
+                },
+                {
+                    "id": 993476,
+                    "start_date": 1577896200,
+                    "is_full": false,
+                    "end_date": 1577905200
+                },
+                {
+                    "id": 993520,
+                    "start_date": 1577905200,
+                    "is_full": false,
+                    "end_date": 1577916000
+                },
+                {
+                    "id": 993477,
+                    "start_date": 1577982600,
+                    "is_full": false,
+                    "end_date": 1577991600
+                },
+                {
+                    "id": 993521,
+                    "start_date": 1577991600,
+                    "is_full": false,
+                    "end_date": 1578002400
+                },
+                {
+                    "id": 993478,
+                    "start_date": 1578069000,
+                    "is_full": false,
+                    "end_date": 1578078000
+                },
+                {
+                    "id": 993522,
+                    "start_date": 1578078000,
+                    "is_full": false,
+                    "end_date": 1578088800
+                },
+                {
+                    "id": 993479,
+                    "start_date": 1578155400,
+                    "is_full": false,
+                    "end_date": 1578164400
+                },
+                {
+                    "id": 993523,
+                    "start_date": 1578164400,
+                    "is_full": false,
+                    "end_date": 1578175200
+                },
+                {
+                    "id": 993480,
+                    "start_date": 1578241800,
+                    "is_full": false,
+                    "end_date": 1578250800
+                },
+                {
+                    "id": 993524,
+                    "start_date": 1578250800,
+                    "is_full": false,
+                    "end_date": 1578261600
+                },
+                {
+                    "id": 993481,
+                    "start_date": 1578328200,
+                    "is_full": false,
+                    "end_date": 1578337200
+                },
+                {
+                    "id": 993525,
+                    "start_date": 1578337200,
+                    "is_full": false,
+                    "end_date": 1578348000
+                },
+                {
+                    "id": 993482,
+                    "start_date": 1578414600,
+                    "is_full": false,
+                    "end_date": 1578423600
+                },
+                {
+                    "id": 993526,
+                    "start_date": 1578423600,
+                    "is_full": false,
+                    "end_date": 1578434400
+                },
+                {
+                    "id": 993483,
+                    "start_date": 1578501000,
+                    "is_full": false,
+                    "end_date": 1578510000
+                },
+                {
+                    "id": 993527,
+                    "start_date": 1578510000,
+                    "is_full": false,
+                    "end_date": 1578520800
+                },
+                {
+                    "id": 993484,
+                    "start_date": 1578587400,
+                    "is_full": false,
+                    "end_date": 1578596400
+                },
+                {
+                    "id": 993528,
+                    "start_date": 1578596400,
+                    "is_full": false,
+                    "end_date": 1578607200
+                },
+                {
+                    "id": 993485,
+                    "start_date": 1578673800,
+                    "is_full": false,
+                    "end_date": 1578682800
+                },
+                {
+                    "id": 993529,
+                    "start_date": 1578682800,
+                    "is_full": false,
+                    "end_date": 1578693600
+                },
+                {
+                    "id": 993486,
+                    "start_date": 1578760200,
+                    "is_full": false,
+                    "end_date": 1578769200
+                },
+                {
+                    "id": 993530,
+                    "start_date": 1578769200,
+                    "is_full": false,
+                    "end_date": 1578780000
+                },
+                {
+                    "id": 993487,
+                    "start_date": 1578846600,
+                    "is_full": false,
+                    "end_date": 1578855600
+                },
+                {
+                    "id": 993531,
+                    "start_date": 1578855600,
+                    "is_full": false,
+                    "end_date": 1578866400
+                },
+                {
+                    "id": 993488,
+                    "start_date": 1578933000,
+                    "is_full": false,
+                    "end_date": 1578942000
+                },
+                {
+                    "id": 993532,
+                    "start_date": 1578942000,
+                    "is_full": false,
+                    "end_date": 1578952800
+                },
+                {
+                    "id": 993489,
+                    "start_date": 1579019400,
+                    "is_full": false,
+                    "end_date": 1579028400
+                },
+                {
+                    "id": 993533,
+                    "start_date": 1579028400,
+                    "is_full": false,
+                    "end_date": 1579039200
+                },
+                {
+                    "id": 993490,
+                    "start_date": 1579105800,
+                    "is_full": false,
+                    "end_date": 1579114800
+                },
+                {
+                    "id": 993534,
+                    "start_date": 1579114800,
+                    "is_full": false,
+                    "end_date": 1579125600
+                },
+                {
+                    "id": 993491,
+                    "start_date": 1579192200,
+                    "is_full": false,
+                    "end_date": 1579201200
+                },
+                {
+                    "id": 993535,
+                    "start_date": 1579201200,
+                    "is_full": false,
+                    "end_date": 1579212000
+                },
+                {
+                    "id": 993492,
+                    "start_date": 1579278600,
+                    "is_full": false,
+                    "end_date": 1579287600
+                },
+                {
+                    "id": 993536,
+                    "start_date": 1579287600,
+                    "is_full": false,
+                    "end_date": 1579298400
+                },
+                {
+                    "id": 993493,
+                    "start_date": 1579365000,
+                    "is_full": false,
+                    "end_date": 1579374000
+                },
+                {
+                    "id": 993537,
+                    "start_date": 1579374000,
+                    "is_full": false,
+                    "end_date": 1579384800
+                },
+                {
+                    "id": 993494,
+                    "start_date": 1579451400,
+                    "is_full": false,
+                    "end_date": 1579460400
+                },
+                {
+                    "id": 993538,
+                    "start_date": 1579460400,
+                    "is_full": false,
+                    "end_date": 1579471200
+                },
+                {
+                    "id": 993495,
+                    "start_date": 1579537800,
+                    "is_full": false,
+                    "end_date": 1579546800
+                },
+                {
+                    "id": 993539,
+                    "start_date": 1579546800,
+                    "is_full": false,
+                    "end_date": 1579557600
+                },
+                {
+                    "id": 993496,
+                    "start_date": 1579624200,
+                    "is_full": false,
+                    "end_date": 1579633200
+                },
+                {
+                    "id": 993540,
+                    "start_date": 1579633200,
+                    "is_full": false,
+                    "end_date": 1579644000
+                },
+                {
+                    "id": 993497,
+                    "start_date": 1579710600,
+                    "is_full": false,
+                    "end_date": 1579719600
+                },
+                {
+                    "id": 993541,
+                    "start_date": 1579719600,
+                    "is_full": false,
+                    "end_date": 1579730400
+                },
+                {
+                    "id": 993498,
+                    "start_date": 1579797000,
+                    "is_full": false,
+                    "end_date": 1579806000
+                },
+                {
+                    "id": 993542,
+                    "start_date": 1579806000,
+                    "is_full": false,
+                    "end_date": 1579816800
+                },
+                {
+                    "id": 993499,
+                    "start_date": 1579883400,
+                    "is_full": false,
+                    "end_date": 1579892400
+                },
+                {
+                    "id": 993543,
+                    "start_date": 1579892400,
+                    "is_full": false,
+                    "end_date": 1579903200
+                },
+                {
+                    "id": 993500,
+                    "start_date": 1579969800,
+                    "is_full": false,
+                    "end_date": 1579978800
+                },
+                {
+                    "id": 993544,
+                    "start_date": 1579978800,
+                    "is_full": false,
+                    "end_date": 1579989600
+                },
+                {
+                    "id": 993501,
+                    "start_date": 1580056200,
+                    "is_full": false,
+                    "end_date": 1580065200
+                },
+                {
+                    "id": 993545,
+                    "start_date": 1580065200,
+                    "is_full": false,
+                    "end_date": 1580076000
+                },
+                {
+                    "id": 993502,
+                    "start_date": 1580142600,
+                    "is_full": false,
+                    "end_date": 1580151600
+                },
+                {
+                    "id": 993546,
+                    "start_date": 1580151600,
+                    "is_full": false,
+                    "end_date": 1580162400
+                },
+                {
+                    "id": 993503,
+                    "start_date": 1580229000,
+                    "is_full": false,
+                    "end_date": 1580238000
+                },
+                {
+                    "id": 993547,
+                    "start_date": 1580238000,
+                    "is_full": false,
+                    "end_date": 1580248800
+                },
+                {
+                    "id": 993504,
+                    "start_date": 1580315400,
+                    "is_full": false,
+                    "end_date": 1580324400
+                },
+                {
+                    "id": 993548,
+                    "start_date": 1580324400,
+                    "is_full": false,
+                    "end_date": 1580335200
+                },
+                {
+                    "id": 993505,
+                    "start_date": 1580401800,
+                    "is_full": false,
+                    "end_date": 1580410800
+                },
+                {
+                    "id": 993549,
+                    "start_date": 1580410800,
+                    "is_full": false,
+                    "end_date": 1580421600
+                },
+                {
+                    "id": 993506,
+                    "start_date": 1580488200,
+                    "is_full": false,
+                    "end_date": 1580497200
+                },
+                {
+                    "id": 993550,
+                    "start_date": 1580497200,
+                    "is_full": false,
+                    "end_date": 1580508000
+                },
+                {
+                    "id": 993507,
+                    "start_date": 1580574600,
+                    "is_full": false,
+                    "end_date": 1580583600
+                },
+                {
+                    "id": 993551,
+                    "start_date": 1580583600,
+                    "is_full": false,
+                    "end_date": 1580594400
+                },
+                {
+                    "id": 993508,
+                    "start_date": 1580661000,
+                    "is_full": false,
+                    "end_date": 1580670000
+                },
+                {
+                    "id": 993552,
+                    "start_date": 1580670000,
+                    "is_full": false,
+                    "end_date": 1580680800
+                },
+                {
+                    "id": 993509,
+                    "start_date": 1580747400,
+                    "is_full": false,
+                    "end_date": 1580756400
+                },
+                {
+                    "id": 993553,
+                    "start_date": 1580756400,
+                    "is_full": false,
+                    "end_date": 1580767200
+                },
+                {
+                    "id": 993510,
+                    "start_date": 1580833800,
+                    "is_full": false,
+                    "end_date": 1580842800
+                },
+                {
+                    "id": 993554,
+                    "start_date": 1580842800,
+                    "is_full": false,
+                    "end_date": 1580853600
+                },
+                {
+                    "id": 993511,
+                    "start_date": 1580920200,
+                    "is_full": false,
+                    "end_date": 1580929200
+                },
+                {
+                    "id": 993555,
+                    "start_date": 1580929200,
+                    "is_full": false,
+                    "end_date": 1580940000
+                },
+                {
+                    "id": 993512,
+                    "start_date": 1581006600,
+                    "is_full": false,
+                    "end_date": 1581015600
+                },
+                {
+                    "id": 993556,
+                    "start_date": 1581015600,
+                    "is_full": false,
+                    "end_date": 1581026400
+                },
+                {
+                    "id": 993513,
+                    "start_date": 1581093000,
+                    "is_full": false,
+                    "end_date": 1581102000
+                },
+                {
+                    "id": 993557,
+                    "start_date": 1581102000,
+                    "is_full": false,
+                    "end_date": 1581112800
+                },
+                {
+                    "id": 993514,
+                    "start_date": 1581179400,
+                    "is_full": false,
+                    "end_date": 1581188400
+                },
+                {
+                    "id": 993558,
+                    "start_date": 1581188400,
+                    "is_full": false,
+                    "end_date": 1581199200
+                },
+                {
+                    "id": 993515,
+                    "start_date": 1581265800,
+                    "is_full": false,
+                    "end_date": 1581274800
+                },
+                {
+                    "id": 993559,
+                    "start_date": 1581274800,
+                    "is_full": false,
+                    "end_date": 1581285600
+                },
+                {
+                    "id": 993516,
+                    "start_date": 1581352200,
+                    "is_full": false,
+                    "end_date": 1581361200
+                },
+                {
+                    "id": 993560,
+                    "start_date": 1581361200,
+                    "is_full": false,
+                    "end_date": 1581372000
+                },
+                {
+                    "id": 993517,
+                    "start_date": 1581438600,
+                    "is_full": false,
+                    "end_date": 1581447600
+                },
+                {
+                    "id": 993561,
+                    "start_date": 1581447600,
+                    "is_full": false,
+                    "end_date": 1581458400
                 }
             ]
         },
@@ -36302,622 +37425,6 @@
                     "start_date": 1577817000,
                     "is_full": false,
                     "end_date": 1577822400
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Greenville Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 1:00PM-4:00PM EST",
-                "Venue": "Andrew Yang 2020 Greenville Office",
-                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
-                "TimeStart": 1577815200,
-                "TimeEnd": 1577826000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0072642,
-                    34.9179837
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "id": 827321,
-                    "start_date": 1577815200,
-                    "is_full": false,
-                    "end_date": 1577826000
-                },
-                {
-                    "id": 827322,
-                    "start_date": 1577826000,
-                    "is_full": false,
-                    "end_date": 1577836800
-                },
-                {
-                    "id": 827323,
-                    "start_date": 1577890800,
-                    "is_full": false,
-                    "end_date": 1577901600
-                },
-                {
-                    "id": 827324,
-                    "start_date": 1577901600,
-                    "is_full": false,
-                    "end_date": 1577912400
-                },
-                {
-                    "id": 827325,
-                    "start_date": 1577912400,
-                    "is_full": false,
-                    "end_date": 1577923200
-                },
-                {
-                    "id": 827326,
-                    "start_date": 1577977200,
-                    "is_full": false,
-                    "end_date": 1577988000
-                },
-                {
-                    "id": 827327,
-                    "start_date": 1577988000,
-                    "is_full": false,
-                    "end_date": 1577998800
-                },
-                {
-                    "id": 827328,
-                    "start_date": 1577998800,
-                    "is_full": false,
-                    "end_date": 1578009600
-                },
-                {
-                    "id": 827330,
-                    "start_date": 1578063600,
-                    "is_full": false,
-                    "end_date": 1578074400
-                },
-                {
-                    "id": 827331,
-                    "start_date": 1578074400,
-                    "is_full": false,
-                    "end_date": 1578085200
-                },
-                {
-                    "id": 827332,
-                    "start_date": 1578085200,
-                    "is_full": false,
-                    "end_date": 1578096000
-                },
-                {
-                    "id": 827333,
-                    "start_date": 1578150000,
-                    "is_full": false,
-                    "end_date": 1578160800
-                },
-                {
-                    "id": 827334,
-                    "start_date": 1578160800,
-                    "is_full": false,
-                    "end_date": 1578171600
-                },
-                {
-                    "id": 827335,
-                    "start_date": 1578171600,
-                    "is_full": false,
-                    "end_date": 1578182400
-                },
-                {
-                    "id": 827336,
-                    "start_date": 1578236400,
-                    "is_full": false,
-                    "end_date": 1578247200
-                },
-                {
-                    "id": 827337,
-                    "start_date": 1578247200,
-                    "is_full": false,
-                    "end_date": 1578258000
-                },
-                {
-                    "id": 827338,
-                    "start_date": 1578258000,
-                    "is_full": false,
-                    "end_date": 1578268800
-                },
-                {
-                    "id": 827339,
-                    "start_date": 1578322800,
-                    "is_full": false,
-                    "end_date": 1578333600
-                },
-                {
-                    "id": 827340,
-                    "start_date": 1578333600,
-                    "is_full": false,
-                    "end_date": 1578344400
-                },
-                {
-                    "id": 827341,
-                    "start_date": 1578344400,
-                    "is_full": false,
-                    "end_date": 1578355200
-                },
-                {
-                    "id": 827342,
-                    "start_date": 1578409200,
-                    "is_full": false,
-                    "end_date": 1578420000
-                },
-                {
-                    "id": 827343,
-                    "start_date": 1578420000,
-                    "is_full": false,
-                    "end_date": 1578430800
-                },
-                {
-                    "id": 827344,
-                    "start_date": 1578430800,
-                    "is_full": false,
-                    "end_date": 1578441600
-                },
-                {
-                    "id": 827345,
-                    "start_date": 1578495600,
-                    "is_full": false,
-                    "end_date": 1578506400
-                },
-                {
-                    "id": 827346,
-                    "start_date": 1578506400,
-                    "is_full": false,
-                    "end_date": 1578517200
-                },
-                {
-                    "id": 827347,
-                    "start_date": 1578517200,
-                    "is_full": false,
-                    "end_date": 1578528000
-                },
-                {
-                    "id": 827348,
-                    "start_date": 1578582000,
-                    "is_full": false,
-                    "end_date": 1578592800
-                },
-                {
-                    "id": 827349,
-                    "start_date": 1578592800,
-                    "is_full": false,
-                    "end_date": 1578603600
-                },
-                {
-                    "id": 827350,
-                    "start_date": 1578603600,
-                    "is_full": false,
-                    "end_date": 1578614400
-                },
-                {
-                    "id": 827351,
-                    "start_date": 1578668400,
-                    "is_full": false,
-                    "end_date": 1578679200
-                },
-                {
-                    "id": 827352,
-                    "start_date": 1578679200,
-                    "is_full": false,
-                    "end_date": 1578690000
-                },
-                {
-                    "id": 827353,
-                    "start_date": 1578690000,
-                    "is_full": false,
-                    "end_date": 1578700800
-                },
-                {
-                    "id": 827354,
-                    "start_date": 1578754800,
-                    "is_full": false,
-                    "end_date": 1578765600
-                },
-                {
-                    "id": 827355,
-                    "start_date": 1578765600,
-                    "is_full": false,
-                    "end_date": 1578776400
-                },
-                {
-                    "id": 827356,
-                    "start_date": 1578776400,
-                    "is_full": false,
-                    "end_date": 1578787200
-                },
-                {
-                    "id": 827357,
-                    "start_date": 1578841200,
-                    "is_full": false,
-                    "end_date": 1578852000
-                },
-                {
-                    "id": 827358,
-                    "start_date": 1578852000,
-                    "is_full": false,
-                    "end_date": 1578862800
-                },
-                {
-                    "id": 827359,
-                    "start_date": 1578862800,
-                    "is_full": false,
-                    "end_date": 1578873600
-                },
-                {
-                    "id": 827360,
-                    "start_date": 1578927600,
-                    "is_full": false,
-                    "end_date": 1578938400
-                },
-                {
-                    "id": 827361,
-                    "start_date": 1578938400,
-                    "is_full": false,
-                    "end_date": 1578949200
-                },
-                {
-                    "id": 827362,
-                    "start_date": 1578949200,
-                    "is_full": false,
-                    "end_date": 1578960000
-                },
-                {
-                    "id": 827363,
-                    "start_date": 1579014000,
-                    "is_full": false,
-                    "end_date": 1579024800
-                },
-                {
-                    "id": 827364,
-                    "start_date": 1579024800,
-                    "is_full": false,
-                    "end_date": 1579035600
-                },
-                {
-                    "id": 827365,
-                    "start_date": 1579035600,
-                    "is_full": false,
-                    "end_date": 1579046400
-                },
-                {
-                    "id": 827366,
-                    "start_date": 1579100400,
-                    "is_full": false,
-                    "end_date": 1579111200
-                },
-                {
-                    "id": 827367,
-                    "start_date": 1579111200,
-                    "is_full": false,
-                    "end_date": 1579122000
-                },
-                {
-                    "id": 827368,
-                    "start_date": 1579122000,
-                    "is_full": false,
-                    "end_date": 1579132800
-                },
-                {
-                    "id": 827369,
-                    "start_date": 1579186800,
-                    "is_full": false,
-                    "end_date": 1579197600
-                },
-                {
-                    "id": 827370,
-                    "start_date": 1579197600,
-                    "is_full": false,
-                    "end_date": 1579208400
-                },
-                {
-                    "id": 827371,
-                    "start_date": 1579208400,
-                    "is_full": false,
-                    "end_date": 1579219200
-                },
-                {
-                    "id": 827372,
-                    "start_date": 1579273200,
-                    "is_full": false,
-                    "end_date": 1579284000
-                },
-                {
-                    "id": 827373,
-                    "start_date": 1579284000,
-                    "is_full": false,
-                    "end_date": 1579294800
-                },
-                {
-                    "id": 827374,
-                    "start_date": 1579294800,
-                    "is_full": false,
-                    "end_date": 1579305600
-                },
-                {
-                    "id": 827375,
-                    "start_date": 1579359600,
-                    "is_full": false,
-                    "end_date": 1579370400
-                },
-                {
-                    "id": 827376,
-                    "start_date": 1579370400,
-                    "is_full": false,
-                    "end_date": 1579381200
-                },
-                {
-                    "id": 827377,
-                    "start_date": 1579381200,
-                    "is_full": false,
-                    "end_date": 1579392000
-                },
-                {
-                    "id": 827378,
-                    "start_date": 1579446000,
-                    "is_full": false,
-                    "end_date": 1579456800
-                },
-                {
-                    "id": 827379,
-                    "start_date": 1579456800,
-                    "is_full": false,
-                    "end_date": 1579467600
-                },
-                {
-                    "id": 827380,
-                    "start_date": 1579467600,
-                    "is_full": false,
-                    "end_date": 1579478400
-                },
-                {
-                    "id": 827381,
-                    "start_date": 1579532400,
-                    "is_full": false,
-                    "end_date": 1579543200
-                },
-                {
-                    "id": 827382,
-                    "start_date": 1579543200,
-                    "is_full": false,
-                    "end_date": 1579554000
-                },
-                {
-                    "id": 827383,
-                    "start_date": 1579554000,
-                    "is_full": false,
-                    "end_date": 1579564800
-                },
-                {
-                    "id": 827384,
-                    "start_date": 1579618800,
-                    "is_full": false,
-                    "end_date": 1579629600
-                },
-                {
-                    "id": 827385,
-                    "start_date": 1579629600,
-                    "is_full": false,
-                    "end_date": 1579640400
-                },
-                {
-                    "id": 827386,
-                    "start_date": 1579640400,
-                    "is_full": false,
-                    "end_date": 1579651200
-                },
-                {
-                    "id": 827387,
-                    "start_date": 1579705200,
-                    "is_full": false,
-                    "end_date": 1579716000
-                },
-                {
-                    "id": 827388,
-                    "start_date": 1579716000,
-                    "is_full": false,
-                    "end_date": 1579726800
-                },
-                {
-                    "id": 827389,
-                    "start_date": 1579726800,
-                    "is_full": false,
-                    "end_date": 1579737600
-                },
-                {
-                    "id": 827390,
-                    "start_date": 1579791600,
-                    "is_full": false,
-                    "end_date": 1579802400
-                },
-                {
-                    "id": 827391,
-                    "start_date": 1579802400,
-                    "is_full": false,
-                    "end_date": 1579813200
-                },
-                {
-                    "id": 827392,
-                    "start_date": 1579813200,
-                    "is_full": false,
-                    "end_date": 1579824000
-                },
-                {
-                    "id": 827393,
-                    "start_date": 1579878000,
-                    "is_full": false,
-                    "end_date": 1579888800
-                },
-                {
-                    "id": 827394,
-                    "start_date": 1579888800,
-                    "is_full": false,
-                    "end_date": 1579899600
-                },
-                {
-                    "id": 827395,
-                    "start_date": 1579899600,
-                    "is_full": false,
-                    "end_date": 1579910400
-                },
-                {
-                    "id": 827396,
-                    "start_date": 1579964400,
-                    "is_full": false,
-                    "end_date": 1579975200
-                },
-                {
-                    "id": 827397,
-                    "start_date": 1579975200,
-                    "is_full": false,
-                    "end_date": 1579986000
-                },
-                {
-                    "id": 827398,
-                    "start_date": 1579986000,
-                    "is_full": false,
-                    "end_date": 1579996800
-                },
-                {
-                    "id": 827399,
-                    "start_date": 1580050800,
-                    "is_full": false,
-                    "end_date": 1580061600
-                },
-                {
-                    "id": 827400,
-                    "start_date": 1580061600,
-                    "is_full": false,
-                    "end_date": 1580072400
-                },
-                {
-                    "id": 827401,
-                    "start_date": 1580072400,
-                    "is_full": false,
-                    "end_date": 1580083200
-                },
-                {
-                    "id": 827402,
-                    "start_date": 1580137200,
-                    "is_full": false,
-                    "end_date": 1580148000
-                },
-                {
-                    "id": 827403,
-                    "start_date": 1580148000,
-                    "is_full": false,
-                    "end_date": 1580158800
-                },
-                {
-                    "id": 827404,
-                    "start_date": 1580158800,
-                    "is_full": false,
-                    "end_date": 1580169600
-                },
-                {
-                    "id": 827405,
-                    "start_date": 1580223600,
-                    "is_full": false,
-                    "end_date": 1580234400
-                },
-                {
-                    "id": 827406,
-                    "start_date": 1580234400,
-                    "is_full": false,
-                    "end_date": 1580245200
-                },
-                {
-                    "id": 827407,
-                    "start_date": 1580245200,
-                    "is_full": false,
-                    "end_date": 1580256000
-                },
-                {
-                    "id": 827408,
-                    "start_date": 1580310000,
-                    "is_full": false,
-                    "end_date": 1580320800
-                },
-                {
-                    "id": 827409,
-                    "start_date": 1580320800,
-                    "is_full": false,
-                    "end_date": 1580331600
-                },
-                {
-                    "id": 827410,
-                    "start_date": 1580331600,
-                    "is_full": false,
-                    "end_date": 1580342400
-                },
-                {
-                    "id": 827411,
-                    "start_date": 1580396400,
-                    "is_full": false,
-                    "end_date": 1580407200
-                },
-                {
-                    "id": 827412,
-                    "start_date": 1580407200,
-                    "is_full": false,
-                    "end_date": 1580418000
-                },
-                {
-                    "id": 827413,
-                    "start_date": 1580418000,
-                    "is_full": false,
-                    "end_date": 1580428800
-                },
-                {
-                    "id": 827414,
-                    "start_date": 1580482800,
-                    "is_full": false,
-                    "end_date": 1580493600
-                },
-                {
-                    "id": 827415,
-                    "start_date": 1580493600,
-                    "is_full": false,
-                    "end_date": 1580504400
-                },
-                {
-                    "id": 827416,
-                    "start_date": 1580504400,
-                    "is_full": false,
-                    "end_date": 1580515200
-                },
-                {
-                    "id": 827417,
-                    "start_date": 1580569200,
-                    "is_full": false,
-                    "end_date": 1580580000
-                },
-                {
-                    "id": 827418,
-                    "start_date": 1580580000,
-                    "is_full": false,
-                    "end_date": 1580590800
-                },
-                {
-                    "id": 827419,
-                    "start_date": 1580590800,
-                    "is_full": false,
-                    "end_date": 1580601600
                 }
             ]
         },
@@ -37540,34 +38047,616 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "NYC, NY - Signature Gathering for CD NY12 at Union Square",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Tue, Dec 31, 1:00PM-4:30PM EST",
-                "Venue": "Union Square",
-                "Address": "Union Sq West between 16th and 17th St<br>New York, NY 10010",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180580/\">Mobilize US</a>",
-                "Description": "Andrew Yang needs 5K physical signatures collected in-person state-wide in order to be LISTED on the NY State Ballot.<br>Specifically in District #12 (most of Manhattan + Long Island City/Astoria), there are 8 selected Andrew Yang Delegates. The task at hand is to help these 7 delegates collect 1K in-person signatures (yes, must be in-person!) from voters registered as Democrats and registered in District #12, by end of January 2020. We\u2019ll need your help! Here\u2019s how:<br><br>- SIGN the petition yourself if qualified (we\u2019ll have a few locations throughout NYC)<br><br>- HELP us talk to people in-person, determine their eligibility and get them to sign<br><br>- SPREAD this link around to other Yang Gang supporters and make sure they come out to sign!<br><br>============================<br><br>IF you are REGISTERED: <br><br>- as a Democrat Voter (look yourself up at https://voterlookup.elections.ny.gov/) <br><br>- to vote in District #12 (check results from the lookup)<br>THEN come in-person to SIGN the Delegate Petition!<br><br>Voter Registration Lookup: https://voterlookup.elections.ny.gov/ (or google \u201cNY Voter Lookup\u201d)<br>Geographic Map of District #12 https://www.govtrack.us/congress/members/NY/12 Roughly east of 8th ave, north of Houston/LES and up to 98th St<br><br>============================<br><br>We\u2019ll try to have volunteers in a few Union Square locations<br><br>- Northwest corner of Union Square (between 16th and 17th St)<br><br>- Southwest corner of Union Square (between 14th and 15th St)",
+                "Title": "Greenville Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Tue, Dec 31, 1:00PM-4:00PM EST",
+                "Venue": "Andrew Yang 2020 Greenville Office",
+                "Address": "114 Laurens Rd.<br>Unit C<br>Greenville, SC 29607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/152943/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang!<br>Join us at the new office in Greenville, SC to knock on doors for Andrew Yang. <br>First time canvassers are welcomed, and will be trained.<br>It's a lot easier than you think!<br>Just bring your smartphone, and we will hit some doors together.<br>Hope to see you all soon.",
                 "TimeStart": 1577815200,
-                "TimeEnd": 1577827800,
+                "TimeEnd": 1577826000,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9904273,
-                    40.7359104
+                    -81.0072642,
+                    34.9179837
                 ]
             },
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "id": 969152,
+                    "id": 827321,
                     "start_date": 1577815200,
                     "is_full": false,
-                    "end_date": 1577827800
+                    "end_date": 1577826000
+                },
+                {
+                    "id": 827322,
+                    "start_date": 1577826000,
+                    "is_full": false,
+                    "end_date": 1577836800
+                },
+                {
+                    "id": 827323,
+                    "start_date": 1577890800,
+                    "is_full": false,
+                    "end_date": 1577901600
+                },
+                {
+                    "id": 827324,
+                    "start_date": 1577901600,
+                    "is_full": false,
+                    "end_date": 1577912400
+                },
+                {
+                    "id": 827325,
+                    "start_date": 1577912400,
+                    "is_full": false,
+                    "end_date": 1577923200
+                },
+                {
+                    "id": 827326,
+                    "start_date": 1577977200,
+                    "is_full": false,
+                    "end_date": 1577988000
+                },
+                {
+                    "id": 827327,
+                    "start_date": 1577988000,
+                    "is_full": false,
+                    "end_date": 1577998800
+                },
+                {
+                    "id": 827328,
+                    "start_date": 1577998800,
+                    "is_full": false,
+                    "end_date": 1578009600
+                },
+                {
+                    "id": 827330,
+                    "start_date": 1578063600,
+                    "is_full": false,
+                    "end_date": 1578074400
+                },
+                {
+                    "id": 827331,
+                    "start_date": 1578074400,
+                    "is_full": false,
+                    "end_date": 1578085200
+                },
+                {
+                    "id": 827332,
+                    "start_date": 1578085200,
+                    "is_full": false,
+                    "end_date": 1578096000
+                },
+                {
+                    "id": 827333,
+                    "start_date": 1578150000,
+                    "is_full": false,
+                    "end_date": 1578160800
+                },
+                {
+                    "id": 827334,
+                    "start_date": 1578160800,
+                    "is_full": false,
+                    "end_date": 1578171600
+                },
+                {
+                    "id": 827335,
+                    "start_date": 1578171600,
+                    "is_full": false,
+                    "end_date": 1578182400
+                },
+                {
+                    "id": 827336,
+                    "start_date": 1578236400,
+                    "is_full": false,
+                    "end_date": 1578247200
+                },
+                {
+                    "id": 827337,
+                    "start_date": 1578247200,
+                    "is_full": false,
+                    "end_date": 1578258000
+                },
+                {
+                    "id": 827338,
+                    "start_date": 1578258000,
+                    "is_full": false,
+                    "end_date": 1578268800
+                },
+                {
+                    "id": 827339,
+                    "start_date": 1578322800,
+                    "is_full": false,
+                    "end_date": 1578333600
+                },
+                {
+                    "id": 827340,
+                    "start_date": 1578333600,
+                    "is_full": false,
+                    "end_date": 1578344400
+                },
+                {
+                    "id": 827341,
+                    "start_date": 1578344400,
+                    "is_full": false,
+                    "end_date": 1578355200
+                },
+                {
+                    "id": 827342,
+                    "start_date": 1578409200,
+                    "is_full": false,
+                    "end_date": 1578420000
+                },
+                {
+                    "id": 827343,
+                    "start_date": 1578420000,
+                    "is_full": false,
+                    "end_date": 1578430800
+                },
+                {
+                    "id": 827344,
+                    "start_date": 1578430800,
+                    "is_full": false,
+                    "end_date": 1578441600
+                },
+                {
+                    "id": 827345,
+                    "start_date": 1578495600,
+                    "is_full": false,
+                    "end_date": 1578506400
+                },
+                {
+                    "id": 827346,
+                    "start_date": 1578506400,
+                    "is_full": false,
+                    "end_date": 1578517200
+                },
+                {
+                    "id": 827347,
+                    "start_date": 1578517200,
+                    "is_full": false,
+                    "end_date": 1578528000
+                },
+                {
+                    "id": 827348,
+                    "start_date": 1578582000,
+                    "is_full": false,
+                    "end_date": 1578592800
+                },
+                {
+                    "id": 827349,
+                    "start_date": 1578592800,
+                    "is_full": false,
+                    "end_date": 1578603600
+                },
+                {
+                    "id": 827350,
+                    "start_date": 1578603600,
+                    "is_full": false,
+                    "end_date": 1578614400
+                },
+                {
+                    "id": 827351,
+                    "start_date": 1578668400,
+                    "is_full": false,
+                    "end_date": 1578679200
+                },
+                {
+                    "id": 827352,
+                    "start_date": 1578679200,
+                    "is_full": false,
+                    "end_date": 1578690000
+                },
+                {
+                    "id": 827353,
+                    "start_date": 1578690000,
+                    "is_full": false,
+                    "end_date": 1578700800
+                },
+                {
+                    "id": 827354,
+                    "start_date": 1578754800,
+                    "is_full": false,
+                    "end_date": 1578765600
+                },
+                {
+                    "id": 827355,
+                    "start_date": 1578765600,
+                    "is_full": false,
+                    "end_date": 1578776400
+                },
+                {
+                    "id": 827356,
+                    "start_date": 1578776400,
+                    "is_full": false,
+                    "end_date": 1578787200
+                },
+                {
+                    "id": 827357,
+                    "start_date": 1578841200,
+                    "is_full": false,
+                    "end_date": 1578852000
+                },
+                {
+                    "id": 827358,
+                    "start_date": 1578852000,
+                    "is_full": false,
+                    "end_date": 1578862800
+                },
+                {
+                    "id": 827359,
+                    "start_date": 1578862800,
+                    "is_full": false,
+                    "end_date": 1578873600
+                },
+                {
+                    "id": 827360,
+                    "start_date": 1578927600,
+                    "is_full": false,
+                    "end_date": 1578938400
+                },
+                {
+                    "id": 827361,
+                    "start_date": 1578938400,
+                    "is_full": false,
+                    "end_date": 1578949200
+                },
+                {
+                    "id": 827362,
+                    "start_date": 1578949200,
+                    "is_full": false,
+                    "end_date": 1578960000
+                },
+                {
+                    "id": 827363,
+                    "start_date": 1579014000,
+                    "is_full": false,
+                    "end_date": 1579024800
+                },
+                {
+                    "id": 827364,
+                    "start_date": 1579024800,
+                    "is_full": false,
+                    "end_date": 1579035600
+                },
+                {
+                    "id": 827365,
+                    "start_date": 1579035600,
+                    "is_full": false,
+                    "end_date": 1579046400
+                },
+                {
+                    "id": 827366,
+                    "start_date": 1579100400,
+                    "is_full": false,
+                    "end_date": 1579111200
+                },
+                {
+                    "id": 827367,
+                    "start_date": 1579111200,
+                    "is_full": false,
+                    "end_date": 1579122000
+                },
+                {
+                    "id": 827368,
+                    "start_date": 1579122000,
+                    "is_full": false,
+                    "end_date": 1579132800
+                },
+                {
+                    "id": 827369,
+                    "start_date": 1579186800,
+                    "is_full": false,
+                    "end_date": 1579197600
+                },
+                {
+                    "id": 827370,
+                    "start_date": 1579197600,
+                    "is_full": false,
+                    "end_date": 1579208400
+                },
+                {
+                    "id": 827371,
+                    "start_date": 1579208400,
+                    "is_full": false,
+                    "end_date": 1579219200
+                },
+                {
+                    "id": 827372,
+                    "start_date": 1579273200,
+                    "is_full": false,
+                    "end_date": 1579284000
+                },
+                {
+                    "id": 827373,
+                    "start_date": 1579284000,
+                    "is_full": false,
+                    "end_date": 1579294800
+                },
+                {
+                    "id": 827374,
+                    "start_date": 1579294800,
+                    "is_full": false,
+                    "end_date": 1579305600
+                },
+                {
+                    "id": 827375,
+                    "start_date": 1579359600,
+                    "is_full": false,
+                    "end_date": 1579370400
+                },
+                {
+                    "id": 827376,
+                    "start_date": 1579370400,
+                    "is_full": false,
+                    "end_date": 1579381200
+                },
+                {
+                    "id": 827377,
+                    "start_date": 1579381200,
+                    "is_full": false,
+                    "end_date": 1579392000
+                },
+                {
+                    "id": 827378,
+                    "start_date": 1579446000,
+                    "is_full": false,
+                    "end_date": 1579456800
+                },
+                {
+                    "id": 827379,
+                    "start_date": 1579456800,
+                    "is_full": false,
+                    "end_date": 1579467600
+                },
+                {
+                    "id": 827380,
+                    "start_date": 1579467600,
+                    "is_full": false,
+                    "end_date": 1579478400
+                },
+                {
+                    "id": 827381,
+                    "start_date": 1579532400,
+                    "is_full": false,
+                    "end_date": 1579543200
+                },
+                {
+                    "id": 827382,
+                    "start_date": 1579543200,
+                    "is_full": false,
+                    "end_date": 1579554000
+                },
+                {
+                    "id": 827383,
+                    "start_date": 1579554000,
+                    "is_full": false,
+                    "end_date": 1579564800
+                },
+                {
+                    "id": 827384,
+                    "start_date": 1579618800,
+                    "is_full": false,
+                    "end_date": 1579629600
+                },
+                {
+                    "id": 827385,
+                    "start_date": 1579629600,
+                    "is_full": false,
+                    "end_date": 1579640400
+                },
+                {
+                    "id": 827386,
+                    "start_date": 1579640400,
+                    "is_full": false,
+                    "end_date": 1579651200
+                },
+                {
+                    "id": 827387,
+                    "start_date": 1579705200,
+                    "is_full": false,
+                    "end_date": 1579716000
+                },
+                {
+                    "id": 827388,
+                    "start_date": 1579716000,
+                    "is_full": false,
+                    "end_date": 1579726800
+                },
+                {
+                    "id": 827389,
+                    "start_date": 1579726800,
+                    "is_full": false,
+                    "end_date": 1579737600
+                },
+                {
+                    "id": 827390,
+                    "start_date": 1579791600,
+                    "is_full": false,
+                    "end_date": 1579802400
+                },
+                {
+                    "id": 827391,
+                    "start_date": 1579802400,
+                    "is_full": false,
+                    "end_date": 1579813200
+                },
+                {
+                    "id": 827392,
+                    "start_date": 1579813200,
+                    "is_full": false,
+                    "end_date": 1579824000
+                },
+                {
+                    "id": 827393,
+                    "start_date": 1579878000,
+                    "is_full": false,
+                    "end_date": 1579888800
+                },
+                {
+                    "id": 827394,
+                    "start_date": 1579888800,
+                    "is_full": false,
+                    "end_date": 1579899600
+                },
+                {
+                    "id": 827395,
+                    "start_date": 1579899600,
+                    "is_full": false,
+                    "end_date": 1579910400
+                },
+                {
+                    "id": 827396,
+                    "start_date": 1579964400,
+                    "is_full": false,
+                    "end_date": 1579975200
+                },
+                {
+                    "id": 827397,
+                    "start_date": 1579975200,
+                    "is_full": false,
+                    "end_date": 1579986000
+                },
+                {
+                    "id": 827398,
+                    "start_date": 1579986000,
+                    "is_full": false,
+                    "end_date": 1579996800
+                },
+                {
+                    "id": 827399,
+                    "start_date": 1580050800,
+                    "is_full": false,
+                    "end_date": 1580061600
+                },
+                {
+                    "id": 827400,
+                    "start_date": 1580061600,
+                    "is_full": false,
+                    "end_date": 1580072400
+                },
+                {
+                    "id": 827401,
+                    "start_date": 1580072400,
+                    "is_full": false,
+                    "end_date": 1580083200
+                },
+                {
+                    "id": 827402,
+                    "start_date": 1580137200,
+                    "is_full": false,
+                    "end_date": 1580148000
+                },
+                {
+                    "id": 827403,
+                    "start_date": 1580148000,
+                    "is_full": false,
+                    "end_date": 1580158800
+                },
+                {
+                    "id": 827404,
+                    "start_date": 1580158800,
+                    "is_full": false,
+                    "end_date": 1580169600
+                },
+                {
+                    "id": 827405,
+                    "start_date": 1580223600,
+                    "is_full": false,
+                    "end_date": 1580234400
+                },
+                {
+                    "id": 827406,
+                    "start_date": 1580234400,
+                    "is_full": false,
+                    "end_date": 1580245200
+                },
+                {
+                    "id": 827407,
+                    "start_date": 1580245200,
+                    "is_full": false,
+                    "end_date": 1580256000
+                },
+                {
+                    "id": 827408,
+                    "start_date": 1580310000,
+                    "is_full": false,
+                    "end_date": 1580320800
+                },
+                {
+                    "id": 827409,
+                    "start_date": 1580320800,
+                    "is_full": false,
+                    "end_date": 1580331600
+                },
+                {
+                    "id": 827410,
+                    "start_date": 1580331600,
+                    "is_full": false,
+                    "end_date": 1580342400
+                },
+                {
+                    "id": 827411,
+                    "start_date": 1580396400,
+                    "is_full": false,
+                    "end_date": 1580407200
+                },
+                {
+                    "id": 827412,
+                    "start_date": 1580407200,
+                    "is_full": false,
+                    "end_date": 1580418000
+                },
+                {
+                    "id": 827413,
+                    "start_date": 1580418000,
+                    "is_full": false,
+                    "end_date": 1580428800
+                },
+                {
+                    "id": 827414,
+                    "start_date": 1580482800,
+                    "is_full": false,
+                    "end_date": 1580493600
+                },
+                {
+                    "id": 827415,
+                    "start_date": 1580493600,
+                    "is_full": false,
+                    "end_date": 1580504400
+                },
+                {
+                    "id": 827416,
+                    "start_date": 1580504400,
+                    "is_full": false,
+                    "end_date": 1580515200
+                },
+                {
+                    "id": 827417,
+                    "start_date": 1580569200,
+                    "is_full": false,
+                    "end_date": 1580580000
+                },
+                {
+                    "id": 827418,
+                    "start_date": 1580580000,
+                    "is_full": false,
+                    "end_date": 1580590800
+                },
+                {
+                    "id": 827419,
+                    "start_date": 1580590800,
+                    "is_full": false,
+                    "end_date": 1580601600
                 }
             ]
         },
@@ -37608,1141 +38697,34 @@
         {
             "type": "Feature",
             "properties": {
-                "Priority": "HIGH",
-                "Title": "Call for Yang2020 on New Year's Eve!",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 1:00PM-2:00PM EST",
-                "Venue": "",
-                "Address": "Virtual",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/185712/\">Mobilize US</a>",
-                "Description": "Hey Yang Gang! Calling early state voters is one of the most impactful thing we can be doing right now to help Andrew get elected. We truly can't thank you all enough for your support and commitment to this movement.<br><br>Follow the steps below to get started:<br><br>1. Join our Yang 2020 Slack where you can chat with other callers and ask questions by [opening this link in a separate tab](https://www.yang2020.com/join-volunteer-slack/)<br><br>2. Everything you need to know about making calls can be found in our Call Team Handbook which you can check out by [opening this link in a separate tab](https://docs.google.com/document/d/17xNaWzkv6ZxpU2dQECmDFc8KcTuNj_ZOAXf9yy8jrJM/edit?usp=sharing)<br><br>3. Sign up for as many shifts as you'd like by filling in your info on the right side of your screen! If something changes with your schedule, don't worry about cancelling. The dialer will be open from 11:00AM CT to 4:00PM CT on New Year's Eve. We're *strongly* encouraging everyone to sign up at \"peak hours\" 1:00PM CT - 4:00PM CT in order to minimize the wait time between calls.<br><br>4. Once in the Yang 2020 Slack, go to the #callers_start_here channel where Calling Support will be able to answer any questions you have!",
+                "Title": "NYC, NY - Signature Gathering for CD NY12 at Union Square",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Tue, Dec 31, 1:00PM-4:30PM EST",
+                "Venue": "Union Square",
+                "Address": "Union Sq West between 16th and 17th St<br>New York, NY 10010",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/180580/\">Mobilize US</a>",
+                "Description": "Andrew Yang needs 5K physical signatures collected in-person state-wide in order to be LISTED on the NY State Ballot.<br>Specifically in District #12 (most of Manhattan + Long Island City/Astoria), there are 8 selected Andrew Yang Delegates. The task at hand is to help these 7 delegates collect 1K in-person signatures (yes, must be in-person!) from voters registered as Democrats and registered in District #12, by end of January 2020. We\u2019ll need your help! Here\u2019s how:<br><br>- SIGN the petition yourself if qualified (we\u2019ll have a few locations throughout NYC)<br><br>- HELP us talk to people in-person, determine their eligibility and get them to sign<br><br>- SPREAD this link around to other Yang Gang supporters and make sure they come out to sign!<br><br>============================<br><br>IF you are REGISTERED: <br><br>- as a Democrat Voter (look yourself up at https://voterlookup.elections.ny.gov/) <br><br>- to vote in District #12 (check results from the lookup)<br>THEN come in-person to SIGN the Delegate Petition!<br><br>Voter Registration Lookup: https://voterlookup.elections.ny.gov/ (or google \u201cNY Voter Lookup\u201d)<br>Geographic Map of District #12 https://www.govtrack.us/congress/members/NY/12 Roughly east of 8th ave, north of Houston/LES and up to 98th St<br><br>============================<br><br>We\u2019ll try to have volunteers in a few Union Square locations<br><br>- Northwest corner of Union Square (between 16th and 17th St)<br><br>- Southwest corner of Union Square (between 14th and 15th St)",
                 "TimeStart": 1577815200,
-                "TimeEnd": 1577818800,
-                "marker-color": "#DA3248",
-                "marker-symbol": "c",
-                "marker-size": "medium"
+                "TimeEnd": 1577827800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -139,
-                    41
+                    -73.9904273,
+                    40.7359104
                 ]
             },
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "id": 994499,
+                    "id": 969152,
                     "start_date": 1577815200,
                     "is_full": false,
-                    "end_date": 1577818800
-                },
-                {
-                    "id": 994500,
-                    "start_date": 1577818800,
-                    "is_full": false,
-                    "end_date": 1577822400
-                },
-                {
-                    "id": 994501,
-                    "start_date": 1577822400,
-                    "is_full": false,
-                    "end_date": 1577826000
-                },
-                {
-                    "id": 994502,
-                    "start_date": 1577826000,
-                    "is_full": false,
-                    "end_date": 1577829600
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Keene Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 11:30AM-2:00PM EST",
-                "Venue": "",
-                "Address": "44 Main St<br>Keene, NH 03431",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/185537/\">Mobilize US</a>",
-                "Description": "Come canvass for Yang in Keene!<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at our Keene office (44 Main Street).  See you soon!",
-                "TimeStart": 1577809800,
-                "TimeEnd": 1577818800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.2776903,
-                    42.9328613
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "id": 993475,
-                    "start_date": 1577809800,
-                    "is_full": false,
-                    "end_date": 1577818800
-                },
-                {
-                    "id": 993519,
-                    "start_date": 1577818800,
-                    "is_full": false,
-                    "end_date": 1577829600
-                },
-                {
-                    "id": 993476,
-                    "start_date": 1577896200,
-                    "is_full": false,
-                    "end_date": 1577905200
-                },
-                {
-                    "id": 993520,
-                    "start_date": 1577905200,
-                    "is_full": false,
-                    "end_date": 1577916000
-                },
-                {
-                    "id": 993477,
-                    "start_date": 1577982600,
-                    "is_full": false,
-                    "end_date": 1577991600
-                },
-                {
-                    "id": 993521,
-                    "start_date": 1577991600,
-                    "is_full": false,
-                    "end_date": 1578002400
-                },
-                {
-                    "id": 993478,
-                    "start_date": 1578069000,
-                    "is_full": false,
-                    "end_date": 1578078000
-                },
-                {
-                    "id": 993522,
-                    "start_date": 1578078000,
-                    "is_full": false,
-                    "end_date": 1578088800
-                },
-                {
-                    "id": 993479,
-                    "start_date": 1578155400,
-                    "is_full": false,
-                    "end_date": 1578164400
-                },
-                {
-                    "id": 993523,
-                    "start_date": 1578164400,
-                    "is_full": false,
-                    "end_date": 1578175200
-                },
-                {
-                    "id": 993480,
-                    "start_date": 1578241800,
-                    "is_full": false,
-                    "end_date": 1578250800
-                },
-                {
-                    "id": 993524,
-                    "start_date": 1578250800,
-                    "is_full": false,
-                    "end_date": 1578261600
-                },
-                {
-                    "id": 993481,
-                    "start_date": 1578328200,
-                    "is_full": false,
-                    "end_date": 1578337200
-                },
-                {
-                    "id": 993525,
-                    "start_date": 1578337200,
-                    "is_full": false,
-                    "end_date": 1578348000
-                },
-                {
-                    "id": 993482,
-                    "start_date": 1578414600,
-                    "is_full": false,
-                    "end_date": 1578423600
-                },
-                {
-                    "id": 993526,
-                    "start_date": 1578423600,
-                    "is_full": false,
-                    "end_date": 1578434400
-                },
-                {
-                    "id": 993483,
-                    "start_date": 1578501000,
-                    "is_full": false,
-                    "end_date": 1578510000
-                },
-                {
-                    "id": 993527,
-                    "start_date": 1578510000,
-                    "is_full": false,
-                    "end_date": 1578520800
-                },
-                {
-                    "id": 993484,
-                    "start_date": 1578587400,
-                    "is_full": false,
-                    "end_date": 1578596400
-                },
-                {
-                    "id": 993528,
-                    "start_date": 1578596400,
-                    "is_full": false,
-                    "end_date": 1578607200
-                },
-                {
-                    "id": 993485,
-                    "start_date": 1578673800,
-                    "is_full": false,
-                    "end_date": 1578682800
-                },
-                {
-                    "id": 993529,
-                    "start_date": 1578682800,
-                    "is_full": false,
-                    "end_date": 1578693600
-                },
-                {
-                    "id": 993486,
-                    "start_date": 1578760200,
-                    "is_full": false,
-                    "end_date": 1578769200
-                },
-                {
-                    "id": 993530,
-                    "start_date": 1578769200,
-                    "is_full": false,
-                    "end_date": 1578780000
-                },
-                {
-                    "id": 993487,
-                    "start_date": 1578846600,
-                    "is_full": false,
-                    "end_date": 1578855600
-                },
-                {
-                    "id": 993531,
-                    "start_date": 1578855600,
-                    "is_full": false,
-                    "end_date": 1578866400
-                },
-                {
-                    "id": 993488,
-                    "start_date": 1578933000,
-                    "is_full": false,
-                    "end_date": 1578942000
-                },
-                {
-                    "id": 993532,
-                    "start_date": 1578942000,
-                    "is_full": false,
-                    "end_date": 1578952800
-                },
-                {
-                    "id": 993489,
-                    "start_date": 1579019400,
-                    "is_full": false,
-                    "end_date": 1579028400
-                },
-                {
-                    "id": 993533,
-                    "start_date": 1579028400,
-                    "is_full": false,
-                    "end_date": 1579039200
-                },
-                {
-                    "id": 993490,
-                    "start_date": 1579105800,
-                    "is_full": false,
-                    "end_date": 1579114800
-                },
-                {
-                    "id": 993534,
-                    "start_date": 1579114800,
-                    "is_full": false,
-                    "end_date": 1579125600
-                },
-                {
-                    "id": 993491,
-                    "start_date": 1579192200,
-                    "is_full": false,
-                    "end_date": 1579201200
-                },
-                {
-                    "id": 993535,
-                    "start_date": 1579201200,
-                    "is_full": false,
-                    "end_date": 1579212000
-                },
-                {
-                    "id": 993492,
-                    "start_date": 1579278600,
-                    "is_full": false,
-                    "end_date": 1579287600
-                },
-                {
-                    "id": 993536,
-                    "start_date": 1579287600,
-                    "is_full": false,
-                    "end_date": 1579298400
-                },
-                {
-                    "id": 993493,
-                    "start_date": 1579365000,
-                    "is_full": false,
-                    "end_date": 1579374000
-                },
-                {
-                    "id": 993537,
-                    "start_date": 1579374000,
-                    "is_full": false,
-                    "end_date": 1579384800
-                },
-                {
-                    "id": 993494,
-                    "start_date": 1579451400,
-                    "is_full": false,
-                    "end_date": 1579460400
-                },
-                {
-                    "id": 993538,
-                    "start_date": 1579460400,
-                    "is_full": false,
-                    "end_date": 1579471200
-                },
-                {
-                    "id": 993495,
-                    "start_date": 1579537800,
-                    "is_full": false,
-                    "end_date": 1579546800
-                },
-                {
-                    "id": 993539,
-                    "start_date": 1579546800,
-                    "is_full": false,
-                    "end_date": 1579557600
-                },
-                {
-                    "id": 993496,
-                    "start_date": 1579624200,
-                    "is_full": false,
-                    "end_date": 1579633200
-                },
-                {
-                    "id": 993540,
-                    "start_date": 1579633200,
-                    "is_full": false,
-                    "end_date": 1579644000
-                },
-                {
-                    "id": 993497,
-                    "start_date": 1579710600,
-                    "is_full": false,
-                    "end_date": 1579719600
-                },
-                {
-                    "id": 993541,
-                    "start_date": 1579719600,
-                    "is_full": false,
-                    "end_date": 1579730400
-                },
-                {
-                    "id": 993498,
-                    "start_date": 1579797000,
-                    "is_full": false,
-                    "end_date": 1579806000
-                },
-                {
-                    "id": 993542,
-                    "start_date": 1579806000,
-                    "is_full": false,
-                    "end_date": 1579816800
-                },
-                {
-                    "id": 993499,
-                    "start_date": 1579883400,
-                    "is_full": false,
-                    "end_date": 1579892400
-                },
-                {
-                    "id": 993543,
-                    "start_date": 1579892400,
-                    "is_full": false,
-                    "end_date": 1579903200
-                },
-                {
-                    "id": 993500,
-                    "start_date": 1579969800,
-                    "is_full": false,
-                    "end_date": 1579978800
-                },
-                {
-                    "id": 993544,
-                    "start_date": 1579978800,
-                    "is_full": false,
-                    "end_date": 1579989600
-                },
-                {
-                    "id": 993501,
-                    "start_date": 1580056200,
-                    "is_full": false,
-                    "end_date": 1580065200
-                },
-                {
-                    "id": 993545,
-                    "start_date": 1580065200,
-                    "is_full": false,
-                    "end_date": 1580076000
-                },
-                {
-                    "id": 993502,
-                    "start_date": 1580142600,
-                    "is_full": false,
-                    "end_date": 1580151600
-                },
-                {
-                    "id": 993546,
-                    "start_date": 1580151600,
-                    "is_full": false,
-                    "end_date": 1580162400
-                },
-                {
-                    "id": 993503,
-                    "start_date": 1580229000,
-                    "is_full": false,
-                    "end_date": 1580238000
-                },
-                {
-                    "id": 993547,
-                    "start_date": 1580238000,
-                    "is_full": false,
-                    "end_date": 1580248800
-                },
-                {
-                    "id": 993504,
-                    "start_date": 1580315400,
-                    "is_full": false,
-                    "end_date": 1580324400
-                },
-                {
-                    "id": 993548,
-                    "start_date": 1580324400,
-                    "is_full": false,
-                    "end_date": 1580335200
-                },
-                {
-                    "id": 993505,
-                    "start_date": 1580401800,
-                    "is_full": false,
-                    "end_date": 1580410800
-                },
-                {
-                    "id": 993549,
-                    "start_date": 1580410800,
-                    "is_full": false,
-                    "end_date": 1580421600
-                },
-                {
-                    "id": 993506,
-                    "start_date": 1580488200,
-                    "is_full": false,
-                    "end_date": 1580497200
-                },
-                {
-                    "id": 993550,
-                    "start_date": 1580497200,
-                    "is_full": false,
-                    "end_date": 1580508000
-                },
-                {
-                    "id": 993507,
-                    "start_date": 1580574600,
-                    "is_full": false,
-                    "end_date": 1580583600
-                },
-                {
-                    "id": 993551,
-                    "start_date": 1580583600,
-                    "is_full": false,
-                    "end_date": 1580594400
-                },
-                {
-                    "id": 993508,
-                    "start_date": 1580661000,
-                    "is_full": false,
-                    "end_date": 1580670000
-                },
-                {
-                    "id": 993552,
-                    "start_date": 1580670000,
-                    "is_full": false,
-                    "end_date": 1580680800
-                },
-                {
-                    "id": 993509,
-                    "start_date": 1580747400,
-                    "is_full": false,
-                    "end_date": 1580756400
-                },
-                {
-                    "id": 993553,
-                    "start_date": 1580756400,
-                    "is_full": false,
-                    "end_date": 1580767200
-                },
-                {
-                    "id": 993510,
-                    "start_date": 1580833800,
-                    "is_full": false,
-                    "end_date": 1580842800
-                },
-                {
-                    "id": 993554,
-                    "start_date": 1580842800,
-                    "is_full": false,
-                    "end_date": 1580853600
-                },
-                {
-                    "id": 993511,
-                    "start_date": 1580920200,
-                    "is_full": false,
-                    "end_date": 1580929200
-                },
-                {
-                    "id": 993555,
-                    "start_date": 1580929200,
-                    "is_full": false,
-                    "end_date": 1580940000
-                },
-                {
-                    "id": 993512,
-                    "start_date": 1581006600,
-                    "is_full": false,
-                    "end_date": 1581015600
-                },
-                {
-                    "id": 993556,
-                    "start_date": 1581015600,
-                    "is_full": false,
-                    "end_date": 1581026400
-                },
-                {
-                    "id": 993513,
-                    "start_date": 1581093000,
-                    "is_full": false,
-                    "end_date": 1581102000
-                },
-                {
-                    "id": 993557,
-                    "start_date": 1581102000,
-                    "is_full": false,
-                    "end_date": 1581112800
-                },
-                {
-                    "id": 993514,
-                    "start_date": 1581179400,
-                    "is_full": false,
-                    "end_date": 1581188400
-                },
-                {
-                    "id": 993558,
-                    "start_date": 1581188400,
-                    "is_full": false,
-                    "end_date": 1581199200
-                },
-                {
-                    "id": 993515,
-                    "start_date": 1581265800,
-                    "is_full": false,
-                    "end_date": 1581274800
-                },
-                {
-                    "id": 993559,
-                    "start_date": 1581274800,
-                    "is_full": false,
-                    "end_date": 1581285600
-                },
-                {
-                    "id": 993516,
-                    "start_date": 1581352200,
-                    "is_full": false,
-                    "end_date": 1581361200
-                },
-                {
-                    "id": 993560,
-                    "start_date": 1581361200,
-                    "is_full": false,
-                    "end_date": 1581372000
-                },
-                {
-                    "id": 993517,
-                    "start_date": 1581438600,
-                    "is_full": false,
-                    "end_date": 1581447600
-                },
-                {
-                    "id": 993561,
-                    "start_date": 1581447600,
-                    "is_full": false,
-                    "end_date": 1581458400
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Keene Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Tue, Dec 31, 11:30AM-2:00PM EST",
-                "Venue": "",
-                "Address": "44 Main St<br>Keene, NH 03431",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/185537/\">Mobilize US</a>",
-                "Description": "Come canvass for Yang in Keene!<br><br>Bring a friend, download the app \"MiniVAN\" on your smartphone and meet us at our Keene office (44 Main Street).  See you soon!",
-                "TimeStart": 1577809800,
-                "TimeEnd": 1577818800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.2776903,
-                    42.9328613
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "id": 993475,
-                    "start_date": 1577809800,
-                    "is_full": false,
-                    "end_date": 1577818800
-                },
-                {
-                    "id": 993519,
-                    "start_date": 1577818800,
-                    "is_full": false,
-                    "end_date": 1577829600
-                },
-                {
-                    "id": 993476,
-                    "start_date": 1577896200,
-                    "is_full": false,
-                    "end_date": 1577905200
-                },
-                {
-                    "id": 993520,
-                    "start_date": 1577905200,
-                    "is_full": false,
-                    "end_date": 1577916000
-                },
-                {
-                    "id": 993477,
-                    "start_date": 1577982600,
-                    "is_full": false,
-                    "end_date": 1577991600
-                },
-                {
-                    "id": 993521,
-                    "start_date": 1577991600,
-                    "is_full": false,
-                    "end_date": 1578002400
-                },
-                {
-                    "id": 993478,
-                    "start_date": 1578069000,
-                    "is_full": false,
-                    "end_date": 1578078000
-                },
-                {
-                    "id": 993522,
-                    "start_date": 1578078000,
-                    "is_full": false,
-                    "end_date": 1578088800
-                },
-                {
-                    "id": 993479,
-                    "start_date": 1578155400,
-                    "is_full": false,
-                    "end_date": 1578164400
-                },
-                {
-                    "id": 993523,
-                    "start_date": 1578164400,
-                    "is_full": false,
-                    "end_date": 1578175200
-                },
-                {
-                    "id": 993480,
-                    "start_date": 1578241800,
-                    "is_full": false,
-                    "end_date": 1578250800
-                },
-                {
-                    "id": 993524,
-                    "start_date": 1578250800,
-                    "is_full": false,
-                    "end_date": 1578261600
-                },
-                {
-                    "id": 993481,
-                    "start_date": 1578328200,
-                    "is_full": false,
-                    "end_date": 1578337200
-                },
-                {
-                    "id": 993525,
-                    "start_date": 1578337200,
-                    "is_full": false,
-                    "end_date": 1578348000
-                },
-                {
-                    "id": 993482,
-                    "start_date": 1578414600,
-                    "is_full": false,
-                    "end_date": 1578423600
-                },
-                {
-                    "id": 993526,
-                    "start_date": 1578423600,
-                    "is_full": false,
-                    "end_date": 1578434400
-                },
-                {
-                    "id": 993483,
-                    "start_date": 1578501000,
-                    "is_full": false,
-                    "end_date": 1578510000
-                },
-                {
-                    "id": 993527,
-                    "start_date": 1578510000,
-                    "is_full": false,
-                    "end_date": 1578520800
-                },
-                {
-                    "id": 993484,
-                    "start_date": 1578587400,
-                    "is_full": false,
-                    "end_date": 1578596400
-                },
-                {
-                    "id": 993528,
-                    "start_date": 1578596400,
-                    "is_full": false,
-                    "end_date": 1578607200
-                },
-                {
-                    "id": 993485,
-                    "start_date": 1578673800,
-                    "is_full": false,
-                    "end_date": 1578682800
-                },
-                {
-                    "id": 993529,
-                    "start_date": 1578682800,
-                    "is_full": false,
-                    "end_date": 1578693600
-                },
-                {
-                    "id": 993486,
-                    "start_date": 1578760200,
-                    "is_full": false,
-                    "end_date": 1578769200
-                },
-                {
-                    "id": 993530,
-                    "start_date": 1578769200,
-                    "is_full": false,
-                    "end_date": 1578780000
-                },
-                {
-                    "id": 993487,
-                    "start_date": 1578846600,
-                    "is_full": false,
-                    "end_date": 1578855600
-                },
-                {
-                    "id": 993531,
-                    "start_date": 1578855600,
-                    "is_full": false,
-                    "end_date": 1578866400
-                },
-                {
-                    "id": 993488,
-                    "start_date": 1578933000,
-                    "is_full": false,
-                    "end_date": 1578942000
-                },
-                {
-                    "id": 993532,
-                    "start_date": 1578942000,
-                    "is_full": false,
-                    "end_date": 1578952800
-                },
-                {
-                    "id": 993489,
-                    "start_date": 1579019400,
-                    "is_full": false,
-                    "end_date": 1579028400
-                },
-                {
-                    "id": 993533,
-                    "start_date": 1579028400,
-                    "is_full": false,
-                    "end_date": 1579039200
-                },
-                {
-                    "id": 993490,
-                    "start_date": 1579105800,
-                    "is_full": false,
-                    "end_date": 1579114800
-                },
-                {
-                    "id": 993534,
-                    "start_date": 1579114800,
-                    "is_full": false,
-                    "end_date": 1579125600
-                },
-                {
-                    "id": 993491,
-                    "start_date": 1579192200,
-                    "is_full": false,
-                    "end_date": 1579201200
-                },
-                {
-                    "id": 993535,
-                    "start_date": 1579201200,
-                    "is_full": false,
-                    "end_date": 1579212000
-                },
-                {
-                    "id": 993492,
-                    "start_date": 1579278600,
-                    "is_full": false,
-                    "end_date": 1579287600
-                },
-                {
-                    "id": 993536,
-                    "start_date": 1579287600,
-                    "is_full": false,
-                    "end_date": 1579298400
-                },
-                {
-                    "id": 993493,
-                    "start_date": 1579365000,
-                    "is_full": false,
-                    "end_date": 1579374000
-                },
-                {
-                    "id": 993537,
-                    "start_date": 1579374000,
-                    "is_full": false,
-                    "end_date": 1579384800
-                },
-                {
-                    "id": 993494,
-                    "start_date": 1579451400,
-                    "is_full": false,
-                    "end_date": 1579460400
-                },
-                {
-                    "id": 993538,
-                    "start_date": 1579460400,
-                    "is_full": false,
-                    "end_date": 1579471200
-                },
-                {
-                    "id": 993495,
-                    "start_date": 1579537800,
-                    "is_full": false,
-                    "end_date": 1579546800
-                },
-                {
-                    "id": 993539,
-                    "start_date": 1579546800,
-                    "is_full": false,
-                    "end_date": 1579557600
-                },
-                {
-                    "id": 993496,
-                    "start_date": 1579624200,
-                    "is_full": false,
-                    "end_date": 1579633200
-                },
-                {
-                    "id": 993540,
-                    "start_date": 1579633200,
-                    "is_full": false,
-                    "end_date": 1579644000
-                },
-                {
-                    "id": 993497,
-                    "start_date": 1579710600,
-                    "is_full": false,
-                    "end_date": 1579719600
-                },
-                {
-                    "id": 993541,
-                    "start_date": 1579719600,
-                    "is_full": false,
-                    "end_date": 1579730400
-                },
-                {
-                    "id": 993498,
-                    "start_date": 1579797000,
-                    "is_full": false,
-                    "end_date": 1579806000
-                },
-                {
-                    "id": 993542,
-                    "start_date": 1579806000,
-                    "is_full": false,
-                    "end_date": 1579816800
-                },
-                {
-                    "id": 993499,
-                    "start_date": 1579883400,
-                    "is_full": false,
-                    "end_date": 1579892400
-                },
-                {
-                    "id": 993543,
-                    "start_date": 1579892400,
-                    "is_full": false,
-                    "end_date": 1579903200
-                },
-                {
-                    "id": 993500,
-                    "start_date": 1579969800,
-                    "is_full": false,
-                    "end_date": 1579978800
-                },
-                {
-                    "id": 993544,
-                    "start_date": 1579978800,
-                    "is_full": false,
-                    "end_date": 1579989600
-                },
-                {
-                    "id": 993501,
-                    "start_date": 1580056200,
-                    "is_full": false,
-                    "end_date": 1580065200
-                },
-                {
-                    "id": 993545,
-                    "start_date": 1580065200,
-                    "is_full": false,
-                    "end_date": 1580076000
-                },
-                {
-                    "id": 993502,
-                    "start_date": 1580142600,
-                    "is_full": false,
-                    "end_date": 1580151600
-                },
-                {
-                    "id": 993546,
-                    "start_date": 1580151600,
-                    "is_full": false,
-                    "end_date": 1580162400
-                },
-                {
-                    "id": 993503,
-                    "start_date": 1580229000,
-                    "is_full": false,
-                    "end_date": 1580238000
-                },
-                {
-                    "id": 993547,
-                    "start_date": 1580238000,
-                    "is_full": false,
-                    "end_date": 1580248800
-                },
-                {
-                    "id": 993504,
-                    "start_date": 1580315400,
-                    "is_full": false,
-                    "end_date": 1580324400
-                },
-                {
-                    "id": 993548,
-                    "start_date": 1580324400,
-                    "is_full": false,
-                    "end_date": 1580335200
-                },
-                {
-                    "id": 993505,
-                    "start_date": 1580401800,
-                    "is_full": false,
-                    "end_date": 1580410800
-                },
-                {
-                    "id": 993549,
-                    "start_date": 1580410800,
-                    "is_full": false,
-                    "end_date": 1580421600
-                },
-                {
-                    "id": 993506,
-                    "start_date": 1580488200,
-                    "is_full": false,
-                    "end_date": 1580497200
-                },
-                {
-                    "id": 993550,
-                    "start_date": 1580497200,
-                    "is_full": false,
-                    "end_date": 1580508000
-                },
-                {
-                    "id": 993507,
-                    "start_date": 1580574600,
-                    "is_full": false,
-                    "end_date": 1580583600
-                },
-                {
-                    "id": 993551,
-                    "start_date": 1580583600,
-                    "is_full": false,
-                    "end_date": 1580594400
-                },
-                {
-                    "id": 993508,
-                    "start_date": 1580661000,
-                    "is_full": false,
-                    "end_date": 1580670000
-                },
-                {
-                    "id": 993552,
-                    "start_date": 1580670000,
-                    "is_full": false,
-                    "end_date": 1580680800
-                },
-                {
-                    "id": 993509,
-                    "start_date": 1580747400,
-                    "is_full": false,
-                    "end_date": 1580756400
-                },
-                {
-                    "id": 993553,
-                    "start_date": 1580756400,
-                    "is_full": false,
-                    "end_date": 1580767200
-                },
-                {
-                    "id": 993510,
-                    "start_date": 1580833800,
-                    "is_full": false,
-                    "end_date": 1580842800
-                },
-                {
-                    "id": 993554,
-                    "start_date": 1580842800,
-                    "is_full": false,
-                    "end_date": 1580853600
-                },
-                {
-                    "id": 993511,
-                    "start_date": 1580920200,
-                    "is_full": false,
-                    "end_date": 1580929200
-                },
-                {
-                    "id": 993555,
-                    "start_date": 1580929200,
-                    "is_full": false,
-                    "end_date": 1580940000
-                },
-                {
-                    "id": 993512,
-                    "start_date": 1581006600,
-                    "is_full": false,
-                    "end_date": 1581015600
-                },
-                {
-                    "id": 993556,
-                    "start_date": 1581015600,
-                    "is_full": false,
-                    "end_date": 1581026400
-                },
-                {
-                    "id": 993513,
-                    "start_date": 1581093000,
-                    "is_full": false,
-                    "end_date": 1581102000
-                },
-                {
-                    "id": 993557,
-                    "start_date": 1581102000,
-                    "is_full": false,
-                    "end_date": 1581112800
-                },
-                {
-                    "id": 993514,
-                    "start_date": 1581179400,
-                    "is_full": false,
-                    "end_date": 1581188400
-                },
-                {
-                    "id": 993558,
-                    "start_date": 1581188400,
-                    "is_full": false,
-                    "end_date": 1581199200
-                },
-                {
-                    "id": 993515,
-                    "start_date": 1581265800,
-                    "is_full": false,
-                    "end_date": 1581274800
-                },
-                {
-                    "id": 993559,
-                    "start_date": 1581274800,
-                    "is_full": false,
-                    "end_date": 1581285600
-                },
-                {
-                    "id": 993516,
-                    "start_date": 1581352200,
-                    "is_full": false,
-                    "end_date": 1581361200
-                },
-                {
-                    "id": 993560,
-                    "start_date": 1581361200,
-                    "is_full": false,
-                    "end_date": 1581372000
-                },
-                {
-                    "id": 993517,
-                    "start_date": 1581438600,
-                    "is_full": false,
-                    "end_date": 1581447600
-                },
-                {
-                    "id": 993561,
-                    "start_date": 1581447600,
-                    "is_full": false,
-                    "end_date": 1581458400
+                    "end_date": 1577827800
                 }
             ]
         },
