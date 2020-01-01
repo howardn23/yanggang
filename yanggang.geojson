@@ -1,5 +1,5 @@
 {
-    "updated": 1577889072.985416,
+    "updated": 1577889673.8416762,
     "type": "FeatureCollection",
     "features": [
         {
@@ -9484,6 +9484,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Brookside Village, TX Area Canvassing",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Tue, Jan 28, 10:00AM-12:00PM CST",
+                "Venue": "Pearland Islamic Center - ISGH",
+                "Address": "1530 Garden Rd<br>Pearland, TX 77581",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/187310/\">Mobilize US</a>",
+                "Description": "Let's knock on some doors and spread the word about Andrew Yang! Join me and my preschooler for some daytime door knocking in Brookside Village.<br><br>We will meet at Pearland Islamic Center parking lot at 10:00am. Wear your Yang gear, and bring cards, stickers, and flyers if you have them. Also bring a bottle of water and snack.",
+                "TimeStart": 1580227200,
+                "TimeEnd": 1580234400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3217598,
+                    29.5822636
+                ]
+            },
+            "timezone": "America/Chicago",
+            "timeslots": [
+                {
+                    "id": 1000970,
+                    "is_full": false,
+                    "start_date": 1580227200,
+                    "end_date": 1580234400
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Pennsylvania Ballot Signature Kickoff!",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -9756,40 +9790,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Oakland, CA - Crowd-Yanging at the Grand Lake Farmers Market",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 9:00AM-2:00PM PST",
-                "Venue": "Splash Pad Park",
-                "Address": "746 Grand Ave<br>Oakland, CA 94610",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/186598/\">Mobilize US</a>",
-                "Description": "Help us staff the table for a couple of hours or the whole time (9am-2pm). You can even bring unused, unopened toiletry items to donate to a local nonprofit for the benefit of those who struggle to afford basic necessities (#pledgeforhumaity).<br><br>We have an Andrew Yang cut-out and a Yang buck for fun photo ops. We play music inspired by the Yang campaign. We have a table full of takeaway buttons, brochures, stickers, and cards. Most of all we have fellow Yang Gang who bring themselves, their passion, and good conversation.<br><br>Help us to Yang the crowd that flocks to the most popular farmers market of the Bay Area every Saturday!",
-                "TimeStart": 1579971600,
-                "TimeEnd": 1579989600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.2478409,
-                    37.8105444
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "id": 997931,
-                    "is_full": false,
-                    "start_date": 1579971600,
-                    "end_date": 1579989600
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Oregon Yang Gang -Tabling event at the 2020 Chinese New Year Cultural Fair",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -9818,6 +9818,40 @@
                     "is_full": false,
                     "start_date": 1579971600,
                     "end_date": 1580000400
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Oakland, CA - Crowd-Yanging at the Grand Lake Farmers Market",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 9:00AM-2:00PM PST",
+                "Venue": "Splash Pad Park",
+                "Address": "746 Grand Ave<br>Oakland, CA 94610",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/186598/\">Mobilize US</a>",
+                "Description": "Help us staff the table for a couple of hours or the whole time (9am-2pm). You can even bring unused, unopened toiletry items to donate to a local nonprofit for the benefit of those who struggle to afford basic necessities (#pledgeforhumaity).<br><br>We have an Andrew Yang cut-out and a Yang buck for fun photo ops. We play music inspired by the Yang campaign. We have a table full of takeaway buttons, brochures, stickers, and cards. Most of all we have fellow Yang Gang who bring themselves, their passion, and good conversation.<br><br>Help us to Yang the crowd that flocks to the most popular farmers market of the Bay Area every Saturday!",
+                "TimeStart": 1579971600,
+                "TimeEnd": 1579989600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2478409,
+                    37.8105444
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "id": 997931,
+                    "is_full": false,
+                    "start_date": 1579971600,
+                    "end_date": 1579989600
                 }
             ]
         },
