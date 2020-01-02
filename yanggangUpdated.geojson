@@ -1,5 +1,5 @@
 {
-    "updated": 1577995874.451044,
+    "updated": 1577996473.733337,
     "type": "FeatureCollection",
     "features": [
         {
@@ -13555,6 +13555,46 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Oakland Chinatown Lunar New Year Bazaar",
+                "Type": "COMMUNITY",
+                "Host": "Campaign",
+                "Time": "Sat, Jan 11, 12:00PM-3:00PM PST",
+                "Venue": "Chinatown",
+                "Address": "988 Broadway<br>Oakland, CA 94607",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/186994/\">Mobilize US</a>",
+                "Description": "Come help us pass out flyers at one of the largest Chinese New Year event in the East Bay!  We will NOT have a booth but we'll be able to share information and flyers with the larger East Bay Asian community!",
+                "TimeStart": 1578772800,
+                "TimeEnd": 1578783600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2729538,
+                    37.8010639
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "start_date": 1578772800,
+                    "id": 999306,
+                    "is_full": false,
+                    "end_date": 1578783600
+                },
+                {
+                    "start_date": 1578859200,
+                    "id": 999308,
+                    "is_full": false,
+                    "end_date": 1578870000
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Pizza and Phonebank Saturdays in SF",
                 "Type": "PHONE_BANK",
                 "Host": "Volunteer",
@@ -13923,58 +13963,6 @@
                     "id": 998011,
                     "is_full": false,
                     "end_date": 1578776400
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Oakland Chinatown Lunar New Year Bazaar",
-                "Type": "COMMUNITY",
-                "Host": "Campaign",
-                "Time": "Sat, Jan 11, 10:00AM-1:00PM PST",
-                "Venue": "Chinatown",
-                "Address": "988 Broadway<br>Oakland, CA 94607",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/186994/\">Mobilize US</a>",
-                "Description": "Come help us table at one of the largest Chinese New Year event in the East Bay!  We will have a booth to share information and flyers with the larger East Bay Asian community!",
-                "TimeStart": 1578765600,
-                "TimeEnd": 1578776400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.2729538,
-                    37.8010639
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "start_date": 1578765600,
-                    "id": 999305,
-                    "is_full": false,
-                    "end_date": 1578776400
-                },
-                {
-                    "start_date": 1578776400,
-                    "id": 999306,
-                    "is_full": false,
-                    "end_date": 1578787200
-                },
-                {
-                    "start_date": 1578852000,
-                    "id": 999307,
-                    "is_full": false,
-                    "end_date": 1578862800
-                },
-                {
-                    "start_date": 1578862800,
-                    "id": 999308,
-                    "is_full": false,
-                    "end_date": 1578873600
                 }
             ]
         },
