@@ -12307,6 +12307,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "LA, CA - Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 4, 4:00PM-6:00PM PST",
+                "Venue": "The Coffee Bean & Tea Leaf",
+                "Address": "11698 San Vicente Blvd<br>Los Angeles, CA 90049",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/188036/\">Mobilize US</a>",
+                "Description": "Come to The Coffee Bean & Tea Leaf and learn about Andrew Yang, a presidential candidate for 2020!",
+                "TimeStart": 1578182400,
+                "TimeEnd": 1578189600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4651804,
+                    34.0535014
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "start_date": 1578182400,
+                    "id": 1004837,
+                    "is_full": false,
+                    "end_date": 1578189600
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Burgers with Andrew Yang!",
                 "Type": "COMMUNITY",
                 "Host": "Campaign",
@@ -12335,6 +12369,40 @@
                     "id": 988423,
                     "is_full": false,
                     "end_date": 1578183300
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Portsmouth, NH - Yang Hang @ Thirsty Moose",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 4, 5:00PM-7:00PM EST",
+                "Venue": "Thirsty Moose Tap House - Portsmouth",
+                "Address": "21 Congress Street<br>Portsmouth, NH 03801",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/188021/\">Mobilize US</a>",
+                "Description": "Come out to connect and find community! Andrew Yang\u2019s campaign slogan is Humanity First and the Yang Gang is a movement of excellent humans. Come join your local Yang Gang for conversation over delicious food and drinks at this awesome brewery.<br><br>Meet Yangsters from surrounding towns (and sometimes, from across the country!), brainstorm opportunities to help the campaign, and strategize how to spread the Humanity First message throughout the area and the state.<br><br>Canvassers, join us to celebrate a good day's hard work. Non-canvassers, come and hear stories about how the movement is growing everyday in NH!",
+                "TimeStart": 1578175200,
+                "TimeEnd": 1578182400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.7585897,
+                    43.0767615
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "start_date": 1578175200,
+                    "id": 1004768,
+                    "is_full": false,
+                    "end_date": 1578182400
                 }
             ]
         },
@@ -12399,40 +12467,6 @@
                     "id": 983633,
                     "is_full": false,
                     "end_date": 1581210000
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Portsmouth, NH - Yang Hang @ Thirsty Moose",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 4, 5:00PM-7:00PM EST",
-                "Venue": "Thirsty Moose Tap House - Portsmouth",
-                "Address": "21 Congress Street<br>Portsmouth, NH 03801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/188021/\">Mobilize US</a>",
-                "Description": "Come out to connect and find community! Andrew Yang\u2019s campaign slogan is Humanity First and the Yang Gang is a movement of excellent humans. Come join your local Yang Gang for conversation over delicious food and drinks at this awesome brewery.<br><br>Meet Yangsters from surrounding towns (and sometimes, from across the country!), brainstorm opportunities to help the campaign, and strategize how to spread the Humanity First message throughout the area and the state.<br><br>Canvassers, join us to celebrate a good day's hard work. Non-canvassers, come and hear stories about how the movement is growing everyday in NH!",
-                "TimeStart": 1578175200,
-                "TimeEnd": 1578182400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.7585897,
-                    43.0767615
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "start_date": 1578175200,
-                    "id": 1004768,
-                    "is_full": false,
-                    "end_date": 1578182400
                 }
             ]
         },
@@ -12515,40 +12549,6 @@
                     "id": 972255,
                     "is_full": false,
                     "end_date": 1583020800
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "LA, CA - Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 4, 2:00PM-4:00PM PST",
-                "Venue": "The Coffee Bean & Tea Leaf",
-                "Address": "11698 San Vicente Blvd<br>Los Angeles, CA 90049",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/188036/\">Mobilize US</a>",
-                "Description": "Come to The Coffee Bean & Tea Leaf and learn about Andrew Yang, a presidential candidate for 2020!",
-                "TimeStart": 1578175200,
-                "TimeEnd": 1578182400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.4651804,
-                    34.0535014
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "start_date": 1578175200,
-                    "id": 1004837,
-                    "is_full": false,
-                    "end_date": 1578182400
                 }
             ]
         },
@@ -13567,7 +13567,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Bronx, NY CD-13 Staff-Led Signature Collecting in the Bronx",
+                "Title": "Bronx, NY CD-13 Staff-Led Signature Collecting",
                 "Type": "MEETING",
                 "Host": "Campaign",
                 "Time": "Sat, Jan 4, 12:30PM-2:30PM EST",
