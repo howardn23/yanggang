@@ -1,5 +1,5 @@
 {
-    "updated": 1578084675.257104,
+    "updated": 1578085274.4686456,
     "type": "FeatureCollection",
     "features": [
         {
@@ -9061,6 +9061,40 @@
                     "id": 1009899,
                     "is_full": false,
                     "end_date": 1581908400
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "San Mateo, CA - Tabling at Hillsdale Mall",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Feb 15, 11:00AM-9:00PM PST",
+                "Venue": "Hillsdale Shopping Center",
+                "Address": "60 31st Ave<br>1st Floor TBD either near Macy's or escalators<br>San Mateo, CA 94403",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/189143/\">Mobilize US</a>",
+                "Description": "Saturday, February 15th at 11:00AM to 9:00PM<br><br>Because early voting for CA is underway in February, I'm tabling at Hillsdale Mall to remind people to vote and Yang shoppers. Could really use some company! Thank you local Yang Gang!<br><br>- Tabling is on the first floor in a central location. Ask me for location of table (exact daily location to be determined by mall management)<br>- The mall's rule on tabling is to speak when approached. Whatever it's cool, hoping to attract people to look our way and approach us, with free swag and an infectious energy<br>- Our table will be out all day long. To gauge the who and when of volunteering, I have a spreadsheet doc, please put down the time you plan to be there",
+                "TimeStart": 1581793200,
+                "TimeEnd": 1581829200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.301778,
+                    37.538057
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "start_date": 1581793200,
+                    "id": 1009845,
+                    "is_full": false,
+                    "end_date": 1581829200
                 }
             ]
         },
