@@ -26930,6 +26930,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Essex, MD - Signature Gathering",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Fri, Jan 3, 2:00PM-5:00PM EST",
+                "Venue": "Baltimore County Public Library - Essex Branch",
+                "Address": "1110 Eastern Blvd<br>Essex, MD 21221",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/185886/\">Mobilize US</a>",
+                "Description": "Friday, January 3rd at 1:00PM to 4:00PM<br><br>Come and join Baltimore and Maryland Yang Gang to gather signatures to get Andrew Yang on the Maryland Primary ballot!<br><br>Please find and review the documentation in this spreadsheet: http://bit.ly/y2020SignatureGatheringLinks",
+                "TimeStart": 1578078000,
+                "TimeEnd": 1578088800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.463317,
+                    39.3152394
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "id": 995403,
+                    "is_full": false,
+                    "start_date": 1578078000,
+                    "end_date": 1578088800
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "New York, NY - Signature Gathering for CD NY-10",
                 "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
@@ -26992,40 +27026,6 @@
                     "is_full": false,
                     "start_date": 1578078000,
                     "end_date": 1578099600
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Essex, MD - Signature Gathering",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Fri, Jan 3, 1:00PM-4:00PM EST",
-                "Venue": "Baltimore County Public Library - Essex Branch",
-                "Address": "1110 Eastern Blvd<br>Essex, MD 21221",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/185886/\">Mobilize US</a>",
-                "Description": "Friday, January 3rd at 1:00PM to 4:00PM<br><br>Come and join Baltimore and Maryland Yang Gang to gather signatures to get Andrew Yang on the Maryland Primary ballot!<br><br>Please find and review the documentation in this spreadsheet: http://bit.ly/y2020SignatureGatheringLinks",
-                "TimeStart": 1578074400,
-                "TimeEnd": 1578085200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.463317,
-                    39.3152394
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "id": 995403,
-                    "is_full": false,
-                    "start_date": 1578074400,
-                    "end_date": 1578085200
                 }
             ]
         },
