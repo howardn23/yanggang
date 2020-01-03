@@ -1,5 +1,5 @@
 {
-    "updated": 1578088277.58689,
+    "updated": 1578088872.9314792,
     "type": "FeatureCollection",
     "features": [
         {
@@ -19275,6 +19275,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "STORY CITY, IA - CANVASSING 1/7",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Tue, Jan 7, 3:30PM-6:00PM CST",
+                "Venue": "KaffeGeita",
+                "Address": "1463 Broad St<br>Story City, IA 50248",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/188941/\">Mobilize US</a>",
+                "Description": "Hi all! Let's canvass in Story City. Rides will be provided from Ames if necessary. We haven't really hit this area with a large group (although a few amazing volunteers have started canvassing and are doing great). I'm excited to meet some of the lovely people of Story City!<br><br>If you can't make the exact time, still sign up and just reach out to me via email!",
+                "TimeStart": 1578432600,
+                "TimeEnd": 1578441600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.5775733,
+                    42.1879994
+                ]
+            },
+            "timezone": "America/Chicago",
+            "timeslots": [
+                {
+                    "start_date": 1578432600,
+                    "id": 1008306,
+                    "is_full": false,
+                    "end_date": 1578441600
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "New England YGRO Office Hours",
                 "Type": "OTHER",
                 "Host": "Campaign",
@@ -19333,40 +19367,6 @@
                     "id": 990715,
                     "is_full": false,
                     "end_date": 1582074000
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "STORY CITY, IA - CANVASSING 1/7",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Tue, Jan 7, 3:00PM-6:00PM CST",
-                "Venue": "KaffeGeita",
-                "Address": "1463 Broad St<br>Story City, IA 50248",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/188941/\">Mobilize US</a>",
-                "Description": "Hi all! Let's canvass in Story City. Rides will be provided from Ames if necessary. We haven't really hit this area with a large group (although a few amazing volunteers have started canvassing and are doing great). I'm excited to meet some of the lovely people of Story City!<br><br>If you can't make the exact time, still sign up and just reach out to me via email!",
-                "TimeStart": 1578430800,
-                "TimeEnd": 1578441600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.5775733,
-                    42.1879994
-                ]
-            },
-            "timezone": "America/Chicago",
-            "timeslots": [
-                {
-                    "start_date": 1578430800,
-                    "id": 1008306,
-                    "is_full": false,
-                    "end_date": 1578441600
                 }
             ]
         },
