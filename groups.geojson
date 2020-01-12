@@ -76,7 +76,7 @@
                 "Field_Office_Name": "Ames",
                 "Primary_Contact_Name": "Charlotte",
                 "Hours": "10AM-8PM",
-                "Address": "219 Main St\r\nAmes, IA 50010",
+                "Address": "219 Main St\nAmes, IA 50010",
                 "State": "Iowa\n",
                 "Primary_Contact_Email": "Charlotte@yang2020.com",
                 "Facebook_Group": "https://www.facebook.com/groups/amesyanggang/",
@@ -320,6 +320,29 @@
                 "coordinates": [
                     "-95.1819353",
                     "42.634088"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Waterloo",
+                "Primary_Contact_Name": null,
+                "Hours": null,
+                "Address": null,
+                "State": null,
+                "Primary_Contact_Email": null,
+                "Facebook_Group": null,
+                "Priority": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
                 ]
             }
         },
