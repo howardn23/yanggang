@@ -349,14 +349,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Field_Office_Name": "Las Vegas",
-                "Primary_Contact_Name": "",
+                "Field_Office_Name": "Las Vegas (Chinatown)",
+                "Primary_Contact_Name": "Elijah",
                 "Hours": "",
                 "Address": "4276 Spring Mountain Rd\nLas Vegas, NV 89102",
                 "State": "Nevada",
-                "Primary_Contact_Email": "",
+                "Primary_Contact_Email": "elijahmercer@yang2020.com",
                 "Facebook_Group": "",
-                "Priority": "",
+                "Priority": 1,
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -372,14 +372,37 @@
         {
             "type": "Feature",
             "properties": {
+                "Field_Office_Name": "South Las Vegas",
+                "Primary_Contact_Name": "Alexander",
+                "Hours": "",
+                "Address": "580 E. Windmill Lane, Suite 130\nLas Vegas 89123",
+                "State": "Nevada",
+                "Primary_Contact_Email": "alexander@yang2020.com",
+                "Facebook_Group": "",
+                "Priority": 1,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -115.150502",
+                    "36.043201"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Field_Office_Name": "Reno",
-                "Primary_Contact_Name": "",
+                "Primary_Contact_Name": "Jeremy",
                 "Hours": "",
                 "Address": "1885 S Arlington Ave #201\nReno, NV 89509",
                 "State": "Nevada",
-                "Primary_Contact_Email": "",
+                "Primary_Contact_Email": "jeremycohen@yang2020.com",
                 "Facebook_Group": "",
-                "Priority": "",
+                "Priority": 1,
                 "marker-color": "#133467",
                 "marker-size": "medium",
                 "marker-symbol": "o"
@@ -625,12 +648,12 @@
         {
             "type": "Feature",
             "properties": {
-                "Field_Office_Name": "Charleston (Yang Gang office)",
-                "Primary_Contact_Name": "",
+                "Field_Office_Name": "Charleston",
+                "Primary_Contact_Name": "Estefania",
                 "Hours": "",
                 "Address": "74 Reid St\nCharleston, SC 29403",
                 "State": "South Carolina",
-                "Primary_Contact_Email": "",
+                "Primary_Contact_Email": "nia@yang2020.com",
                 "Facebook_Group": "",
                 "Priority": "",
                 "marker-color": "#133467",
@@ -649,11 +672,11 @@
             "type": "Feature",
             "properties": {
                 "Field_Office_Name": "Columbia",
-                "Primary_Contact_Name": "",
+                "Primary_Contact_Name": "Whitney",
                 "Hours": "",
                 "Address": "917 Huger St\nColumbia, SC 29201",
                 "State": "South Carolina",
-                "Primary_Contact_Email": "",
+                "Primary_Contact_Email": "whitney@yang2020.com",
                 "Facebook_Group": "",
                 "Priority": "",
                 "marker-color": "#133467",
@@ -672,11 +695,11 @@
             "type": "Feature",
             "properties": {
                 "Field_Office_Name": "Rock Hill",
-                "Primary_Contact_Name": "",
+                "Primary_Contact_Name": "Charity",
                 "Hours": "",
                 "Address": "1146 E White St\nRock Hill, SC 29730",
                 "State": "South Carolina",
-                "Primary_Contact_Email": "",
+                "Primary_Contact_Email": "charity@yang2020.com",
                 "Facebook_Group": "",
                 "Priority": "",
                 "marker-color": "#133467",
@@ -688,6 +711,52 @@
                 "coordinates": [
                     "-81.007243",
                     "34.918003"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Greenville",
+                "Primary_Contact_Name": "Ashley",
+                "Hours": "",
+                "Address": "114 Laurens Rd. Unit C\nGreenville, SC 29607",
+                "State": "South Carolina",
+                "Primary_Contact_Email": "Ashley@yang2020.com",
+                "Facebook_Group": null,
+                "Priority": null,
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Field_Office_Name": "Florence",
+                "Primary_Contact_Name": "Mitch",
+                "Hours": "",
+                "Address": "150 North Dargan St.\nFlorence, SC 29501",
+                "State": "South Carolina",
+                "Primary_Contact_Email": "mitch@yang2020.com",
+                "Facebook_Group": "",
+                "Priority": "",
+                "marker-color": "#133467",
+                "marker-size": "medium",
+                "marker-symbol": "o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -79.765723",
+                    "34.198331"
                 ]
             }
         },
