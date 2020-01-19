@@ -946,10 +946,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1581296400,
-                    "id": 1018341,
                     "end_date": 1581309000,
-                    "is_full": false
+                    "id": 1018341
                 }
             ]
         },
@@ -1116,10 +1116,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1581195600,
+                    "id": 1085655,
                     "end_date": 1581213600,
-                    "id": 1085655
+                    "is_full": false
                 }
             ]
         },
@@ -1728,10 +1728,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1580781600,
-                    "id": 1018334,
                     "end_date": 1580788800,
-                    "is_full": false
+                    "id": 1018334
                 }
             ]
         },
@@ -4168,10 +4168,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1580522400,
-                    "id": 1018044,
                     "end_date": 1580531400,
-                    "is_full": false
+                    "id": 1018044
                 }
             ]
         },
@@ -4270,10 +4270,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1580511600,
-                    "id": 1085586,
                     "end_date": 1580517000,
-                    "is_full": false
+                    "id": 1085586
                 }
             ]
         },
@@ -4722,40 +4722,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Dallas, TX - Yang Policy Workshop",
-                "Type": "TRAINING",
-                "Host": "Volunteer",
-                "Time": "Tue, Jan 28, 7:00PM-9:00PM CST",
-                "Venue": "Feng Cha Teahouse",
-                "Address": "2701 Custer Pkwy<br>Richardson, TX 75080",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/187632/\">Mobilize US</a>",
-                "Description": "Tuesday, January 28 at 7:00PM to 9:00PM<br><br>Some questions about Yang policies are hard to answer. That's okay! Come to the DFW Yang Gang Policy Workshop to learn how to answer hard questions in under 60 seconds. Dig into the policies on unions and workers' rights, and be able to better communicate to people when text banking, canvassing, or even when hanging your friends and family.",
-                "TimeStart": 1580259600,
-                "TimeEnd": 1580266800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.7278385,
-                    32.9917387
-                ]
-            },
-            "timezone": "America/Chicago",
-            "timeslots": [
-                {
-                    "start_date": 1580259600,
-                    "id": 1002353,
-                    "end_date": 1580266800,
-                    "is_full": false
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Arlington, VA - Yang Gang Hang",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -4783,6 +4749,40 @@
                     "start_date": 1580259600,
                     "id": 983533,
                     "end_date": 1580270400,
+                    "is_full": false
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Dallas, TX - Yang Policy Workshop",
+                "Type": "TRAINING",
+                "Host": "Volunteer",
+                "Time": "Tue, Jan 28, 7:00PM-9:00PM CST",
+                "Venue": "Feng Cha Teahouse",
+                "Address": "2701 Custer Pkwy<br>Richardson, TX 75080",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/187632/\">Mobilize US</a>",
+                "Description": "Tuesday, January 28 at 7:00PM to 9:00PM<br><br>Some questions about Yang policies are hard to answer. That's okay! Come to the DFW Yang Gang Policy Workshop to learn how to answer hard questions in under 60 seconds. Dig into the policies on unions and workers' rights, and be able to better communicate to people when text banking, canvassing, or even when hanging your friends and family.",
+                "TimeStart": 1580259600,
+                "TimeEnd": 1580266800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7278385,
+                    32.9917387
+                ]
+            },
+            "timezone": "America/Chicago",
+            "timeslots": [
+                {
+                    "start_date": 1580259600,
+                    "id": 1002353,
+                    "end_date": 1580266800,
                     "is_full": false
                 }
             ]
@@ -5096,40 +5096,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Peoria, AZ - Yang Gang Hang and LD21 meeting",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Mon, Jan 27, 6:30PM-8:00PM MST",
-                "Venue": "Centennial High School",
-                "Address": "14388 N 79th Ave<br>Peoria, AZ 85381",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/201641/\">Mobilize US</a>",
-                "Description": "Come join your local AZ Yang Gang organizers and show up in your #YangGang gear, have some great discussions, hand out some Yang cards and learn about your precinct! Peoria AZ - Legislative District 21 meeting.",
-                "TimeStart": 1580175000,
-                "TimeEnd": 1580180400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -112.2322333,
-                    33.6170908
-                ]
-            },
-            "timezone": "America/Phoenix",
-            "timeslots": [
-                {
-                    "start_date": 1580175000,
-                    "id": 1080693,
-                    "end_date": 1580180400,
-                    "is_full": false
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Sammamish, WA - Yang Gang Hang",
                 "Type": "TRAINING",
                 "Host": "Volunteer",
@@ -5157,6 +5123,40 @@
                     "start_date": 1580175000,
                     "id": 1079260,
                     "end_date": 1580176800,
+                    "is_full": false
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Peoria, AZ - Yang Gang Hang and LD21 meeting",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Mon, Jan 27, 6:30PM-8:00PM MST",
+                "Venue": "Centennial High School",
+                "Address": "14388 N 79th Ave<br>Peoria, AZ 85381",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/201641/\">Mobilize US</a>",
+                "Description": "Come join your local AZ Yang Gang organizers and show up in your #YangGang gear, have some great discussions, hand out some Yang cards and learn about your precinct! Peoria AZ - Legislative District 21 meeting.",
+                "TimeStart": 1580175000,
+                "TimeEnd": 1580180400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.2322333,
+                    33.6170908
+                ]
+            },
+            "timezone": "America/Phoenix",
+            "timeslots": [
+                {
+                    "start_date": 1580175000,
+                    "id": 1080693,
+                    "end_date": 1580180400,
                     "is_full": false
                 }
             ]
@@ -5720,10 +5720,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1580086800,
-                    "id": 1015556,
                     "end_date": 1580095800,
-                    "is_full": false
+                    "id": 1015556
                 }
             ]
         },
@@ -7210,6 +7210,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Queens, (Whitestone), NY  Door Knocking for Signatures CD-3",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 3:00PM-5:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Queens, NY 11357",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/205487/\">Mobilize US</a>",
+                "Description": "Door knock this neighborhood to both build awareness for Yang and to collect signatures.  This area is considered district 3.<br><br>Parking is relatively easy.",
+                "TimeStart": 1579982400,
+                "TimeEnd": 1579989600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.810037,
+                    40.785129
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "start_date": 1579982400,
+                    "id": 1094845,
+                    "end_date": 1579989600,
+                    "is_full": false
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Pizza and Phonebank Saturdays in SF",
                 "Type": "PHONE_BANK",
                 "Host": "Volunteer",
@@ -7448,6 +7482,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Knoxville, TN - Canvassing!",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 1:00PM-3:00PM EST",
+                "Venue": "Sequoyah Library",
+                "Address": "1140 Southgate Rd SW<br>Knoxville, TN 37919",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/195078/\">Mobilize US</a>",
+                "Description": "We will meet at 1 pm at Sequoyah Hills public library. All you need is your cell phone, a little excitement (coffee, gum, whatever motivates you!) and warm winter clothing. Hat and gloves are recommended. Wear as much Yang gear as possible. Check the weather before you leave!  If you have cards or literature please bring those as well!",
+                "TimeStart": 1579975200,
+                "TimeEnd": 1579982400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9673262,
+                    35.9328723
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "start_date": 1579975200,
+                    "id": 1041314,
+                    "end_date": 1579982400,
+                    "is_full": false
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "San Francisco, CA - Tabeling at the Ferry Building",
                 "Type": "CANVASS",
                 "Host": "Volunteer",
@@ -7630,40 +7698,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Knoxville, TN - Canvassing!",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 1:00PM-3:00PM EST",
-                "Venue": "Sequoyah Library",
-                "Address": "1140 Southgate Rd SW<br>Knoxville, TN 37919",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/195078/\">Mobilize US</a>",
-                "Description": "We will meet at 1 pm at Sequoyah Hills public library. All you need is your cell phone, a little excitement (coffee, gum, whatever motivates you!) and warm winter clothing. Hat and gloves are recommended. Wear as much Yang gear as possible. Check the weather before you leave!  If you have cards or literature please bring those as well!",
-                "TimeStart": 1579975200,
-                "TimeEnd": 1579982400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.9673262,
-                    35.9328723
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "start_date": 1579975200,
-                    "id": 1041314,
-                    "end_date": 1579982400,
-                    "is_full": false
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Aspen, CO Crowd Yanging at Winter X-Games",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -7722,21 +7756,55 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579975200,
-                    "id": 1069422,
                     "end_date": 1579986000,
-                    "is_full": false
+                    "id": 1069422
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579986000,
-                    "id": 1069423,
                     "end_date": 1579996800,
-                    "is_full": false
+                    "id": 1069423
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580068800,
-                    "id": 1069424,
                     "end_date": 1580083200,
+                    "id": 1069424
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Morristown, TN - Canvassing",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 12:30PM-4:30PM EST",
+                "Venue": "Kohl's Morristown",
+                "Address": "2550 E Morris Blvd<br>Morristown, TN 37813",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/199965/\">Mobilize US</a>",
+                "Description": "Face-to-face conversations continue to be one of the most meaningful ways to communicate with potential voters, and door-to-door canvassing is a highly effective way to initiate these interactions.  So lets hit the streets and make sure everyone in Morristown knows about Andrew Yang!<br><br>Notes:<br>-Make sure you have the miniVAN app installed on your phone (here\u2019s a guide with more explanation: http://bit.ly/y2020canvass) and bring your phone fully charged.<br><br>-Dress for the weather, wear comfortable walking shoes and your Yang gear.<br><br>-Meet at the back of the parking lot outside of Kohl's at the College Square Mall.",
+                "TimeStart": 1579973400,
+                "TimeEnd": 1579987800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.2608036,
+                    36.2203151
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "start_date": 1579973400,
+                    "id": 1070139,
+                    "end_date": 1579987800,
                     "is_full": false
                 }
             ]
@@ -7771,40 +7839,6 @@
                     "start_date": 1579973400,
                     "id": 1072487,
                     "end_date": 1579977000,
-                    "is_full": false
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Morristown, TN - Canvassing",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 12:30PM-4:30PM EST",
-                "Venue": "Kohl's Morristown",
-                "Address": "2550 E Morris Blvd<br>Morristown, TN 37813",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/199965/\">Mobilize US</a>",
-                "Description": "Face-to-face conversations continue to be one of the most meaningful ways to communicate with potential voters, and door-to-door canvassing is a highly effective way to initiate these interactions.  So lets hit the streets and make sure everyone in Morristown knows about Andrew Yang!<br><br>Notes:<br>-Make sure you have the miniVAN app installed on your phone (here\u2019s a guide with more explanation: http://bit.ly/y2020canvass) and bring your phone fully charged.<br><br>-Dress for the weather, wear comfortable walking shoes and your Yang gear.<br><br>-Meet at the back of the parking lot outside of Kohl's at the College Square Mall.",
-                "TimeStart": 1579973400,
-                "TimeEnd": 1579987800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.2608036,
-                    36.2203151
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "start_date": 1579973400,
-                    "id": 1070139,
-                    "end_date": 1579987800,
                     "is_full": false
                 }
             ]
@@ -11604,82 +11638,82 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579964400,
+                    "id": 1094087,
                     "end_date": 1579971600,
-                    "id": 1094087
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579971600,
+                    "id": 1094093,
                     "end_date": 1579978800,
-                    "id": 1094093
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579978800,
+                    "id": 1094096,
                     "end_date": 1579986000,
-                    "id": 1094096
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580054400,
+                    "id": 1094090,
                     "end_date": 1580061600,
-                    "id": 1094090
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580067000,
+                    "id": 1094098,
                     "end_date": 1580072400,
-                    "id": 1094098
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580569200,
+                    "id": 1094088,
                     "end_date": 1580576400,
-                    "id": 1094088
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580576400,
+                    "id": 1094094,
                     "end_date": 1580583600,
-                    "id": 1094094
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580583600,
+                    "id": 1094097,
                     "end_date": 1580590800,
-                    "id": 1094097
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580659200,
+                    "id": 1094091,
                     "end_date": 1580666400,
-                    "id": 1094091
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580671800,
+                    "id": 1094099,
                     "end_date": 1580677200,
-                    "id": 1094099
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581174000,
+                    "id": 1094089,
                     "end_date": 1581181200,
-                    "id": 1094089
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581181200,
+                    "id": 1094095,
                     "end_date": 1581188400,
-                    "id": 1094095
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581264000,
+                    "id": 1094092,
                     "end_date": 1581271200,
-                    "id": 1094092
+                    "is_full": false
                 }
             ]
         },
@@ -11812,40 +11846,40 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579960800,
+                    "id": 1007705,
                     "end_date": 1579971600,
-                    "id": 1007705
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579982400,
+                    "id": 1007711,
                     "end_date": 1579993200,
-                    "id": 1007711
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580565600,
+                    "id": 1007706,
                     "end_date": 1580576400,
-                    "id": 1007706
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580587200,
+                    "id": 1007712,
                     "end_date": 1580598000,
-                    "id": 1007712
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581170400,
+                    "id": 1007707,
                     "end_date": 1581181200,
-                    "id": 1007707
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581192000,
+                    "id": 1007713,
                     "end_date": 1581202800,
-                    "id": 1007713
+                    "is_full": false
                 }
             ]
         },
@@ -12102,10 +12136,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579960800,
+                    "id": 1073058,
                     "end_date": 1579968000,
-                    "id": 1073058
+                    "is_full": false
                 }
             ]
         },
@@ -12216,10 +12250,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579960800,
+                    "id": 1073078,
                     "end_date": 1579968000,
-                    "id": 1073078
+                    "is_full": false
                 }
             ]
         },
@@ -12250,58 +12284,58 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579960800,
+                    "id": 1007926,
                     "end_date": 1579971600,
-                    "id": 1007926
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579971600,
+                    "id": 1007930,
                     "end_date": 1579982400,
-                    "id": 1007930
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579982400,
+                    "id": 1007934,
                     "end_date": 1579993200,
-                    "id": 1007934
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580565600,
+                    "id": 1007927,
                     "end_date": 1580576400,
-                    "id": 1007927
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580576400,
+                    "id": 1007931,
                     "end_date": 1580587200,
-                    "id": 1007931
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580587200,
+                    "id": 1007935,
                     "end_date": 1580598000,
-                    "id": 1007935
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581170400,
+                    "id": 1007928,
                     "end_date": 1581181200,
-                    "id": 1007928
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581181200,
+                    "id": 1007932,
                     "end_date": 1581192000,
-                    "id": 1007932
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581192000,
+                    "id": 1007936,
                     "end_date": 1581202800,
-                    "id": 1007936
+                    "is_full": false
                 }
             ]
         },
@@ -13086,22 +13120,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579906800,
+                    "id": 1084393,
                     "end_date": 1579912200,
-                    "id": 1084393
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580511600,
+                    "id": 1084394,
                     "end_date": 1580517000,
-                    "id": 1084394
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581116400,
+                    "id": 1084395,
                     "end_date": 1581121800,
-                    "id": 1084395
+                    "is_full": false
                 }
             ]
         },
@@ -13132,22 +13166,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579906800,
+                    "id": 1084404,
                     "end_date": 1579914000,
-                    "id": 1084404
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580511600,
+                    "id": 1084405,
                     "end_date": 1580518800,
-                    "id": 1084405
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581116400,
+                    "id": 1084406,
                     "end_date": 1581123600,
-                    "id": 1084406
+                    "is_full": false
                 }
             ]
         },
@@ -13178,22 +13212,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579906800,
+                    "id": 1084408,
                     "end_date": 1579914000,
-                    "id": 1084408
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580511600,
+                    "id": 1084409,
                     "end_date": 1580518800,
-                    "id": 1084409
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581116400,
+                    "id": 1084410,
                     "end_date": 1581123600,
-                    "id": 1084410
+                    "is_full": false
                 }
             ]
         },
@@ -13298,7 +13332,7 @@
                 "Time": "Fri, Jan 24, 5:30PM-7:30PM EST",
                 "Venue": "Andrew Yang Suncook Office",
                 "Address": "50 Pinewood Rd<br>Suite 4A<br>Suncook, NH 03275",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/183222/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/183222/\">Mobilize US</a>",
                 "Description": "Join the Yang Campaign to learn how you can help Andrew Yang win in New Hampshire!",
                 "TimeStart": 1579905000,
                 "TimeEnd": 1579912200,
@@ -13344,7 +13378,7 @@
                 "Time": "Fri, Jan 24, 5:30PM-7:30PM EST",
                 "Venue": "Andrew Yang Suncook Office",
                 "Address": "50 Pinewood Rd<br>Suite 4A<br>Suncook, NH 03275",
-                "Sign Up": "<a href=\"https://www.mobilize.us/nhforyang/event/183222/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/183222/\">Mobilize US</a>",
                 "Description": "Join the Yang Campaign to learn how you can help Andrew Yang win in New Hampshire!",
                 "TimeStart": 1579905000,
                 "TimeEnd": 1579912200,
@@ -13362,22 +13396,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579905000,
+                    "id": 983462,
                     "end_date": 1579912200,
-                    "id": 983462
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580509800,
+                    "id": 983463,
                     "end_date": 1580517000,
-                    "id": 983463
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581114600,
+                    "id": 983464,
                     "end_date": 1581121800,
-                    "id": 983464
+                    "is_full": false
                 }
             ]
         },
@@ -14832,6 +14866,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Charleston,SC - Yang Gang Group Canvassing",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Thu, Jan 23, 12:30PM-3:00PM EST",
+                "Venue": "Broom Wagon Coffee",
+                "Address": "1630 Ashley Hall Rd<br>Charleston, SC 29407",
+                "Sign Up": "<a href=\"https://www.mobilize.us/southcarolinaforyang/event/201057/\">Mobilize US</a>",
+                "Description": "With less than 45 days till primaries, we have to get on the ground and go door to door to let folks know about the great policies of Andrew Yang.  Come grab a bite to eat and let's go canvassing in the neighborhoods of West Ashley and spread the word of Yang!<br><br>Wear your yang gear, if you can!",
+                "TimeStart": 1579800600,
+                "TimeEnd": 1579809600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0091375,
+                    32.8089823
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "start_date": 1579800600,
+                    "end_date": 1579809600,
+                    "id": 1077582
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Charleston, SC - Yang Gang Group Canvassing",
                 "Type": "CANVASS",
                 "Host": "Volunteer",
@@ -14900,40 +14968,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Charleston,SC - Yang Gang Group Canvassing",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Thu, Jan 23, 12:30PM-3:00PM EST",
-                "Venue": "Broom Wagon Coffee",
-                "Address": "1630 Ashley Hall Rd<br>Charleston, SC 29407",
-                "Sign Up": "<a href=\"https://www.mobilize.us/southcarolinaforyang/event/201057/\">Mobilize US</a>",
-                "Description": "With less than 45 days till primaries, we have to get on the ground and go door to door to let folks know about the great policies of Andrew Yang.  Come grab a bite to eat and let's go canvassing in the neighborhoods of West Ashley and spread the word of Yang!<br><br>Wear your yang gear, if you can!",
-                "TimeStart": 1579800600,
-                "TimeEnd": 1579809600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.0091375,
-                    32.8089823
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "start_date": 1579800600,
-                    "end_date": 1579809600,
-                    "id": 1077582
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Dubuque Town Hall with Andrew Yang",
                 "Type": "TOWN_HALL",
                 "Host": "Campaign",
@@ -14992,10 +15026,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579795200,
-                    "id": 1000969,
                     "end_date": 1579802400,
-                    "is_full": false
+                    "id": 1000969
                 }
             ]
         },
@@ -15026,10 +15060,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579795200,
-                    "id": 1082495,
                     "end_date": 1579802400,
-                    "is_full": false
+                    "id": 1082495
                 }
             ]
         },
@@ -15060,10 +15094,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579782600,
-                    "id": 1059097,
                     "end_date": 1579788000,
-                    "is_full": false
+                    "id": 1059097
                 }
             ]
         },
@@ -15094,10 +15128,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579748400,
-                    "id": 1092918,
                     "end_date": 1579752000,
-                    "is_full": false
+                    "id": 1092918
                 }
             ]
         },
@@ -15128,10 +15162,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579746600,
-                    "id": 1088407,
                     "end_date": 1579752000,
-                    "is_full": false
+                    "id": 1088407
                 }
             ]
         },
@@ -15162,256 +15196,256 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579746600,
-                    "id": 872442,
                     "end_date": 1579748400,
-                    "is_full": false
+                    "id": 872442
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580351400,
-                    "id": 872443,
                     "end_date": 1580353200,
-                    "is_full": false
+                    "id": 872443
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580956200,
-                    "id": 872444,
                     "end_date": 1580958000,
-                    "is_full": false
+                    "id": 872444
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581561000,
-                    "id": 872445,
                     "end_date": 1581562800,
-                    "is_full": false
+                    "id": 872445
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582165800,
-                    "id": 872446,
                     "end_date": 1582167600,
-                    "is_full": false
+                    "id": 872446
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582770600,
-                    "id": 872447,
                     "end_date": 1582772400,
-                    "is_full": false
+                    "id": 872447
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583375400,
-                    "id": 872448,
                     "end_date": 1583377200,
-                    "is_full": false
+                    "id": 872448
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583976600,
-                    "id": 872449,
                     "end_date": 1583978400,
-                    "is_full": false
+                    "id": 872449
                 },
                 {
+                    "is_full": false,
                     "start_date": 1584581400,
-                    "id": 872450,
                     "end_date": 1584583200,
-                    "is_full": false
+                    "id": 872450
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585186200,
-                    "id": 872451,
                     "end_date": 1585188000,
-                    "is_full": false
+                    "id": 872451
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585791000,
-                    "id": 872452,
                     "end_date": 1585792800,
-                    "is_full": false
+                    "id": 872452
                 },
                 {
+                    "is_full": false,
                     "start_date": 1586395800,
-                    "id": 872453,
                     "end_date": 1586397600,
-                    "is_full": false
+                    "id": 872453
                 },
                 {
+                    "is_full": false,
                     "start_date": 1587000600,
-                    "id": 872454,
                     "end_date": 1587002400,
-                    "is_full": false
+                    "id": 872454
                 },
                 {
+                    "is_full": false,
                     "start_date": 1587605400,
-                    "id": 872455,
                     "end_date": 1587607200,
-                    "is_full": false
+                    "id": 872455
                 },
                 {
+                    "is_full": false,
                     "start_date": 1588210200,
-                    "id": 872456,
                     "end_date": 1588212000,
-                    "is_full": false
+                    "id": 872456
                 },
                 {
+                    "is_full": false,
                     "start_date": 1588815000,
-                    "id": 872457,
                     "end_date": 1588816800,
-                    "is_full": false
+                    "id": 872457
                 },
                 {
+                    "is_full": false,
                     "start_date": 1589419800,
-                    "id": 872458,
                     "end_date": 1589421600,
-                    "is_full": false
+                    "id": 872458
                 },
                 {
+                    "is_full": false,
                     "start_date": 1590024600,
-                    "id": 872459,
                     "end_date": 1590026400,
-                    "is_full": false
+                    "id": 872459
                 },
                 {
+                    "is_full": false,
                     "start_date": 1590629400,
-                    "id": 872460,
                     "end_date": 1590631200,
-                    "is_full": false
+                    "id": 872460
                 },
                 {
+                    "is_full": false,
                     "start_date": 1591234200,
-                    "id": 872461,
                     "end_date": 1591236000,
-                    "is_full": false
+                    "id": 872461
                 },
                 {
+                    "is_full": false,
                     "start_date": 1591839000,
-                    "id": 872462,
                     "end_date": 1591840800,
-                    "is_full": false
+                    "id": 872462
                 },
                 {
+                    "is_full": false,
                     "start_date": 1592443800,
-                    "id": 872463,
                     "end_date": 1592445600,
-                    "is_full": false
+                    "id": 872463
                 },
                 {
+                    "is_full": false,
                     "start_date": 1593048600,
-                    "id": 872464,
                     "end_date": 1593050400,
-                    "is_full": false
+                    "id": 872464
                 },
                 {
+                    "is_full": false,
                     "start_date": 1593653400,
-                    "id": 872465,
                     "end_date": 1593655200,
-                    "is_full": false
+                    "id": 872465
                 },
                 {
+                    "is_full": false,
                     "start_date": 1594258200,
-                    "id": 872466,
                     "end_date": 1594260000,
-                    "is_full": false
+                    "id": 872466
                 },
                 {
+                    "is_full": false,
                     "start_date": 1594863000,
-                    "id": 872467,
                     "end_date": 1594864800,
-                    "is_full": false
+                    "id": 872467
                 },
                 {
+                    "is_full": false,
                     "start_date": 1595467800,
-                    "id": 872468,
                     "end_date": 1595469600,
-                    "is_full": false
+                    "id": 872468
                 },
                 {
+                    "is_full": false,
                     "start_date": 1596072600,
-                    "id": 872469,
                     "end_date": 1596074400,
-                    "is_full": false
+                    "id": 872469
                 },
                 {
+                    "is_full": false,
                     "start_date": 1596677400,
-                    "id": 872470,
                     "end_date": 1596679200,
-                    "is_full": false
+                    "id": 872470
                 },
                 {
+                    "is_full": false,
                     "start_date": 1597282200,
-                    "id": 872471,
                     "end_date": 1597284000,
-                    "is_full": false
+                    "id": 872471
                 },
                 {
+                    "is_full": false,
                     "start_date": 1597887000,
-                    "id": 872472,
                     "end_date": 1597888800,
-                    "is_full": false
+                    "id": 872472
                 },
                 {
+                    "is_full": false,
                     "start_date": 1598491800,
-                    "id": 872473,
                     "end_date": 1598493600,
-                    "is_full": false
+                    "id": 872473
                 },
                 {
+                    "is_full": false,
                     "start_date": 1599096600,
-                    "id": 872474,
                     "end_date": 1599098400,
-                    "is_full": false
+                    "id": 872474
                 },
                 {
+                    "is_full": false,
                     "start_date": 1599701400,
-                    "id": 872475,
                     "end_date": 1599703200,
-                    "is_full": false
+                    "id": 872475
                 },
                 {
+                    "is_full": false,
                     "start_date": 1600306200,
-                    "id": 872476,
                     "end_date": 1600308000,
-                    "is_full": false
+                    "id": 872476
                 },
                 {
+                    "is_full": false,
                     "start_date": 1600911000,
-                    "id": 872477,
                     "end_date": 1600912800,
-                    "is_full": false
+                    "id": 872477
                 },
                 {
+                    "is_full": false,
                     "start_date": 1601515800,
-                    "id": 872478,
                     "end_date": 1601517600,
-                    "is_full": false
+                    "id": 872478
                 },
                 {
+                    "is_full": false,
                     "start_date": 1602120600,
-                    "id": 872479,
                     "end_date": 1602122400,
-                    "is_full": false
+                    "id": 872479
                 },
                 {
+                    "is_full": false,
                     "start_date": 1602725400,
-                    "id": 872480,
                     "end_date": 1602727200,
-                    "is_full": false
+                    "id": 872480
                 },
                 {
+                    "is_full": false,
                     "start_date": 1603330200,
-                    "id": 872481,
                     "end_date": 1603332000,
-                    "is_full": false
+                    "id": 872481
                 },
                 {
+                    "is_full": false,
                     "start_date": 1603935000,
-                    "id": 872482,
                     "end_date": 1603936800,
-                    "is_full": false
+                    "id": 872482
                 },
                 {
+                    "is_full": false,
                     "start_date": 1604543400,
-                    "id": 872483,
                     "end_date": 1604545200,
-                    "is_full": false
+                    "id": 872483
                 }
             ]
         },
@@ -15442,10 +15476,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579743000,
-                    "id": 1068415,
                     "end_date": 1579746600,
-                    "is_full": false
+                    "id": 1068415
                 }
             ]
         },
@@ -15476,10 +15510,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579743000,
-                    "id": 1083659,
                     "end_date": 1579748400,
-                    "is_full": false
+                    "id": 1083659
                 }
             ]
         },
@@ -15510,10 +15544,10 @@
             "timezone": "America/Phoenix",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579741200,
-                    "id": 904264,
                     "end_date": 1579748400,
-                    "is_full": false
+                    "id": 904264
                 }
             ]
         },
@@ -15544,10 +15578,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579739400,
-                    "id": 1002040,
                     "end_date": 1579746600,
-                    "is_full": false
+                    "id": 1002040
                 }
             ]
         },
@@ -15579,10 +15613,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579739400,
-                    "id": 1084608,
                     "end_date": 1579743000,
-                    "is_full": false
+                    "id": 1084608
                 }
             ]
         },
@@ -15613,64 +15647,64 @@
             "timezone": "America/Denver",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579739400,
-                    "id": 938053,
                     "end_date": 1579744800,
-                    "is_full": false
+                    "id": 938053
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580344200,
-                    "id": 938054,
                     "end_date": 1580349600,
-                    "is_full": false
+                    "id": 938054
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580949000,
-                    "id": 1043461,
                     "end_date": 1580954400,
-                    "is_full": false
+                    "id": 1043461
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581553800,
-                    "id": 1043462,
                     "end_date": 1581559200,
-                    "is_full": false
+                    "id": 1043462
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582158600,
-                    "id": 1043463,
                     "end_date": 1582164000,
-                    "is_full": false
+                    "id": 1043463
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582763400,
-                    "id": 1043464,
                     "end_date": 1582768800,
-                    "is_full": false
+                    "id": 1043464
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583368200,
-                    "id": 1043465,
                     "end_date": 1583373600,
-                    "is_full": false
+                    "id": 1043465
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583969400,
-                    "id": 1043466,
                     "end_date": 1583974800,
-                    "is_full": false
+                    "id": 1043466
                 },
                 {
+                    "is_full": false,
                     "start_date": 1584574200,
-                    "id": 1043467,
                     "end_date": 1584579600,
-                    "is_full": false
+                    "id": 1043467
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585179000,
-                    "id": 1043468,
                     "end_date": 1585184400,
-                    "is_full": false
+                    "id": 1043468
                 }
             ]
         },
@@ -15701,10 +15735,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579737600,
-                    "id": 1093461,
                     "end_date": 1579748400,
-                    "is_full": false
+                    "id": 1093461
                 }
             ]
         },
@@ -15735,10 +15769,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579737600,
-                    "id": 1094233,
                     "end_date": 1579741200,
-                    "is_full": false
+                    "id": 1094233
                 }
             ]
         },
@@ -15769,28 +15803,28 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579737600,
-                    "id": 990642,
                     "end_date": 1579748400,
-                    "is_full": false
+                    "id": 990642
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580342400,
-                    "id": 990643,
                     "end_date": 1580353200,
-                    "is_full": false
+                    "id": 990643
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580947200,
-                    "id": 990644,
                     "end_date": 1580958000,
-                    "is_full": false
+                    "id": 990644
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581552000,
-                    "id": 990645,
                     "end_date": 1581562800,
-                    "is_full": false
+                    "id": 990645
                 }
             ]
         },
@@ -15821,10 +15855,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579735800,
-                    "id": 1093084,
                     "end_date": 1579741200,
-                    "is_full": false
+                    "id": 1093084
                 }
             ]
         },
@@ -15855,10 +15889,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579735800,
-                    "id": 1067253,
                     "end_date": 1579743000,
-                    "is_full": false
+                    "id": 1067253
                 }
             ]
         },
@@ -15889,10 +15923,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579734000,
-                    "id": 1091260,
                     "end_date": 1579739400,
-                    "is_full": false
+                    "id": 1091260
                 }
             ]
         },
@@ -15923,10 +15957,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579734000,
-                    "id": 987911,
                     "end_date": 1579746600,
-                    "is_full": false
+                    "id": 987911
                 }
             ]
         },
@@ -15957,10 +15991,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579730400,
-                    "id": 1073385,
                     "end_date": 1579734000,
-                    "is_full": false
+                    "id": 1073385
                 }
             ]
         },
@@ -15991,10 +16025,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579728600,
-                    "id": 1084572,
                     "end_date": 1579732200,
-                    "is_full": false
+                    "id": 1084572
                 }
             ]
         },
@@ -16025,10 +16059,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579726800,
-                    "id": 1087455,
                     "end_date": 1579735800,
-                    "is_full": false
+                    "id": 1087455
                 }
             ]
         },
@@ -16059,10 +16093,10 @@
             "timezone": "America/Denver",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579723200,
-                    "id": 1041848,
                     "end_date": 1579730400,
-                    "is_full": false
+                    "id": 1041848
                 }
             ]
         },
@@ -16093,10 +16127,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579723200,
-                    "id": 1084554,
                     "end_date": 1579726800,
-                    "is_full": false
+                    "id": 1084554
                 }
             ]
         },
@@ -16127,10 +16161,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579721400,
-                    "id": 1050122,
                     "end_date": 1579734000,
-                    "is_full": false
+                    "id": 1050122
                 }
             ]
         },
@@ -16161,16 +16195,16 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579720500,
-                    "id": 1037592,
                     "end_date": 1579725000,
-                    "is_full": false
+                    "id": 1037592
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581534900,
-                    "id": 1037593,
                     "end_date": 1581539400,
-                    "is_full": false
+                    "id": 1037593
                 }
             ]
         },
@@ -16201,10 +16235,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579719600,
-                    "id": 1086810,
                     "end_date": 1579726800,
-                    "is_full": false
+                    "id": 1086810
                 }
             ]
         },
@@ -16235,10 +16269,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579719600,
-                    "id": 1094572,
                     "end_date": 1579737600,
-                    "is_full": false
+                    "id": 1094572
                 }
             ]
         },
@@ -16269,10 +16303,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579716000,
-                    "id": 1059534,
                     "end_date": 1579721400,
-                    "is_full": false
+                    "id": 1059534
                 }
             ]
         },
@@ -16303,10 +16337,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579714200,
-                    "id": 1066060,
                     "end_date": 1579717800,
-                    "is_full": false
+                    "id": 1066060
                 }
             ]
         },
@@ -16337,10 +16371,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579708800,
-                    "id": 1077628,
                     "end_date": 1579719600,
-                    "is_full": false
+                    "id": 1077628
                 }
             ]
         },
@@ -16371,10 +16405,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579708800,
-                    "id": 1077630,
                     "end_date": 1579719600,
-                    "is_full": false
+                    "id": 1077630
                 }
             ]
         },
@@ -16440,10 +16474,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579707000,
-                    "id": 1084465,
                     "end_date": 1579710600,
-                    "is_full": false
+                    "id": 1084465
                 }
             ]
         },
@@ -16474,10 +16508,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579701600,
-                    "id": 1082462,
                     "end_date": 1579708800,
-                    "is_full": false
+                    "id": 1082462
                 }
             ]
         },
@@ -16508,46 +16542,46 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579660200,
-                    "id": 897837,
                     "end_date": 1579663800,
-                    "is_full": false
+                    "id": 897837
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580265000,
-                    "id": 897838,
                     "end_date": 1580268600,
-                    "is_full": false
+                    "id": 897838
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580869800,
-                    "id": 897839,
                     "end_date": 1580873400,
-                    "is_full": false
+                    "id": 897839
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581474600,
-                    "id": 897840,
                     "end_date": 1581478200,
-                    "is_full": false
+                    "id": 897840
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582079400,
-                    "id": 897841,
                     "end_date": 1582083000,
-                    "is_full": false
+                    "id": 897841
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582684200,
-                    "id": 897842,
                     "end_date": 1582687800,
-                    "is_full": false
+                    "id": 897842
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583289000,
-                    "id": 897843,
                     "end_date": 1583292600,
-                    "is_full": false
+                    "id": 897843
                 }
             ]
         },
@@ -16578,250 +16612,250 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579660200,
-                    "id": 862555,
                     "end_date": 1579663800,
-                    "is_full": false
+                    "id": 862555
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580265000,
-                    "id": 862556,
                     "end_date": 1580268600,
-                    "is_full": false
+                    "id": 862556
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580869800,
-                    "id": 862557,
                     "end_date": 1580873400,
-                    "is_full": false
+                    "id": 862557
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581474600,
-                    "id": 862558,
                     "end_date": 1581478200,
-                    "is_full": false
+                    "id": 862558
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582079400,
-                    "id": 862559,
                     "end_date": 1582083000,
-                    "is_full": false
+                    "id": 862559
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582684200,
-                    "id": 862560,
                     "end_date": 1582687800,
-                    "is_full": false
+                    "id": 862560
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583289000,
-                    "id": 862561,
                     "end_date": 1583292600,
-                    "is_full": false
+                    "id": 862561
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583890200,
-                    "id": 862562,
                     "end_date": 1583893800,
-                    "is_full": false
+                    "id": 862562
                 },
                 {
+                    "is_full": false,
                     "start_date": 1584495000,
-                    "id": 862563,
                     "end_date": 1584498600,
-                    "is_full": false
+                    "id": 862563
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585099800,
-                    "id": 862564,
                     "end_date": 1585103400,
-                    "is_full": false
+                    "id": 862564
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585704600,
-                    "id": 862565,
                     "end_date": 1585708200,
-                    "is_full": false
+                    "id": 862565
                 },
                 {
+                    "is_full": false,
                     "start_date": 1586309400,
-                    "id": 862566,
                     "end_date": 1586313000,
-                    "is_full": false
+                    "id": 862566
                 },
                 {
+                    "is_full": false,
                     "start_date": 1586914200,
-                    "id": 862567,
                     "end_date": 1586917800,
-                    "is_full": false
+                    "id": 862567
                 },
                 {
+                    "is_full": false,
                     "start_date": 1587519000,
-                    "id": 862568,
                     "end_date": 1587522600,
-                    "is_full": false
+                    "id": 862568
                 },
                 {
+                    "is_full": false,
                     "start_date": 1588123800,
-                    "id": 862569,
                     "end_date": 1588127400,
-                    "is_full": false
+                    "id": 862569
                 },
                 {
+                    "is_full": false,
                     "start_date": 1588728600,
-                    "id": 862570,
                     "end_date": 1588732200,
-                    "is_full": false
+                    "id": 862570
                 },
                 {
+                    "is_full": false,
                     "start_date": 1589333400,
-                    "id": 862571,
                     "end_date": 1589337000,
-                    "is_full": false
+                    "id": 862571
                 },
                 {
+                    "is_full": false,
                     "start_date": 1589938200,
-                    "id": 862572,
                     "end_date": 1589941800,
-                    "is_full": false
+                    "id": 862572
                 },
                 {
+                    "is_full": false,
                     "start_date": 1590543000,
-                    "id": 862573,
                     "end_date": 1590546600,
-                    "is_full": false
+                    "id": 862573
                 },
                 {
+                    "is_full": false,
                     "start_date": 1591147800,
-                    "id": 862574,
                     "end_date": 1591151400,
-                    "is_full": false
+                    "id": 862574
                 },
                 {
+                    "is_full": false,
                     "start_date": 1591752600,
-                    "id": 862575,
                     "end_date": 1591756200,
-                    "is_full": false
+                    "id": 862575
                 },
                 {
+                    "is_full": false,
                     "start_date": 1592357400,
-                    "id": 862576,
                     "end_date": 1592361000,
-                    "is_full": false
+                    "id": 862576
                 },
                 {
+                    "is_full": false,
                     "start_date": 1592962200,
-                    "id": 862577,
                     "end_date": 1592965800,
-                    "is_full": false
+                    "id": 862577
                 },
                 {
+                    "is_full": false,
                     "start_date": 1593567000,
-                    "id": 862578,
                     "end_date": 1593570600,
-                    "is_full": false
+                    "id": 862578
                 },
                 {
+                    "is_full": false,
                     "start_date": 1594171800,
-                    "id": 862579,
                     "end_date": 1594175400,
-                    "is_full": false
+                    "id": 862579
                 },
                 {
+                    "is_full": false,
                     "start_date": 1594776600,
-                    "id": 862580,
                     "end_date": 1594780200,
-                    "is_full": false
+                    "id": 862580
                 },
                 {
+                    "is_full": false,
                     "start_date": 1595381400,
-                    "id": 862581,
                     "end_date": 1595385000,
-                    "is_full": false
+                    "id": 862581
                 },
                 {
+                    "is_full": false,
                     "start_date": 1595986200,
-                    "id": 862582,
                     "end_date": 1595989800,
-                    "is_full": false
+                    "id": 862582
                 },
                 {
+                    "is_full": false,
                     "start_date": 1596591000,
-                    "id": 862583,
                     "end_date": 1596594600,
-                    "is_full": false
+                    "id": 862583
                 },
                 {
+                    "is_full": false,
                     "start_date": 1597195800,
-                    "id": 862584,
                     "end_date": 1597199400,
-                    "is_full": false
+                    "id": 862584
                 },
                 {
+                    "is_full": false,
                     "start_date": 1597800600,
-                    "id": 862585,
                     "end_date": 1597804200,
-                    "is_full": false
+                    "id": 862585
                 },
                 {
+                    "is_full": false,
                     "start_date": 1598405400,
-                    "id": 862586,
                     "end_date": 1598409000,
-                    "is_full": false
+                    "id": 862586
                 },
                 {
+                    "is_full": false,
                     "start_date": 1599010200,
-                    "id": 862587,
                     "end_date": 1599013800,
-                    "is_full": false
+                    "id": 862587
                 },
                 {
+                    "is_full": false,
                     "start_date": 1599615000,
-                    "id": 862588,
                     "end_date": 1599618600,
-                    "is_full": false
+                    "id": 862588
                 },
                 {
+                    "is_full": false,
                     "start_date": 1600219800,
-                    "id": 862589,
                     "end_date": 1600223400,
-                    "is_full": false
+                    "id": 862589
                 },
                 {
+                    "is_full": false,
                     "start_date": 1600824600,
-                    "id": 862590,
                     "end_date": 1600828200,
-                    "is_full": false
+                    "id": 862590
                 },
                 {
+                    "is_full": false,
                     "start_date": 1601429400,
-                    "id": 862591,
                     "end_date": 1601433000,
-                    "is_full": false
+                    "id": 862591
                 },
                 {
+                    "is_full": false,
                     "start_date": 1602034200,
-                    "id": 862592,
                     "end_date": 1602037800,
-                    "is_full": false
+                    "id": 862592
                 },
                 {
+                    "is_full": false,
                     "start_date": 1602639000,
-                    "id": 862593,
                     "end_date": 1602642600,
-                    "is_full": false
+                    "id": 862593
                 },
                 {
+                    "is_full": false,
                     "start_date": 1603243800,
-                    "id": 862594,
                     "end_date": 1603247400,
-                    "is_full": false
+                    "id": 862594
                 },
                 {
+                    "is_full": false,
                     "start_date": 1603848600,
-                    "id": 862595,
                     "end_date": 1603852200,
-                    "is_full": false
+                    "id": 862595
                 }
             ]
         },
@@ -16852,10 +16886,10 @@
             "timezone": "America/Phoenix",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579658400,
-                    "id": 1080459,
                     "end_date": 1579663800,
-                    "is_full": false
+                    "id": 1080459
                 }
             ]
         },
@@ -16886,10 +16920,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579657500,
-                    "id": 990657,
                     "end_date": 1579660200,
-                    "is_full": false
+                    "id": 990657
                 }
             ]
         },
@@ -16920,40 +16954,40 @@
             "timezone": "America/Denver",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579656600,
-                    "id": 1085366,
                     "end_date": 1579665600,
-                    "is_full": false
+                    "id": 1085366
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580261400,
-                    "id": 1085378,
                     "end_date": 1580270400,
-                    "is_full": false
+                    "id": 1085378
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580866200,
-                    "id": 1085379,
                     "end_date": 1580875200,
-                    "is_full": false
+                    "id": 1085379
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581471000,
-                    "id": 1085380,
                     "end_date": 1581480000,
-                    "is_full": false
+                    "id": 1085380
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582075800,
-                    "id": 1085381,
                     "end_date": 1582084800,
-                    "is_full": false
+                    "id": 1085381
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582680600,
-                    "id": 1085382,
                     "end_date": 1582689600,
-                    "is_full": false
+                    "id": 1085382
                 }
             ]
         },
@@ -16984,10 +17018,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579656600,
-                    "id": 1093460,
                     "end_date": 1579662000,
-                    "is_full": false
+                    "id": 1093460
                 }
             ]
         },
@@ -17019,10 +17053,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579656600,
-                    "id": 1084419,
                     "end_date": 1579660200,
-                    "is_full": false
+                    "id": 1084419
                 }
             ]
         },
@@ -17053,28 +17087,28 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579654800,
-                    "id": 839058,
                     "end_date": 1579658400,
-                    "is_full": false
+                    "id": 839058
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579827600,
-                    "id": 839070,
                     "end_date": 1579831200,
-                    "is_full": false
+                    "id": 839070
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580259600,
-                    "id": 839059,
                     "end_date": 1580263200,
-                    "is_full": false
+                    "id": 839059
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580432400,
-                    "id": 839071,
                     "end_date": 1580436000,
-                    "is_full": false
+                    "id": 839071
                 }
             ]
         },
@@ -17105,16 +17139,16 @@
             "timezone": "America/Denver",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579654800,
-                    "id": 943573,
                     "end_date": 1579662000,
-                    "is_full": false
+                    "id": 943573
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580259600,
-                    "id": 943574,
                     "end_date": 1580266800,
-                    "is_full": false
+                    "id": 943574
                 }
             ]
         },
@@ -17197,10 +17231,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579654800,
-                    "id": 1087485,
                     "end_date": 1579660200,
-                    "is_full": false
+                    "id": 1087485
                 }
             ]
         },
@@ -17231,10 +17265,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579654800,
-                    "id": 1083519,
                     "end_date": 1579662000,
-                    "is_full": false
+                    "id": 1083519
                 }
             ]
         },
@@ -17265,10 +17299,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579653000,
-                    "id": 1081779,
                     "end_date": 1579662000,
-                    "is_full": false
+                    "id": 1081779
                 }
             ]
         },
@@ -17299,10 +17333,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579651200,
-                    "id": 1067080,
                     "end_date": 1579658400,
-                    "is_full": false
+                    "id": 1067080
                 }
             ]
         },
@@ -17333,10 +17367,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579651200,
-                    "id": 1079839,
                     "end_date": 1579665600,
-                    "is_full": false
+                    "id": 1079839
                 }
             ]
         },
@@ -17367,10 +17401,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579651200,
-                    "id": 1093726,
                     "end_date": 1579655700,
-                    "is_full": false
+                    "id": 1093726
                 }
             ]
         },
@@ -17401,10 +17435,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579651200,
-                    "id": 1094228,
                     "end_date": 1579654800,
-                    "is_full": false
+                    "id": 1094228
                 }
             ]
         },
@@ -17435,10 +17469,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579651200,
-                    "id": 1094596,
                     "end_date": 1579654800,
-                    "is_full": false
+                    "id": 1094596
                 }
             ]
         },
@@ -17469,250 +17503,250 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579651200,
-                    "id": 881421,
                     "end_date": 1579658400,
-                    "is_full": false
+                    "id": 881421
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580256000,
-                    "id": 881422,
                     "end_date": 1580263200,
-                    "is_full": false
+                    "id": 881422
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580860800,
-                    "id": 881423,
                     "end_date": 1580868000,
-                    "is_full": false
+                    "id": 881423
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581465600,
-                    "id": 881424,
                     "end_date": 1581472800,
-                    "is_full": false
+                    "id": 881424
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582070400,
-                    "id": 881425,
                     "end_date": 1582077600,
-                    "is_full": false
+                    "id": 881425
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582675200,
-                    "id": 881426,
                     "end_date": 1582682400,
-                    "is_full": false
+                    "id": 881426
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583280000,
-                    "id": 881427,
                     "end_date": 1583287200,
-                    "is_full": false
+                    "id": 881427
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583881200,
-                    "id": 881428,
                     "end_date": 1583888400,
-                    "is_full": false
+                    "id": 881428
                 },
                 {
+                    "is_full": false,
                     "start_date": 1584486000,
-                    "id": 881429,
                     "end_date": 1584493200,
-                    "is_full": false
+                    "id": 881429
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585090800,
-                    "id": 881430,
                     "end_date": 1585098000,
-                    "is_full": false
+                    "id": 881430
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585695600,
-                    "id": 881431,
                     "end_date": 1585702800,
-                    "is_full": false
+                    "id": 881431
                 },
                 {
+                    "is_full": false,
                     "start_date": 1586300400,
-                    "id": 881432,
                     "end_date": 1586307600,
-                    "is_full": false
+                    "id": 881432
                 },
                 {
+                    "is_full": false,
                     "start_date": 1586905200,
-                    "id": 881433,
                     "end_date": 1586912400,
-                    "is_full": false
+                    "id": 881433
                 },
                 {
+                    "is_full": false,
                     "start_date": 1587510000,
-                    "id": 881434,
                     "end_date": 1587517200,
-                    "is_full": false
+                    "id": 881434
                 },
                 {
+                    "is_full": false,
                     "start_date": 1588114800,
-                    "id": 881435,
                     "end_date": 1588122000,
-                    "is_full": false
+                    "id": 881435
                 },
                 {
+                    "is_full": false,
                     "start_date": 1588719600,
-                    "id": 881436,
                     "end_date": 1588726800,
-                    "is_full": false
+                    "id": 881436
                 },
                 {
+                    "is_full": false,
                     "start_date": 1589324400,
-                    "id": 881437,
                     "end_date": 1589331600,
-                    "is_full": false
+                    "id": 881437
                 },
                 {
+                    "is_full": false,
                     "start_date": 1589929200,
-                    "id": 881438,
                     "end_date": 1589936400,
-                    "is_full": false
+                    "id": 881438
                 },
                 {
+                    "is_full": false,
                     "start_date": 1590534000,
-                    "id": 881439,
                     "end_date": 1590541200,
-                    "is_full": false
+                    "id": 881439
                 },
                 {
+                    "is_full": false,
                     "start_date": 1591138800,
-                    "id": 881440,
                     "end_date": 1591146000,
-                    "is_full": false
+                    "id": 881440
                 },
                 {
+                    "is_full": false,
                     "start_date": 1591743600,
-                    "id": 881441,
                     "end_date": 1591750800,
-                    "is_full": false
+                    "id": 881441
                 },
                 {
+                    "is_full": false,
                     "start_date": 1592348400,
-                    "id": 881442,
                     "end_date": 1592355600,
-                    "is_full": false
+                    "id": 881442
                 },
                 {
+                    "is_full": false,
                     "start_date": 1592953200,
-                    "id": 881443,
                     "end_date": 1592960400,
-                    "is_full": false
+                    "id": 881443
                 },
                 {
+                    "is_full": false,
                     "start_date": 1593558000,
-                    "id": 881444,
                     "end_date": 1593565200,
-                    "is_full": false
+                    "id": 881444
                 },
                 {
+                    "is_full": false,
                     "start_date": 1594162800,
-                    "id": 881445,
                     "end_date": 1594170000,
-                    "is_full": false
+                    "id": 881445
                 },
                 {
+                    "is_full": false,
                     "start_date": 1594767600,
-                    "id": 881446,
                     "end_date": 1594774800,
-                    "is_full": false
+                    "id": 881446
                 },
                 {
+                    "is_full": false,
                     "start_date": 1595372400,
-                    "id": 881447,
                     "end_date": 1595379600,
-                    "is_full": false
+                    "id": 881447
                 },
                 {
+                    "is_full": false,
                     "start_date": 1595977200,
-                    "id": 881448,
                     "end_date": 1595984400,
-                    "is_full": false
+                    "id": 881448
                 },
                 {
+                    "is_full": false,
                     "start_date": 1596582000,
-                    "id": 881449,
                     "end_date": 1596589200,
-                    "is_full": false
+                    "id": 881449
                 },
                 {
+                    "is_full": false,
                     "start_date": 1597186800,
-                    "id": 881450,
                     "end_date": 1597194000,
-                    "is_full": false
+                    "id": 881450
                 },
                 {
+                    "is_full": false,
                     "start_date": 1597791600,
-                    "id": 881451,
                     "end_date": 1597798800,
-                    "is_full": false
+                    "id": 881451
                 },
                 {
+                    "is_full": false,
                     "start_date": 1598396400,
-                    "id": 881452,
                     "end_date": 1598403600,
-                    "is_full": false
+                    "id": 881452
                 },
                 {
+                    "is_full": false,
                     "start_date": 1599001200,
-                    "id": 881453,
                     "end_date": 1599008400,
-                    "is_full": false
+                    "id": 881453
                 },
                 {
+                    "is_full": false,
                     "start_date": 1599606000,
-                    "id": 881454,
                     "end_date": 1599613200,
-                    "is_full": false
+                    "id": 881454
                 },
                 {
+                    "is_full": false,
                     "start_date": 1600210800,
-                    "id": 881455,
                     "end_date": 1600218000,
-                    "is_full": false
+                    "id": 881455
                 },
                 {
+                    "is_full": false,
                     "start_date": 1600815600,
-                    "id": 881456,
                     "end_date": 1600822800,
-                    "is_full": false
+                    "id": 881456
                 },
                 {
+                    "is_full": false,
                     "start_date": 1601420400,
-                    "id": 881457,
                     "end_date": 1601427600,
-                    "is_full": false
+                    "id": 881457
                 },
                 {
+                    "is_full": false,
                     "start_date": 1602025200,
-                    "id": 881458,
                     "end_date": 1602032400,
-                    "is_full": false
+                    "id": 881458
                 },
                 {
+                    "is_full": false,
                     "start_date": 1602630000,
-                    "id": 881459,
                     "end_date": 1602637200,
-                    "is_full": false
+                    "id": 881459
                 },
                 {
+                    "is_full": false,
                     "start_date": 1603234800,
-                    "id": 881460,
                     "end_date": 1603242000,
-                    "is_full": false
+                    "id": 881460
                 },
                 {
+                    "is_full": false,
                     "start_date": 1603839600,
-                    "id": 881461,
                     "end_date": 1603846800,
-                    "is_full": false
+                    "id": 881461
                 }
             ]
         },
@@ -17743,10 +17777,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579651200,
-                    "id": 983602,
                     "end_date": 1579662000,
-                    "is_full": false
+                    "id": 983602
                 }
             ]
         },
@@ -17777,10 +17811,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579651200,
-                    "id": 984252,
                     "end_date": 1579654800,
-                    "is_full": false
+                    "id": 984252
                 }
             ]
         },
@@ -17811,10 +17845,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579651200,
-                    "id": 1093066,
                     "end_date": 1579656600,
-                    "is_full": false
+                    "id": 1093066
                 }
             ]
         },
@@ -17846,10 +17880,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579647600,
-                    "id": 1084625,
                     "end_date": 1579651200,
-                    "is_full": false
+                    "id": 1084625
                 }
             ]
         },
@@ -17880,10 +17914,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579647600,
-                    "id": 1091371,
                     "end_date": 1579654800,
-                    "is_full": false
+                    "id": 1091371
                 }
             ]
         },
@@ -17914,10 +17948,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579645800,
-                    "id": 1087827,
                     "end_date": 1579653000,
-                    "is_full": false
+                    "id": 1087827
                 }
             ]
         },
@@ -17948,10 +17982,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579644000,
-                    "id": 1059037,
                     "end_date": 1579654800,
-                    "is_full": false
+                    "id": 1059037
                 }
             ]
         },
@@ -17982,10 +18016,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579644000,
-                    "id": 1094422,
                     "end_date": 1579651200,
-                    "is_full": false
+                    "id": 1094422
                 }
             ]
         },
@@ -18016,10 +18050,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579642200,
-                    "id": 1086518,
                     "end_date": 1579649400,
-                    "is_full": false
+                    "id": 1086518
                 }
             ]
         },
@@ -18051,10 +18085,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579642200,
-                    "id": 1064592,
                     "end_date": 1579645800,
-                    "is_full": false
+                    "id": 1064592
                 }
             ]
         },
@@ -18085,28 +18119,28 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579640400,
-                    "id": 1031310,
                     "end_date": 1579656600,
-                    "is_full": false
+                    "id": 1031310
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580245200,
-                    "id": 1031311,
                     "end_date": 1580261400,
-                    "is_full": false
+                    "id": 1031311
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580850000,
-                    "id": 1031312,
                     "end_date": 1580866200,
-                    "is_full": false
+                    "id": 1031312
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581454800,
-                    "id": 1031313,
                     "end_date": 1581471000,
-                    "is_full": false
+                    "id": 1031313
                 }
             ]
         },
@@ -18137,28 +18171,28 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579640400,
-                    "id": 1031316,
                     "end_date": 1579656600,
-                    "is_full": false
+                    "id": 1031316
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580245200,
-                    "id": 1031317,
                     "end_date": 1580261400,
-                    "is_full": false
+                    "id": 1031317
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580850000,
-                    "id": 1031318,
                     "end_date": 1580866200,
-                    "is_full": false
+                    "id": 1031318
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581454800,
-                    "id": 1031319,
                     "end_date": 1581471000,
-                    "is_full": false
+                    "id": 1031319
                 }
             ]
         },
@@ -18189,28 +18223,28 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579640400,
-                    "id": 1031323,
                     "end_date": 1579656600,
-                    "is_full": false
+                    "id": 1031323
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580245200,
-                    "id": 1031324,
                     "end_date": 1580261400,
-                    "is_full": false
+                    "id": 1031324
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580850000,
-                    "id": 1031325,
                     "end_date": 1580866200,
-                    "is_full": false
+                    "id": 1031325
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581454800,
-                    "id": 1031326,
                     "end_date": 1581471000,
-                    "is_full": false
+                    "id": 1031326
                 }
             ]
         },
@@ -18241,28 +18275,28 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579640400,
-                    "id": 1031340,
                     "end_date": 1579656600,
-                    "is_full": false
+                    "id": 1031340
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580245200,
-                    "id": 1031341,
                     "end_date": 1580261400,
-                    "is_full": false
+                    "id": 1031341
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580850000,
-                    "id": 1031342,
                     "end_date": 1580866200,
-                    "is_full": false
+                    "id": 1031342
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581454800,
-                    "id": 1031343,
                     "end_date": 1581471000,
-                    "is_full": false
+                    "id": 1031343
                 }
             ]
         },
@@ -18293,28 +18327,28 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579640400,
-                    "id": 1031346,
                     "end_date": 1579656600,
-                    "is_full": false
+                    "id": 1031346
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580245200,
-                    "id": 1031347,
                     "end_date": 1580261400,
-                    "is_full": false
+                    "id": 1031347
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580850000,
-                    "id": 1031348,
                     "end_date": 1580866200,
-                    "is_full": false
+                    "id": 1031348
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581454800,
-                    "id": 1031349,
                     "end_date": 1581471000,
-                    "is_full": false
+                    "id": 1031349
                 }
             ]
         },
@@ -18345,28 +18379,28 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579640400,
-                    "id": 1031355,
                     "end_date": 1579656600,
-                    "is_full": false
+                    "id": 1031355
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580245200,
-                    "id": 1031356,
                     "end_date": 1580261400,
-                    "is_full": false
+                    "id": 1031356
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580850000,
-                    "id": 1031357,
                     "end_date": 1580866200,
-                    "is_full": false
+                    "id": 1031357
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581454800,
-                    "id": 1031358,
                     "end_date": 1581471000,
-                    "is_full": false
+                    "id": 1031358
                 }
             ]
         },
@@ -18397,10 +18431,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579640400,
-                    "id": 1066059,
                     "end_date": 1579647600,
-                    "is_full": false
+                    "id": 1066059
                 }
             ]
         },
@@ -18431,10 +18465,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579638600,
-                    "id": 1090545,
                     "end_date": 1579644000,
-                    "is_full": false
+                    "id": 1090545
                 }
             ]
         },
@@ -18465,10 +18499,10 @@
             "timezone": "America/Phoenix",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579636800,
-                    "id": 1002219,
                     "end_date": 1579647600,
-                    "is_full": false
+                    "id": 1002219
                 }
             ]
         },
@@ -18500,10 +18534,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579635000,
-                    "id": 1064532,
                     "end_date": 1579638600,
-                    "is_full": false
+                    "id": 1064532
                 }
             ]
         },
@@ -18534,10 +18568,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579629600,
-                    "id": 1094570,
                     "end_date": 1579651200,
-                    "is_full": false
+                    "id": 1094570
                 }
             ]
         },
@@ -18568,10 +18602,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579627800,
-                    "id": 1094576,
                     "end_date": 1579631400,
-                    "is_full": false
+                    "id": 1094576
                 }
             ]
         },
@@ -18602,256 +18636,256 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579627800,
-                    "id": 866372,
                     "end_date": 1579631400,
-                    "is_full": false
+                    "id": 866372
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580232600,
-                    "id": 866373,
                     "end_date": 1580236200,
-                    "is_full": false
+                    "id": 866373
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580837400,
-                    "id": 866374,
                     "end_date": 1580841000,
-                    "is_full": false
+                    "id": 866374
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581442200,
-                    "id": 866375,
                     "end_date": 1581445800,
-                    "is_full": false
+                    "id": 866375
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582047000,
-                    "id": 866376,
                     "end_date": 1582050600,
-                    "is_full": false
+                    "id": 866376
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582651800,
-                    "id": 866377,
                     "end_date": 1582655400,
-                    "is_full": false
+                    "id": 866377
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583256600,
-                    "id": 866378,
                     "end_date": 1583260200,
-                    "is_full": false
+                    "id": 866378
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583857800,
-                    "id": 866379,
                     "end_date": 1583861400,
-                    "is_full": false
+                    "id": 866379
                 },
                 {
+                    "is_full": false,
                     "start_date": 1584462600,
-                    "id": 866380,
                     "end_date": 1584466200,
-                    "is_full": false
+                    "id": 866380
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585067400,
-                    "id": 866381,
                     "end_date": 1585071000,
-                    "is_full": false
+                    "id": 866381
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585672200,
-                    "id": 866382,
                     "end_date": 1585675800,
-                    "is_full": false
+                    "id": 866382
                 },
                 {
+                    "is_full": false,
                     "start_date": 1586277000,
-                    "id": 866383,
                     "end_date": 1586280600,
-                    "is_full": false
+                    "id": 866383
                 },
                 {
+                    "is_full": false,
                     "start_date": 1586881800,
-                    "id": 866384,
                     "end_date": 1586885400,
-                    "is_full": false
+                    "id": 866384
                 },
                 {
+                    "is_full": false,
                     "start_date": 1587486600,
-                    "id": 866385,
                     "end_date": 1587490200,
-                    "is_full": false
+                    "id": 866385
                 },
                 {
+                    "is_full": false,
                     "start_date": 1588091400,
-                    "id": 866386,
                     "end_date": 1588095000,
-                    "is_full": false
+                    "id": 866386
                 },
                 {
+                    "is_full": false,
                     "start_date": 1588696200,
-                    "id": 866387,
                     "end_date": 1588699800,
-                    "is_full": false
+                    "id": 866387
                 },
                 {
+                    "is_full": false,
                     "start_date": 1589301000,
-                    "id": 866388,
                     "end_date": 1589304600,
-                    "is_full": false
+                    "id": 866388
                 },
                 {
+                    "is_full": false,
                     "start_date": 1589905800,
-                    "id": 866389,
                     "end_date": 1589909400,
-                    "is_full": false
+                    "id": 866389
                 },
                 {
+                    "is_full": false,
                     "start_date": 1590510600,
-                    "id": 866390,
                     "end_date": 1590514200,
-                    "is_full": false
+                    "id": 866390
                 },
                 {
+                    "is_full": false,
                     "start_date": 1591115400,
-                    "id": 866391,
                     "end_date": 1591119000,
-                    "is_full": false
+                    "id": 866391
                 },
                 {
+                    "is_full": false,
                     "start_date": 1591720200,
-                    "id": 866392,
                     "end_date": 1591723800,
-                    "is_full": false
+                    "id": 866392
                 },
                 {
+                    "is_full": false,
                     "start_date": 1592325000,
-                    "id": 866393,
                     "end_date": 1592328600,
-                    "is_full": false
+                    "id": 866393
                 },
                 {
+                    "is_full": false,
                     "start_date": 1592929800,
-                    "id": 866394,
                     "end_date": 1592933400,
-                    "is_full": false
+                    "id": 866394
                 },
                 {
+                    "is_full": false,
                     "start_date": 1593534600,
-                    "id": 866395,
                     "end_date": 1593538200,
-                    "is_full": false
+                    "id": 866395
                 },
                 {
+                    "is_full": false,
                     "start_date": 1594139400,
-                    "id": 866396,
                     "end_date": 1594143000,
-                    "is_full": false
+                    "id": 866396
                 },
                 {
+                    "is_full": false,
                     "start_date": 1594744200,
-                    "id": 866397,
                     "end_date": 1594747800,
-                    "is_full": false
+                    "id": 866397
                 },
                 {
+                    "is_full": false,
                     "start_date": 1595349000,
-                    "id": 866398,
                     "end_date": 1595352600,
-                    "is_full": false
+                    "id": 866398
                 },
                 {
+                    "is_full": false,
                     "start_date": 1595953800,
-                    "id": 866399,
                     "end_date": 1595957400,
-                    "is_full": false
+                    "id": 866399
                 },
                 {
+                    "is_full": false,
                     "start_date": 1596558600,
-                    "id": 866400,
                     "end_date": 1596562200,
-                    "is_full": false
+                    "id": 866400
                 },
                 {
+                    "is_full": false,
                     "start_date": 1597163400,
-                    "id": 866401,
                     "end_date": 1597167000,
-                    "is_full": false
+                    "id": 866401
                 },
                 {
+                    "is_full": false,
                     "start_date": 1597768200,
-                    "id": 866402,
                     "end_date": 1597771800,
-                    "is_full": false
+                    "id": 866402
                 },
                 {
+                    "is_full": false,
                     "start_date": 1598373000,
-                    "id": 866403,
                     "end_date": 1598376600,
-                    "is_full": false
+                    "id": 866403
                 },
                 {
+                    "is_full": false,
                     "start_date": 1598977800,
-                    "id": 866404,
                     "end_date": 1598981400,
-                    "is_full": false
+                    "id": 866404
                 },
                 {
+                    "is_full": false,
                     "start_date": 1599582600,
-                    "id": 866405,
                     "end_date": 1599586200,
-                    "is_full": false
+                    "id": 866405
                 },
                 {
+                    "is_full": false,
                     "start_date": 1600187400,
-                    "id": 866406,
                     "end_date": 1600191000,
-                    "is_full": false
+                    "id": 866406
                 },
                 {
+                    "is_full": false,
                     "start_date": 1600792200,
-                    "id": 866407,
                     "end_date": 1600795800,
-                    "is_full": false
+                    "id": 866407
                 },
                 {
+                    "is_full": false,
                     "start_date": 1601397000,
-                    "id": 866408,
                     "end_date": 1601400600,
-                    "is_full": false
+                    "id": 866408
                 },
                 {
+                    "is_full": false,
                     "start_date": 1602001800,
-                    "id": 866409,
                     "end_date": 1602005400,
-                    "is_full": false
+                    "id": 866409
                 },
                 {
+                    "is_full": false,
                     "start_date": 1602606600,
-                    "id": 866410,
                     "end_date": 1602610200,
-                    "is_full": false
+                    "id": 866410
                 },
                 {
+                    "is_full": false,
                     "start_date": 1603211400,
-                    "id": 866411,
                     "end_date": 1603215000,
-                    "is_full": false
+                    "id": 866411
                 },
                 {
+                    "is_full": false,
                     "start_date": 1603816200,
-                    "id": 866412,
                     "end_date": 1603819800,
-                    "is_full": false
+                    "id": 866412
                 },
                 {
+                    "is_full": false,
                     "start_date": 1604424600,
-                    "id": 866413,
                     "end_date": 1604428200,
-                    "is_full": false
+                    "id": 866413
                 }
             ]
         },
@@ -18882,10 +18916,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579622400,
-                    "id": 1000968,
                     "end_date": 1579629600,
-                    "is_full": false
+                    "id": 1000968
                 }
             ]
         },
@@ -18916,10 +18950,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579622400,
-                    "id": 1089496,
                     "end_date": 1579647600,
-                    "is_full": false
+                    "id": 1089496
                 }
             ]
         },
@@ -18950,16 +18984,16 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579622400,
-                    "id": 1090429,
                     "end_date": 1579627800,
-                    "is_full": false
+                    "id": 1090429
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579627800,
-                    "id": 1090430,
                     "end_date": 1579633200,
-                    "is_full": false
+                    "id": 1090430
                 }
             ]
         },
@@ -18990,10 +19024,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579620600,
-                    "id": 1082875,
                     "end_date": 1579629600,
-                    "is_full": false
+                    "id": 1082875
                 }
             ]
         },
@@ -19024,10 +19058,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579615200,
-                    "id": 1082460,
                     "end_date": 1579622400,
-                    "is_full": false
+                    "id": 1082460
                 }
             ]
         },
@@ -19058,10 +19092,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579611600,
-                    "id": 966978,
                     "end_date": 1579654800,
-                    "is_full": false
+                    "id": 966978
                 }
             ]
         },
@@ -19092,10 +19126,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579611600,
-                    "id": 1092088,
                     "end_date": 1579640400,
-                    "is_full": false
+                    "id": 1092088
                 }
             ]
         },
@@ -19126,46 +19160,46 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579575600,
-                    "id": 897823,
                     "end_date": 1579579200,
-                    "is_full": false
+                    "id": 897823
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580180400,
-                    "id": 897824,
                     "end_date": 1580184000,
-                    "is_full": false
+                    "id": 897824
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580785200,
-                    "id": 897825,
                     "end_date": 1580788800,
-                    "is_full": false
+                    "id": 897825
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581390000,
-                    "id": 897826,
                     "end_date": 1581393600,
-                    "is_full": false
+                    "id": 897826
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581994800,
-                    "id": 897827,
                     "end_date": 1581998400,
-                    "is_full": false
+                    "id": 897827
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582599600,
-                    "id": 897828,
                     "end_date": 1582603200,
-                    "is_full": false
+                    "id": 897828
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583204400,
-                    "id": 897829,
                     "end_date": 1583208000,
-                    "is_full": false
+                    "id": 897829
                 }
             ]
         },
@@ -19196,10 +19230,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579572000,
-                    "id": 1000456,
                     "end_date": 1579575600,
-                    "is_full": false
+                    "id": 1000456
                 }
             ]
         },
@@ -19230,10 +19264,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579572000,
-                    "id": 1002396,
                     "end_date": 1579577400,
-                    "is_full": false
+                    "id": 1002396
                 }
             ]
         },
@@ -19264,10 +19298,10 @@
             "timezone": "America/Phoenix",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579572000,
-                    "id": 1080828,
                     "end_date": 1579577400,
-                    "is_full": false
+                    "id": 1080828
                 }
             ]
         },
@@ -19298,70 +19332,70 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579570200,
-                    "id": 887381,
                     "end_date": 1579573800,
-                    "is_full": false
+                    "id": 887381
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580175000,
-                    "id": 887382,
                     "end_date": 1580178600,
-                    "is_full": false
+                    "id": 887382
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580779800,
-                    "id": 887383,
                     "end_date": 1580783400,
-                    "is_full": false
+                    "id": 887383
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581384600,
-                    "id": 887384,
                     "end_date": 1581388200,
-                    "is_full": false
+                    "id": 887384
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581989400,
-                    "id": 887385,
                     "end_date": 1581993000,
-                    "is_full": false
+                    "id": 887385
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582594200,
-                    "id": 887386,
                     "end_date": 1582597800,
-                    "is_full": false
+                    "id": 887386
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583199000,
-                    "id": 887387,
                     "end_date": 1583202600,
-                    "is_full": false
+                    "id": 887387
                 },
                 {
+                    "is_full": false,
                     "start_date": 1583800200,
-                    "id": 887388,
                     "end_date": 1583803800,
-                    "is_full": false
+                    "id": 887388
                 },
                 {
+                    "is_full": false,
                     "start_date": 1584405000,
-                    "id": 887389,
                     "end_date": 1584408600,
-                    "is_full": false
+                    "id": 887389
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585009800,
-                    "id": 887390,
                     "end_date": 1585013400,
-                    "is_full": false
+                    "id": 887390
                 },
                 {
+                    "is_full": false,
                     "start_date": 1585614600,
-                    "id": 887391,
                     "end_date": 1585618200,
-                    "is_full": false
+                    "id": 887391
                 }
             ]
         },
@@ -19392,28 +19426,28 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579568400,
-                    "id": 1069109,
                     "end_date": 1579572000,
-                    "is_full": false
+                    "id": 1069109
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579827600,
-                    "id": 1081894,
                     "end_date": 1579831200,
-                    "is_full": false
+                    "id": 1081894
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580173200,
-                    "id": 1069110,
                     "end_date": 1580176800,
-                    "is_full": false
+                    "id": 1069110
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580432400,
-                    "id": 1081895,
                     "end_date": 1580436000,
-                    "is_full": false
+                    "id": 1081895
                 }
             ]
         },
@@ -19444,10 +19478,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579568400,
-                    "id": 1074220,
                     "end_date": 1579573800,
-                    "is_full": false
+                    "id": 1074220
                 }
             ]
         },
@@ -19530,10 +19564,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579568400,
-                    "id": 1081875,
                     "end_date": 1579575600,
-                    "is_full": false
+                    "id": 1081875
                 }
             ]
         },
@@ -19564,10 +19598,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579568400,
-                    "id": 1084268,
                     "end_date": 1579575600,
-                    "is_full": false
+                    "id": 1084268
                 }
             ]
         },
@@ -19598,40 +19632,40 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579568400,
-                    "id": 765540,
                     "end_date": 1579573800,
-                    "is_full": false
+                    "id": 765540
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580173200,
-                    "id": 765541,
                     "end_date": 1580178600,
-                    "is_full": false
+                    "id": 765541
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580778000,
-                    "id": 765542,
                     "end_date": 1580783400,
-                    "is_full": false
+                    "id": 765542
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581382800,
-                    "id": 765543,
                     "end_date": 1581388200,
-                    "is_full": false
+                    "id": 765543
                 },
                 {
+                    "is_full": false,
                     "start_date": 1581987600,
-                    "id": 765544,
                     "end_date": 1581993000,
-                    "is_full": false
+                    "id": 765544
                 },
                 {
+                    "is_full": false,
                     "start_date": 1582592400,
-                    "id": 765545,
                     "end_date": 1582597800,
-                    "is_full": false
+                    "id": 765545
                 }
             ]
         },
@@ -19662,22 +19696,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579566600,
-                    "id": 1076125,
                     "end_date": 1579570200,
-                    "is_full": false
+                    "id": 1076125
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580171400,
-                    "id": 1076126,
                     "end_date": 1580175000,
-                    "is_full": false
+                    "id": 1076126
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580776200,
-                    "id": 1076127,
                     "end_date": 1580779800,
-                    "is_full": false
+                    "id": 1076127
                 }
             ]
         },
@@ -19708,10 +19742,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579566600,
-                    "id": 897155,
                     "end_date": 1579573800,
-                    "is_full": false
+                    "id": 897155
                 }
             ]
         },
@@ -19742,10 +19776,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579566600,
-                    "id": 1093981,
                     "end_date": 1579572000,
-                    "is_full": false
+                    "id": 1093981
                 }
             ]
         },
@@ -19776,10 +19810,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579566600,
-                    "id": 1090389,
                     "end_date": 1579570200,
-                    "is_full": false
+                    "id": 1090389
                 }
             ]
         },
@@ -19810,10 +19844,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579566600,
+                    "id": 897155,
                     "end_date": 1579573800,
-                    "id": 897155
+                    "is_full": false
                 }
             ]
         },
@@ -19845,10 +19879,10 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579566600,
-                    "id": 1055769,
                     "end_date": 1579570200,
-                    "is_full": false
+                    "id": 1055769
                 }
             ]
         },
@@ -19995,40 +20029,40 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579564800,
-                    "id": 1072946,
                     "end_date": 1579568400,
-                    "is_full": false
+                    "id": 1072946
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579737600,
-                    "id": 1072949,
                     "end_date": 1579741200,
-                    "is_full": false
+                    "id": 1072949
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579910400,
-                    "id": 1072952,
                     "end_date": 1579914000,
-                    "is_full": false
+                    "id": 1072952
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580169600,
-                    "id": 1072947,
                     "end_date": 1580173200,
-                    "is_full": false
+                    "id": 1072947
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580342400,
-                    "id": 1072950,
                     "end_date": 1580346000,
-                    "is_full": false
+                    "id": 1072950
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580515200,
-                    "id": 1072953,
                     "end_date": 1580518800,
-                    "is_full": false
+                    "id": 1072953
                 }
             ]
         },
@@ -20059,40 +20093,40 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579564800,
-                    "id": 1073021,
                     "end_date": 1579568400,
-                    "is_full": false
+                    "id": 1073021
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579737600,
-                    "id": 1073024,
                     "end_date": 1579741200,
-                    "is_full": false
+                    "id": 1073024
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579910400,
-                    "id": 1073027,
                     "end_date": 1579914000,
-                    "is_full": false
+                    "id": 1073027
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580169600,
-                    "id": 1073022,
                     "end_date": 1580173200,
-                    "is_full": false
+                    "id": 1073022
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580342400,
-                    "id": 1073025,
                     "end_date": 1580346000,
-                    "is_full": false
+                    "id": 1073025
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580515200,
-                    "id": 1073028,
                     "end_date": 1580518800,
-                    "is_full": false
+                    "id": 1073028
                 }
             ]
         },
@@ -20123,40 +20157,40 @@
             "timezone": "America/Chicago",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579564800,
-                    "id": 1079270,
                     "end_date": 1579568400,
-                    "is_full": false
+                    "id": 1079270
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579737600,
-                    "id": 1079271,
                     "end_date": 1579741200,
-                    "is_full": false
+                    "id": 1079271
                 },
                 {
+                    "is_full": false,
                     "start_date": 1579910400,
-                    "id": 1079272,
                     "end_date": 1579914000,
-                    "is_full": false
+                    "id": 1079272
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580169600,
-                    "id": 1079273,
                     "end_date": 1580173200,
-                    "is_full": false
+                    "id": 1079273
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580342400,
-                    "id": 1079274,
                     "end_date": 1580346000,
-                    "is_full": false
+                    "id": 1079274
                 },
                 {
+                    "is_full": false,
                     "start_date": 1580515200,
-                    "id": 1079275,
                     "end_date": 1580518800,
-                    "is_full": false
+                    "id": 1079275
                 }
             ]
         },
@@ -20867,10 +20901,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579541400,
-                    "id": 1074414,
                     "end_date": 1579554000,
-                    "is_full": false
+                    "id": 1074414
                 }
             ]
         },
@@ -25719,10 +25753,10 @@
             "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
+                    "is_full": false,
                     "start_date": 1579464000,
-                    "id": 1067707,
                     "end_date": 1579478400,
-                    "is_full": false
+                    "id": 1067707
                 }
             ]
         },
@@ -28974,106 +29008,106 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579451400,
+                    "id": 1007911,
                     "end_date": 1579462200,
-                    "id": 1007911
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579462200,
+                    "id": 1007915,
                     "end_date": 1579473000,
-                    "id": 1007915
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579960800,
+                    "id": 1007802,
                     "end_date": 1579971600,
-                    "id": 1007802
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579971600,
+                    "id": 1007806,
                     "end_date": 1579982400,
-                    "id": 1007806
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579982400,
+                    "id": 1007810,
                     "end_date": 1579993200,
-                    "id": 1007810
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580056200,
+                    "id": 1007912,
                     "end_date": 1580067000,
-                    "id": 1007912
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580067000,
+                    "id": 1007916,
                     "end_date": 1580077800,
-                    "id": 1007916
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580565600,
+                    "id": 1007803,
                     "end_date": 1580576400,
-                    "id": 1007803
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580576400,
+                    "id": 1007807,
                     "end_date": 1580587200,
-                    "id": 1007807
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580587200,
+                    "id": 1007811,
                     "end_date": 1580598000,
-                    "id": 1007811
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580661000,
+                    "id": 1007913,
                     "end_date": 1580671800,
-                    "id": 1007913
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580671800,
+                    "id": 1007917,
                     "end_date": 1580682600,
-                    "id": 1007917
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581170400,
+                    "id": 1007804,
                     "end_date": 1581181200,
-                    "id": 1007804
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581181200,
+                    "id": 1007808,
                     "end_date": 1581192000,
-                    "id": 1007808
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581192000,
+                    "id": 1007812,
                     "end_date": 1581202800,
-                    "id": 1007812
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581265800,
+                    "id": 1007914,
                     "end_date": 1581276600,
-                    "id": 1007914
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581276600,
+                    "id": 1007918,
                     "end_date": 1581287400,
-                    "id": 1007918
+                    "is_full": false
                 }
             ]
         },
@@ -29104,106 +29138,106 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579451400,
+                    "id": 1007896,
                     "end_date": 1579462200,
-                    "id": 1007896
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579462200,
+                    "id": 1007900,
                     "end_date": 1579473000,
-                    "id": 1007900
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579960800,
+                    "id": 1007885,
                     "end_date": 1579971600,
-                    "id": 1007885
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579971600,
+                    "id": 1007889,
                     "end_date": 1579982400,
-                    "id": 1007889
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579982400,
+                    "id": 1007893,
                     "end_date": 1579993200,
-                    "id": 1007893
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580056200,
+                    "id": 1007897,
                     "end_date": 1580067000,
-                    "id": 1007897
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580067000,
+                    "id": 1007901,
                     "end_date": 1580077800,
-                    "id": 1007901
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580565600,
+                    "id": 1007886,
                     "end_date": 1580576400,
-                    "id": 1007886
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580576400,
+                    "id": 1007890,
                     "end_date": 1580587200,
-                    "id": 1007890
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580587200,
+                    "id": 1007894,
                     "end_date": 1580598000,
-                    "id": 1007894
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580661000,
+                    "id": 1007898,
                     "end_date": 1580671800,
-                    "id": 1007898
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580671800,
+                    "id": 1007902,
                     "end_date": 1580682600,
-                    "id": 1007902
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581170400,
+                    "id": 1007887,
                     "end_date": 1581181200,
-                    "id": 1007887
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581181200,
+                    "id": 1007891,
                     "end_date": 1581192000,
-                    "id": 1007891
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581192000,
+                    "id": 1007895,
                     "end_date": 1581202800,
-                    "id": 1007895
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581265800,
+                    "id": 1007899,
                     "end_date": 1581276600,
-                    "id": 1007899
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581276600,
+                    "id": 1007903,
                     "end_date": 1581287400,
-                    "id": 1007903
+                    "is_full": false
                 }
             ]
         },
@@ -29234,106 +29268,106 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579451400,
+                    "id": 897068,
                     "end_date": 1579460400,
-                    "id": 897068
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579460400,
+                    "id": 897069,
                     "end_date": 1579471200,
-                    "id": 897069
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579959000,
+                    "id": 897070,
                     "end_date": 1579968000,
-                    "id": 897070
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579968000,
+                    "id": 897071,
                     "end_date": 1579978800,
-                    "id": 897071
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579978800,
+                    "id": 897072,
                     "end_date": 1579989600,
-                    "id": 897072
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580056200,
+                    "id": 897073,
                     "end_date": 1580065200,
-                    "id": 897073
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580065200,
+                    "id": 897074,
                     "end_date": 1580076000,
-                    "id": 897074
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580563800,
+                    "id": 897075,
                     "end_date": 1580572800,
-                    "id": 897075
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580572800,
+                    "id": 897076,
                     "end_date": 1580583600,
-                    "id": 897076
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580583600,
+                    "id": 897077,
                     "end_date": 1580594400,
-                    "id": 897077
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580661000,
+                    "id": 897078,
                     "end_date": 1580670000,
-                    "id": 897078
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580670000,
+                    "id": 897079,
                     "end_date": 1580680800,
-                    "id": 897079
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581168600,
+                    "id": 897080,
                     "end_date": 1581177600,
-                    "id": 897080
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581177600,
+                    "id": 897081,
                     "end_date": 1581188400,
-                    "id": 897081
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581188400,
+                    "id": 897082,
                     "end_date": 1581199200,
-                    "id": 897082
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581265800,
+                    "id": 897083,
                     "end_date": 1581274800,
-                    "id": 897083
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581274800,
+                    "id": 897084,
                     "end_date": 1581285600,
-                    "id": 897084
+                    "is_full": false
                 }
             ]
         },
@@ -29364,292 +29398,292 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579451400,
+                    "id": 993494,
                     "end_date": 1579460400,
-                    "id": 993494
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579460400,
+                    "id": 993538,
                     "end_date": 1579471200,
-                    "id": 993538
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579537800,
+                    "id": 993495,
                     "end_date": 1579546800,
-                    "id": 993495
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579546800,
+                    "id": 993539,
                     "end_date": 1579557600,
-                    "id": 993539
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579624200,
+                    "id": 993496,
                     "end_date": 1579633200,
-                    "id": 993496
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579633200,
+                    "id": 993540,
                     "end_date": 1579644000,
-                    "id": 993540
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579710600,
+                    "id": 993497,
                     "end_date": 1579719600,
-                    "id": 993497
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579719600,
+                    "id": 993541,
                     "end_date": 1579730400,
-                    "id": 993541
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579797000,
+                    "id": 993498,
                     "end_date": 1579806000,
-                    "id": 993498
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579806000,
+                    "id": 993542,
                     "end_date": 1579816800,
-                    "id": 993542
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579883400,
+                    "id": 993499,
                     "end_date": 1579892400,
-                    "id": 993499
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579892400,
+                    "id": 993543,
                     "end_date": 1579903200,
-                    "id": 993543
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579969800,
+                    "id": 993500,
                     "end_date": 1579978800,
-                    "id": 993500
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579978800,
+                    "id": 993544,
                     "end_date": 1579989600,
-                    "id": 993544
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580056200,
+                    "id": 993501,
                     "end_date": 1580065200,
-                    "id": 993501
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580065200,
+                    "id": 993545,
                     "end_date": 1580076000,
-                    "id": 993545
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580142600,
+                    "id": 993502,
                     "end_date": 1580151600,
-                    "id": 993502
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580151600,
+                    "id": 993546,
                     "end_date": 1580162400,
-                    "id": 993546
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580229000,
+                    "id": 993503,
                     "end_date": 1580238000,
-                    "id": 993503
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580238000,
+                    "id": 993547,
                     "end_date": 1580248800,
-                    "id": 993547
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580315400,
+                    "id": 993504,
                     "end_date": 1580324400,
-                    "id": 993504
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580324400,
+                    "id": 993548,
                     "end_date": 1580335200,
-                    "id": 993548
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580401800,
+                    "id": 993505,
                     "end_date": 1580410800,
-                    "id": 993505
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580410800,
+                    "id": 993549,
                     "end_date": 1580421600,
-                    "id": 993549
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580488200,
+                    "id": 993506,
                     "end_date": 1580497200,
-                    "id": 993506
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580497200,
+                    "id": 993550,
                     "end_date": 1580508000,
-                    "id": 993550
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580574600,
+                    "id": 993507,
                     "end_date": 1580583600,
-                    "id": 993507
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580583600,
+                    "id": 993551,
                     "end_date": 1580594400,
-                    "id": 993551
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580661000,
+                    "id": 993508,
                     "end_date": 1580670000,
-                    "id": 993508
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580670000,
+                    "id": 993552,
                     "end_date": 1580680800,
-                    "id": 993552
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580747400,
+                    "id": 993509,
                     "end_date": 1580756400,
-                    "id": 993509
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580756400,
+                    "id": 993553,
                     "end_date": 1580767200,
-                    "id": 993553
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580833800,
+                    "id": 993510,
                     "end_date": 1580842800,
-                    "id": 993510
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580842800,
+                    "id": 993554,
                     "end_date": 1580853600,
-                    "id": 993554
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580920200,
+                    "id": 993511,
                     "end_date": 1580929200,
-                    "id": 993511
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580929200,
+                    "id": 993555,
                     "end_date": 1580940000,
-                    "id": 993555
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581006600,
+                    "id": 993512,
                     "end_date": 1581015600,
-                    "id": 993512
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581015600,
+                    "id": 993556,
                     "end_date": 1581026400,
-                    "id": 993556
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581093000,
+                    "id": 993513,
                     "end_date": 1581102000,
-                    "id": 993513
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581102000,
+                    "id": 993557,
                     "end_date": 1581112800,
-                    "id": 993557
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581179400,
+                    "id": 993514,
                     "end_date": 1581188400,
-                    "id": 993514
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581188400,
+                    "id": 993558,
                     "end_date": 1581199200,
-                    "id": 993558
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581265800,
+                    "id": 993515,
                     "end_date": 1581274800,
-                    "id": 993515
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581274800,
+                    "id": 993559,
                     "end_date": 1581285600,
-                    "id": 993559
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581352200,
+                    "id": 993516,
                     "end_date": 1581361200,
-                    "id": 993516
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581361200,
+                    "id": 993560,
                     "end_date": 1581372000,
-                    "id": 993560
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581438600,
+                    "id": 993517,
                     "end_date": 1581447600,
-                    "id": 993517
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581447600,
+                    "id": 993561,
                     "end_date": 1581458400,
-                    "id": 993561
+                    "is_full": false
                 }
             ]
         },
@@ -30200,106 +30234,106 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579451400,
+                    "id": 897020,
                     "end_date": 1579460400,
-                    "id": 897020
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579460400,
+                    "id": 897030,
                     "end_date": 1579471200,
-                    "id": 897030
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579959000,
+                    "id": 896991,
                     "end_date": 1579968000,
-                    "id": 896991
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579968000,
+                    "id": 897001,
                     "end_date": 1579978800,
-                    "id": 897001
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579978800,
+                    "id": 897011,
                     "end_date": 1579989600,
-                    "id": 897011
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580056200,
+                    "id": 897021,
                     "end_date": 1580065200,
-                    "id": 897021
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580065200,
+                    "id": 897031,
                     "end_date": 1580076000,
-                    "id": 897031
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580563800,
+                    "id": 896992,
                     "end_date": 1580572800,
-                    "id": 896992
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580572800,
+                    "id": 897002,
                     "end_date": 1580583600,
-                    "id": 897002
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580583600,
+                    "id": 897012,
                     "end_date": 1580594400,
-                    "id": 897012
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580661000,
+                    "id": 897022,
                     "end_date": 1580670000,
-                    "id": 897022
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1580670000,
+                    "id": 897032,
                     "end_date": 1580680800,
-                    "id": 897032
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581168600,
+                    "id": 896993,
                     "end_date": 1581177600,
-                    "id": 896993
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581177600,
+                    "id": 897003,
                     "end_date": 1581188400,
-                    "id": 897003
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581188400,
+                    "id": 897013,
                     "end_date": 1581199200,
-                    "id": 897013
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581265800,
+                    "id": 897023,
                     "end_date": 1581274800,
-                    "id": 897023
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1581274800,
+                    "id": 897033,
                     "end_date": 1581285600,
-                    "id": 897033
+                    "is_full": false
                 }
             ]
         },
@@ -37740,22 +37774,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579446000,
+                    "id": 1085984,
                     "end_date": 1579453200,
-                    "id": 1085984
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579453200,
+                    "id": 1085985,
                     "end_date": 1579460400,
-                    "id": 1085985
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579460400,
+                    "id": 1085986,
                     "end_date": 1579467600,
-                    "id": 1085986
+                    "is_full": false
                 }
             ]
         },
@@ -37786,22 +37820,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579446000,
+                    "id": 1084455,
                     "end_date": 1579453200,
-                    "id": 1084455
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579453200,
+                    "id": 1084456,
                     "end_date": 1579460400,
-                    "id": 1084456
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579460400,
+                    "id": 1084457,
                     "end_date": 1579467600,
-                    "id": 1084457
+                    "is_full": false
                 }
             ]
         },
@@ -37866,22 +37900,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "start_date": 1579446000,
+                    "id": 1063324,
                     "end_date": 1579453200,
-                    "id": 1063324
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579453200,
+                    "id": 1063325,
                     "end_date": 1579460400,
-                    "id": 1063325
+                    "is_full": false
                 },
                 {
-                    "is_full": false,
                     "start_date": 1579460400,
+                    "id": 1063326,
                     "end_date": 1579467600,
-                    "id": 1063326
+                    "is_full": false
                 }
             ]
         },
