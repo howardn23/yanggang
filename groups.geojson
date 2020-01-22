@@ -4917,7 +4917,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "New Orleans",
+                "Yang_Gang_Name": "NOLA",
                 "Primary_Contact_Name": "John Huynh",
                 "Location": "New Orleans, Louisiana",
                 "Primary_Contact_Email": "nola.yang.gang@gmail.com",
@@ -4944,7 +4944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Yang_Gang_Name": "Lake Charles",
+                "Yang_Gang_Name": "SWLA",
                 "Primary_Contact_Name": "David S. Chang",
                 "Location": "Lake Charles, Louisiana",
                 "Primary_Contact_Email": "dschan02@gmail.com ",
@@ -5829,6 +5829,33 @@
                 "coordinates": [
                     " -93.24738109999998",
                     "45.0131752"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Yang_Gang_Name": "Jackson",
+                "Primary_Contact_Name": "Kelsey Holleman",
+                "Location": "Jackson, Mississippi",
+                "Primary_Contact_Email": "kelsey.holleman@gmail.com ",
+                "Regional_Organizer_Email": "",
+                "Facebook_Group": "",
+                "Twitter": "",
+                "Website": "",
+                "Instagram": "",
+                "Youtube": "",
+                "State_Subreddit": "",
+                "Regional_Slack_Workspace": "",
+                "marker-color": "#133467",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    " -90.33387241714898",
+                    "32.310251038621956"
                 ]
             }
         },
