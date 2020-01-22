@@ -232,10 +232,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "is_full": false,
                     "id": 1072472,
+                    "start_date": 1582997400,
                     "end_date": 1583011800,
-                    "start_date": 1582997400
+                    "is_full": false
                 }
             ]
         },
@@ -1524,10 +1524,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1085655,
-                    "start_date": 1581195600,
                     "end_date": 1581213600,
-                    "is_full": false
+                    "start_date": 1581195600
                 }
             ]
         },
@@ -2136,10 +2136,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1101323,
-                    "start_date": 1580844600,
                     "end_date": 1580850000,
-                    "is_full": false
+                    "start_date": 1580844600
                 }
             ]
         },
@@ -2204,10 +2204,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1100775,
-                    "start_date": 1580835600,
                     "end_date": 1580841000,
-                    "is_full": false
+                    "start_date": 1580835600
                 }
             ]
         },
@@ -8060,40 +8060,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Sammamish, WA - Yang Gang Hang",
-                "Type": "TRAINING",
-                "Host": "Volunteer",
-                "Time": "Mon, Jan 27, 5:30PM-6:00PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Sammamish, WA 98074",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/201420/\">Mobilize US</a>",
-                "Description": "Let's get the momentum going with canvassing in our state. Come to learn how to be a focal for your area and get others to join. We'll discuss:<br><br>- How to become a leader for your area<br>- What materials to bring<br>- Review the script<br>- Get tips from others<br>- Information on how to help in early states<br><br>Meet up  on Zoom: <br>Date: Monday January 27th<br>Time: 5:30 PM<br>Link: https://zoom.us/j/7231276398 (no need to have an account).<br><br>(Do not use location below - call only)",
-                "TimeStart": 1580175000,
-                "TimeEnd": 1580176800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.04421,
-                    47.622541999999996
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "id": 1079260,
-                    "end_date": 1580176800,
-                    "start_date": 1580175000
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Peoria, AZ - Yang Gang Hang and LD21 meeting",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -8121,6 +8087,40 @@
                     "is_full": false,
                     "id": 1080693,
                     "end_date": 1580180400,
+                    "start_date": 1580175000
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Sammamish, WA - Yang Gang Hang",
+                "Type": "TRAINING",
+                "Host": "Volunteer",
+                "Time": "Mon, Jan 27, 5:30PM-6:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Sammamish, WA 98074",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/201420/\">Mobilize US</a>",
+                "Description": "Let's get the momentum going with canvassing in our state. Come to learn how to be a focal for your area and get others to join. We'll discuss:<br><br>- How to become a leader for your area<br>- What materials to bring<br>- Review the script<br>- Get tips from others<br>- Information on how to help in early states<br><br>Meet up  on Zoom: <br>Date: Monday January 27th<br>Time: 5:30 PM<br>Link: https://zoom.us/j/7231276398 (no need to have an account).<br><br>(Do not use location below - call only)",
+                "TimeStart": 1580175000,
+                "TimeEnd": 1580176800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.04421,
+                    47.622541999999996
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "id": 1079260,
+                    "end_date": 1580176800,
                     "start_date": 1580175000
                 }
             ]
@@ -10158,34 +10158,88 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Lake Charles, LA - Phone Banking Party",
-                "Type": "PHONE_BANK",
-                "Host": "Volunteer",
-                "Time": "Sun, Jan 26, 3:00PM-5:00PM CST",
-                "Venue": "Calcasieu Parish Public Library : Central Library (main branch)",
-                "Address": "301 W Claude St<br>Innovation Room (1st floor)<br>Lake Charles, LA 70605",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207562/\">Mobilize US</a>",
-                "Description": "The Yang campaign is laser-focused on calling and canvassing Iowa. Just 13 days remain before the Iowa Caucus. We need to make calls into Iowa to help the teams on the ground identify voters!<br><br>If you have never phonebanked before, we will help you get set up and get used to it. Don't worry if you are shy or anxious... the process is remarkably easy. Phonebanking doesn't require you to have long, persuasive conversations. We just need to collect the data on who is more likely to vote for Andrew.<br><br>Bring your own laptop or tablet, and headset.",
+                "Title": "Sammamish, WA Canvassing",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sun, Jan 26, 1:00PM-4:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Sammamish, WA 98074",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/208604/\">Mobilize US</a>",
+                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app , MiniVAN (Please try and load it into your device before you arrive)<br>(4) a MATH hat if you have one",
                 "TimeStart": 1580072400,
-                "TimeEnd": 1580079600,
+                "TimeEnd": 1580083200,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.2236682,
-                    30.1866602
+                    -122.04421,
+                    47.622541999999996
                 ]
             },
-            "timezone": "America/Chicago",
+            "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
                     "is_full": false,
-                    "id": 1104293,
-                    "end_date": 1580079600,
+                    "id": 1107523,
+                    "end_date": 1580083200,
                     "start_date": 1580072400
+                },
+                {
+                    "is_full": false,
+                    "id": 1107524,
+                    "end_date": 1580688000,
+                    "start_date": 1580677200
+                },
+                {
+                    "is_full": false,
+                    "id": 1107525,
+                    "end_date": 1581292800,
+                    "start_date": 1581282000
+                },
+                {
+                    "is_full": false,
+                    "id": 1107526,
+                    "end_date": 1581897600,
+                    "start_date": 1581886800
+                },
+                {
+                    "is_full": false,
+                    "id": 1107527,
+                    "end_date": 1582502400,
+                    "start_date": 1582491600
+                },
+                {
+                    "is_full": false,
+                    "id": 1107528,
+                    "end_date": 1583107200,
+                    "start_date": 1583096400
+                },
+                {
+                    "is_full": false,
+                    "id": 1107529,
+                    "end_date": 1583708400,
+                    "start_date": 1583697600
+                },
+                {
+                    "is_full": false,
+                    "id": 1107530,
+                    "end_date": 1584313200,
+                    "start_date": 1584302400
+                },
+                {
+                    "is_full": false,
+                    "id": 1107531,
+                    "end_date": 1584918000,
+                    "start_date": 1584907200
+                },
+                {
+                    "is_full": false,
+                    "id": 1107532,
+                    "end_date": 1585522800,
+                    "start_date": 1585512000
                 }
             ]
         },
@@ -10253,6 +10307,40 @@
                     "is_full": false,
                     "id": 1105384,
                     "end_date": 1580076000,
+                    "start_date": 1580072400
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Lake Charles, LA - Phone Banking Party",
+                "Type": "PHONE_BANK",
+                "Host": "Volunteer",
+                "Time": "Sun, Jan 26, 3:00PM-5:00PM CST",
+                "Venue": "Calcasieu Parish Public Library : Central Library (main branch)",
+                "Address": "301 W Claude St<br>Innovation Room (1st floor)<br>Lake Charles, LA 70605",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207562/\">Mobilize US</a>",
+                "Description": "The Yang campaign is laser-focused on calling and canvassing Iowa. Just 13 days remain before the Iowa Caucus. We need to make calls into Iowa to help the teams on the ground identify voters!<br><br>If you have never phonebanked before, we will help you get set up and get used to it. Don't worry if you are shy or anxious... the process is remarkably easy. Phonebanking doesn't require you to have long, persuasive conversations. We just need to collect the data on who is more likely to vote for Andrew.<br><br>Bring your own laptop or tablet, and headset.",
+                "TimeStart": 1580072400,
+                "TimeEnd": 1580079600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2236682,
+                    30.1866602
+                ]
+            },
+            "timezone": "America/Chicago",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "id": 1104293,
+                    "end_date": 1580079600,
                     "start_date": 1580072400
                 }
             ]
@@ -10518,40 +10606,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Columbia Bang for Yang (door knocking) Sunday afternoon, Jan 19th & 26th",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sun, Jan 26, 2:30PM-5:30PM EST",
-                "Venue": "Yang 2020 Campaign HQ",
-                "Address": "917 Huger St<br>Columbia, SC 29201",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/189227/\">Mobilize US</a>",
-                "Description": "With only 6 Sundays left until the SC Primary, WE NEED YOU! We will meet at the office at 2:30 to go over our canvass location, pair new canvassers up with veterans, do any needed training and then off we go!  <br>If you need a later start time, please call or text me and we will arrange that.<br>Thank you and see you there!",
-                "TimeStart": 1580067000,
-                "TimeEnd": 1580077800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.043637,
-                    33.9941421
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "id": 1075245,
-                    "end_date": 1580077800,
-                    "start_date": 1580067000
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Bang for Yang on Sunday in NE Columbia!  Jan 19th & 26th Group Door Knocking",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -10578,6 +10632,40 @@
                 {
                     "is_full": false,
                     "id": 1050225,
+                    "end_date": 1580077800,
+                    "start_date": 1580067000
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Columbia Bang for Yang (door knocking) Sunday afternoon, Jan 19th & 26th",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sun, Jan 26, 2:30PM-5:30PM EST",
+                "Venue": "Yang 2020 Campaign HQ",
+                "Address": "917 Huger St<br>Columbia, SC 29201",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/189227/\">Mobilize US</a>",
+                "Description": "With only 6 Sundays left until the SC Primary, WE NEED YOU! We will meet at the office at 2:30 to go over our canvass location, pair new canvassers up with veterans, do any needed training and then off we go!  <br>If you need a later start time, please call or text me and we will arrange that.<br>Thank you and see you there!",
+                "TimeStart": 1580067000,
+                "TimeEnd": 1580077800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.043637,
+                    33.9941421
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "id": 1075245,
                     "end_date": 1580077800,
                     "start_date": 1580067000
                 }
@@ -10613,40 +10701,6 @@
                     "is_full": false,
                     "id": 1105546,
                     "end_date": 1580079600,
-                    "start_date": 1580065200
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Aspen, CO Crowd Yanging at Winter X-Games",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sun, Jan 26, 12:00PM-8:30PM MST",
-                "Venue": "Buttermilk Ski Resort",
-                "Address": "38700 CO-82<br>Aspen, CO 81611",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/188913/\">Mobilize US</a>",
-                "Description": "So I know #yanggang is gearing up for Iowa week but I won\u2019t be able to make it so I\u2019m thinking ahead to what I can do locally with the most impact. The winter X-Games is held just up the road in Aspen from Jan. 23rd- 26th and last years attendance was 117,000 people. <br><br>All events (besides concerts) are free to attend with primetime TV coverage on ABC and ESPN. I think this would be a great opportunity to pass out info, hold signs, and Yang as many folks as possible. If you would like to join let me know so we can coordinate efforts. <br><br>X-Games Schedule http://www.xgames.com/events/2020/aspen/schedule/<br><br>You don't have to stay the whole shift but please sign up ahead of time.",
-                "TimeStart": 1580065200,
-                "TimeEnd": 1580095800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -106.8604932,
-                    39.2057944
-                ]
-            },
-            "timezone": "America/Denver",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "id": 1008230,
-                    "end_date": 1580095800,
                     "start_date": 1580065200
                 }
             ]
@@ -10983,6 +11037,40 @@
                     "is_full": false,
                     "id": 1009676,
                     "end_date": 1580094000,
+                    "start_date": 1580065200
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Aspen, CO Crowd Yanging at Winter X-Games",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sun, Jan 26, 12:00PM-8:30PM MST",
+                "Venue": "Buttermilk Ski Resort",
+                "Address": "38700 CO-82<br>Aspen, CO 81611",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/188913/\">Mobilize US</a>",
+                "Description": "So I know #yanggang is gearing up for Iowa week but I won\u2019t be able to make it so I\u2019m thinking ahead to what I can do locally with the most impact. The winter X-Games is held just up the road in Aspen from Jan. 23rd- 26th and last years attendance was 117,000 people. <br><br>All events (besides concerts) are free to attend with primetime TV coverage on ABC and ESPN. I think this would be a great opportunity to pass out info, hold signs, and Yang as many folks as possible. If you would like to join let me know so we can coordinate efforts. <br><br>X-Games Schedule http://www.xgames.com/events/2020/aspen/schedule/<br><br>You don't have to stay the whole shift but please sign up ahead of time.",
+                "TimeStart": 1580065200,
+                "TimeEnd": 1580095800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.8604932,
+                    39.2057944
+                ]
+            },
+            "timezone": "America/Denver",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "id": 1008230,
+                    "end_date": 1580095800,
                     "start_date": 1580065200
                 }
             ]
@@ -12288,40 +12376,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Port Jefferson, NY - Signature Gathering 1/25",
-                "Type": "SIGNATURE_GATHERING",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 7:30PM-9:00PM EST",
-                "Venue": "Theatre Three",
-                "Address": "412 Main St<br>Port Jefferson, NY 11777",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206635/\">Mobilize US</a>",
-                "Description": "Help get Andrew Yang on the New York Democratic Primary Ballot.  We will be collecting signatures for delegates and Yang in CD1.  You will be briefed by campaign staff on signature gathering upon arrival. So, if you've never done it before, don't worry we will get you ready to go.  You must be a registered democrat.  If you need to change your registration, go to https://dmv.ny.gov/more-info/motor-voter-faqs-0  <br><br>Before arriving, please look at the signature gathering guide: https://docs.google.com/document/d/1bnKd27uS5bEpzh8vK9vSWbj6S92aIfOHlpiOfBqAp3I/edit<br><br>We will be meeting in front of Theatre Three to go over the game plan. I will have petitions and other materials for you to carry!   Please bring a clipboard and pen(s) if you have them. And dress for the cold! Gloves and/or hand warmers strongly suggested.<br><br>Please RSVP so that we can contact you if there is a change in plans",
-                "TimeStart": 1579998600,
-                "TimeEnd": 1580004000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.0673713,
-                    40.9438155
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "id": 1100965,
-                    "end_date": 1580004000,
-                    "start_date": 1579998600
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Las Vegas, NV - Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Campaign",
@@ -12368,6 +12422,40 @@
                     "id": 1081498,
                     "end_date": 1581818400,
                     "start_date": 1581813000
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Port Jefferson, NY - Signature Gathering 1/25",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 7:30PM-9:00PM EST",
+                "Venue": "Theatre Three",
+                "Address": "412 Main St<br>Port Jefferson, NY 11777",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206635/\">Mobilize US</a>",
+                "Description": "Help get Andrew Yang on the New York Democratic Primary Ballot.  We will be collecting signatures for delegates and Yang in CD1.  You will be briefed by campaign staff on signature gathering upon arrival. So, if you've never done it before, don't worry we will get you ready to go.  You must be a registered democrat.  If you need to change your registration, go to https://dmv.ny.gov/more-info/motor-voter-faqs-0  <br><br>Before arriving, please look at the signature gathering guide: https://docs.google.com/document/d/1bnKd27uS5bEpzh8vK9vSWbj6S92aIfOHlpiOfBqAp3I/edit<br><br>We will be meeting in front of Theatre Three to go over the game plan. I will have petitions and other materials for you to carry!   Please bring a clipboard and pen(s) if you have them. And dress for the cold! Gloves and/or hand warmers strongly suggested.<br><br>Please RSVP so that we can contact you if there is a change in plans",
+                "TimeStart": 1579998600,
+                "TimeEnd": 1580004000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0673713,
+                    40.9438155
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "id": 1100965,
+                    "end_date": 1580004000,
+                    "start_date": 1579998600
                 }
             ]
         },
@@ -12798,45 +12886,45 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Nashua, NH - Yang Gang Hang",
+                "Title": "Portsmouth, NH - Yang Gang Hang",
                 "Type": "MEETING",
-                "Host": "Campaign",
-                "Time": "Sat, Jan 25, 5:00PM-8:00PM EST",
-                "Venue": "The Flight Center",
-                "Address": "97 Main St<br>Nashua, NH 03060",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/183294/\">Mobilize US</a>",
-                "Description": "Join us for our weekly post-canvassing Yang Gang Hang!<br><br>Whether you are a Yang supporter, Yang curious or just want to know who the heck Yang even is, please join us on Saturday from 5 to 8 pm at the Flight Center (https://www.yelp.com/biz/the-flight-center-nashua )! <br><br>Eat drink and be merry with the Nashua Yang Gang!",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 5:00PM-7:00PM EST",
+                "Venue": "Thirsty Moose Tap House - Portsmouth",
+                "Address": "21 Congress Street<br>Portsmouth, NH 03801",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/189752/\">Mobilize US</a>",
+                "Description": "Come out to connect and find community! Andrew Yang\u2019s campaign slogan is Humanity First and the Yang Gang is a movement of excellent humans.  Come join your local Yang Gang for conversation over delicious food and drinks at this awesome brewery.<br><br>Meet Yangsters from surrounding towns (and sometimes, from across the country!), brainstorm opportunities to help the campaign, and strategize how to spread the Humanity First message throughout the area and the state.<br><br>Canvassers, join us to celebrate a good day's hard work. Non-canvassers, come and hear stories about how the movement is growing everyday in NH!",
                 "TimeStart": 1579989600,
-                "TimeEnd": 1580000400,
+                "TimeEnd": 1579996800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.4661209,
-                    42.7621809
+                    -70.7585897,
+                    43.0767615
                 ]
             },
             "timezone": "America/New_York",
             "timeslots": [
                 {
                     "is_full": false,
-                    "id": 983631,
-                    "end_date": 1580000400,
+                    "id": 1015702,
+                    "end_date": 1579996800,
                     "start_date": 1579989600
                 },
                 {
                     "is_full": false,
-                    "id": 983632,
-                    "end_date": 1580605200,
+                    "id": 1015703,
+                    "end_date": 1580601600,
                     "start_date": 1580594400
                 },
                 {
                     "is_full": false,
-                    "id": 983633,
-                    "end_date": 1581210000,
+                    "id": 1015704,
+                    "end_date": 1581206400,
                     "start_date": 1581199200
                 }
             ]
@@ -12942,45 +13030,45 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Portsmouth, NH - Yang Gang Hang",
+                "Title": "Nashua, NH - Yang Gang Hang",
                 "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 5:00PM-7:00PM EST",
-                "Venue": "Thirsty Moose Tap House - Portsmouth",
-                "Address": "21 Congress Street<br>Portsmouth, NH 03801",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/189752/\">Mobilize US</a>",
-                "Description": "Come out to connect and find community! Andrew Yang\u2019s campaign slogan is Humanity First and the Yang Gang is a movement of excellent humans.  Come join your local Yang Gang for conversation over delicious food and drinks at this awesome brewery.<br><br>Meet Yangsters from surrounding towns (and sometimes, from across the country!), brainstorm opportunities to help the campaign, and strategize how to spread the Humanity First message throughout the area and the state.<br><br>Canvassers, join us to celebrate a good day's hard work. Non-canvassers, come and hear stories about how the movement is growing everyday in NH!",
+                "Host": "Campaign",
+                "Time": "Sat, Jan 25, 5:00PM-8:00PM EST",
+                "Venue": "The Flight Center",
+                "Address": "97 Main St<br>Nashua, NH 03060",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/183294/\">Mobilize US</a>",
+                "Description": "Join us for our weekly post-canvassing Yang Gang Hang!<br><br>Whether you are a Yang supporter, Yang curious or just want to know who the heck Yang even is, please join us on Saturday from 5 to 8 pm at the Flight Center (https://www.yelp.com/biz/the-flight-center-nashua )! <br><br>Eat drink and be merry with the Nashua Yang Gang!",
                 "TimeStart": 1579989600,
-                "TimeEnd": 1579996800,
+                "TimeEnd": 1580000400,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.7585897,
-                    43.0767615
+                    -71.4661209,
+                    42.7621809
                 ]
             },
             "timezone": "America/New_York",
             "timeslots": [
                 {
                     "is_full": false,
-                    "id": 1015702,
-                    "end_date": 1579996800,
+                    "id": 983631,
+                    "end_date": 1580000400,
                     "start_date": 1579989600
                 },
                 {
                     "is_full": false,
-                    "id": 1015703,
-                    "end_date": 1580601600,
+                    "id": 983632,
+                    "end_date": 1580605200,
                     "start_date": 1580594400
                 },
                 {
                     "is_full": false,
-                    "id": 1015704,
-                    "end_date": 1581206400,
+                    "id": 983633,
+                    "end_date": 1581210000,
                     "start_date": 1581199200
                 }
             ]
@@ -13204,33 +13292,33 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Parma, OH - Yang Gang Hang",
+                "Title": "Longmont, CO - Yang Hang",
                 "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 3:30PM-4:30PM EST",
-                "Venue": "Starbucks",
-                "Address": "6780 Ridge Rd<br>Parma, OH 44129",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206995/\">Mobilize US</a>",
-                "Description": "Come out and meet with others in the local Yang Gangs!*<br>Looking forward to having some real talk with some real folks.<br><br>*Tentatively scheduled. Subject to change.",
+                "Host": "Campaign",
+                "Time": "Sat, Jan 25, 1:30PM-3:00PM MST",
+                "Venue": "Javastop",
+                "Address": "301 Main St 7<br>Longmont, CO 80501",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/199810/\">Mobilize US</a>",
+                "Description": "Come join your local Yang Gang for conversation over food & drinks.<br><br>Meet Andrew Yang supporters from the neighborhood.  Canvassing volunteers will be talking about their canvassing adventures and can answer questions about canvassing.   Share ideas and experiences over food and drinks.  Brainstorm opportunities to help the campaign and spread the Humanity First message throughout the area and the state.",
                 "TimeStart": 1579984200,
-                "TimeEnd": 1579987800,
+                "TimeEnd": 1579989600,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.735128,
-                    41.380068
+                    -105.1029599,
+                    40.1640948
                 ]
             },
-            "timezone": "America/New_York",
+            "timezone": "America/Denver",
             "timeslots": [
                 {
                     "is_full": false,
-                    "id": 1102094,
-                    "end_date": 1579987800,
+                    "id": 1069406,
+                    "end_date": 1579989600,
                     "start_date": 1579984200
                 }
             ]
@@ -13272,50 +13360,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Longmont, CO - Yang Hang",
-                "Type": "MEETING",
-                "Host": "Campaign",
-                "Time": "Sat, Jan 25, 1:30PM-3:00PM MST",
-                "Venue": "Javastop",
-                "Address": "301 Main St 7<br>Longmont, CO 80501",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/199810/\">Mobilize US</a>",
-                "Description": "Come join your local Yang Gang for conversation over food & drinks.<br><br>Meet Andrew Yang supporters from the neighborhood.  Canvassing volunteers will be talking about their canvassing adventures and can answer questions about canvassing.   Share ideas and experiences over food and drinks.  Brainstorm opportunities to help the campaign and spread the Humanity First message throughout the area and the state.",
-                "TimeStart": 1579984200,
-                "TimeEnd": 1579989600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.1029599,
-                    40.1640948
-                ]
-            },
-            "timezone": "America/Denver",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "id": 1069406,
-                    "end_date": 1579989600,
-                    "start_date": 1579984200
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Phoenix, AZ - Yang Gang Hang",
+                "Title": "Parma, OH - Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 1:00PM-4:00PM MST",
-                "Venue": "Phoenix AZ HeadQuarters",
-                "Address": "3830 N 7th St<br>Phoenix, AZ 85014",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206867/\">Mobilize US</a>",
-                "Description": "Its time for the AZ Yang Gangs from across the state to gather at the Phoenix AZ Headquarters  as we strive to march forward into the NEXT WAVE of bringing Andrew Yang to the White House.<br><br>We will have Yang Gang members from AZ who weathered the weather in IOWA to share their incredible experiences  and their canvassing successes.  <br><br>We will spend some time sharing and caring and preparing everyone for the NEXT WAVE. <br><br>WE WILL HAVE  SPECIAL YANG SNACKS!!!",
-                "TimeStart": 1579982400,
-                "TimeEnd": 1579993200,
+                "Time": "Sat, Jan 25, 3:30PM-4:30PM EST",
+                "Venue": "Starbucks",
+                "Address": "6780 Ridge Rd<br>Parma, OH 44129",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206995/\">Mobilize US</a>",
+                "Description": "Come out and meet with others in the local Yang Gangs!*<br>Looking forward to having some real talk with some real folks.<br><br>*Tentatively scheduled. Subject to change.",
+                "TimeStart": 1579984200,
+                "TimeEnd": 1579987800,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -13323,17 +13377,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -112.0654287,
-                    33.4922818
+                    -81.735128,
+                    41.380068
                 ]
             },
-            "timezone": "America/Phoenix",
+            "timezone": "America/New_York",
             "timeslots": [
                 {
                     "is_full": false,
-                    "id": 1101617,
-                    "end_date": 1579993200,
-                    "start_date": 1579982400
+                    "id": 1102094,
+                    "end_date": 1579987800,
+                    "start_date": 1579984200
                 }
             ]
         },
@@ -13374,14 +13428,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "College Station/Bryan, TX - Phone Banking Party",
-                "Type": "PHONE_BANK",
+                "Title": "Queens, (Whitestone), NY  Door Knocking for Signatures CD-3",
+                "Type": "SIGNATURE_GATHERING",
                 "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 2:00PM-4:00PM CST",
-                "Venue": "Gumby's Pizza",
-                "Address": "1102 Harvey Rd<br>College Station, TX 77840",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207149/\">Mobilize US</a>",
-                "Description": "Our highest priority is to call voters in the early states to help Andrew by gathering data for the campaign. We are not doing this to change their minds on the phone (while it would be awesome if you did) but this is to help those on the ground with more information. So you don't have to be experts on Andrew's policies- you do have us around to double check on facts though.<br><br>It will be fun! Please come out. Iowa needs to be where we shock the world.<br><br>What to Bring:<br>-Laptop (if you can. I successfully done everything on a phone before)<br>-Phone<br>-Headset/earphone<br><br><br>We will go over how to sign up and all the tips before we start calling. <br>You are more than welcome to sign up beforehand to get a feel for it :)<br><br>Location: Gumby's Pizza",
+                "Time": "Sat, Jan 25, 3:00PM-5:00PM EST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Queens, NY 11357",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/205487/\">Mobilize US</a>",
+                "Description": "Door knock this neighborhood to both build awareness for Yang and to collect signatures.  This area is considered district 3.<br><br>Parking is relatively easy.",
                 "TimeStart": 1579982400,
                 "TimeEnd": 1579989600,
                 "marker-color": "#F2A00F",
@@ -13391,15 +13445,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.308071,
-                    30.623539
+                    -73.810037,
+                    40.785129
                 ]
             },
-            "timezone": "America/Chicago",
+            "timezone": "America/New_York",
             "timeslots": [
                 {
                     "is_full": false,
-                    "id": 1102443,
+                    "id": 1094845,
                     "end_date": 1579989600,
                     "start_date": 1579982400
                 }
@@ -13442,14 +13496,48 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Queens, (Whitestone), NY  Door Knocking for Signatures CD-3",
-                "Type": "SIGNATURE_GATHERING",
+                "Title": "Phoenix, AZ - Yang Gang Hang",
+                "Type": "MEETING",
                 "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 3:00PM-5:00PM EST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Queens, NY 11357",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/205487/\">Mobilize US</a>",
-                "Description": "Door knock this neighborhood to both build awareness for Yang and to collect signatures.  This area is considered district 3.<br><br>Parking is relatively easy.",
+                "Time": "Sat, Jan 25, 1:00PM-4:00PM MST",
+                "Venue": "Phoenix AZ HeadQuarters",
+                "Address": "3830 N 7th St<br>Phoenix, AZ 85014",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206867/\">Mobilize US</a>",
+                "Description": "Its time for the AZ Yang Gangs from across the state to gather at the Phoenix AZ Headquarters  as we strive to march forward into the NEXT WAVE of bringing Andrew Yang to the White House.<br><br>We will have Yang Gang members from AZ who weathered the weather in IOWA to share their incredible experiences  and their canvassing successes.  <br><br>We will spend some time sharing and caring and preparing everyone for the NEXT WAVE. <br><br>WE WILL HAVE  SPECIAL YANG SNACKS!!!",
+                "TimeStart": 1579982400,
+                "TimeEnd": 1579993200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0654287,
+                    33.4922818
+                ]
+            },
+            "timezone": "America/Phoenix",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "id": 1101617,
+                    "end_date": 1579993200,
+                    "start_date": 1579982400
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "College Station/Bryan, TX - Phone Banking Party",
+                "Type": "PHONE_BANK",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 2:00PM-4:00PM CST",
+                "Venue": "Gumby's Pizza",
+                "Address": "1102 Harvey Rd<br>College Station, TX 77840",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207149/\">Mobilize US</a>",
+                "Description": "Our highest priority is to call voters in the early states to help Andrew by gathering data for the campaign. We are not doing this to change their minds on the phone (while it would be awesome if you did) but this is to help those on the ground with more information. So you don't have to be experts on Andrew's policies- you do have us around to double check on facts though.<br><br>It will be fun! Please come out. Iowa needs to be where we shock the world.<br><br>What to Bring:<br>-Laptop (if you can. I successfully done everything on a phone before)<br>-Phone<br>-Headset/earphone<br><br><br>We will go over how to sign up and all the tips before we start calling. <br>You are more than welcome to sign up beforehand to get a feel for it :)<br><br>Location: Gumby's Pizza",
                 "TimeStart": 1579982400,
                 "TimeEnd": 1579989600,
                 "marker-color": "#F2A00F",
@@ -13459,15 +13547,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.810037,
-                    40.785129
+                    -96.308071,
+                    30.623539
                 ]
             },
-            "timezone": "America/New_York",
+            "timezone": "America/Chicago",
             "timeslots": [
                 {
                     "is_full": false,
-                    "id": 1094845,
+                    "id": 1102443,
                     "end_date": 1579989600,
                     "start_date": 1579982400
                 }
@@ -13612,16 +13700,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Los Angeles -Westside Phonebanking Party",
-                "Type": "PHONE_BANK",
+                "Title": "Galveston, TX - Canvassing by UTMB Campus",
+                "Type": "CANVASS",
                 "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 11:00AM-4:00PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Los Angeles, CA 90025",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207450/\">Mobilize US</a>",
-                "Description": "It's now or never! Phone banking is the most impactful thing you can do right now to help Andrew win Iowa and shock the world !  It's the next best thing to being in Iowa. We need all hands on deck! <br><br>Come for an hour, two, or the whole thing! We'll have some light lunch, snacks and refreshments.<br><br>Bring a laptop, your phone, and headphones (with mic) to make calls with. <br>Note:  tablets do not work with the dialer. We will have a couple of extra laptops available if you do not have one. <br><br>New to phone banking? Check out the quick tutorial at www.yang2020.com/call so you can hit the ground running. We can also answer all questions and train you when you arrive.",
+                "Time": "Sat, Jan 25, 1:00PM-4:00PM CST",
+                "Venue": "",
+                "Address": "200 Mechanic St<br>Galveston, TX 77550",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206340/\">Mobilize US</a>",
+                "Description": "Hi I am looking for volunteers to get together and have a fun time introducing the city of Galveston to Andrew yang\u2019s presidential campaign. I will be starting in the UTMB area and moving out from there.",
                 "TimeStart": 1579978800,
-                "TimeEnd": 1579996800,
+                "TimeEnd": 1579989600,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -13629,33 +13717,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.44587299999999,
-                    34.045421000000005
+                    -94.7706451,
+                    29.312675
                 ]
             },
-            "timezone": "America/Los_Angeles",
+            "timezone": "America/Chicago",
             "timeslots": [
                 {
-                    "id": 1103890,
-                    "start_date": 1579978800,
-                    "end_date": 1579996800,
-                    "is_full": false
+                    "is_full": false,
+                    "id": 1099525,
+                    "end_date": 1579989600,
+                    "start_date": 1579978800
                 }
             ]
         },
         {
             "type": "Feature",
             "properties": {
-                "Title": "Memphis, TN - Canvassing",
-                "Type": "CANVASS",
+                "Title": "Cherry Hill, NJ - Phone Banking Party (Y4Y)",
+                "Type": "PHONE_BANK",
                 "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 1:00PM-5:00PM CST",
-                "Venue": "French Truck Coffee",
-                "Address": "1350 Concourse Ave #167<br>Memphis, TN 38104",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207861/\">Mobilize US</a>",
-                "Description": "Our weekly knocking on doors canvassing event. We will meet at the French Truck Coffee at Crosstown. Let's knock on some doors after a brief Yang Gang Hang.<br><br>Addresses of potential voters will be provided by the campaign. So, we are not doing it randomly. We will be pairing up before heading out.<br><br>Face-to-face conversations continue to be one of the most meaningful ways to communicate with potential voters, and door-to-door canvassing is a highly effective way to initiate these interactions. Make sure you have the miniVAN app installed on your phone, and please keep in touch with me so I can cut some turf for you.<br><br>Here\u2019s a guide with more explanation: http://bit.ly/y2020canvass Let\u2019s meet at the University of Memphis and then let\u2019s knock on some doors!",
+                "Time": "Sat, Jan 25, 2:00PM-3:30PM EST",
+                "Venue": "",
+                "Address": "330 Cranford Rd<br>Cherry Hill, NJ 08003",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207058/\">Mobilize US</a>",
+                "Description": "With just a week to go until voting begins, reaching voters in key states is critical to our success.  Join the Cherry Hill Yang Gang for this phone banking event to call voters in Iowa!  Be sure to bring a laptop, phone, and preferably headphones.  No experience needed - training can be provided.",
                 "TimeStart": 1579978800,
-                "TimeEnd": 1579993200,
+                "TimeEnd": 1579984200,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -13663,16 +13751,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.0132146,
-                    35.1519101
+                    -74.9970825,
+                    39.8753157
                 ]
             },
-            "timezone": "America/Chicago",
+            "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "id": 1105467,
+                    "id": 1102285,
                     "start_date": 1579978800,
-                    "end_date": 1579993200,
+                    "end_date": 1579984200,
                     "is_full": false
                 }
             ]
@@ -13782,108 +13870,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Temecula, CA Yang Gang Hang",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 11:00AM-2:00PM PST",
-                "Venue": "Temecula Duck Pond and park",
-                "Address": "28250 Ynez Rd<br>Temecula, CA 92591",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/204143/\">Mobilize US</a>",
-                "Description": "Being your signs and wear your swag as we make our presence known around here! We will be gathering at the Temecula duck pond where we can chat with locals and pretty much just stand on the corner with our signs so people know that they\u2019re not alone here in support of Yang and hopefully get people engaged in the campaign around here! Come for as long as you can but don\u2019t feel like you have to stay the whole time!",
-                "TimeStart": 1579978800,
-                "TimeEnd": 1579989600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.1473841,
-                    33.5028197
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "id": 1090585,
-                    "end_date": 1579989600,
-                    "start_date": 1579978800
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Galveston, TX - Canvassing by UTMB Campus",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 1:00PM-4:00PM CST",
-                "Venue": "",
-                "Address": "200 Mechanic St<br>Galveston, TX 77550",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206340/\">Mobilize US</a>",
-                "Description": "Hi I am looking for volunteers to get together and have a fun time introducing the city of Galveston to Andrew yang\u2019s presidential campaign. I will be starting in the UTMB area and moving out from there.",
-                "TimeStart": 1579978800,
-                "TimeEnd": 1579989600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.7706451,
-                    29.312675
-                ]
-            },
-            "timezone": "America/Chicago",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "id": 1099525,
-                    "end_date": 1579989600,
-                    "start_date": 1579978800
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Cherry Hill, NJ - Phone Banking Party (Y4Y)",
-                "Type": "PHONE_BANK",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 2:00PM-3:30PM EST",
-                "Venue": "",
-                "Address": "330 Cranford Rd<br>Cherry Hill, NJ 08003",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207058/\">Mobilize US</a>",
-                "Description": "With just a week to go until voting begins, reaching voters in key states is critical to our success.  Join the Cherry Hill Yang Gang for this phone banking event to call voters in Iowa!  Be sure to bring a laptop, phone, and preferably headphones.  No experience needed - training can be provided.",
-                "TimeStart": 1579978800,
-                "TimeEnd": 1579984200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.9970825,
-                    39.8753157
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "id": 1102285,
-                    "start_date": 1579978800,
-                    "end_date": 1579984200,
-                    "is_full": false
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Reno Saturday Canvass",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -13952,6 +13938,108 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Abbeville, SC- Canvassing",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 2:00PM-5:30PM EST",
+                "Venue": "Abeville Historic District",
+                "Address": "116 Court Square<br>Abbeville, SC 29620",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/208219/\">Mobilize US</a>",
+                "Description": "What up, Yang Gang! Join us at the Abbeville Square in front of the city hall  to knock on doors for Andrew Yang. First time canvassers are welcomed, and will be trained. It's a lot easier than you think! Just bring your smartphone, and we will hit some doors together. Hope to see you all soon.",
+                "TimeStart": 1579978800,
+                "TimeEnd": 1579991400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.3788138,
+                    34.1780429
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "id": 1106720,
+                    "start_date": 1579978800,
+                    "end_date": 1579991400,
+                    "is_full": false
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Memphis, TN - Canvassing",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 1:00PM-5:00PM CST",
+                "Venue": "French Truck Coffee",
+                "Address": "1350 Concourse Ave #167<br>Memphis, TN 38104",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207861/\">Mobilize US</a>",
+                "Description": "Our weekly knocking on doors canvassing event. We will meet at the French Truck Coffee at Crosstown. Let's knock on some doors after a brief Yang Gang Hang.<br><br>Addresses of potential voters will be provided by the campaign. So, we are not doing it randomly. We will be pairing up before heading out.<br><br>Face-to-face conversations continue to be one of the most meaningful ways to communicate with potential voters, and door-to-door canvassing is a highly effective way to initiate these interactions. Make sure you have the miniVAN app installed on your phone, and please keep in touch with me so I can cut some turf for you.<br><br>Here\u2019s a guide with more explanation: http://bit.ly/y2020canvass Let\u2019s meet at the University of Memphis and then let\u2019s knock on some doors!",
+                "TimeStart": 1579978800,
+                "TimeEnd": 1579993200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0132146,
+                    35.1519101
+                ]
+            },
+            "timezone": "America/Chicago",
+            "timeslots": [
+                {
+                    "id": 1105467,
+                    "start_date": 1579978800,
+                    "end_date": 1579993200,
+                    "is_full": false
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Temecula, CA Yang Gang Hang",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 11:00AM-2:00PM PST",
+                "Venue": "Temecula Duck Pond and park",
+                "Address": "28250 Ynez Rd<br>Temecula, CA 92591",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/204143/\">Mobilize US</a>",
+                "Description": "Being your signs and wear your swag as we make our presence known around here! We will be gathering at the Temecula duck pond where we can chat with locals and pretty much just stand on the corner with our signs so people know that they\u2019re not alone here in support of Yang and hopefully get people engaged in the campaign around here! Come for as long as you can but don\u2019t feel like you have to stay the whole time!",
+                "TimeStart": 1579978800,
+                "TimeEnd": 1579989600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1473841,
+                    33.5028197
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "id": 1090585,
+                    "end_date": 1579989600,
+                    "start_date": 1579978800
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "SMYG + SVYG SUPER Iowa Phone Banking Party + Potluck!!!",
                 "Type": "PHONE_BANK",
                 "Host": "Volunteer",
@@ -13986,16 +14074,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Abbeville, SC- Canvassing",
-                "Type": "CANVASS",
+                "Title": "Los Angeles -Westside Phonebanking Party",
+                "Type": "PHONE_BANK",
                 "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 2:00PM-5:30PM EST",
-                "Venue": "Abeville Historic District",
-                "Address": "116 Court Square<br>Abbeville, SC 29620",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/208219/\">Mobilize US</a>",
-                "Description": "What up, Yang Gang! Join us at the Abbeville Square in front of the city hall  to knock on doors for Andrew Yang. First time canvassers are welcomed, and will be trained. It's a lot easier than you think! Just bring your smartphone, and we will hit some doors together. Hope to see you all soon.",
+                "Time": "Sat, Jan 25, 11:00AM-4:00PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Los Angeles, CA 90025",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/207450/\">Mobilize US</a>",
+                "Description": "It's now or never! Phone banking is the most impactful thing you can do right now to help Andrew win Iowa and shock the world !  It's the next best thing to being in Iowa. We need all hands on deck! <br><br>Come for an hour, two, or the whole thing! We'll have some light lunch, snacks and refreshments.<br><br>Bring a laptop, your phone, and headphones (with mic) to make calls with. <br>Note:  tablets do not work with the dialer. We will have a couple of extra laptops available if you do not have one. <br><br>New to phone banking? Check out the quick tutorial at www.yang2020.com/call so you can hit the ground running. We can also answer all questions and train you when you arrive.",
                 "TimeStart": 1579978800,
-                "TimeEnd": 1579991400,
+                "TimeEnd": 1579996800,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -14003,16 +14091,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.3788138,
-                    34.1780429
+                    -118.44587299999999,
+                    34.045421000000005
                 ]
             },
-            "timezone": "America/New_York",
+            "timezone": "America/Los_Angeles",
             "timeslots": [
                 {
-                    "id": 1106720,
+                    "id": 1103890,
                     "start_date": 1579978800,
-                    "end_date": 1579991400,
+                    "end_date": 1579996800,
                     "is_full": false
                 }
             ]
@@ -14066,16 +14154,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Syracuse, NY  - Signature Gathering",
-                "Type": "SIGNATURE_GATHERING",
+                "Title": "Rockland, Maine  Yang Gang Hang",
+                "Type": "MEETING",
                 "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 1:00PM-5:00PM EST",
-                "Venue": "Starbucks",
-                "Address": "3475 Erie Blvd E<br>Syracuse, NY 13214",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206788/\">Mobilize US</a>",
-                "Description": "We will meet at Starbucks on Erie Blvd East and break into groups to assigned streets in outer SU areas and Dewitt. Bring snacks and water and dress warm. Come and help for as long as you can- 1pm-5pm- Can you do 1-3pm, 3-5pm- Just let us know. Anytime is needed.<br><br>Please find and review the documentation in this spreadsheet: <br>http://bit.ly/y2020SignatureGatheringLinks<br>http://bit.ly/ActivateHosts4Signatures<br><br>The more people the more fun!!",
+                "Time": "Sat, Jan 25, 1:00PM-3:00PM EST",
+                "Venue": "Main Street Markets",
+                "Address": "435 Main St<br>Rockland, ME 04841",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206556/\">Mobilize US</a>",
+                "Description": "The Yang Gang is growing in Maine! This is an opportunity get to know other Yang supporters in our community. Have you just recently heard about Andrew Yang and want to learn more? Come hear what drew others to his campaign.<br><br>This is an informal event that is focused on building the Yang2020 network in Maine. We will discuss ideas for outreach and plan for future events. However, primarily this is a meet-up of supporters and Yang-Curious  folks.",
                 "TimeStart": 1579975200,
-                "TimeEnd": 1579989600,
+                "TimeEnd": 1579982400,
                 "marker-color": "#F2A00F",
                 "marker-symbol": "",
                 "marker-size": "small"
@@ -14083,16 +14171,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.067635,
-                    43.044163
+                    -69.109079,
+                    44.1053299
                 ]
             },
             "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "id": 1101354,
+                    "id": 1100617,
                     "start_date": 1579975200,
-                    "end_date": 1579989600,
+                    "end_date": 1579982400,
                     "is_full": false
                 }
             ]
@@ -14426,40 +14514,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Rockland, Maine  Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Sat, Jan 25, 1:00PM-3:00PM EST",
-                "Venue": "Main Street Markets",
-                "Address": "435 Main St<br>Rockland, ME 04841",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206556/\">Mobilize US</a>",
-                "Description": "The Yang Gang is growing in Maine! This is an opportunity get to know other Yang supporters in our community. Have you just recently heard about Andrew Yang and want to learn more? Come hear what drew others to his campaign.<br><br>This is an informal event that is focused on building the Yang2020 network in Maine. We will discuss ideas for outreach and plan for future events. However, primarily this is a meet-up of supporters and Yang-Curious  folks.",
-                "TimeStart": 1579975200,
-                "TimeEnd": 1579982400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -69.109079,
-                    44.1053299
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "id": 1100617,
-                    "start_date": 1579975200,
-                    "end_date": 1579982400,
-                    "is_full": false
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Andrew Yang Pella Town Hall",
                 "Type": "TOWN_HALL",
                 "Host": "Campaign",
@@ -14487,6 +14541,40 @@
                     "id": 1100971,
                     "start_date": 1579975200,
                     "end_date": 1579978800,
+                    "is_full": false
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Syracuse, NY  - Signature Gathering",
+                "Type": "SIGNATURE_GATHERING",
+                "Host": "Volunteer",
+                "Time": "Sat, Jan 25, 1:00PM-5:00PM EST",
+                "Venue": "Starbucks",
+                "Address": "3475 Erie Blvd E<br>Syracuse, NY 13214",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/206788/\">Mobilize US</a>",
+                "Description": "We will meet at Starbucks on Erie Blvd East and break into groups to assigned streets in outer SU areas and Dewitt. Bring snacks and water and dress warm. Come and help for as long as you can- 1pm-5pm- Can you do 1-3pm, 3-5pm- Just let us know. Anytime is needed.<br><br>Please find and review the documentation in this spreadsheet: <br>http://bit.ly/y2020SignatureGatheringLinks<br>http://bit.ly/ActivateHosts4Signatures<br><br>The more people the more fun!!",
+                "TimeStart": 1579975200,
+                "TimeEnd": 1579989600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.067635,
+                    43.044163
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "id": 1101354,
+                    "start_date": 1579975200,
+                    "end_date": 1579989600,
                     "is_full": false
                 }
             ]
@@ -19604,82 +19692,82 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1094087,
-                    "start_date": 1579964400,
                     "end_date": 1579971600,
-                    "is_full": false
+                    "start_date": 1579964400
                 },
                 {
+                    "is_full": false,
                     "id": 1094093,
-                    "start_date": 1579971600,
                     "end_date": 1579978800,
-                    "is_full": false
+                    "start_date": 1579971600
                 },
                 {
+                    "is_full": false,
                     "id": 1094096,
-                    "start_date": 1579978800,
                     "end_date": 1579986000,
-                    "is_full": false
+                    "start_date": 1579978800
                 },
                 {
+                    "is_full": false,
                     "id": 1094090,
-                    "start_date": 1580054400,
                     "end_date": 1580061600,
-                    "is_full": false
+                    "start_date": 1580054400
                 },
                 {
+                    "is_full": false,
                     "id": 1094098,
-                    "start_date": 1580067000,
                     "end_date": 1580072400,
-                    "is_full": false
+                    "start_date": 1580067000
                 },
                 {
+                    "is_full": false,
                     "id": 1094088,
-                    "start_date": 1580569200,
                     "end_date": 1580576400,
-                    "is_full": false
+                    "start_date": 1580569200
                 },
                 {
+                    "is_full": false,
                     "id": 1094094,
-                    "start_date": 1580576400,
                     "end_date": 1580583600,
-                    "is_full": false
+                    "start_date": 1580576400
                 },
                 {
+                    "is_full": false,
                     "id": 1094097,
-                    "start_date": 1580583600,
                     "end_date": 1580590800,
-                    "is_full": false
+                    "start_date": 1580583600
                 },
                 {
+                    "is_full": false,
                     "id": 1094091,
-                    "start_date": 1580659200,
                     "end_date": 1580666400,
-                    "is_full": false
+                    "start_date": 1580659200
                 },
                 {
+                    "is_full": false,
                     "id": 1094099,
-                    "start_date": 1580671800,
                     "end_date": 1580677200,
-                    "is_full": false
+                    "start_date": 1580671800
                 },
                 {
+                    "is_full": false,
                     "id": 1094089,
-                    "start_date": 1581174000,
                     "end_date": 1581181200,
-                    "is_full": false
+                    "start_date": 1581174000
                 },
                 {
+                    "is_full": false,
                     "id": 1094095,
-                    "start_date": 1581181200,
                     "end_date": 1581188400,
-                    "is_full": false
+                    "start_date": 1581181200
                 },
                 {
+                    "is_full": false,
                     "id": 1094092,
-                    "start_date": 1581264000,
                     "end_date": 1581271200,
-                    "is_full": false
+                    "start_date": 1581264000
                 }
             ]
         },
@@ -20287,10 +20375,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1073058,
-                    "start_date": 1579960800,
                     "end_date": 1579968000,
-                    "is_full": false
+                    "start_date": 1579960800
                 }
             ]
         },
@@ -20623,40 +20711,40 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1007705,
-                    "start_date": 1579960800,
                     "end_date": 1579971600,
-                    "is_full": false
+                    "start_date": 1579960800
                 },
                 {
+                    "is_full": false,
                     "id": 1007711,
-                    "start_date": 1579982400,
                     "end_date": 1579993200,
-                    "is_full": false
+                    "start_date": 1579982400
                 },
                 {
+                    "is_full": false,
                     "id": 1007706,
-                    "start_date": 1580565600,
                     "end_date": 1580576400,
-                    "is_full": false
+                    "start_date": 1580565600
                 },
                 {
+                    "is_full": false,
                     "id": 1007712,
-                    "start_date": 1580587200,
                     "end_date": 1580598000,
-                    "is_full": false
+                    "start_date": 1580587200
                 },
                 {
+                    "is_full": false,
                     "id": 1007707,
-                    "start_date": 1581170400,
                     "end_date": 1581181200,
-                    "is_full": false
+                    "start_date": 1581170400
                 },
                 {
+                    "is_full": false,
                     "id": 1007713,
-                    "start_date": 1581192000,
                     "end_date": 1581202800,
-                    "is_full": false
+                    "start_date": 1581192000
                 }
             ]
         },
@@ -20687,94 +20775,94 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1007802,
-                    "start_date": 1579960800,
                     "end_date": 1579971600,
-                    "is_full": false
+                    "start_date": 1579960800
                 },
                 {
+                    "is_full": false,
                     "id": 1007806,
-                    "start_date": 1579971600,
                     "end_date": 1579982400,
-                    "is_full": false
+                    "start_date": 1579971600
                 },
                 {
+                    "is_full": false,
                     "id": 1007810,
-                    "start_date": 1579982400,
                     "end_date": 1579993200,
-                    "is_full": false
+                    "start_date": 1579982400
                 },
                 {
+                    "is_full": false,
                     "id": 1007912,
-                    "start_date": 1580056200,
                     "end_date": 1580067000,
-                    "is_full": false
+                    "start_date": 1580056200
                 },
                 {
+                    "is_full": false,
                     "id": 1007916,
-                    "start_date": 1580067000,
                     "end_date": 1580077800,
-                    "is_full": false
+                    "start_date": 1580067000
                 },
                 {
+                    "is_full": false,
                     "id": 1007803,
-                    "start_date": 1580565600,
                     "end_date": 1580576400,
-                    "is_full": false
+                    "start_date": 1580565600
                 },
                 {
+                    "is_full": false,
                     "id": 1007807,
-                    "start_date": 1580576400,
                     "end_date": 1580587200,
-                    "is_full": false
+                    "start_date": 1580576400
                 },
                 {
+                    "is_full": false,
                     "id": 1007811,
-                    "start_date": 1580587200,
                     "end_date": 1580598000,
-                    "is_full": false
+                    "start_date": 1580587200
                 },
                 {
+                    "is_full": false,
                     "id": 1007913,
-                    "start_date": 1580661000,
                     "end_date": 1580671800,
-                    "is_full": false
+                    "start_date": 1580661000
                 },
                 {
+                    "is_full": false,
                     "id": 1007917,
-                    "start_date": 1580671800,
                     "end_date": 1580682600,
-                    "is_full": false
+                    "start_date": 1580671800
                 },
                 {
+                    "is_full": false,
                     "id": 1007804,
-                    "start_date": 1581170400,
                     "end_date": 1581181200,
-                    "is_full": false
+                    "start_date": 1581170400
                 },
                 {
+                    "is_full": false,
                     "id": 1007808,
-                    "start_date": 1581181200,
                     "end_date": 1581192000,
-                    "is_full": false
+                    "start_date": 1581181200
                 },
                 {
+                    "is_full": false,
                     "id": 1007812,
-                    "start_date": 1581192000,
                     "end_date": 1581202800,
-                    "is_full": false
+                    "start_date": 1581192000
                 },
                 {
+                    "is_full": false,
                     "id": 1007914,
-                    "start_date": 1581265800,
                     "end_date": 1581276600,
-                    "is_full": false
+                    "start_date": 1581265800
                 },
                 {
+                    "is_full": false,
                     "id": 1007918,
-                    "start_date": 1581276600,
                     "end_date": 1581287400,
-                    "is_full": false
+                    "start_date": 1581276600
                 }
             ]
         },
@@ -20805,94 +20893,94 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1007885,
-                    "start_date": 1579960800,
                     "end_date": 1579971600,
-                    "is_full": false
+                    "start_date": 1579960800
                 },
                 {
+                    "is_full": false,
                     "id": 1007889,
-                    "start_date": 1579971600,
                     "end_date": 1579982400,
-                    "is_full": false
+                    "start_date": 1579971600
                 },
                 {
+                    "is_full": false,
                     "id": 1007893,
-                    "start_date": 1579982400,
                     "end_date": 1579993200,
-                    "is_full": false
+                    "start_date": 1579982400
                 },
                 {
+                    "is_full": false,
                     "id": 1007897,
-                    "start_date": 1580056200,
                     "end_date": 1580067000,
-                    "is_full": false
+                    "start_date": 1580056200
                 },
                 {
+                    "is_full": false,
                     "id": 1007901,
-                    "start_date": 1580067000,
                     "end_date": 1580077800,
-                    "is_full": false
+                    "start_date": 1580067000
                 },
                 {
+                    "is_full": false,
                     "id": 1007886,
-                    "start_date": 1580565600,
                     "end_date": 1580576400,
-                    "is_full": false
+                    "start_date": 1580565600
                 },
                 {
+                    "is_full": false,
                     "id": 1007890,
-                    "start_date": 1580576400,
                     "end_date": 1580587200,
-                    "is_full": false
+                    "start_date": 1580576400
                 },
                 {
+                    "is_full": false,
                     "id": 1007894,
-                    "start_date": 1580587200,
                     "end_date": 1580598000,
-                    "is_full": false
+                    "start_date": 1580587200
                 },
                 {
+                    "is_full": false,
                     "id": 1007898,
-                    "start_date": 1580661000,
                     "end_date": 1580671800,
-                    "is_full": false
+                    "start_date": 1580661000
                 },
                 {
+                    "is_full": false,
                     "id": 1007902,
-                    "start_date": 1580671800,
                     "end_date": 1580682600,
-                    "is_full": false
+                    "start_date": 1580671800
                 },
                 {
+                    "is_full": false,
                     "id": 1007887,
-                    "start_date": 1581170400,
                     "end_date": 1581181200,
-                    "is_full": false
+                    "start_date": 1581170400
                 },
                 {
+                    "is_full": false,
                     "id": 1007891,
-                    "start_date": 1581181200,
                     "end_date": 1581192000,
-                    "is_full": false
+                    "start_date": 1581181200
                 },
                 {
+                    "is_full": false,
                     "id": 1007895,
-                    "start_date": 1581192000,
                     "end_date": 1581202800,
-                    "is_full": false
+                    "start_date": 1581192000
                 },
                 {
+                    "is_full": false,
                     "id": 1007899,
-                    "start_date": 1581265800,
                     "end_date": 1581276600,
-                    "is_full": false
+                    "start_date": 1581265800
                 },
                 {
+                    "is_full": false,
                     "id": 1007903,
-                    "start_date": 1581276600,
                     "end_date": 1581287400,
-                    "is_full": false
+                    "start_date": 1581276600
                 }
             ]
         },
@@ -20923,58 +21011,58 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1007926,
-                    "start_date": 1579960800,
                     "end_date": 1579971600,
-                    "is_full": false
+                    "start_date": 1579960800
                 },
                 {
+                    "is_full": false,
                     "id": 1007930,
-                    "start_date": 1579971600,
                     "end_date": 1579982400,
-                    "is_full": false
+                    "start_date": 1579971600
                 },
                 {
+                    "is_full": false,
                     "id": 1007934,
-                    "start_date": 1579982400,
                     "end_date": 1579993200,
-                    "is_full": false
+                    "start_date": 1579982400
                 },
                 {
+                    "is_full": false,
                     "id": 1007927,
-                    "start_date": 1580565600,
                     "end_date": 1580576400,
-                    "is_full": false
+                    "start_date": 1580565600
                 },
                 {
+                    "is_full": false,
                     "id": 1007931,
-                    "start_date": 1580576400,
                     "end_date": 1580587200,
-                    "is_full": false
+                    "start_date": 1580576400
                 },
                 {
+                    "is_full": false,
                     "id": 1007935,
-                    "start_date": 1580587200,
                     "end_date": 1580598000,
-                    "is_full": false
+                    "start_date": 1580587200
                 },
                 {
+                    "is_full": false,
                     "id": 1007928,
-                    "start_date": 1581170400,
                     "end_date": 1581181200,
-                    "is_full": false
+                    "start_date": 1581170400
                 },
                 {
+                    "is_full": false,
                     "id": 1007932,
-                    "start_date": 1581181200,
                     "end_date": 1581192000,
-                    "is_full": false
+                    "start_date": 1581181200
                 },
                 {
+                    "is_full": false,
                     "id": 1007936,
-                    "start_date": 1581192000,
                     "end_date": 1581202800,
-                    "is_full": false
+                    "start_date": 1581192000
                 }
             ]
         },
@@ -21005,10 +21093,10 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1073078,
-                    "start_date": 1579960800,
                     "end_date": 1579968000,
-                    "is_full": false
+                    "start_date": 1579960800
                 }
             ]
         },
@@ -21073,40 +21161,40 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1094993,
-                    "start_date": 1579960800,
                     "end_date": 1579971600,
-                    "is_full": false
+                    "start_date": 1579960800
                 },
                 {
+                    "is_full": false,
                     "id": 1094994,
-                    "start_date": 1579971600,
                     "end_date": 1579978800,
-                    "is_full": false
+                    "start_date": 1579971600
                 },
                 {
+                    "is_full": false,
                     "id": 1094995,
-                    "start_date": 1579978800,
                     "end_date": 1579986000,
-                    "is_full": false
+                    "start_date": 1579978800
                 },
                 {
+                    "is_full": false,
                     "id": 1094990,
-                    "start_date": 1580050800,
                     "end_date": 1580058000,
-                    "is_full": false
+                    "start_date": 1580050800
                 },
                 {
+                    "is_full": false,
                     "id": 1094991,
-                    "start_date": 1580058000,
                     "end_date": 1580065200,
-                    "is_full": false
+                    "start_date": 1580058000
                 },
                 {
+                    "is_full": false,
                     "id": 1094992,
-                    "start_date": 1580065200,
                     "end_date": 1580072400,
-                    "is_full": false
+                    "start_date": 1580065200
                 }
             ]
         },
@@ -21137,40 +21225,40 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1094999,
-                    "start_date": 1579960800,
                     "end_date": 1579971600,
-                    "is_full": false
+                    "start_date": 1579960800
                 },
                 {
+                    "is_full": false,
                     "id": 1095000,
-                    "start_date": 1579971600,
                     "end_date": 1579978800,
-                    "is_full": false
+                    "start_date": 1579971600
                 },
                 {
+                    "is_full": false,
                     "id": 1095001,
-                    "start_date": 1579978800,
                     "end_date": 1579986000,
-                    "is_full": false
+                    "start_date": 1579978800
                 },
                 {
+                    "is_full": false,
                     "id": 1094996,
-                    "start_date": 1580050800,
                     "end_date": 1580058000,
-                    "is_full": false
+                    "start_date": 1580050800
                 },
                 {
+                    "is_full": false,
                     "id": 1094997,
-                    "start_date": 1580058000,
                     "end_date": 1580065200,
-                    "is_full": false
+                    "start_date": 1580058000
                 },
                 {
+                    "is_full": false,
                     "id": 1094998,
-                    "start_date": 1580065200,
                     "end_date": 1580072400,
-                    "is_full": false
+                    "start_date": 1580065200
                 }
             ]
         },
@@ -21201,16 +21289,16 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1095036,
-                    "start_date": 1579960800,
                     "end_date": 1579971600,
-                    "is_full": false
+                    "start_date": 1579960800
                 },
                 {
+                    "is_full": false,
                     "id": 1095037,
-                    "start_date": 1580050800,
                     "end_date": 1580061600,
-                    "is_full": false
+                    "start_date": 1580050800
                 }
             ]
         },
@@ -21599,94 +21687,94 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 896991,
-                    "start_date": 1579959000,
                     "end_date": 1579968000,
-                    "is_full": false
+                    "start_date": 1579959000
                 },
                 {
+                    "is_full": false,
                     "id": 897001,
-                    "start_date": 1579968000,
                     "end_date": 1579978800,
-                    "is_full": false
+                    "start_date": 1579968000
                 },
                 {
+                    "is_full": false,
                     "id": 897011,
-                    "start_date": 1579978800,
                     "end_date": 1579989600,
-                    "is_full": false
+                    "start_date": 1579978800
                 },
                 {
+                    "is_full": false,
                     "id": 897021,
-                    "start_date": 1580056200,
                     "end_date": 1580065200,
-                    "is_full": false
+                    "start_date": 1580056200
                 },
                 {
+                    "is_full": false,
                     "id": 897031,
-                    "start_date": 1580065200,
                     "end_date": 1580076000,
-                    "is_full": false
+                    "start_date": 1580065200
                 },
                 {
+                    "is_full": false,
                     "id": 896992,
-                    "start_date": 1580563800,
                     "end_date": 1580572800,
-                    "is_full": false
+                    "start_date": 1580563800
                 },
                 {
+                    "is_full": false,
                     "id": 897002,
-                    "start_date": 1580572800,
                     "end_date": 1580583600,
-                    "is_full": false
+                    "start_date": 1580572800
                 },
                 {
+                    "is_full": false,
                     "id": 897012,
-                    "start_date": 1580583600,
                     "end_date": 1580594400,
-                    "is_full": false
+                    "start_date": 1580583600
                 },
                 {
+                    "is_full": false,
                     "id": 897022,
-                    "start_date": 1580661000,
                     "end_date": 1580670000,
-                    "is_full": false
+                    "start_date": 1580661000
                 },
                 {
+                    "is_full": false,
                     "id": 897032,
-                    "start_date": 1580670000,
                     "end_date": 1580680800,
-                    "is_full": false
+                    "start_date": 1580670000
                 },
                 {
+                    "is_full": false,
                     "id": 896993,
-                    "start_date": 1581168600,
                     "end_date": 1581177600,
-                    "is_full": false
+                    "start_date": 1581168600
                 },
                 {
+                    "is_full": false,
                     "id": 897003,
-                    "start_date": 1581177600,
                     "end_date": 1581188400,
-                    "is_full": false
+                    "start_date": 1581177600
                 },
                 {
+                    "is_full": false,
                     "id": 897013,
-                    "start_date": 1581188400,
                     "end_date": 1581199200,
-                    "is_full": false
+                    "start_date": 1581188400
                 },
                 {
+                    "is_full": false,
                     "id": 897023,
-                    "start_date": 1581265800,
                     "end_date": 1581274800,
-                    "is_full": false
+                    "start_date": 1581265800
                 },
                 {
+                    "is_full": false,
                     "id": 897033,
-                    "start_date": 1581274800,
                     "end_date": 1581285600,
-                    "is_full": false
+                    "start_date": 1581274800
                 }
             ]
         },
@@ -21717,94 +21805,94 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 897070,
-                    "start_date": 1579959000,
                     "end_date": 1579968000,
-                    "is_full": false
+                    "start_date": 1579959000
                 },
                 {
+                    "is_full": false,
                     "id": 897071,
-                    "start_date": 1579968000,
                     "end_date": 1579978800,
-                    "is_full": false
+                    "start_date": 1579968000
                 },
                 {
+                    "is_full": false,
                     "id": 897072,
-                    "start_date": 1579978800,
                     "end_date": 1579989600,
-                    "is_full": false
+                    "start_date": 1579978800
                 },
                 {
+                    "is_full": false,
                     "id": 897073,
-                    "start_date": 1580056200,
                     "end_date": 1580065200,
-                    "is_full": false
+                    "start_date": 1580056200
                 },
                 {
+                    "is_full": false,
                     "id": 897074,
-                    "start_date": 1580065200,
                     "end_date": 1580076000,
-                    "is_full": false
+                    "start_date": 1580065200
                 },
                 {
+                    "is_full": false,
                     "id": 897075,
-                    "start_date": 1580563800,
                     "end_date": 1580572800,
-                    "is_full": false
+                    "start_date": 1580563800
                 },
                 {
+                    "is_full": false,
                     "id": 897076,
-                    "start_date": 1580572800,
                     "end_date": 1580583600,
-                    "is_full": false
+                    "start_date": 1580572800
                 },
                 {
+                    "is_full": false,
                     "id": 897077,
-                    "start_date": 1580583600,
                     "end_date": 1580594400,
-                    "is_full": false
+                    "start_date": 1580583600
                 },
                 {
+                    "is_full": false,
                     "id": 897078,
-                    "start_date": 1580661000,
                     "end_date": 1580670000,
-                    "is_full": false
+                    "start_date": 1580661000
                 },
                 {
+                    "is_full": false,
                     "id": 897079,
-                    "start_date": 1580670000,
                     "end_date": 1580680800,
-                    "is_full": false
+                    "start_date": 1580670000
                 },
                 {
+                    "is_full": false,
                     "id": 897080,
-                    "start_date": 1581168600,
                     "end_date": 1581177600,
-                    "is_full": false
+                    "start_date": 1581168600
                 },
                 {
+                    "is_full": false,
                     "id": 897081,
-                    "start_date": 1581177600,
                     "end_date": 1581188400,
-                    "is_full": false
+                    "start_date": 1581177600
                 },
                 {
+                    "is_full": false,
                     "id": 897082,
-                    "start_date": 1581188400,
                     "end_date": 1581199200,
-                    "is_full": false
+                    "start_date": 1581188400
                 },
                 {
+                    "is_full": false,
                     "id": 897083,
-                    "start_date": 1581265800,
                     "end_date": 1581274800,
-                    "is_full": false
+                    "start_date": 1581265800
                 },
                 {
+                    "is_full": false,
                     "id": 897084,
-                    "start_date": 1581274800,
                     "end_date": 1581285600,
-                    "is_full": false
+                    "start_date": 1581274800
                 }
             ]
         },
@@ -23475,22 +23563,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1084408,
-                    "start_date": 1579906800,
                     "end_date": 1579914000,
-                    "is_full": false
+                    "start_date": 1579906800
                 },
                 {
+                    "is_full": false,
                     "id": 1084409,
-                    "start_date": 1580511600,
                     "end_date": 1580518800,
-                    "is_full": false
+                    "start_date": 1580511600
                 },
                 {
+                    "is_full": false,
                     "id": 1084410,
-                    "start_date": 1581116400,
                     "end_date": 1581123600,
-                    "is_full": false
+                    "start_date": 1581116400
                 }
             ]
         },
@@ -23521,22 +23609,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1084393,
-                    "start_date": 1579906800,
                     "end_date": 1579912200,
-                    "is_full": false
+                    "start_date": 1579906800
                 },
                 {
+                    "is_full": false,
                     "id": 1084394,
-                    "start_date": 1580511600,
                     "end_date": 1580517000,
-                    "is_full": false
+                    "start_date": 1580511600
                 },
                 {
+                    "is_full": false,
                     "id": 1084395,
-                    "start_date": 1581116400,
                     "end_date": 1581121800,
-                    "is_full": false
+                    "start_date": 1581116400
                 }
             ]
         },
@@ -23567,22 +23655,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1084404,
-                    "start_date": 1579906800,
                     "end_date": 1579914000,
-                    "is_full": false
+                    "start_date": 1579906800
                 },
                 {
+                    "is_full": false,
                     "id": 1084405,
-                    "start_date": 1580511600,
                     "end_date": 1580518800,
-                    "is_full": false
+                    "start_date": 1580511600
                 },
                 {
+                    "is_full": false,
                     "id": 1084406,
-                    "start_date": 1581116400,
                     "end_date": 1581123600,
-                    "is_full": false
+                    "start_date": 1581116400
                 }
             ]
         },
@@ -23693,22 +23781,22 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 983462,
-                    "start_date": 1579905000,
                     "end_date": 1579912200,
-                    "is_full": false
+                    "start_date": 1579905000
                 },
                 {
+                    "is_full": false,
                     "id": 983463,
-                    "start_date": 1580509800,
                     "end_date": 1580517000,
-                    "is_full": false
+                    "start_date": 1580509800
                 },
                 {
+                    "is_full": false,
                     "id": 983464,
-                    "start_date": 1581114600,
                     "end_date": 1581121800,
-                    "is_full": false
+                    "start_date": 1581114600
                 }
             ]
         },
@@ -30217,256 +30305,256 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 993497,
-                    "start_date": 1579710600,
                     "end_date": 1579719600,
-                    "is_full": false
+                    "start_date": 1579710600
                 },
                 {
+                    "is_full": false,
                     "id": 993541,
-                    "start_date": 1579719600,
                     "end_date": 1579730400,
-                    "is_full": false
+                    "start_date": 1579719600
                 },
                 {
+                    "is_full": false,
                     "id": 993498,
-                    "start_date": 1579797000,
                     "end_date": 1579806000,
-                    "is_full": false
+                    "start_date": 1579797000
                 },
                 {
+                    "is_full": false,
                     "id": 993542,
-                    "start_date": 1579806000,
                     "end_date": 1579816800,
-                    "is_full": false
+                    "start_date": 1579806000
                 },
                 {
+                    "is_full": false,
                     "id": 993499,
-                    "start_date": 1579883400,
                     "end_date": 1579892400,
-                    "is_full": false
+                    "start_date": 1579883400
                 },
                 {
+                    "is_full": false,
                     "id": 993543,
-                    "start_date": 1579892400,
                     "end_date": 1579903200,
-                    "is_full": false
+                    "start_date": 1579892400
                 },
                 {
+                    "is_full": false,
                     "id": 993500,
-                    "start_date": 1579969800,
                     "end_date": 1579978800,
-                    "is_full": false
+                    "start_date": 1579969800
                 },
                 {
+                    "is_full": false,
                     "id": 993544,
-                    "start_date": 1579978800,
                     "end_date": 1579989600,
-                    "is_full": false
+                    "start_date": 1579978800
                 },
                 {
+                    "is_full": false,
                     "id": 993501,
-                    "start_date": 1580056200,
                     "end_date": 1580065200,
-                    "is_full": false
+                    "start_date": 1580056200
                 },
                 {
+                    "is_full": false,
                     "id": 993545,
-                    "start_date": 1580065200,
                     "end_date": 1580076000,
-                    "is_full": false
+                    "start_date": 1580065200
                 },
                 {
+                    "is_full": false,
                     "id": 993502,
-                    "start_date": 1580142600,
                     "end_date": 1580151600,
-                    "is_full": false
+                    "start_date": 1580142600
                 },
                 {
+                    "is_full": false,
                     "id": 993546,
-                    "start_date": 1580151600,
                     "end_date": 1580162400,
-                    "is_full": false
+                    "start_date": 1580151600
                 },
                 {
+                    "is_full": false,
                     "id": 993503,
-                    "start_date": 1580229000,
                     "end_date": 1580238000,
-                    "is_full": false
+                    "start_date": 1580229000
                 },
                 {
+                    "is_full": false,
                     "id": 993547,
-                    "start_date": 1580238000,
                     "end_date": 1580248800,
-                    "is_full": false
+                    "start_date": 1580238000
                 },
                 {
+                    "is_full": false,
                     "id": 993504,
-                    "start_date": 1580315400,
                     "end_date": 1580324400,
-                    "is_full": false
+                    "start_date": 1580315400
                 },
                 {
+                    "is_full": false,
                     "id": 993548,
-                    "start_date": 1580324400,
                     "end_date": 1580335200,
-                    "is_full": false
+                    "start_date": 1580324400
                 },
                 {
+                    "is_full": false,
                     "id": 993505,
-                    "start_date": 1580401800,
                     "end_date": 1580410800,
-                    "is_full": false
+                    "start_date": 1580401800
                 },
                 {
+                    "is_full": false,
                     "id": 993549,
-                    "start_date": 1580410800,
                     "end_date": 1580421600,
-                    "is_full": false
+                    "start_date": 1580410800
                 },
                 {
+                    "is_full": false,
                     "id": 993506,
-                    "start_date": 1580488200,
                     "end_date": 1580497200,
-                    "is_full": false
+                    "start_date": 1580488200
                 },
                 {
+                    "is_full": false,
                     "id": 993550,
-                    "start_date": 1580497200,
                     "end_date": 1580508000,
-                    "is_full": false
+                    "start_date": 1580497200
                 },
                 {
+                    "is_full": false,
                     "id": 993507,
-                    "start_date": 1580574600,
                     "end_date": 1580583600,
-                    "is_full": false
+                    "start_date": 1580574600
                 },
                 {
+                    "is_full": false,
                     "id": 993551,
-                    "start_date": 1580583600,
                     "end_date": 1580594400,
-                    "is_full": false
+                    "start_date": 1580583600
                 },
                 {
+                    "is_full": false,
                     "id": 993508,
-                    "start_date": 1580661000,
                     "end_date": 1580670000,
-                    "is_full": false
+                    "start_date": 1580661000
                 },
                 {
+                    "is_full": false,
                     "id": 993552,
-                    "start_date": 1580670000,
                     "end_date": 1580680800,
-                    "is_full": false
+                    "start_date": 1580670000
                 },
                 {
+                    "is_full": false,
                     "id": 993509,
-                    "start_date": 1580747400,
                     "end_date": 1580756400,
-                    "is_full": false
+                    "start_date": 1580747400
                 },
                 {
+                    "is_full": false,
                     "id": 993553,
-                    "start_date": 1580756400,
                     "end_date": 1580767200,
-                    "is_full": false
+                    "start_date": 1580756400
                 },
                 {
+                    "is_full": false,
                     "id": 993510,
-                    "start_date": 1580833800,
                     "end_date": 1580842800,
-                    "is_full": false
+                    "start_date": 1580833800
                 },
                 {
+                    "is_full": false,
                     "id": 993554,
-                    "start_date": 1580842800,
                     "end_date": 1580853600,
-                    "is_full": false
+                    "start_date": 1580842800
                 },
                 {
+                    "is_full": false,
                     "id": 993511,
-                    "start_date": 1580920200,
                     "end_date": 1580929200,
-                    "is_full": false
+                    "start_date": 1580920200
                 },
                 {
+                    "is_full": false,
                     "id": 993555,
-                    "start_date": 1580929200,
                     "end_date": 1580940000,
-                    "is_full": false
+                    "start_date": 1580929200
                 },
                 {
+                    "is_full": false,
                     "id": 993512,
-                    "start_date": 1581006600,
                     "end_date": 1581015600,
-                    "is_full": false
+                    "start_date": 1581006600
                 },
                 {
+                    "is_full": false,
                     "id": 993556,
-                    "start_date": 1581015600,
                     "end_date": 1581026400,
-                    "is_full": false
+                    "start_date": 1581015600
                 },
                 {
+                    "is_full": false,
                     "id": 993513,
-                    "start_date": 1581093000,
                     "end_date": 1581102000,
-                    "is_full": false
+                    "start_date": 1581093000
                 },
                 {
+                    "is_full": false,
                     "id": 993557,
-                    "start_date": 1581102000,
                     "end_date": 1581112800,
-                    "is_full": false
+                    "start_date": 1581102000
                 },
                 {
+                    "is_full": false,
                     "id": 993514,
-                    "start_date": 1581179400,
                     "end_date": 1581188400,
-                    "is_full": false
+                    "start_date": 1581179400
                 },
                 {
+                    "is_full": false,
                     "id": 993558,
-                    "start_date": 1581188400,
                     "end_date": 1581199200,
-                    "is_full": false
+                    "start_date": 1581188400
                 },
                 {
+                    "is_full": false,
                     "id": 993515,
-                    "start_date": 1581265800,
                     "end_date": 1581274800,
-                    "is_full": false
+                    "start_date": 1581265800
                 },
                 {
+                    "is_full": false,
                     "id": 993559,
-                    "start_date": 1581274800,
                     "end_date": 1581285600,
-                    "is_full": false
+                    "start_date": 1581274800
                 },
                 {
+                    "is_full": false,
                     "id": 993516,
-                    "start_date": 1581352200,
                     "end_date": 1581361200,
-                    "is_full": false
+                    "start_date": 1581352200
                 },
                 {
+                    "is_full": false,
                     "id": 993560,
-                    "start_date": 1581361200,
                     "end_date": 1581372000,
-                    "is_full": false
+                    "start_date": 1581361200
                 },
                 {
+                    "is_full": false,
                     "id": 993517,
-                    "start_date": 1581438600,
                     "end_date": 1581447600,
-                    "is_full": false
+                    "start_date": 1581438600
                 },
                 {
+                    "is_full": false,
                     "id": 993561,
-                    "start_date": 1581447600,
                     "end_date": 1581458400,
-                    "is_full": false
+                    "start_date": 1581447600
                 }
             ]
         },
@@ -35695,274 +35783,274 @@
             "timezone": "America/New_York",
             "timeslots": [
                 {
+                    "is_full": false,
                     "id": 1101440,
-                    "start_date": 1579708800,
                     "end_date": 1579719600,
-                    "is_full": false
+                    "start_date": 1579708800
                 },
                 {
+                    "is_full": false,
                     "id": 1101462,
-                    "start_date": 1579719600,
                     "end_date": 1579728600,
-                    "is_full": false
+                    "start_date": 1579719600
                 },
                 {
+                    "is_full": false,
                     "id": 1101441,
-                    "start_date": 1579795200,
                     "end_date": 1579806000,
-                    "is_full": false
+                    "start_date": 1579795200
                 },
                 {
+                    "is_full": false,
                     "id": 1101463,
-                    "start_date": 1579806000,
                     "end_date": 1579815000,
-                    "is_full": false
+                    "start_date": 1579806000
                 },
                 {
+                    "is_full": false,
                     "id": 1101442,
-                    "start_date": 1579881600,
                     "end_date": 1579892400,
-                    "is_full": false
+                    "start_date": 1579881600
                 },
                 {
+                    "is_full": false,
                     "id": 1101464,
-                    "start_date": 1579892400,
                     "end_date": 1579901400,
-                    "is_full": false
+                    "start_date": 1579892400
                 },
                 {
+                    "is_full": false,
                     "id": 1101483,
-                    "start_date": 1579960800,
                     "end_date": 1579968000,
-                    "is_full": false
+                    "start_date": 1579960800
                 },
                 {
+                    "is_full": false,
                     "id": 1101443,
-                    "start_date": 1579968000,
                     "end_date": 1579978800,
-                    "is_full": false
+                    "start_date": 1579968000
                 },
                 {
+                    "is_full": false,
                     "id": 1101465,
-                    "start_date": 1579978800,
                     "end_date": 1579987800,
-                    "is_full": false
+                    "start_date": 1579978800
                 },
                 {
+                    "is_full": false,
                     "id": 1101444,
-                    "start_date": 1580054400,
                     "end_date": 1580065200,
-                    "is_full": false
+                    "start_date": 1580054400
                 },
                 {
+                    "is_full": false,
                     "id": 1101466,
-                    "start_date": 1580065200,
                     "end_date": 1580074200,
-                    "is_full": false
+                    "start_date": 1580065200
                 },
                 {
+                    "is_full": false,
                     "id": 1101445,
-                    "start_date": 1580140800,
                     "end_date": 1580151600,
-                    "is_full": false
+                    "start_date": 1580140800
                 },
                 {
+                    "is_full": false,
                     "id": 1101467,
-                    "start_date": 1580151600,
                     "end_date": 1580160600,
-                    "is_full": false
+                    "start_date": 1580151600
                 },
                 {
+                    "is_full": false,
                     "id": 1101446,
-                    "start_date": 1580227200,
                     "end_date": 1580238000,
-                    "is_full": false
+                    "start_date": 1580227200
                 },
                 {
+                    "is_full": false,
                     "id": 1101468,
-                    "start_date": 1580238000,
                     "end_date": 1580247000,
-                    "is_full": false
+                    "start_date": 1580238000
                 },
                 {
+                    "is_full": false,
                     "id": 1101447,
-                    "start_date": 1580313600,
                     "end_date": 1580324400,
-                    "is_full": false
+                    "start_date": 1580313600
                 },
                 {
+                    "is_full": false,
                     "id": 1101469,
-                    "start_date": 1580324400,
                     "end_date": 1580333400,
-                    "is_full": false
+                    "start_date": 1580324400
                 },
                 {
+                    "is_full": false,
                     "id": 1101448,
-                    "start_date": 1580400000,
                     "end_date": 1580410800,
-                    "is_full": false
+                    "start_date": 1580400000
                 },
                 {
+                    "is_full": false,
                     "id": 1101470,
-                    "start_date": 1580410800,
                     "end_date": 1580419800,
-                    "is_full": false
+                    "start_date": 1580410800
                 },
                 {
+                    "is_full": false,
                     "id": 1101449,
-                    "start_date": 1580486400,
                     "end_date": 1580497200,
-                    "is_full": false
+                    "start_date": 1580486400
                 },
                 {
+                    "is_full": false,
                     "id": 1101471,
-                    "start_date": 1580497200,
                     "end_date": 1580506200,
-                    "is_full": false
+                    "start_date": 1580497200
                 },
                 {
+                    "is_full": false,
                     "id": 1101484,
-                    "start_date": 1580565600,
                     "end_date": 1580572800,
-                    "is_full": false
+                    "start_date": 1580565600
                 },
                 {
+                    "is_full": false,
                     "id": 1101450,
-                    "start_date": 1580572800,
                     "end_date": 1580583600,
-                    "is_full": false
+                    "start_date": 1580572800
                 },
                 {
+                    "is_full": false,
                     "id": 1101472,
-                    "start_date": 1580583600,
                     "end_date": 1580592600,
-                    "is_full": false
+                    "start_date": 1580583600
                 },
                 {
+                    "is_full": false,
                     "id": 1101451,
-                    "start_date": 1580659200,
                     "end_date": 1580670000,
-                    "is_full": false
+                    "start_date": 1580659200
                 },
                 {
+                    "is_full": false,
                     "id": 1101473,
-                    "start_date": 1580670000,
                     "end_date": 1580679000,
-                    "is_full": false
+                    "start_date": 1580670000
                 },
                 {
+                    "is_full": false,
                     "id": 1101452,
-                    "start_date": 1580745600,
                     "end_date": 1580756400,
-                    "is_full": false
+                    "start_date": 1580745600
                 },
                 {
+                    "is_full": false,
                     "id": 1101474,
-                    "start_date": 1580756400,
                     "end_date": 1580765400,
-                    "is_full": false
+                    "start_date": 1580756400
                 },
                 {
+                    "is_full": false,
                     "id": 1101453,
-                    "start_date": 1580832000,
                     "end_date": 1580842800,
-                    "is_full": false
+                    "start_date": 1580832000
                 },
                 {
+                    "is_full": false,
                     "id": 1101475,
-                    "start_date": 1580842800,
                     "end_date": 1580851800,
-                    "is_full": false
+                    "start_date": 1580842800
                 },
                 {
+                    "is_full": false,
                     "id": 1101454,
-                    "start_date": 1580918400,
                     "end_date": 1580929200,
-                    "is_full": false
+                    "start_date": 1580918400
                 },
                 {
+                    "is_full": false,
                     "id": 1101476,
-                    "start_date": 1580929200,
                     "end_date": 1580938200,
-                    "is_full": false
+                    "start_date": 1580929200
                 },
                 {
+                    "is_full": false,
                     "id": 1101455,
-                    "start_date": 1581004800,
                     "end_date": 1581015600,
-                    "is_full": false
+                    "start_date": 1581004800
                 },
                 {
+                    "is_full": false,
                     "id": 1101477,
-                    "start_date": 1581015600,
                     "end_date": 1581024600,
-                    "is_full": false
+                    "start_date": 1581015600
                 },
                 {
+                    "is_full": false,
                     "id": 1101456,
-                    "start_date": 1581091200,
                     "end_date": 1581102000,
-                    "is_full": false
+                    "start_date": 1581091200
                 },
                 {
+                    "is_full": false,
                     "id": 1101478,
-                    "start_date": 1581102000,
                     "end_date": 1581111000,
-                    "is_full": false
+                    "start_date": 1581102000
                 },
                 {
+                    "is_full": false,
                     "id": 1101485,
-                    "start_date": 1581170400,
                     "end_date": 1581177600,
-                    "is_full": false
+                    "start_date": 1581170400
                 },
                 {
+                    "is_full": false,
                     "id": 1101457,
-                    "start_date": 1581177600,
                     "end_date": 1581188400,
-                    "is_full": false
+                    "start_date": 1581177600
                 },
                 {
+                    "is_full": false,
                     "id": 1101479,
-                    "start_date": 1581188400,
                     "end_date": 1581197400,
-                    "is_full": false
+                    "start_date": 1581188400
                 },
                 {
+                    "is_full": false,
                     "id": 1101458,
-                    "start_date": 1581264000,
                     "end_date": 1581274800,
-                    "is_full": false
+                    "start_date": 1581264000
                 },
                 {
+                    "is_full": false,
                     "id": 1101480,
-                    "start_date": 1581274800,
                     "end_date": 1581283800,
-                    "is_full": false
+                    "start_date": 1581274800
                 },
                 {
+                    "is_full": false,
                     "id": 1101459,
-                    "start_date": 1581350400,
                     "end_date": 1581361200,
-                    "is_full": false
+                    "start_date": 1581350400
                 },
                 {
+                    "is_full": false,
                     "id": 1101481,
-                    "start_date": 1581361200,
                     "end_date": 1581370200,
-                    "is_full": false
+                    "start_date": 1581361200
                 },
                 {
+                    "is_full": false,
                     "id": 1101460,
-                    "start_date": 1581436800,
                     "end_date": 1581447600,
-                    "is_full": false
+                    "start_date": 1581436800
                 },
                 {
+                    "is_full": false,
                     "id": 1101482,
-                    "start_date": 1581447600,
                     "end_date": 1581456600,
-                    "is_full": false
+                    "start_date": 1581447600
                 }
             ]
         },
