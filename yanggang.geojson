@@ -1,5 +1,5 @@
 {
-    "updated": 1579870276.4029653,
+    "updated": 1579870875.2678916,
     "type": "FeatureCollection",
     "features": [
         {
@@ -18314,14 +18314,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "BERKELEY, CA - UC Berkeley Yang Gang First Meeting",
+                "Title": "SF, CA - Yang Gang Hang + Phonebank Training",
                 "Type": "MEETING",
                 "Host": "Volunteer",
                 "Time": "Wed, Jan 29, 7:00PM-8:00PM PST",
-                "Venue": "Maximino Martinez Commons",
-                "Address": "2520 Channing Way<br>Candor Lounge<br>Berkeley, CA 94720",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/205513/\">Mobilize US</a>",
-                "Description": "UC Berkeley's Not Left, Not Right, Forward will be hosting our first meeting of the year.   Come to Maximino Martinez Commons Wednesday the 29th at 7pm to learn more about how you can get involved, tabling opportunities, canvassing events, and more! <br>Everyone in the Berkeley and local communities are welcome to join. We'll have snacks.",
+                "Venue": "Standard Deviant Brewing",
+                "Address": "280 14th St<br>San Francisco, CA 94103",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/210594/\">Mobilize US</a>",
+                "Description": "We'll be making buttons, folding brochures, and updating on upcoming volunteer opportunities.<br>Also, if you don't already know how to phonebank, we will train you.<br><br>As usual, we will meet at Standard Deviant Brewing at 7 PM. Look for MATH Hats!",
                 "TimeStart": 1580353200,
                 "TimeEnd": 1580356800,
                 "marker-color": "#F2A00F",
@@ -18331,8 +18331,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.2576087,
-                    37.8667623
+                    -122.419455,
+                    37.768473
                 ]
             },
             "timezone": "America/Los_Angeles",
@@ -18340,7 +18340,7 @@
                 {
                     "is_full": false,
                     "end_date": 1580356800,
-                    "id": 1094942,
+                    "id": 1114053,
                     "start_date": 1580353200
                 }
             ]
@@ -18382,6 +18382,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "BERKELEY, CA - UC Berkeley Yang Gang First Meeting",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Wed, Jan 29, 7:00PM-8:00PM PST",
+                "Venue": "Maximino Martinez Commons",
+                "Address": "2520 Channing Way<br>Candor Lounge<br>Berkeley, CA 94720",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/205513/\">Mobilize US</a>",
+                "Description": "UC Berkeley's Not Left, Not Right, Forward will be hosting our first meeting of the year.   Come to Maximino Martinez Commons Wednesday the 29th at 7pm to learn more about how you can get involved, tabling opportunities, canvassing events, and more! <br>Everyone in the Berkeley and local communities are welcome to join. We'll have snacks.",
+                "TimeStart": 1580353200,
+                "TimeEnd": 1580356800,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2576087,
+                    37.8667623
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "end_date": 1580356800,
+                    "id": 1094942,
+                    "start_date": 1580353200
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Ventura, CA - Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -18409,40 +18443,6 @@
                     "is_full": false,
                     "end_date": 1580356800,
                     "id": 1114618,
-                    "start_date": 1580353200
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "SF, CA - Yang Gang Hang + Phonebank Training",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Wed, Jan 29, 7:00PM-8:00PM PST",
-                "Venue": "Standard Deviant Brewing",
-                "Address": "280 14th St<br>San Francisco, CA 94103",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/210594/\">Mobilize US</a>",
-                "Description": "We'll be making buttons, folding brochures, and updating on upcoming volunteer opportunities.<br>Also, if you don't already know how to phonebank, we will train you.<br><br>As usual, we will meet at Standard Deviant Brewing at 7 PM. Look for MATH Hats!",
-                "TimeStart": 1580353200,
-                "TimeEnd": 1580356800,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.419455,
-                    37.768473
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "end_date": 1580356800,
-                    "id": 1114053,
                     "start_date": 1580353200
                 }
             ]
@@ -19394,6 +19394,70 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Weekly National Yang Gang Volunteer Livestream (for CA calendar)",
+                "Type": "TRAINING",
+                "Host": "Campaign",
+                "Time": "Tue, Jan 28, 6:30PM-7:30PM PST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Sacramento, CA 95814",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166735/\">Mobilize US</a>",
+                "Description": "This is a virtual Zoom call.<br><br>A campaign update for all Yang Gang volunteers, run by campaign HQ.",
+                "TimeStart": 1580265000,
+                "TimeEnd": 1580268600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.49558999999999,
+                    38.580568
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "end_date": 1580268600,
+                    "id": 897838,
+                    "start_date": 1580265000
+                },
+                {
+                    "is_full": false,
+                    "end_date": 1580873400,
+                    "id": 897839,
+                    "start_date": 1580869800
+                },
+                {
+                    "is_full": false,
+                    "end_date": 1581478200,
+                    "id": 897840,
+                    "start_date": 1581474600
+                },
+                {
+                    "is_full": false,
+                    "end_date": 1582083000,
+                    "id": 897841,
+                    "start_date": 1582079400
+                },
+                {
+                    "is_full": false,
+                    "end_date": 1582687800,
+                    "id": 897842,
+                    "start_date": 1582684200
+                },
+                {
+                    "is_full": false,
+                    "end_date": 1583292600,
+                    "id": 897843,
+                    "start_date": 1583289000
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Weekly Yang Gang Volunteer Livestream",
                 "Type": "OTHER",
                 "Host": "Campaign",
@@ -19662,70 +19726,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Weekly National Yang Gang Volunteer Livestream (for CA calendar)",
-                "Type": "TRAINING",
-                "Host": "Campaign",
-                "Time": "Tue, Jan 28, 6:30PM-7:30PM PST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Sacramento, CA 95814",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/166735/\">Mobilize US</a>",
-                "Description": "This is a virtual Zoom call.<br><br>A campaign update for all Yang Gang volunteers, run by campaign HQ.",
-                "TimeStart": 1580265000,
-                "TimeEnd": 1580268600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.49558999999999,
-                    38.580568
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "end_date": 1580268600,
-                    "id": 897838,
-                    "start_date": 1580265000
-                },
-                {
-                    "is_full": false,
-                    "end_date": 1580873400,
-                    "id": 897839,
-                    "start_date": 1580869800
-                },
-                {
-                    "is_full": false,
-                    "end_date": 1581478200,
-                    "id": 897840,
-                    "start_date": 1581474600
-                },
-                {
-                    "is_full": false,
-                    "end_date": 1582083000,
-                    "id": 897841,
-                    "start_date": 1582079400
-                },
-                {
-                    "is_full": false,
-                    "end_date": 1582687800,
-                    "id": 897842,
-                    "start_date": 1582684200
-                },
-                {
-                    "is_full": false,
-                    "end_date": 1583292600,
-                    "id": 897843,
-                    "start_date": 1583289000
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Eugene, OR - Yang Gang Hang",
                 "Type": "MEETING",
                 "Host": "Volunteer",
@@ -19818,33 +19818,33 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Castle Rock, CO - Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Campaign",
-                "Time": "Tue, Jan 28, 6:00PM-8:00PM MST",
-                "Venue": "Granelli\u2019s \ud83c\udf55Pizzeria",
-                "Address": "21 Wilcox St Ste A<br>Castle Rock, CO 80104",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175266/\">Mobilize US</a>",
-                "Description": "Weekly meetup, come out meet fellow yang gang people, play games, and prepare canvassing materials.   Find out what local volunteer opportunities there are and how you can get involved.  Find out what major events we are hosting in Colorado.",
+                "Title": "Arlington, VA - Yang Gang Hang",
+                "Type": "COMMUNITY",
+                "Host": "Volunteer",
+                "Time": "Tue, Jan 28, 8:00PM-11:00PM EST",
+                "Venue": "O'Sullivan's Irish Pub",
+                "Address": "3207 Washington Blvd<br>Arlington, VA 22201",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/183238/\">Mobilize US</a>",
+                "Description": "Tuesday, January 28th at 8:00PM to 11:00PM<br><br>Join the NOVA for Yang Group for Karaoke  and Text Banking!<br><br>We Will be meeting at O Sullivan\u2019s Restaurant in Clarendon for a very good time, karoke begins at 9pm!<br><br>Make sure to bring a charged up tablet or phone for text banking!<br><br>Texting Instructions: http://bit.ly/35Qhi9Q Video: http://bit.ly/2pzrPpl<br><br>(it willl take about an hour to study up then you take a quiz before you get approved to send texts)<br><br>YOU CAN JOIN & SHARE MORE FACEBOOK EVENTS ON OUR OFFICIAL \"VIRGINIA FOR ANDREW YANG\" FACEBOOK PAGE: https://www.facebook.com/VAforYang/events<br><br>JOIN OUR NORTHERN VIRGINIA YANG GANG FACEBOOK GROUP: https://www.facebook.com/groups/novayanggang",
                 "TimeStart": 1580259600,
-                "TimeEnd": 1580266800,
+                "TimeEnd": 1580270400,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.8604434,
-                    39.3699721
+                    -77.0971856,
+                    38.8861822
                 ]
             },
-            "timezone": "America/Denver",
+            "timezone": "America/New_York",
             "timeslots": [
                 {
                     "is_full": false,
-                    "end_date": 1580266800,
-                    "id": 943574,
+                    "end_date": 1580270400,
+                    "id": 983533,
                     "start_date": 1580259600
                 }
             ]
@@ -19892,7 +19892,7 @@
                 "Time": "Tue, Jan 28, 7:00PM-8:00PM CST",
                 "Venue": "Iowa Memorial Union",
                 "Address": "125 N Madison St<br>Rm. 349<br>Iowa City, IA 52242",
-                "Sign Up": "<a href=\"https://www.mobilize.us/iowaforyang/event/155457/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/155457/\">Mobilize US</a>",
                 "Description": "Humanity First. We need a big voice to match big ideas. Come and help each other be stronger Yang advocates!<br><br>Each session will bring Yang Gang together in order to further refine discussing Andrew's ideas and vision for the country.<br><br>Tuesday and Thursday sessions are identical, they're just different groups.",
                 "TimeStart": 1580259600,
                 "TimeEnd": 1580263200,
@@ -19932,7 +19932,7 @@
                 "Time": "Tue, Jan 28, 7:00PM-8:00PM CST",
                 "Venue": "Iowa Memorial Union",
                 "Address": "125 N Madison St<br>Rm. 349<br>Iowa City, IA 52242",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/155457/\">Mobilize US</a>",
+                "Sign Up": "<a href=\"https://www.mobilize.us/iowaforyang/event/155457/\">Mobilize US</a>",
                 "Description": "Humanity First. We need a big voice to match big ideas. Come and help each other be stronger Yang advocates!<br><br>Each session will bring Yang Gang together in order to further refine discussing Andrew's ideas and vision for the country.<br><br>Tuesday and Thursday sessions are identical, they're just different groups.",
                 "TimeStart": 1580259600,
                 "TimeEnd": 1580263200,
@@ -19966,33 +19966,33 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Arlington, VA - Yang Gang Hang",
-                "Type": "COMMUNITY",
-                "Host": "Volunteer",
-                "Time": "Tue, Jan 28, 8:00PM-11:00PM EST",
-                "Venue": "O'Sullivan's Irish Pub",
-                "Address": "3207 Washington Blvd<br>Arlington, VA 22201",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/183238/\">Mobilize US</a>",
-                "Description": "Tuesday, January 28th at 8:00PM to 11:00PM<br><br>Join the NOVA for Yang Group for Karaoke  and Text Banking!<br><br>We Will be meeting at O Sullivan\u2019s Restaurant in Clarendon for a very good time, karoke begins at 9pm!<br><br>Make sure to bring a charged up tablet or phone for text banking!<br><br>Texting Instructions: http://bit.ly/35Qhi9Q Video: http://bit.ly/2pzrPpl<br><br>(it willl take about an hour to study up then you take a quiz before you get approved to send texts)<br><br>YOU CAN JOIN & SHARE MORE FACEBOOK EVENTS ON OUR OFFICIAL \"VIRGINIA FOR ANDREW YANG\" FACEBOOK PAGE: https://www.facebook.com/VAforYang/events<br><br>JOIN OUR NORTHERN VIRGINIA YANG GANG FACEBOOK GROUP: https://www.facebook.com/groups/novayanggang",
+                "Title": "Castle Rock, CO - Yang Gang Hang",
+                "Type": "MEETING",
+                "Host": "Campaign",
+                "Time": "Tue, Jan 28, 6:00PM-8:00PM MST",
+                "Venue": "Granelli\u2019s \ud83c\udf55Pizzeria",
+                "Address": "21 Wilcox St Ste A<br>Castle Rock, CO 80104",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/175266/\">Mobilize US</a>",
+                "Description": "Weekly meetup, come out meet fellow yang gang people, play games, and prepare canvassing materials.   Find out what local volunteer opportunities there are and how you can get involved.  Find out what major events we are hosting in Colorado.",
                 "TimeStart": 1580259600,
-                "TimeEnd": 1580270400,
+                "TimeEnd": 1580266800,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "",
+                "marker-symbol": "c",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.0971856,
-                    38.8861822
+                    -104.8604434,
+                    39.3699721
                 ]
             },
-            "timezone": "America/New_York",
+            "timezone": "America/Denver",
             "timeslots": [
                 {
                     "is_full": false,
-                    "end_date": 1580270400,
-                    "id": 983533,
+                    "end_date": 1580266800,
+                    "id": 943574,
                     "start_date": 1580259600
                 }
             ]
@@ -20533,52 +20533,6 @@
                 "Title": "New England YGRO Office Hours",
                 "Type": "TRAINING",
                 "Host": "Campaign",
-                "Time": "Tue, Jan 28, 4:00PM-8:30PM EST",
-                "Venue": "A Computer Near You - Zoom - https://zoom.us/j/6223987382",
-                "Address": "<br>Concord, NH 03301",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/193089/\">Mobilize US</a>",
-                "Description": "Need some help with a project you are working on or looking for ways to help in general? Jump on the New England YGRO Office Hours zoom, lead by Yenni. No issue is too small, no problem too large, that we can't get it fixed/planned together (including discussing any possible need to escalate to staff)<br><br>Working on something and want some camaraderie while doing so? You're welcome to jump on too! Lets Yang together!<br><br>Join us at: https://zoom.us/j/6223987382",
-                "TimeStart": 1580245200,
-                "TimeEnd": 1580261400,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.5486562,
-                    43.2086343
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "is_full": false,
-                    "end_date": 1580261400,
-                    "id": 1031317,
-                    "start_date": 1580245200
-                },
-                {
-                    "is_full": false,
-                    "end_date": 1580866200,
-                    "id": 1031318,
-                    "start_date": 1580850000
-                },
-                {
-                    "is_full": false,
-                    "end_date": 1581471000,
-                    "id": 1031319,
-                    "start_date": 1581454800
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "New England YGRO Office Hours",
-                "Type": "TRAINING",
-                "Host": "Campaign",
                 "Time": "Tue, Jan 28, 4:00PM-7:00PM EST",
                 "Venue": "A Computer Near You - Zoom - https://zoom.us/j/6223987382",
                 "Address": "<br>Worcester, MA 01613",
@@ -20615,6 +20569,98 @@
                     "is_full": false,
                     "end_date": 1581465600,
                     "id": 1031326,
+                    "start_date": 1581454800
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "New England YGRO Office Hours",
+                "Type": "TRAINING",
+                "Host": "Campaign",
+                "Time": "Tue, Jan 28, 4:00PM-8:00PM EST",
+                "Venue": "A Computer Near You - Zoom - https://zoom.us/j/6223987382",
+                "Address": "<br>Providence, RI 02903",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/193097/\">Mobilize US</a>",
+                "Description": "Need some help with a project you are working on or looking for ways to help in general? Jump on the New England YGRO Office Hours zoom, lead by Yenni. No issue is too small, no problem too large, that we can't get it fixed/planned together (including discussing any possible need to escalate to staff)<br><br>Working on something and want some camaraderie while doing so? You're welcome to jump on too! Lets Yang together!<br><br>Join us at: https://zoom.us/j/6223987382",
+                "TimeStart": 1580245200,
+                "TimeEnd": 1580259600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4091563,
+                    41.816736
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "end_date": 1580259600,
+                    "id": 1031356,
+                    "start_date": 1580245200
+                },
+                {
+                    "is_full": false,
+                    "end_date": 1580864400,
+                    "id": 1031357,
+                    "start_date": 1580850000
+                },
+                {
+                    "is_full": false,
+                    "end_date": 1581469200,
+                    "id": 1031358,
+                    "start_date": 1581454800
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "New England YGRO Office Hours",
+                "Type": "TRAINING",
+                "Host": "Campaign",
+                "Time": "Tue, Jan 28, 4:00PM-8:30PM EST",
+                "Venue": "A Computer Near You - Zoom - https://zoom.us/j/6223987382",
+                "Address": "<br>Concord, NH 03301",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/193089/\">Mobilize US</a>",
+                "Description": "Need some help with a project you are working on or looking for ways to help in general? Jump on the New England YGRO Office Hours zoom, lead by Yenni. No issue is too small, no problem too large, that we can't get it fixed/planned together (including discussing any possible need to escalate to staff)<br><br>Working on something and want some camaraderie while doing so? You're welcome to jump on too! Lets Yang together!<br><br>Join us at: https://zoom.us/j/6223987382",
+                "TimeStart": 1580245200,
+                "TimeEnd": 1580261400,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5486562,
+                    43.2086343
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "is_full": false,
+                    "end_date": 1580261400,
+                    "id": 1031317,
+                    "start_date": 1580245200
+                },
+                {
+                    "is_full": false,
+                    "end_date": 1580866200,
+                    "id": 1031318,
+                    "start_date": 1580850000
+                },
+                {
+                    "is_full": false,
+                    "end_date": 1581471000,
+                    "id": 1031319,
                     "start_date": 1581454800
                 }
             ]
@@ -20702,46 +20748,34 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "New England YGRO Office Hours",
-                "Type": "TRAINING",
-                "Host": "Campaign",
-                "Time": "Tue, Jan 28, 4:00PM-8:00PM EST",
-                "Venue": "A Computer Near You - Zoom - https://zoom.us/j/6223987382",
-                "Address": "<br>Providence, RI 02903",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/193097/\">Mobilize US</a>",
-                "Description": "Need some help with a project you are working on or looking for ways to help in general? Jump on the New England YGRO Office Hours zoom, lead by Yenni. No issue is too small, no problem too large, that we can't get it fixed/planned together (including discussing any possible need to escalate to staff)<br><br>Working on something and want some camaraderie while doing so? You're welcome to jump on too! Lets Yang together!<br><br>Join us at: https://zoom.us/j/6223987382",
-                "TimeStart": 1580245200,
-                "TimeEnd": 1580259600,
+                "Title": "Morristown, TN - Yang Canvass",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Tue, Jan 28, 3:00PM-6:00PM EST",
+                "Venue": "Food City",
+                "Address": "1105 E Morris Blvd<br>Morristown, TN 37813",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/210989/\">Mobilize US</a>",
+                "Description": "Canvassing meeting at Food City, park near dominoes.  We are probably going to ride to a nearby neighbor hood, and split into teams to help the newer canvassers.",
+                "TimeStart": 1580241600,
+                "TimeEnd": 1580252400,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.4091563,
-                    41.816736
+                    -83.2806777,
+                    36.2167818
                 ]
             },
             "timezone": "America/New_York",
             "timeslots": [
                 {
                     "is_full": false,
-                    "end_date": 1580259600,
-                    "id": 1031356,
-                    "start_date": 1580245200
-                },
-                {
-                    "is_full": false,
-                    "end_date": 1580864400,
-                    "id": 1031357,
-                    "start_date": 1580850000
-                },
-                {
-                    "is_full": false,
-                    "end_date": 1581469200,
-                    "id": 1031358,
-                    "start_date": 1581454800
+                    "end_date": 1580252400,
+                    "id": 1114924,
+                    "start_date": 1580241600
                 }
             ]
         },
