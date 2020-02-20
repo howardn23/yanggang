@@ -1,5 +1,5 @@
 {
-    "updated": 1582225267.0661416,
+    "updated": 1582225866.5343227,
     "type": "FeatureCollection",
     "features": [
         {
@@ -13987,6 +13987,146 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "North Las Vegas - Get Out The Caucus! - Phone bank",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Thu, Feb 20, 11:00AM-2:00PM PST",
+                "Venue": "North Las Vegas Office",
+                "Address": "2815 W Lake Mead Blvd<br>Suite 103<br>North Las Vegas, NV 89032",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228043/\">Mobilize US</a>",
+                "Description": "It's game day, and we need our players to show up!<br><br>We need every single one of our #YangGang on board for this monumental task. We will be calling every single person across Nevada who has committed to caucusing for Andrew Yang. We will be turning them out to caucuses in record numbers. The wave starts in Nevada with you! It's time to show up, Yang Gang!<br><br>What you need: 1. Humanity first--always! 2. A smart phone and charger (if you have one) 3. Dedication to your civic duty and practice of your civil rights.",
+                "TimeStart": 1582225200,
+                "TimeEnd": 1582236000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1780313,
+                    36.196548
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "id": 1226543,
+                    "start_date": 1582225200,
+                    "end_date": 1582236000,
+                    "is_full": false
+                },
+                {
+                    "id": 1226544,
+                    "start_date": 1582236000,
+                    "end_date": 1582246800,
+                    "is_full": false
+                },
+                {
+                    "id": 1226545,
+                    "start_date": 1582246800,
+                    "end_date": 1582257600,
+                    "is_full": false
+                },
+                {
+                    "id": 1226546,
+                    "start_date": 1582300800,
+                    "end_date": 1582311600,
+                    "is_full": false
+                },
+                {
+                    "id": 1226547,
+                    "start_date": 1582311600,
+                    "end_date": 1582322400,
+                    "is_full": false
+                },
+                {
+                    "id": 1226548,
+                    "start_date": 1582322400,
+                    "end_date": 1582333200,
+                    "is_full": false
+                },
+                {
+                    "id": 1226549,
+                    "start_date": 1582333200,
+                    "end_date": 1582344000,
+                    "is_full": false
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "North Las Vegas - Get Out The Caucus! - Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Thu, Feb 20, 11:00AM-2:00PM PST",
+                "Venue": "North Las Vegas Office",
+                "Address": "2815 W Lake Mead Blvd<br>Suite 103<br>North Las Vegas, NV 89106",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228041/\">Mobilize US</a>",
+                "Description": "It's game day, and we need our players to show up. This event is HANDS DOWN the absolute MOST CRUCIAL volunteering event that has come or will come to Nevada. Period.<br><br>We need every single one of our #YangGang on board for this monumental task. We will be knocking on the doors of every single person across Nevada who has committed to caucusing for Andrew Yang. We will be turning them out to caucuses in record numbers. The wave starts in Nevada with you! It's time to show up, Yang Gang!<br><br>What you need: 1. Humanity first--always! 2. A smart phone and charger (if you have one) 3. Dedication to your civic duty and practice of your civil rights.",
+                "TimeStart": 1582225200,
+                "TimeEnd": 1582236000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1780313,
+                    36.196548
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "id": 1226493,
+                    "start_date": 1582225200,
+                    "end_date": 1582236000,
+                    "is_full": false
+                },
+                {
+                    "id": 1226494,
+                    "start_date": 1582236000,
+                    "end_date": 1582246800,
+                    "is_full": false
+                },
+                {
+                    "id": 1226495,
+                    "start_date": 1582246800,
+                    "end_date": 1582257600,
+                    "is_full": false
+                },
+                {
+                    "id": 1226496,
+                    "start_date": 1582300800,
+                    "end_date": 1582311600,
+                    "is_full": false
+                },
+                {
+                    "id": 1226497,
+                    "start_date": 1582311600,
+                    "end_date": 1582322400,
+                    "is_full": false
+                },
+                {
+                    "id": 1226498,
+                    "start_date": 1582322400,
+                    "end_date": 1582333200,
+                    "is_full": false
+                },
+                {
+                    "id": 1226499,
+                    "start_date": 1582333200,
+                    "end_date": 1582344000,
+                    "is_full": false
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Isla Vista, CA - Tabling",
                 "Type": "COMMUNITY",
                 "Host": "Volunteer",
@@ -14109,158 +14249,6 @@
                     "id": 1087095,
                     "start_date": 1582995600,
                     "end_date": 1583028000,
-                    "is_full": false
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "North Las Vegas - Get Out The Caucus! - Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Thu, Feb 20, 8:00AM-11:00AM PST",
-                "Venue": "North Las Vegas Office",
-                "Address": "2815 W Lake Mead Blvd<br>Suite 103<br>North Las Vegas, NV 89106",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228041/\">Mobilize US</a>",
-                "Description": "It's game day, and we need our players to show up. This event is HANDS DOWN the absolute MOST CRUCIAL volunteering event that has come or will come to Nevada. Period.<br><br>We need every single one of our #YangGang on board for this monumental task. We will be knocking on the doors of every single person across Nevada who has committed to caucusing for Andrew Yang. We will be turning them out to caucuses in record numbers. The wave starts in Nevada with you! It's time to show up, Yang Gang!<br><br>What you need: 1. Humanity first--always! 2. A smart phone and charger (if you have one) 3. Dedication to your civic duty and practice of your civil rights.",
-                "TimeStart": 1582214400,
-                "TimeEnd": 1582225200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.1780313,
-                    36.196548
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "id": 1226492,
-                    "start_date": 1582214400,
-                    "end_date": 1582225200,
-                    "is_full": false
-                },
-                {
-                    "id": 1226493,
-                    "start_date": 1582225200,
-                    "end_date": 1582236000,
-                    "is_full": false
-                },
-                {
-                    "id": 1226494,
-                    "start_date": 1582236000,
-                    "end_date": 1582246800,
-                    "is_full": false
-                },
-                {
-                    "id": 1226495,
-                    "start_date": 1582246800,
-                    "end_date": 1582257600,
-                    "is_full": false
-                },
-                {
-                    "id": 1226496,
-                    "start_date": 1582300800,
-                    "end_date": 1582311600,
-                    "is_full": false
-                },
-                {
-                    "id": 1226497,
-                    "start_date": 1582311600,
-                    "end_date": 1582322400,
-                    "is_full": false
-                },
-                {
-                    "id": 1226498,
-                    "start_date": 1582322400,
-                    "end_date": 1582333200,
-                    "is_full": false
-                },
-                {
-                    "id": 1226499,
-                    "start_date": 1582333200,
-                    "end_date": 1582344000,
-                    "is_full": false
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "North Las Vegas - Get Out The Caucus! - Phone bank",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Thu, Feb 20, 8:00AM-11:00AM PST",
-                "Venue": "North Las Vegas Office",
-                "Address": "2815 W Lake Mead Blvd<br>Suite 103<br>North Las Vegas, NV 89032",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228043/\">Mobilize US</a>",
-                "Description": "It's game day, and we need our players to show up!<br><br>We need every single one of our #YangGang on board for this monumental task. We will be calling every single person across Nevada who has committed to caucusing for Andrew Yang. We will be turning them out to caucuses in record numbers. The wave starts in Nevada with you! It's time to show up, Yang Gang!<br><br>What you need: 1. Humanity first--always! 2. A smart phone and charger (if you have one) 3. Dedication to your civic duty and practice of your civil rights.",
-                "TimeStart": 1582214400,
-                "TimeEnd": 1582225200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.1780313,
-                    36.196548
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "id": 1226542,
-                    "start_date": 1582214400,
-                    "end_date": 1582225200,
-                    "is_full": false
-                },
-                {
-                    "id": 1226543,
-                    "start_date": 1582225200,
-                    "end_date": 1582236000,
-                    "is_full": false
-                },
-                {
-                    "id": 1226544,
-                    "start_date": 1582236000,
-                    "end_date": 1582246800,
-                    "is_full": false
-                },
-                {
-                    "id": 1226545,
-                    "start_date": 1582246800,
-                    "end_date": 1582257600,
-                    "is_full": false
-                },
-                {
-                    "id": 1226546,
-                    "start_date": 1582300800,
-                    "end_date": 1582311600,
-                    "is_full": false
-                },
-                {
-                    "id": 1226547,
-                    "start_date": 1582311600,
-                    "end_date": 1582322400,
-                    "is_full": false
-                },
-                {
-                    "id": 1226548,
-                    "start_date": 1582322400,
-                    "end_date": 1582333200,
-                    "is_full": false
-                },
-                {
-                    "id": 1226549,
-                    "start_date": 1582333200,
-                    "end_date": 1582344000,
                     "is_full": false
                 }
             ]
