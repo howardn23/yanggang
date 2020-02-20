@@ -1,5 +1,5 @@
 {
-    "updated": 1582171266.687585,
+    "updated": 1582171867.4718003,
     "type": "FeatureCollection",
     "features": [
         {
@@ -10771,40 +10771,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Ogden, UT - Yang Gang Moving Forward",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Sat, Feb 29, 12:00PM-1:30PM MST",
-                "Venue": "Cuppa",
-                "Address": "552 25th St<br>Ogden, UT 84401",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/237426/\">Mobilize US</a>",
-                "Description": "Let's meet up and talk about what brought us to this movement in the first place and what we can do to bring the principles and policies to the local level! Discussion will include trying to implement a UBI for Ogden, passing term-limits for our state representatives, passing rank-choice voting for all Utah elections, and anything else YOU would like to see accomplished.",
-                "TimeStart": 1583002800,
-                "TimeEnd": 1583008200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.965919,
-                    41.220775
-                ]
-            },
-            "timezone": "America/Denver",
-            "timeslots": [
-                {
-                    "id": 1271840,
-                    "end_date": 1583008200,
-                    "is_full": false,
-                    "start_date": 1583002800
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "SF, CA - Chinatown Tabling and Street Yanging",
                 "Type": "CANVASS",
                 "Host": "Volunteer",
@@ -10831,6 +10797,40 @@
                 {
                     "id": 1137771,
                     "end_date": 1583006400,
+                    "is_full": false,
+                    "start_date": 1583002800
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Ogden, UT - Yang Gang Moving Forward",
+                "Type": "MEETING",
+                "Host": "Volunteer",
+                "Time": "Sat, Feb 29, 12:00PM-1:30PM MST",
+                "Venue": "Cuppa",
+                "Address": "552 25th St<br>Ogden, UT 84401",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/237426/\">Mobilize US</a>",
+                "Description": "Let's meet up and talk about what brought us to this movement in the first place and what we can do to bring the principles and policies to the local level! Discussion will include trying to implement a UBI for Ogden, passing term-limits for our state representatives, passing rank-choice voting for all Utah elections, and anything else YOU would like to see accomplished.",
+                "TimeStart": 1583002800,
+                "TimeEnd": 1583008200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.965919,
+                    41.220775
+                ]
+            },
+            "timezone": "America/Denver",
+            "timeslots": [
+                {
+                    "id": 1271840,
+                    "end_date": 1583008200,
                     "is_full": false,
                     "start_date": 1583002800
                 }
@@ -12269,6 +12269,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Austin, TX - Canvass for Yang",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sun, Feb 23, 12:00PM-4:00PM CST",
+                "Venue": "Teapioca Lounge",
+                "Address": "10000 Research Blvd 137<br>Austin, TX 78759",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/220413/\">Mobilize US</a>",
+                "Description": "The Texas Primaries are just a couple of weeks away, and strength on the ground means more delegates in the primaries for this historic campaign! Bring your water, passion for Yang, and your best Yanging swag !",
+                "TimeStart": 1582480800,
+                "TimeEnd": 1582495200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.7487537,
+                    30.391085
+                ]
+            },
+            "timezone": "America/Chicago",
+            "timeslots": [
+                {
+                    "id": 1188420,
+                    "end_date": 1582495200,
+                    "is_full": false,
+                    "start_date": 1582480800
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "[ONLINE] Phone Banking Training",
                 "Type": "TRAINING",
                 "Host": "Campaign",
@@ -12309,40 +12343,6 @@
                     "end_date": 1583692200,
                     "is_full": false,
                     "start_date": 1583686800
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Austin, TX - Canvass for Yang",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sun, Feb 23, 12:00PM-4:00PM CST",
-                "Venue": "Teapioca Lounge",
-                "Address": "10000 Research Blvd 137<br>Austin, TX 78759",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/220413/\">Mobilize US</a>",
-                "Description": "The Texas Primaries are just a couple of weeks away, and strength on the ground means more delegates in the primaries for this historic campaign! Bring your water, passion for Yang, and your best Yanging swag !",
-                "TimeStart": 1582480800,
-                "TimeEnd": 1582495200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.7487537,
-                    30.391085
-                ]
-            },
-            "timezone": "America/Chicago",
-            "timeslots": [
-                {
-                    "id": 1188420,
-                    "end_date": 1582495200,
-                    "is_full": false,
-                    "start_date": 1582480800
                 }
             ]
         },
@@ -12975,6 +12975,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "SF, CA - Chinatown Tabling and Street Yanging",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sat, Feb 22, 11:00AM-12:00PM PST",
+                "Venue": "AA Bakery & Cafe",
+                "Address": "1068 Stockton St<br>San Francisco, CA 94108",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/216572/\">Mobilize US</a>",
+                "Description": "Chinatown  at Stockton & Washington / Stockton & Jackson is filled with folks on weekend mornings grocery shopping. Let's set up a table and make sure everyone there is Yanged!<br><br>Let's meet at AA Bakery & Cafe.<br><br>We will plan to have a table, chinese brochures, chinese voter registration info, and chinese buttons.",
+                "TimeStart": 1582398000,
+                "TimeEnd": 1582401600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4080348,
+                    37.795691
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "id": 1137770,
+                    "end_date": 1582401600,
+                    "is_full": false,
+                    "start_date": 1582398000
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "San Luis Obispo, CA - Canvassing For Andrew Yang",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -13009,40 +13043,6 @@
                     "end_date": 1583010000,
                     "is_full": false,
                     "start_date": 1583002800
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "SF, CA - Chinatown Tabling and Street Yanging",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sat, Feb 22, 11:00AM-12:00PM PST",
-                "Venue": "AA Bakery & Cafe",
-                "Address": "1068 Stockton St<br>San Francisco, CA 94108",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/216572/\">Mobilize US</a>",
-                "Description": "Chinatown  at Stockton & Washington / Stockton & Jackson is filled with folks on weekend mornings grocery shopping. Let's set up a table and make sure everyone there is Yanged!<br><br>Let's meet at AA Bakery & Cafe.<br><br>We will plan to have a table, chinese brochures, chinese voter registration info, and chinese buttons.",
-                "TimeStart": 1582398000,
-                "TimeEnd": 1582401600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.4080348,
-                    37.795691
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "id": 1137770,
-                    "end_date": 1582401600,
-                    "is_full": false,
-                    "start_date": 1582398000
                 }
             ]
         },
@@ -13117,40 +13117,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Knoxville, TN - Canvassing!",
-                "Type": "CANVASS",
-                "Host": "Volunteer",
-                "Time": "Sat, Feb 22, 1:00PM-3:00PM EST",
-                "Venue": "K Brew",
-                "Address": "1138 N Broadway<br>Knoxville, TN 37917",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/195124/\">Mobilize US</a>",
-                "Description": "We will meet at 1 pm at KBrew and canvass in the Fourth and Gill neighborhood. All you need is your cell phone, a little excitement (coffee, gum, whatever motivates you!) and warm winter clothing. Hat and gloves are recommended. Wear as much Yang gear as possible. Check the weather before you leave! If you have cards or literature please bring those as well!",
-                "TimeStart": 1582394400,
-                "TimeEnd": 1582401600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.9221315,
-                    35.983715
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "id": 1041441,
-                    "end_date": 1582401600,
-                    "is_full": false,
-                    "start_date": 1582394400
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Tacoma, WA Canvassing",
                 "Type": "CANVASS",
                 "Host": "Campaign",
@@ -13197,6 +13163,40 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "Knoxville, TN - Canvassing!",
+                "Type": "CANVASS",
+                "Host": "Volunteer",
+                "Time": "Sat, Feb 22, 1:00PM-3:00PM EST",
+                "Venue": "K Brew",
+                "Address": "1138 N Broadway<br>Knoxville, TN 37917",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/195124/\">Mobilize US</a>",
+                "Description": "We will meet at 1 pm at KBrew and canvass in the Fourth and Gill neighborhood. All you need is your cell phone, a little excitement (coffee, gum, whatever motivates you!) and warm winter clothing. Hat and gloves are recommended. Wear as much Yang gear as possible. Check the weather before you leave! If you have cards or literature please bring those as well!",
+                "TimeStart": 1582394400,
+                "TimeEnd": 1582401600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9221315,
+                    35.983715
+                ]
+            },
+            "timezone": "America/New_York",
+            "timeslots": [
+                {
+                    "id": 1041441,
+                    "end_date": 1582401600,
+                    "is_full": false,
+                    "start_date": 1582394400
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Title": "Morristown, TN - Canvassing",
                 "Type": "CANVASS",
                 "Host": "Volunteer",
@@ -13225,40 +13225,6 @@
                     "end_date": 1582407000,
                     "is_full": false,
                     "start_date": 1582392600
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Longmont, CO Canvassing",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Feb 22, 10:00AM-1:00PM MST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Longmont, CO 80501",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/199806/\">Mobilize US</a>",
-                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) clothes appropriate for the weather<br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat or campaign button if you have one",
-                "TimeStart": 1582390800,
-                "TimeEnd": 1582401600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.103179,
-                    40.164837
-                ]
-            },
-            "timezone": "America/Denver",
-            "timeslots": [
-                {
-                    "id": 1069445,
-                    "end_date": 1582401600,
-                    "is_full": false,
-                    "start_date": 1582390800
                 }
             ]
         },
@@ -13341,174 +13307,6 @@
                     "end_date": 1583704800,
                     "is_full": false,
                     "start_date": 1583694000
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Fort Collins, CO - Yang Hang",
-                "Type": "MEETING",
-                "Host": "Campaign",
-                "Time": "Sat, Feb 22, 10:00AM-1:00PM MST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Fort Collins, CO 80524",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167059/\">Mobilize US</a>",
-                "Description": "Thanks to everyone who joined us for canvassing in Fort Collins. I'm leaving these events open to meet up with anyone who canvassed and wants to hang out and discuss next steps for Humanity First. Rams For Yang at CSU will continue to advocate for Univeral Basic Income, Ranked Choice Voting and Democracy Dollars.",
-                "TimeStart": 1582390800,
-                "TimeEnd": 1582401600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.029519,
-                    40.646854
-                ]
-            },
-            "timezone": "America/Denver",
-            "timeslots": [
-                {
-                    "id": 1061273,
-                    "end_date": 1582401600,
-                    "is_full": false,
-                    "start_date": 1582390800
-                },
-                {
-                    "id": 1061274,
-                    "end_date": 1583006400,
-                    "is_full": false,
-                    "start_date": 1582995600
-                },
-                {
-                    "id": 1061275,
-                    "end_date": 1583611200,
-                    "is_full": false,
-                    "start_date": 1583600400
-                },
-                {
-                    "id": 1061276,
-                    "end_date": 1584212400,
-                    "is_full": false,
-                    "start_date": 1584201600
-                },
-                {
-                    "id": 1061277,
-                    "end_date": 1584817200,
-                    "is_full": false,
-                    "start_date": 1584806400
-                },
-                {
-                    "id": 1061278,
-                    "end_date": 1585422000,
-                    "is_full": false,
-                    "start_date": 1585411200
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Denver, CO Canvassing",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Sat, Feb 22, 10:00AM-1:00PM MST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Denver, CO 80207",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/196758/\">Mobilize US</a>",
-                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
-                "TimeStart": 1582390800,
-                "TimeEnd": 1582401600,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.91658100000001,
-                    39.762299
-                ]
-            },
-            "timezone": "America/Denver",
-            "timeslots": [
-                {
-                    "id": 1070281,
-                    "end_date": 1582401600,
-                    "is_full": false,
-                    "start_date": 1582390800
-                },
-                {
-                    "id": 1070282,
-                    "end_date": 1583006400,
-                    "is_full": false,
-                    "start_date": 1582995600
-                },
-                {
-                    "id": 1070283,
-                    "end_date": 1583611200,
-                    "is_full": false,
-                    "start_date": 1583600400
-                },
-                {
-                    "id": 1070284,
-                    "end_date": 1584212400,
-                    "is_full": false,
-                    "start_date": 1584201600
-                },
-                {
-                    "id": 1070285,
-                    "end_date": 1584817200,
-                    "is_full": false,
-                    "start_date": 1584806400
-                },
-                {
-                    "id": 1070286,
-                    "end_date": 1585422000,
-                    "is_full": false,
-                    "start_date": 1585411200
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Houston, TX - Party - Phone Bank/Text Bank/Pen Pals for Yang",
-                "Type": "PHONE_BANK",
-                "Host": "Volunteer",
-                "Time": "Sat, Feb 22, 11:00AM-1:00PM CST",
-                "Venue": "This event\u2019s address is private. Sign up for more details",
-                "Address": "This event\u2019s address is private. Sign up for more details<br>Houston, TX 77006",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/225240/\">Mobilize US</a>",
-                "Description": "Hello, Houston Yang Gang! Yes, we need to make calls into the early states to help the teams on the ground identify voters/caucusers! <br><br>But there are other ways to help, so if phone banking is not your thing, then please come and text bank, and if that's not your thing, then please bring your writing materials and come write letters for Pen Pals for Yang. <br><br>I'm hosting at my office in Montrose, and I'll bring bagels with cream cheese and coffee to help us knock this out on a weekend morning. There is a resident office dog mascot, though he won't bother you, in case anyone has allergies. <br><br>There are so many ways to help the campaign that I'm sure we can each find something to contribute regularly together. Volunteering alone can be lonely, and I sometimes slack off, so let's do this together and motivate each other!<br><br>Prior to the event:<br><br>If phone banking, please review the handbook and get ready here: https://www.yang2020.com/call/ <br><br>If text banking, please review the handbook and get ready here: <br>https://www.yang2020.com/text/<br><br>If writing letters for Yang, please sign up and get ready here: https://penpalsforyang.com/<br><br>If you don't know how to do any of these things, your host has a slight head start, so come anyway and we can help each other.",
-                "TimeStart": 1582390800,
-                "TimeEnd": 1582398000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.391301,
-                    29.74097
-                ]
-            },
-            "timezone": "America/Chicago",
-            "timeslots": [
-                {
-                    "id": 1213310,
-                    "end_date": 1582398000,
-                    "is_full": false,
-                    "start_date": 1582390800
-                },
-                {
-                    "id": 1213311,
-                    "end_date": 1583002800,
-                    "is_full": false,
-                    "start_date": 1582995600
                 }
             ]
         },
@@ -13609,6 +13407,208 @@
                     "end_date": 1585432800,
                     "is_full": false,
                     "start_date": 1585422000
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Fort Collins, CO - Yang Hang",
+                "Type": "MEETING",
+                "Host": "Campaign",
+                "Time": "Sat, Feb 22, 10:00AM-1:00PM MST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Fort Collins, CO 80524",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/167059/\">Mobilize US</a>",
+                "Description": "Thanks to everyone who joined us for canvassing in Fort Collins. I'm leaving these events open to meet up with anyone who canvassed and wants to hang out and discuss next steps for Humanity First. Rams For Yang at CSU will continue to advocate for Univeral Basic Income, Ranked Choice Voting and Democracy Dollars.",
+                "TimeStart": 1582390800,
+                "TimeEnd": 1582401600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.029519,
+                    40.646854
+                ]
+            },
+            "timezone": "America/Denver",
+            "timeslots": [
+                {
+                    "id": 1061273,
+                    "end_date": 1582401600,
+                    "is_full": false,
+                    "start_date": 1582390800
+                },
+                {
+                    "id": 1061274,
+                    "end_date": 1583006400,
+                    "is_full": false,
+                    "start_date": 1582995600
+                },
+                {
+                    "id": 1061275,
+                    "end_date": 1583611200,
+                    "is_full": false,
+                    "start_date": 1583600400
+                },
+                {
+                    "id": 1061276,
+                    "end_date": 1584212400,
+                    "is_full": false,
+                    "start_date": 1584201600
+                },
+                {
+                    "id": 1061277,
+                    "end_date": 1584817200,
+                    "is_full": false,
+                    "start_date": 1584806400
+                },
+                {
+                    "id": 1061278,
+                    "end_date": 1585422000,
+                    "is_full": false,
+                    "start_date": 1585411200
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Houston, TX - Party - Phone Bank/Text Bank/Pen Pals for Yang",
+                "Type": "PHONE_BANK",
+                "Host": "Volunteer",
+                "Time": "Sat, Feb 22, 11:00AM-1:00PM CST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Houston, TX 77006",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/225240/\">Mobilize US</a>",
+                "Description": "Hello, Houston Yang Gang! Yes, we need to make calls into the early states to help the teams on the ground identify voters/caucusers! <br><br>But there are other ways to help, so if phone banking is not your thing, then please come and text bank, and if that's not your thing, then please bring your writing materials and come write letters for Pen Pals for Yang. <br><br>I'm hosting at my office in Montrose, and I'll bring bagels with cream cheese and coffee to help us knock this out on a weekend morning. There is a resident office dog mascot, though he won't bother you, in case anyone has allergies. <br><br>There are so many ways to help the campaign that I'm sure we can each find something to contribute regularly together. Volunteering alone can be lonely, and I sometimes slack off, so let's do this together and motivate each other!<br><br>Prior to the event:<br><br>If phone banking, please review the handbook and get ready here: https://www.yang2020.com/call/ <br><br>If text banking, please review the handbook and get ready here: <br>https://www.yang2020.com/text/<br><br>If writing letters for Yang, please sign up and get ready here: https://penpalsforyang.com/<br><br>If you don't know how to do any of these things, your host has a slight head start, so come anyway and we can help each other.",
+                "TimeStart": 1582390800,
+                "TimeEnd": 1582398000,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.391301,
+                    29.74097
+                ]
+            },
+            "timezone": "America/Chicago",
+            "timeslots": [
+                {
+                    "id": 1213310,
+                    "end_date": 1582398000,
+                    "is_full": false,
+                    "start_date": 1582390800
+                },
+                {
+                    "id": 1213311,
+                    "end_date": 1583002800,
+                    "is_full": false,
+                    "start_date": 1582995600
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Denver, CO Canvassing",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Feb 22, 10:00AM-1:00PM MST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Denver, CO 80207",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/196758/\">Mobilize US</a>",
+                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) a clipboard with a few sheets of blank paper, if you have one <br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat if you have one",
+                "TimeStart": 1582390800,
+                "TimeEnd": 1582401600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.91658100000001,
+                    39.762299
+                ]
+            },
+            "timezone": "America/Denver",
+            "timeslots": [
+                {
+                    "id": 1070281,
+                    "end_date": 1582401600,
+                    "is_full": false,
+                    "start_date": 1582390800
+                },
+                {
+                    "id": 1070282,
+                    "end_date": 1583006400,
+                    "is_full": false,
+                    "start_date": 1582995600
+                },
+                {
+                    "id": 1070283,
+                    "end_date": 1583611200,
+                    "is_full": false,
+                    "start_date": 1583600400
+                },
+                {
+                    "id": 1070284,
+                    "end_date": 1584212400,
+                    "is_full": false,
+                    "start_date": 1584201600
+                },
+                {
+                    "id": 1070285,
+                    "end_date": 1584817200,
+                    "is_full": false,
+                    "start_date": 1584806400
+                },
+                {
+                    "id": 1070286,
+                    "end_date": 1585422000,
+                    "is_full": false,
+                    "start_date": 1585411200
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "Longmont, CO Canvassing",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Sat, Feb 22, 10:00AM-1:00PM MST",
+                "Venue": "This event\u2019s address is private. Sign up for more details",
+                "Address": "This event\u2019s address is private. Sign up for more details<br>Longmont, CO 80501",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/199806/\">Mobilize US</a>",
+                "Description": "Door to Door Canvassing (includes training for first-timers)<br><br>Face-to-face conversations are an effective way to build awareness and support for Andrew Yang\u2019s campaign. Every door-to-door canvassing event is an opportunity for your volunteering time to have a significant, positive impact for the campaign.<br><br>Please arrive at least 10 minutes before the official starting time so you will be ready to receive training, guidelines, and materials before we begin walking the neighborhood.<br><br>Dress business casual and/or wear your Yang clothes, especially your MATH hat. <br><br>Bring: <br>(1) a water bottle and snacks you can carry in your pocket <br>(2) clothes appropriate for the weather<br>(3) a mobile \"smart\" device such as a smartphone or a tablet to run the canvassing app <br>(4) a MATH hat or campaign button if you have one",
+                "TimeStart": 1582390800,
+                "TimeEnd": 1582401600,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.103179,
+                    40.164837
+                ]
+            },
+            "timezone": "America/Denver",
+            "timeslots": [
+                {
+                    "id": 1069445,
+                    "end_date": 1582401600,
+                    "is_full": false,
+                    "start_date": 1582390800
                 }
             ]
         },
@@ -14048,6 +14048,158 @@
         {
             "type": "Feature",
             "properties": {
+                "Title": "North Las Vegas - Get Out The Caucus! - Phone bank",
+                "Type": "PHONE_BANK",
+                "Host": "Campaign",
+                "Time": "Thu, Feb 20, 8:00AM-11:00AM PST",
+                "Venue": "North Las Vegas Office",
+                "Address": "2815 W Lake Mead Blvd<br>Suite 103<br>North Las Vegas, NV 89032",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228043/\">Mobilize US</a>",
+                "Description": "It's game day, and we need our players to show up!<br><br>We need every single one of our #YangGang on board for this monumental task. We will be calling every single person across Nevada who has committed to caucusing for Andrew Yang. We will be turning them out to caucuses in record numbers. The wave starts in Nevada with you! It's time to show up, Yang Gang!<br><br>What you need: 1. Humanity first--always! 2. A smart phone and charger (if you have one) 3. Dedication to your civic duty and practice of your civil rights.",
+                "TimeStart": 1582214400,
+                "TimeEnd": 1582225200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1780313,
+                    36.196548
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "id": 1226542,
+                    "end_date": 1582225200,
+                    "is_full": false,
+                    "start_date": 1582214400
+                },
+                {
+                    "id": 1226543,
+                    "end_date": 1582236000,
+                    "is_full": false,
+                    "start_date": 1582225200
+                },
+                {
+                    "id": 1226544,
+                    "end_date": 1582246800,
+                    "is_full": false,
+                    "start_date": 1582236000
+                },
+                {
+                    "id": 1226545,
+                    "end_date": 1582257600,
+                    "is_full": false,
+                    "start_date": 1582246800
+                },
+                {
+                    "id": 1226546,
+                    "end_date": 1582311600,
+                    "is_full": false,
+                    "start_date": 1582300800
+                },
+                {
+                    "id": 1226547,
+                    "end_date": 1582322400,
+                    "is_full": false,
+                    "start_date": 1582311600
+                },
+                {
+                    "id": 1226548,
+                    "end_date": 1582333200,
+                    "is_full": false,
+                    "start_date": 1582322400
+                },
+                {
+                    "id": 1226549,
+                    "end_date": 1582344000,
+                    "is_full": false,
+                    "start_date": 1582333200
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Title": "North Las Vegas - Get Out The Caucus! - Canvass",
+                "Type": "CANVASS",
+                "Host": "Campaign",
+                "Time": "Thu, Feb 20, 8:00AM-11:00AM PST",
+                "Venue": "North Las Vegas Office",
+                "Address": "2815 W Lake Mead Blvd<br>Suite 103<br>North Las Vegas, NV 89106",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228041/\">Mobilize US</a>",
+                "Description": "It's game day, and we need our players to show up. This event is HANDS DOWN the absolute MOST CRUCIAL volunteering event that has come or will come to Nevada. Period.<br><br>We need every single one of our #YangGang on board for this monumental task. We will be knocking on the doors of every single person across Nevada who has committed to caucusing for Andrew Yang. We will be turning them out to caucuses in record numbers. The wave starts in Nevada with you! It's time to show up, Yang Gang!<br><br>What you need: 1. Humanity first--always! 2. A smart phone and charger (if you have one) 3. Dedication to your civic duty and practice of your civil rights.",
+                "TimeStart": 1582214400,
+                "TimeEnd": 1582225200,
+                "marker-color": "#F2A00F",
+                "marker-symbol": "c",
+                "marker-size": "small"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1780313,
+                    36.196548
+                ]
+            },
+            "timezone": "America/Los_Angeles",
+            "timeslots": [
+                {
+                    "id": 1226492,
+                    "end_date": 1582225200,
+                    "is_full": false,
+                    "start_date": 1582214400
+                },
+                {
+                    "id": 1226493,
+                    "end_date": 1582236000,
+                    "is_full": false,
+                    "start_date": 1582225200
+                },
+                {
+                    "id": 1226494,
+                    "end_date": 1582246800,
+                    "is_full": false,
+                    "start_date": 1582236000
+                },
+                {
+                    "id": 1226495,
+                    "end_date": 1582257600,
+                    "is_full": false,
+                    "start_date": 1582246800
+                },
+                {
+                    "id": 1226496,
+                    "end_date": 1582311600,
+                    "is_full": false,
+                    "start_date": 1582300800
+                },
+                {
+                    "id": 1226497,
+                    "end_date": 1582322400,
+                    "is_full": false,
+                    "start_date": 1582311600
+                },
+                {
+                    "id": 1226498,
+                    "end_date": 1582333200,
+                    "is_full": false,
+                    "start_date": 1582322400
+                },
+                {
+                    "id": 1226499,
+                    "end_date": 1582344000,
+                    "is_full": false,
+                    "start_date": 1582333200
+                }
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Priority": "HIGH",
                 "Title": "Knock for Yang! \u270a\ud83d\udeaa",
                 "Type": "OTHER",
@@ -14137,74 +14289,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "Ventura, CA Yang Gang Hang",
-                "Type": "MEETING",
-                "Host": "Volunteer",
-                "Time": "Wed, Feb 19, 7:00PM-8:00PM PST",
-                "Venue": "Rincon Brewery",
-                "Address": "4100 Telegraph Rd<br>Ventura, CA 93003",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/234446/\">Mobilize US</a>",
-                "Description": "Getting together with other supporters in our local area to talk about what we want to do next to keep Andrew's ideas alive. Below is what we plan on covering at the meeting. 1. Introductions and what drew you to the Yang 2020 campaign\u2028 2. How can we get more involved in the future of the movement.",
-                "TimeStart": 1582167600,
-                "TimeEnd": 1582171200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.2386813,
-                    34.2742196
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "id": 1257545,
-                    "end_date": 1582171200,
-                    "is_full": false,
-                    "start_date": 1582167600
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "Sandy Springs, GA  Debate Watch Party",
-                "Type": "DEBATE_WATCH_PARTY",
-                "Host": "Volunteer",
-                "Time": "Wed, Feb 19, 8:30PM-11:30PM EST",
-                "Venue": "Hudson Grille Sandy Springs",
-                "Address": "6317 Roswell Rd NE<br>Sandy Springs, GA 30328",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228858/\">Mobilize US</a>",
-                "Description": "An Opportunity to watch the Democratic Debates in a friendly, comfortable environment at a nice restaurant with sports bar size tvs throughout, a private section, good people, good service and good food.  Group discussion to follow.<br> <br>THIS IS A FREE EVENT. TICKETS ARE FOR HEADCOUNT PURPOSES ONLY!<br> <br>Here is a link to the free tickets: <br>https://www.eventbrite.com/e/sandy-springs-debate-watch-party-tickets-93608215693<br><br>All participating campaigns are invited.   All are welcome.  <br><br> <br>Here is a link to the restaurant:<br>https://www.google.com/maps/place/Hudson+Grille+Sandy+Springs/@33.9274497,-84.3784171,15z/data=!4m12!1m6!3m5!1s0x0:0x79dfb0afe9ee17c0!2sHudson+Grille+Sandy+Springs!8m2!3d33.9274497!4d-84.3784171!3m4!1s0x0:0x79dfb0afe9ee17c0!8m2!3d33.9274497!4d-84.3784171<br> <br>Location<br>Hudson Grille Sandy Springs<br>6317 Roswell Road Northeast<br>Sandy Springs, GA 30328",
-                "TimeStart": 1582162200,
-                "TimeEnd": 1582173000,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.3784171,
-                    33.9274497
-                ]
-            },
-            "timezone": "America/New_York",
-            "timeslots": [
-                {
-                    "id": 1229637,
-                    "end_date": 1582173000,
-                    "is_full": false,
-                    "start_date": 1582162200
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Title": "Menlo Park, CA - Watch the 9th Democratic Presidential Debate",
                 "Type": "DEBATE_WATCH_PARTY",
                 "Host": "Volunteer",
@@ -14239,164 +14323,34 @@
         {
             "type": "Feature",
             "properties": {
-                "Title": "North Las Vegas - Get Out The Caucus! - Canvass",
-                "Type": "CANVASS",
-                "Host": "Campaign",
-                "Time": "Wed, Feb 19, 5:00PM-8:00PM PST",
-                "Venue": "North Las Vegas Office",
-                "Address": "2815 W Lake Mead Blvd<br>Suite 103<br>North Las Vegas, NV 89106",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228041/\">Mobilize US</a>",
-                "Description": "It's game day, and we need our players to show up. This event is HANDS DOWN the absolute MOST CRUCIAL volunteering event that has come or will come to Nevada. Period.<br><br>We need every single one of our #YangGang on board for this monumental task. We will be knocking on the doors of every single person across Nevada who has committed to caucusing for Andrew Yang. We will be turning them out to caucuses in record numbers. The wave starts in Nevada with you! It's time to show up, Yang Gang!<br><br>What you need: 1. Humanity first--always! 2. A smart phone and charger (if you have one) 3. Dedication to your civic duty and practice of your civil rights.",
-                "TimeStart": 1582160400,
-                "TimeEnd": 1582171200,
+                "Title": "Sandy Springs, GA  Debate Watch Party",
+                "Type": "DEBATE_WATCH_PARTY",
+                "Host": "Volunteer",
+                "Time": "Wed, Feb 19, 8:30PM-11:30PM EST",
+                "Venue": "Hudson Grille Sandy Springs",
+                "Address": "6317 Roswell Rd NE<br>Sandy Springs, GA 30328",
+                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228858/\">Mobilize US</a>",
+                "Description": "An Opportunity to watch the Democratic Debates in a friendly, comfortable environment at a nice restaurant with sports bar size tvs throughout, a private section, good people, good service and good food.  Group discussion to follow.<br> <br>THIS IS A FREE EVENT. TICKETS ARE FOR HEADCOUNT PURPOSES ONLY!<br> <br>Here is a link to the free tickets: <br>https://www.eventbrite.com/e/sandy-springs-debate-watch-party-tickets-93608215693<br><br>All participating campaigns are invited.   All are welcome.  <br><br> <br>Here is a link to the restaurant:<br>https://www.google.com/maps/place/Hudson+Grille+Sandy+Springs/@33.9274497,-84.3784171,15z/data=!4m12!1m6!3m5!1s0x0:0x79dfb0afe9ee17c0!2sHudson+Grille+Sandy+Springs!8m2!3d33.9274497!4d-84.3784171!3m4!1s0x0:0x79dfb0afe9ee17c0!8m2!3d33.9274497!4d-84.3784171<br> <br>Location<br>Hudson Grille Sandy Springs<br>6317 Roswell Road Northeast<br>Sandy Springs, GA 30328",
+                "TimeStart": 1582162200,
+                "TimeEnd": 1582173000,
                 "marker-color": "#F2A00F",
-                "marker-symbol": "c",
+                "marker-symbol": "",
                 "marker-size": "small"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -115.1780313,
-                    36.196548
+                    -84.3784171,
+                    33.9274497
                 ]
             },
-            "timezone": "America/Los_Angeles",
+            "timezone": "America/New_York",
             "timeslots": [
                 {
-                    "id": 1226491,
-                    "end_date": 1582171200,
+                    "id": 1229637,
+                    "end_date": 1582173000,
                     "is_full": false,
-                    "start_date": 1582160400
-                },
-                {
-                    "id": 1226492,
-                    "end_date": 1582225200,
-                    "is_full": false,
-                    "start_date": 1582214400
-                },
-                {
-                    "id": 1226493,
-                    "end_date": 1582236000,
-                    "is_full": false,
-                    "start_date": 1582225200
-                },
-                {
-                    "id": 1226494,
-                    "end_date": 1582246800,
-                    "is_full": false,
-                    "start_date": 1582236000
-                },
-                {
-                    "id": 1226495,
-                    "end_date": 1582257600,
-                    "is_full": false,
-                    "start_date": 1582246800
-                },
-                {
-                    "id": 1226496,
-                    "end_date": 1582311600,
-                    "is_full": false,
-                    "start_date": 1582300800
-                },
-                {
-                    "id": 1226497,
-                    "end_date": 1582322400,
-                    "is_full": false,
-                    "start_date": 1582311600
-                },
-                {
-                    "id": 1226498,
-                    "end_date": 1582333200,
-                    "is_full": false,
-                    "start_date": 1582322400
-                },
-                {
-                    "id": 1226499,
-                    "end_date": 1582344000,
-                    "is_full": false,
-                    "start_date": 1582333200
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Title": "North Las Vegas - Get Out The Caucus! - Phone bank",
-                "Type": "PHONE_BANK",
-                "Host": "Campaign",
-                "Time": "Wed, Feb 19, 5:00PM-8:00PM PST",
-                "Venue": "North Las Vegas Office",
-                "Address": "2815 W Lake Mead Blvd<br>Suite 103<br>North Las Vegas, NV 89032",
-                "Sign Up": "<a href=\"https://www.mobilize.us/yang2020/event/228043/\">Mobilize US</a>",
-                "Description": "It's game day, and we need our players to show up!<br><br>We need every single one of our #YangGang on board for this monumental task. We will be calling every single person across Nevada who has committed to caucusing for Andrew Yang. We will be turning them out to caucuses in record numbers. The wave starts in Nevada with you! It's time to show up, Yang Gang!<br><br>What you need: 1. Humanity first--always! 2. A smart phone and charger (if you have one) 3. Dedication to your civic duty and practice of your civil rights.",
-                "TimeStart": 1582160400,
-                "TimeEnd": 1582171200,
-                "marker-color": "#F2A00F",
-                "marker-symbol": "c",
-                "marker-size": "small"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.1780313,
-                    36.196548
-                ]
-            },
-            "timezone": "America/Los_Angeles",
-            "timeslots": [
-                {
-                    "id": 1226541,
-                    "end_date": 1582171200,
-                    "is_full": false,
-                    "start_date": 1582160400
-                },
-                {
-                    "id": 1226542,
-                    "end_date": 1582225200,
-                    "is_full": false,
-                    "start_date": 1582214400
-                },
-                {
-                    "id": 1226543,
-                    "end_date": 1582236000,
-                    "is_full": false,
-                    "start_date": 1582225200
-                },
-                {
-                    "id": 1226544,
-                    "end_date": 1582246800,
-                    "is_full": false,
-                    "start_date": 1582236000
-                },
-                {
-                    "id": 1226545,
-                    "end_date": 1582257600,
-                    "is_full": false,
-                    "start_date": 1582246800
-                },
-                {
-                    "id": 1226546,
-                    "end_date": 1582311600,
-                    "is_full": false,
-                    "start_date": 1582300800
-                },
-                {
-                    "id": 1226547,
-                    "end_date": 1582322400,
-                    "is_full": false,
-                    "start_date": 1582311600
-                },
-                {
-                    "id": 1226548,
-                    "end_date": 1582333200,
-                    "is_full": false,
-                    "start_date": 1582322400
-                },
-                {
-                    "id": 1226549,
-                    "end_date": 1582344000,
-                    "is_full": false,
-                    "start_date": 1582333200
+                    "start_date": 1582162200
                 }
             ]
         },
